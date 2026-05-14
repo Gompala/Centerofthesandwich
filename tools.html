@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tools &amp; Tech — Center of the Sandwich</title>
+<title>Tools & Tech — Center of the Sandwich</title>
 <link rel="stylesheet" href="shared.css">
 <style>
 .cat-hero { padding: 2.5rem 0 2rem; border-bottom: 1.5px solid var(--border); margin-bottom: 2.5rem; }
@@ -16,12 +16,12 @@
 .cat-stat { text-align: center; }
 .cat-stat-num { font-family: 'Playfair Display', serif; font-size: 32px; font-weight: 700; color: var(--accent); line-height: 1; }
 .cat-stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 1.5px; margin-top: 4px; }
-.sub-cats { display: flex; gap: 8px; margin-bottom: 2.5rem; }
+.sub-cats { display: flex; gap: 8px; margin-bottom: 2.5rem; flex-wrap: wrap; }
 .sub-cat-btn { padding: 6px 16px; border-radius: 20px; font-size: 12px; font-weight: 500; border: 1px solid var(--border); background: #fff; color: var(--text-secondary); cursor: pointer; font-family: 'DM Sans',sans-serif; transition: all .15s; }
 .sub-cat-btn:hover { border-color: var(--teal); color: var(--teal); }
-.sub-cat-btn.active { background: var(--teal-bg); color: var(--teal-text); border-color: #AFA9EC; }
+.sub-cat-btn.active { background: var(--teal-bg); color: var(--teal); border-color: #5DCAA5; }
 .cat-layout { display: grid; grid-template-columns: minmax(0,1fr) 260px; gap: 48px; align-items: start; }
-.featured-article { border: 0.5px solid var(--border); border-radius: 10px; padding: 1.75rem; margin-bottom: 2rem; background: var(--cream); display: grid; grid-template-columns: 1fr; }
+.featured-article { border: 0.5px solid var(--border); border-radius: 10px; padding: 1.75rem; margin-bottom: 2rem; background: var(--cream); }
 .featured-label { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent); font-weight: 500; margin-bottom: 10px; }
 .featured-title { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 700; line-height: 1.2; margin-bottom: 10px; }
 .featured-title em { font-style: italic; color: var(--accent); }
@@ -32,7 +32,7 @@
 .list-item:last-child { border-bottom: 0.5px solid var(--border); }
 .list-item:hover .list-title { color: var(--accent); }
 .list-eyebrow { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
-.list-sub-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--teal-text); font-weight: 500; }
+.list-sub-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--teal); font-weight: 500; }
 .list-new { font-size: 10px; background: var(--accent); color: #fff; padding: 1px 6px; border-radius: 2px; letter-spacing: 1px; text-transform: uppercase; font-weight: 500; }
 .list-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; line-height: 1.3; margin-bottom: 5px; transition: color .15s; }
 .list-excerpt { font-size: 13px; color: var(--text-secondary); line-height: 1.55; }
@@ -66,8 +66,8 @@
     </div>
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
+      <li><a href="category.html">AI at Work</a></li>
       <li><a href="tools.html" class="active">Tools &amp; Tech</a></li>
-      <li><a href="tools.html">Tools &amp; Tech</a></li>
       <li><a href="news.html">News</a></li>
       <li><a href="about.html">About</a></li>
     </ul>
@@ -79,34 +79,33 @@
     <div class="cat-hero-inner">
       <div>
         <div class="cat-icon">🛠</div>
-        <h1>AI at <em>Work</em></h1>
-        <p>Honest reviews and comparisons of the platforms, tools, and software that power the modern digital workplace. No vendor spin. Just what works.</p>
+        <h1>Tools &amp; <em>Tech</em></h1>
+        <p>Honest reviews and comparisons of the platforms, tools, and software that power the modern digital workplace. No vendor spin. No sponsored content. Just 30 years of knowing what actually works.</p>
       </div>
       <div class="cat-stats">
-        <div class="cat-stat"><div class="cat-stat-num">24</div><div class="cat-stat-label">Articles</div></div>
-        <div class="cat-stat"><div class="cat-stat-num">6</div><div class="cat-stat-label">This month</div></div>
-        <div class="cat-stat"><div class="cat-stat-num">~5</div><div class="cat-stat-label">Min avg read</div></div>
+        <div class="cat-stat"><div class="cat-stat-num">18</div><div class="cat-stat-label">Articles</div></div>
+        <div class="cat-stat"><div class="cat-stat-num">4</div><div class="cat-stat-label">This month</div></div>
+        <div class="cat-stat"><div class="cat-stat-num">~6</div><div class="cat-stat-label">Min avg read</div></div>
       </div>
     </div>
   </div>
 
   <div class="sub-cats">
     <button class="sub-cat-btn active">All Tools &amp; Tech</button>
-    <button class="sub-cat-btn">ITSM &amp; Service Mgmt</button>
-    <button class="sub-cat-btn">Collaboration Tools</button>
+    <button class="sub-cat-btn">ITSM Platforms</button>
+    <button class="sub-cat-btn">Collaboration</button>
     <button class="sub-cat-btn">Intranet &amp; EX</button>
-    <button class="sub-cat-btn">Productivity Apps</button>
-    <button class="sub-cat-btn">Security &amp; Compliance</button>
+    <button class="sub-cat-btn">Productivity</button>
+    <button class="sub-cat-btn">Security</button>
   </div>
 
   <div class="cat-layout">
     <main>
       <div class="featured-article">
         <div class="featured-label">⭐ Featured post</div>
-</span>
-        <h2 class="featured-title">The <em>AI Copilot Era</em> Is Here. Is Your Workplace Ready?</h2>
-        <p class="featured-excerpt">From Microsoft 365 Copilot to Google Gemini, AI is baked into every tool we touch. But adoption isn't the same as transformation. Here's what actually separates teams winning with AI from those just paying for licenses nobody uses.</p>
-        <div class="featured-meta">May 12, 2025 · DWP Guy · 8 min read</div>
+        <h2 class="featured-title">ServiceNow vs Jira Service Management: The <em>2025 Showdown</em></h2>
+        <p class="featured-excerpt">Both platforms are gunning for the same crown. After three decades of watching ITSM tools come and go, here's what actually matters for mid-size IT teams making this decision today.</p>
+        <div class="featured-meta">May 10, 2025 · DWP Guy · 6 min read</div>
         <a class="read-more" href="article.html">Read the full story →</a>
       </div>
 
@@ -115,90 +114,77 @@
 
         <div class="list-item">
           <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">Collaboration Tools</span><span class="list-new">New</span></div>
-            <div class="list-title">Five prompts I use every morning before my first meeting</div>
-            <div class="list-excerpt">A personal routine that saves me 45 minutes a day. No exaggeration, no hype, just what works.</div>
+            <div class="list-eyebrow"><span class="list-sub-cat">ITSM Platforms</span><span class="list-new">New</span></div>
+            <div class="list-title">ServiceNow vs Jira Service Management: The 2025 Showdown</div>
+            <div class="list-excerpt">Both platforms are gunning for the same crown. Here's what actually matters for mid-size IT teams.</div>
           </div>
           <div>
-            <div class="list-meta">May 8</div>
-            <div class="list-read-time">4 min</div>
-          </div>
-        </div>
-
-        <div class="list-item">
-          <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">Security &amp; Compliance</span></div>
-            <div class="list-title">How to actually measure AI ROI without making up numbers</div>
-            <div class="list-excerpt">Every vendor has a ROI calculator. Here's why they're all wrong, and what to track instead.</div>
-          </div>
-          <div>
-            <div class="list-meta">May 4</div>
-            <div class="list-read-time">5 min</div>
-          </div>
-        </div>
-
-        <div class="list-item">
-          <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">Intranet &amp; EX</span></div>
-            <div class="list-title">Why your Copilot adoption rate is low, and it's not the technology</div>
-            <div class="list-excerpt">Change management, not features, is what separates 15% utilization from 70%. Here's the framework I use.</div>
-          </div>
-          <div>
-            <div class="list-meta">Apr 29</div>
-            <div class="list-read-time">7 min</div>
-          </div>
-        </div>
-
-        <div class="list-item">
-          <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">Productivity Apps</span></div>
-            <div class="list-title">Productivity Apps in the workplace: what it actually means for IT teams</div>
-            <div class="list-excerpt">Agents that can take actions, not just generate text. This is the next wave, and here's what to prepare for.</div>
-          </div>
-          <div>
-            <div class="list-meta">Apr 22</div>
+            <div class="list-meta">May 10</div>
             <div class="list-read-time">6 min</div>
           </div>
         </div>
 
         <div class="list-item">
           <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">ITSM &amp; Service Mgmt</span></div>
-            <div class="list-title">Microsoft Copilot vs Google Gemini for Work: an honest comparison after 3 months</div>
-            <div class="list-excerpt">I've been living in both. Here's where each one is genuinely better, and which one I'd bet on long-term.</div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Collaboration</span></div>
+            <div class="list-title">Microsoft Teams vs Slack in 2025: the honest verdict after 5 years of both</div>
+            <div class="list-excerpt">I've run teams on both platforms. Here's where each one wins, where each one frustrates, and which one I'd pick today.</div>
           </div>
           <div>
-            <div class="list-meta">Apr 15</div>
-            <div class="list-read-time">9 min</div>
-          </div>
-        </div>
-
-        <div class="list-item">
-          <div>
-            <div class="list-eyebrow"><span class="list-sub-cat">Collaboration Tools</span></div>
-            <div class="list-title">The ITSM prompt library: 20 prompts for IT service management</div>
-            <div class="list-excerpt">Copy these into your AI tool of choice. Covers incident classification, change advisory notes, and knowledge base drafting.</div>
-          </div>
-          <div>
-            <div class="list-meta">Apr 8</div>
-            <div class="list-read-time">5 min</div>
+            <div class="list-meta">May 3</div>
+            <div class="list-read-time">8 min</div>
           </div>
         </div>
 
         <div class="list-item">
           <div>
             <div class="list-eyebrow"><span class="list-sub-cat">Intranet &amp; EX</span></div>
-            <div class="list-title">Building your internal AI champions program: a step-by-step guide</div>
-            <div class="list-excerpt">The single highest-ROI investment in your AI rollout isn't software. It's your power users.</div>
+            <div class="list-title">The intranet is not dead. It's just been badly managed for 20 years.</div>
+            <div class="list-excerpt">Every few years someone declares the intranet dead. Every time they're wrong. Here's what a good one actually looks like in 2025.</div>
           </div>
           <div>
-            <div class="list-meta">Apr 1</div>
-            <div class="list-read-time">8 min</div>
+            <div class="list-meta">Apr 26</div>
+            <div class="list-read-time">7 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Productivity</span></div>
+            <div class="list-title">The digital workplace tool stack I'd build from scratch today</div>
+            <div class="list-excerpt">If you handed me a greenfield environment and a reasonable budget, here's exactly what I'd choose and why.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 19</div>
+            <div class="list-read-time">6 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">ITSM Platforms</span></div>
+            <div class="list-title">What ServiceNow gets right that nobody talks about</div>
+            <div class="list-excerpt">Everyone complains about the cost and complexity. Fair. But there are things ServiceNow does better than anything else on the market.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 12</div>
+            <div class="list-read-time">5 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Collaboration</span></div>
+            <div class="list-title">Why most organizations are using Microsoft 365 at about 30% of its potential</div>
+            <div class="list-excerpt">The licenses are paid for. The features are there. The problem is almost never the technology.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 5</div>
+            <div class="list-read-time">6 min</div>
           </div>
         </div>
 
       </div>
-
       <button class="load-more">Load older posts →</button>
     </main>
 
@@ -207,10 +193,10 @@
         <div class="section-label">Topics in this category</div>
         <div class="sidebar-box">
           <div class="tag-cloud">
-            <span class="tag">Copilot</span><span class="tag">Gemini</span><span class="tag">Agents</span>
-            <span class="tag">Prompt engineering</span><span class="tag">Adoption</span>
-            <span class="tag">ROI</span><span class="tag">Microsoft 365</span>
-            <span class="tag">Change management</span><span class="tag">ITSM AI</span>
+            <span class="tag">ServiceNow</span><span class="tag">Jira</span><span class="tag">Microsoft 365</span>
+            <span class="tag">Teams</span><span class="tag">Slack</span><span class="tag">SharePoint</span>
+            <span class="tag">Intranet</span><span class="tag">ITSM</span><span class="tag">Viva</span>
+            <span class="tag">Power Platform</span>
           </div>
         </div>
       </div>
@@ -220,19 +206,19 @@
         <div class="sidebar-box" style="padding:0.875rem;">
           <a class="top-item" href="#">
             <span class="top-num">01</span>
-            <div><div class="top-title">Microsoft Copilot vs Google Gemini: an honest comparison</div><div class="top-meta">9 min · Apr 15</div></div>
+            <div><div class="top-title">Microsoft Teams vs Slack: the honest verdict</div><div class="top-meta">8 min · May 3</div></div>
           </a>
           <a class="top-item" href="#">
             <span class="top-num">02</span>
-            <div><div class="top-title">Why your Copilot adoption rate is low</div><div class="top-meta">7 min · Apr 29</div></div>
+            <div><div class="top-title">ServiceNow vs Jira: the 2025 showdown</div><div class="top-meta">6 min · May 10</div></div>
           </a>
           <a class="top-item" href="#">
             <span class="top-num">03</span>
-            <div><div class="top-title">The ITSM prompt library: 20 prompts</div><div class="top-meta">5 min · Apr 8</div></div>
+            <div><div class="top-title">The tool stack I'd build from scratch today</div><div class="top-meta">6 min · Apr 19</div></div>
           </a>
           <a class="top-item" href="#">
             <span class="top-num">04</span>
-            <div><div class="top-title">Building your internal AI champions program</div><div class="top-meta">8 min · Apr 1</div></div>
+            <div><div class="top-title">M365 at 30% of its potential</div><div class="top-meta">6 min · Apr 5</div></div>
           </a>
         </div>
       </div>
@@ -240,8 +226,8 @@
       <div class="sidebar-section">
         <div class="section-label">Other categories</div>
         <div class="other-cats">
-          <a class="other-cat-card" href="#"><span>🛠</span>Tools &amp; Tech</a>
-          <a class="other-cat-card" href="#"><span>💬</span>Culture</a>
+          <a class="other-cat-card" href="category.html"><span>🤖</span>AI at Work</a>
+          <a class="other-cat-card" href="news.html"><span>📡</span>News</a>
           <a class="other-cat-card" href="#"><span>📊</span>Strategy</a>
           <a class="other-cat-card" href="#"><span>✍️</span>Personal</a>
         </div>
@@ -249,7 +235,7 @@
 
       <div class="sidebar-box" style="background:var(--cream-dark);border-color:var(--border-light);">
         <h4>Newsletter</h4>
-        <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">Tools &amp; Tech stories + takes, every Thursday.</p>
+        <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">Tools, reviews and takes every Thursday.</p>
         <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
         <button class="btn-accent" style="width:100%;">Subscribe free</button>
       </div>
