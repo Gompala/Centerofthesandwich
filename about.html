@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About DWP Guy — Center of the Sandwich</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+.about-layout { display: grid; grid-template-columns: minmax(0,1fr) 280px; gap: 56px; align-items: start; padding-top: 2.5rem; }
+.about-main {}
+.about-hero { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1.5px solid var(--border); }
+.about-hero-top { display: flex; align-items: center; gap: 24px; margin-bottom: 1.75rem; }
+.about-avatar-xl { width: 88px; height: 88px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 22px; font-weight: 500; flex-shrink: 0; letter-spacing: 1px; border: 3px solid var(--border-light); }
+.about-hero-name { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 36px; line-height: 1.1; margin-bottom: 6px; }
+.about-hero-name em { font-style: italic; color: var(--accent); }
+.about-tagline { font-size: 15px; color: var(--text-secondary); line-height: 1.5; }
+.about-hero-intro { font-family: 'Playfair Display', serif; font-size: 20px; font-style: italic; line-height: 1.6; color: var(--text-secondary); margin-bottom: 1.25rem; }
+.about-hero-body { font-size: 16px; line-height: 1.8; color: var(--text); }
+.about-hero-body p { margin-bottom: 1.2rem; }
+.about-hero-body p:last-child { margin-bottom: 0; }
+.timeline-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1.5px solid var(--border); }
+.timeline { position: relative; padding-left: 28px; }
+.timeline::before { content: ''; position: absolute; left: 7px; top: 6px; bottom: 6px; width: 1.5px; background: var(--border); }
+.timeline-item { position: relative; margin-bottom: 1.75rem; }
+.timeline-item:last-child { margin-bottom: 0; }
+.timeline-dot { position: absolute; left: -24px; top: 5px; width: 14px; height: 14px; border-radius: 50%; background: var(--accent); border: 2px solid #fff; outline: 1.5px solid var(--border); }
+.timeline-dot.muted { background: var(--border); }
+.timeline-era { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); font-weight: 500; margin-bottom: 4px; }
+.timeline-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; margin-bottom: 6px; line-height: 1.3; }
+.timeline-body { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
+.beliefs-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1.5px solid var(--border); }
+.belief-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 1rem; }
+.belief-card { background: var(--cream); border: 0.5px solid var(--border); border-radius: 8px; padding: 1.1rem; }
+.belief-icon { font-size: 24px; margin-bottom: 8px; }
+.belief-title { font-size: 14px; font-weight: 500; margin-bottom: 5px; }
+.belief-body { font-size: 13px; color: var(--text-secondary); line-height: 1.55; }
+.writing-section { margin-bottom: 2.5rem; }
+.writing-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 1rem; }
+.writing-card { border: 0.5px solid var(--border); border-radius: 8px; padding: 1rem; background: var(--cream); transition: border-color .15s; }
+.writing-card:hover { border-color: var(--accent); }
+.writing-card-cat { margin-bottom: 6px; }
+.writing-card-title { font-size: 14px; font-weight: 500; line-height: 1.4; margin-bottom: 4px; color: var(--text); }
+.writing-card-meta { font-size: 11px; color: var(--muted); }
+.sidebar { position: sticky; top: 80px; }
+.sidebar-section { margin-bottom: 2rem; }
+.sidebar-profile { background: var(--cream-dark); border: 1px solid var(--border-light); border-radius: 10px; padding: 1.5rem; text-align: center; margin-bottom: 20px; }
+.sidebar-avatar { width: 64px; height: 64px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 16px; font-weight: 500; margin: 0 auto 12px; }
+.sidebar-name { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; margin-bottom: 4px; }
+.sidebar-role { font-size: 12px; color: var(--muted); margin-bottom: 12px; line-height: 1.4; }
+.social-links { display: flex; flex-direction: column; gap: 8px; }
+.social-link { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-secondary); border: 0.5px solid var(--border); border-radius: 6px; padding: 8px 12px; background: #fff; transition: all .15s; }
+.social-link:hover { border-color: var(--accent); color: var(--accent); }
+.social-icon { width: 18px; height: 18px; flex-shrink: 0; }
+.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.stat-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 0.875rem; text-align: center; }
+.stat-num { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 700; color: var(--accent); line-height: 1; margin-bottom: 4px; }
+.stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+.sidebar-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
+.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.exp-item { font-size: 13px; padding: 5px 0; border-bottom: 0.5px solid #F0EBE0; color: var(--text-secondary); line-height: 1.4; }
+.exp-item:last-child { border-bottom: none; }
+.exp-item strong { color: var(--text); font-weight: 500; }
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div>
+      <a href="index.html"><img src="logo/logo-primary.svg" alt="Center of the Sandwich" height="36" style="display:block;"></a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="category.html">AI at Work</a></li>
+      <li><a href="category.html">Tools &amp; Tech</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="about.html" class="active">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="site-wrap">
+  <div class="about-layout">
+    <main class="about-main">
+
+      <div class="about-hero">
+        <div class="about-hero-top">
+          <div class="about-avatar-xl">DWP</div>
+          <div>
+            <h1 class="about-hero-name">Hi. I'm <em>DWP Guy.</em></h1>
+            <div class="about-tagline">30 years in the digital workplace. Still learning. Still writing about it.</div>
+          </div>
+        </div>
+        <p class="about-hero-intro">"I got into this field before anyone called it the digital workplace. I've watched it become one of the most interesting and underappreciated corners of the technology industry."</p>
+        <div class="about-hero-body">
+          <p>Three decades. That's how long I've been living inside the intersection of technology, work, and the messy human reality of getting people to actually use the tools you put in front of them.</p>
+          <p>I've seen the rise of the intranet, the fall of the intranet, and the reinvention of the intranet. I've lived through SharePoint versions I'd prefer to forget. I've watched the death of the desktop get predicted approximately fourteen times. And now I'm watching AI either transform everything or become the most expensive screensaver in corporate history. Probably both, depending on the organization.</p>
+          <p>This site is my way of making sense of all of it. No corporate filter. No vendor agenda. Just honest takes from someone who's been around long enough to know what actually matters and what's just noise.</p>
+        </div>
+      </div>
+
+      <div class="timeline-section">
+        <div class="section-label">30 years in the digital workplace</div>
+        <div class="timeline">
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-era">Early 1990s: The beginning</div>
+            <div class="timeline-title">Started when "digital workplace" meant a shared network drive</div>
+            <div class="timeline-body">Email was new. The web was newer. Most workplace tech meant managing file servers and convincing executives that PCs weren't a fad. The fundamentals I learned then still hold: meet people where they are, make technology invisible, and focus on outcomes rather than features.</div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-era">Late 1990s through 2000s: The intranet era</div>
+            <div class="timeline-title">Built intranets when intranets were the future of work</div>
+            <div class="timeline-body">Content management systems, knowledge bases, collaboration portals. We built them all with enormous optimism and watched most of them slowly become digital graveyards. The hard lesson: technology adoption is a people problem, not a technology problem.</div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-era">2010s: The platform wars</div>
+            <div class="timeline-title">Survived SharePoint, Yammer, Jive, and the Great Collaboration Wars</div>
+            <div class="timeline-body">Every year brought a new platform that was going to replace email. None of them replaced email. But Slack came closer than anyone expected, and the combination of mobile-first design and consumer UX expectations permanently changed what enterprise software had to look like.</div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-era">2020s: The transformation decade</div>
+            <div class="timeline-title">COVID, hybrid work, and now AI. The most interesting era yet.</div>
+            <div class="timeline-body">The pandemic compressed ten years of digital workplace evolution into eighteen months. AI is doing it again. I've never been more energized by this field, or more aware of how much gets lost when technology moves faster than people can adapt to it.</div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-era">Now: This site</div>
+            <div class="timeline-title">Writing it all down so it's actually useful to someone</div>
+            <div class="timeline-body">Center of the Sandwich is where I'm putting everything I know, think, and believe about digital workplace technology. Thirty years of pattern recognition, filtered into something worth reading. More to come.</div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="beliefs-section">
+        <div class="section-label">What I believe</div>
+        <div class="belief-grid">
+          <div class="belief-card">
+            <div class="belief-icon">🧠</div>
+            <div class="belief-title">Technology is never the problem</div>
+            <div class="belief-body">Every failed rollout I've ever seen was a change management failure, not a technology failure. The tools almost always work. Getting people to actually use them is the hard part.</div>
+          </div>
+          <div class="belief-card">
+            <div class="belief-icon">🥪</div>
+            <div class="belief-title">Get to the center, skip the crust</div>
+            <div class="belief-body">Most content about digital workplace tech is filler. Vendor press releases dressed up as journalism. I'm only interested in the substance: what actually works, what doesn't, and why.</div>
+          </div>
+          <div class="belief-card">
+            <div class="belief-icon">📉</div>
+            <div class="belief-title">Hype cycles are real, but so is progress</div>
+            <div class="belief-body">I've lived through enough technology hype cycles to be appropriately skeptical. But I've also seen genuinely transformative shifts. The trick is telling them apart early. AI is the real thing.</div>
+          </div>
+          <div class="belief-card">
+            <div class="belief-icon">🤝</div>
+            <div class="belief-title">The human side is always the story</div>
+            <div class="belief-body">Thirty years in, the most interesting questions are never about features. They're about how people work, how organizations change, and what it means to do good work in a world that keeps shifting.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="writing-section">
+        <div class="section-label">Recent writing</div>
+        <div class="writing-grid">
+          <a class="writing-card" href="article.html">
+            <div class="writing-card-cat"><span class="cat-badge badge-ai">🤖 AI at Work</span></div>
+            <div class="writing-card-title">The AI Copilot Era Is Here. Is Your Workplace Ready?</div>
+            <div class="writing-card-meta">May 12 · 8 min</div>
+          </a>
+          <a class="writing-card" href="#">
+            <div class="writing-card-cat"><span class="cat-badge badge-tools">🛠 Tools &amp; Tech</span></div>
+            <div class="writing-card-title">ServiceNow vs Jira Service Management: The 2025 Showdown</div>
+            <div class="writing-card-meta">May 10 · 6 min</div>
+          </a>
+          <a class="writing-card" href="#">
+            <div class="writing-card-cat"><span class="cat-badge badge-ai">🤖 AI at Work</span></div>
+            <div class="writing-card-title">Five Prompts I Use Every Morning Before My First Meeting</div>
+            <div class="writing-card-meta">May 8 · 4 min</div>
+          </a>
+          <a class="writing-card" href="#">
+            <div class="writing-card-cat"><span class="cat-badge badge-culture">💬 Culture</span></div>
+            <div class="writing-card-title">The Return-to-Office Debate Is Tired. Here's What We Should Be Talking About.</div>
+            <div class="writing-card-meta">May 6 · 5 min</div>
+          </a>
+        </div>
+      </div>
+
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-profile">
+        <div class="sidebar-avatar">DWP</div>
+        <div class="sidebar-name">DWP Guy</div>
+        <div class="sidebar-role">30 years in the digital workplace. Writer, observer, occasional curmudgeon.</div>
+        <div class="social-links">
+          <a class="social-link" href="#">
+            <svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            LinkedIn
+          </a>
+          <a class="social-link" href="#">
+            <svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4l11.733 16H20L8.267 4zM4 20l6.768-6.768M15.732 9.232L20 4"/></svg>
+            Twitter / X
+          </a>
+          <a class="social-link" href="#">
+            <svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            Newsletter
+          </a>
+          <a class="social-link" href="#">
+            <svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+            centerofthesandwich.com
+          </a>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="section-label">By the numbers</div>
+        <div class="stat-grid">
+          <div class="stat-box"><div class="stat-num">30</div><div class="stat-label">Years in DWP</div></div>
+          <div class="stat-box"><div class="stat-num">24</div><div class="stat-label">Posts published</div></div>
+          <div class="stat-box"><div class="stat-num">6</div><div class="stat-label">Categories</div></div>
+          <div class="stat-box"><div class="stat-num">∞</div><div class="stat-label">Opinions</div></div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-box">
+          <h4>Areas of expertise</h4>
+          <div class="exp-item"><strong>Digital workplace strategy</strong>: from vision to adoption</div>
+          <div class="exp-item"><strong>ITSM &amp; service management</strong>: ServiceNow, Jira, and everything before</div>
+          <div class="exp-item"><strong>Collaboration platforms</strong>: Microsoft 365, Google Workspace, Slack</div>
+          <div class="exp-item"><strong>AI adoption</strong>: change management, not just technology</div>
+          <div class="exp-item"><strong>Intranet &amp; employee experience</strong>: 30 years of build-and-learn</div>
+        </div>
+      </div>
+
+      <div class="sidebar-box" style="background:var(--cream-dark);border-color:var(--border-light);">
+        <h4>Get the newsletter</h4>
+        <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">30 years of pattern recognition, delivered every Thursday.</p>
+        <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
+        <button class="btn-accent" style="width:100%;">Subscribe free</button>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>© 2025 centerofthesandwich.com</span>
+    <span>Written by DWP Guy · All opinions are my own</span>
+  </div>
+</footer>
+
+</body>
+</html>

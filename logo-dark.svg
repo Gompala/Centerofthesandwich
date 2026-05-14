@@ -1,0 +1,17 @@
+<svg width="420" height="52" viewBox="0 0 420 52" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Center of the Sandwich — dark variant</title>
+  <desc>Reversed horizontal logo for dark backgrounds.</desc>
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');</style>
+  </defs>
+  <g transform="translate(0, 4)">
+    <rect x="0" y="0"  width="44" height="8"  rx="2.5" fill="#E8895A"/>
+    <rect x="0" y="11" width="44" height="14" rx="2.5" fill="#3A2A14"/>
+    <rect x="0" y="11" width="44" height="14" rx="2.5" fill="none" stroke="#E8895A" stroke-width="0.75"/>
+    <rect x="5" y="15" width="30" height="2.5" rx="1.25" fill="#E8895A" opacity="0.4"/>
+    <rect x="5" y="19" width="22" height="2.5" rx="1.25" fill="#5DCAA5" opacity="0.7"/>
+    <rect x="0" y="28" width="44" height="8"  rx="2.5" fill="#E8895A"/>
+  </g>
+  <text x="58" y="34" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="26" fill="#FDF8F0">Center of the </text>
+  <text x="238" y="34" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="26" fill="#E8895A">Sandwich</text>
+</svg>
