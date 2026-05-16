@@ -1,6 +1,9 @@
 import feedparser
 import json
 import os
+import re
+import time
+import html
 import requests
 from datetime import datetime, timezone
 from pathlib import Path
@@ -66,13 +69,18 @@ def fetch_feed(source):
     try:
         feed = feedparser.parse(source["url"])
         items = []
-        for entry in feed.entries[:10]:  # Only look at latest 10 per source
+        for entry in feed.entries[:10]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
             excerpt = entry.get("summary", entry.get("description", "")).strip()
-            # Strip HTML tags from excerpt
-            import re
-            excerpt = re.sub(r'<[^>]+>', '', excerpt)[:400]
+            # Strip HTML tags
+            excerpt = re.sub(r'<[^>]+>', '', excerpt)
+            # Decode HTML entities like &ldquo; &nbsp; &rsquo;
+            excerpt = html.unescape(excerpt)
+            # Clean up whitespace
+            excerpt = re.sub(r'\s+', ' ', excerpt).strip()[:400]
+            # Clean title the same way
+            title = html.unescape(re.sub(r'<[^>]+>', '', title)).strip()
             if title and link:
                 items.append({
                     "title": title,
@@ -125,9 +133,11 @@ def generate_take(title, excerpt, source):
         print(f"    Gemini status: {response.status_code}")
         data = response.json()
         if "candidates" in data:
+            time.sleep(7)  # Wait 7 seconds between calls to respect rate limits
             return data["candidates"][0]["content"]["parts"][0]["text"].strip()
         else:
             print(f"    Gemini response: {data}")
+            time.sleep(7)
             return excerpt[:200]
     except Exception as e:
         print(f"Gemini API error: {e}")
