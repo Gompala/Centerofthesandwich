@@ -15,9 +15,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,11 +30,7 @@ jobs:
         run: python automation/news_fetch.py
 
       - name: Commit and push updated news data
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git fetch origin main
-          git reset --soft origin/main
-          git add _data/news.json _data/seen_urls.json
-          git diff --staged --quiet || git commit -m "Daily news update $(date +'%Y-%m-%d')"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily news update"
+          file_pattern: "_data/news.json _data/seen_urls.json"
