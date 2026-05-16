@@ -11,7 +11,7 @@ from pathlib import Path
 
 # Your Gemini API key — loaded from environment variable, never hardcoded
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # Max stories per category to keep API costs minimal
 MAX_PER_CATEGORY = 4
@@ -121,8 +121,13 @@ Write only the summary and take. No introduction, no "DWP Guy here", just the co
             },
             timeout=15
         )
+        print(f"    Gemini status: {response.status_code}")
         data = response.json()
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        if "candidates" in data:
+            return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        else:
+            print(f"    Gemini response: {data}")
+            return excerpt[:200]
     except Exception as e:
         print(f"Gemini API error: {e}")
         return excerpt[:200]
@@ -225,4 +230,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
