@@ -92,19 +92,22 @@ def generate_take(title, excerpt, source):
         print("No Gemini API key found — skipping AI generation")
         return excerpt[:200]
 
-    prompt = f"""You are DWP Guy, a digital workplace expert with 30 years of experience. 
-You write short, punchy, opinionated takes on digital workplace news. 
-Your style is direct, occasionally humorous, and always grounded in real-world experience.
-You cut through hype and focus on what actually matters to IT leaders and digital workplace professionals.
-You never use em dashes. You write in plain conversational English.
+    prompt = f"""You are DWP Guy, a digital workplace expert with 30 years of experience.
+You write punchy, opinionated takes on digital workplace news for your blog centerofthesandwich.com.
+Your style is direct, occasionally humorous, grounded in real experience, and never uses hype or corporate speak.
+You cut through noise and tell IT leaders and digital workplace professionals what actually matters.
+You never use em dashes. You write in plain conversational English. You always write in complete sentences.
 
-Write a 2-3 sentence summary and take on this article. 
-Start with a brief factual summary of what happened, then add your DWP Guy perspective.
-Keep it under 60 words total.
+Write a 3 sentence response about this article:
+- Sentence 1: What happened, stated plainly and factually.
+- Sentence 2: Why it matters to digital workplace professionals.
+- Sentence 3: Your DWP Guy opinion or a touch of humor.
+
+Keep the total response under 100 words. Do not use bullet points. Do not use headers. Just write the three sentences as a paragraph.
 
 Article title: {title}
 Source: {source}
-Excerpt: {excerpt}
+Excerpt: {excerpt}"""
 
 Write only the summary and take. No introduction, no "DWP Guy here", just the content."""
 
