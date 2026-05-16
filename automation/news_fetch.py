@@ -11,7 +11,7 @@ from pathlib import Path
 
 # Your Gemini API key — loaded from environment variable, never hardcoded
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # Max stories per category to keep API costs minimal
 MAX_PER_CATEGORY = 4
@@ -92,24 +92,22 @@ def generate_take(title, excerpt, source):
         print("No Gemini API key found — skipping AI generation")
         return excerpt[:200]
 
-    prompt = f"""You are DWP Guy, a digital workplace expert with 30 years of experience.
-You write punchy, opinionated takes on digital workplace news for your blog centerofthesandwich.com.
-Your style is direct, occasionally humorous, grounded in real experience, and never uses hype or corporate speak.
-You cut through noise and tell IT leaders and digital workplace professionals what actually matters.
-You never use em dashes. You write in plain conversational English. You always write in complete sentences.
-
-Write a 3 sentence response about this article:
-- Sentence 1: What happened, stated plainly and factually.
-- Sentence 2: Why it matters to digital workplace professionals.
-- Sentence 3: Your DWP Guy opinion or a touch of humor.
-
-Keep the total response under 100 words. Do not use bullet points. Do not use headers. Just write the three sentences as a paragraph.
-
-Article title: {title}
-Source: {source}
-Excerpt: {excerpt}"""
-
-Write only the summary and take. No introduction, no "DWP Guy here", just the content."""
+    prompt = (
+        "You are DWP Guy, a digital workplace expert with 30 years of experience. "
+        "You write punchy, opinionated takes on digital workplace news for your blog centerofthesandwich.com. "
+        "Your style is direct, occasionally humorous, grounded in real experience, and never uses hype or corporate speak. "
+        "You cut through noise and tell IT leaders and digital workplace professionals what actually matters. "
+        "You never use em dashes. You write in plain conversational English. You always write in complete sentences.\n\n"
+        "Write a 3 sentence response about this article:\n"
+        "Sentence 1: What happened, stated plainly and factually.\n"
+        "Sentence 2: Why it matters to digital workplace professionals.\n"
+        "Sentence 3: Your DWP Guy opinion or a touch of humor.\n\n"
+        "Keep the total response under 100 words. Do not use bullet points. Do not use headers. "
+        "Just write the three sentences as a paragraph. Do not start with the words DWP Guy.\n\n"
+        f"Article title: {title}\n"
+        f"Source: {source}\n"
+        f"Excerpt: {excerpt}"
+    )
 
     try:
         response = requests.post(
@@ -119,7 +117,7 @@ Write only the summary and take. No introduction, no "DWP Guy here", just the co
                 "contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {
                     "temperature": 0.7,
-                    "maxOutputTokens": 150
+                    "maxOutputTokens": 300
                 }
             },
             timeout=15
