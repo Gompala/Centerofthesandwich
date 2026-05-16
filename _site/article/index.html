@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The AI Copilot Era Is Here — Center of the Sandwich</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+.breadcrumb { font-size: 12px; color: var(--muted); padding: 14px 0 0; }
+.breadcrumb a { color: var(--accent); }
+.article-layout { display: grid; grid-template-columns: minmax(0,1fr) 240px; gap: 52px; margin-top: 0; align-items: start; }
+.article-cat { display: inline-block; background: var(--purple-bg); color: var(--purple-text); font-size: 10px; letter-spacing: 2px; text-transform: uppercase; padding: 4px 10px; border-radius: 2px; margin: 1.5rem 0 1rem; font-weight: 500; }
+.article-title { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 38px; line-height: 1.12; margin-bottom: 16px; }
+.article-title em { font-style: italic; color: var(--accent); }
+.article-deck { font-size: 18px; line-height: 1.6; color: var(--text-secondary); margin-bottom: 20px; font-family: 'Playfair Display', serif; font-style: italic; }
+.byline-row { display: flex; align-items: center; gap: 12px; padding: 14px 0; border-top: 0.5px solid var(--border); border-bottom: 0.5px solid var(--border); margin-bottom: 1.75rem; }
+.byline-avatar { width: 36px; height: 36px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 11px; font-weight: 500; flex-shrink: 0; }
+.byline-name { font-size: 13px; font-weight: 500; }
+.byline-meta { font-size: 12px; color: var(--muted); margin-top: 1px; }
+.byline-actions { margin-left: auto; display: flex; gap: 8px; }
+.byline-btn { font-size: 12px; color: var(--text-secondary); border: 0.5px solid var(--border); padding: 5px 10px; border-radius: 4px; display: flex; align-items: center; gap: 4px; }
+.byline-btn:hover { border-color: var(--accent); color: var(--accent); }
+.progress-bar { background: #EDE7D8; border-radius: 4px; height: 3px; margin-bottom: 6px; }
+.progress-fill { height: 100%; width: 35%; background: var(--accent); border-radius: 4px; }
+.progress-label { font-size: 11px; color: var(--muted); text-align: right; margin-bottom: 1.75rem; }
+.key-takeaways { background: var(--cream-dark); border: 1px solid var(--border-light); border-radius: 8px; padding: 1.25rem 1.5rem; margin-bottom: 2rem; }
+.key-takeaways h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.takeaway { display: flex; gap: 10px; margin-bottom: 10px; font-size: 14px; line-height: 1.5; }
+.takeaway:last-child { margin-bottom: 0; }
+.t-dot { width: 20px; height: 20px; border-radius: 50%; background: var(--accent); color: #fff; font-size: 11px; font-weight: 500; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 1px; }
+.article-body { font-size: 16px; line-height: 1.85; }
+.article-body p { margin-bottom: 1.4rem; }
+.article-body h2 { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 700; margin: 2.5rem 0 0.75rem; line-height: 1.2; }
+.article-body h3 { font-size: 11px; font-weight: 500; margin: 2rem 0 0.5rem; text-transform: uppercase; letter-spacing: 2px; color: var(--muted); }
+.pull-quote { border-left: 3px solid var(--accent); border-radius: 0; margin: 2.25rem 0; padding: 0.75rem 1.25rem; background: var(--cream-mid); }
+.pull-quote p { font-family: 'Playfair Display', serif; font-size: 20px; font-style: italic; line-height: 1.5; margin: 0; }
+.pull-quote cite { font-size: 11px; color: var(--muted); margin-top: 8px; display: block; letter-spacing: 1px; text-transform: uppercase; font-style: normal; }
+.callout { background: #EAF3DE; border: 0.5px solid #97C459; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.75rem 0; }
+.callout-label { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: #3B6D11; font-weight: 500; margin-bottom: 6px; }
+.callout p { font-size: 14px; color: #27500A; margin: 0; line-height: 1.6; }
+.article-footer { border-top: 1.5px solid var(--border); padding-top: 1.5rem; margin-top: 2.5rem; }
+.tags-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 1.5rem; }
+.share-row { display: flex; align-items: center; gap: 10px; margin-bottom: 2rem; }
+.share-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 1.5px; }
+.share-btn { border: 0.5px solid var(--border); border-radius: 4px; padding: 6px 14px; font-size: 13px; font-weight: 500; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; }
+.share-btn:hover { border-color: var(--accent); color: var(--accent); }
+.author-card { background: var(--cream); border: 0.5px solid var(--border); border-radius: 8px; padding: 1.25rem; display: flex; gap: 16px; margin-bottom: 2.5rem; }
+.author-avatar-lg { width: 54px; height: 54px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 13px; font-weight: 500; flex-shrink: 0; }
+.author-card h4 { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
+.author-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.5; }
+.related-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 16px; }
+.related-card { border: 0.5px solid var(--border); border-radius: 8px; padding: 0.875rem; background: var(--cream); }
+.related-card:hover { border-color: var(--accent); }
+.related-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; margin-bottom: 6px; }
+.related-title { font-family: 'Playfair Display', serif; font-size: 14px; font-weight: 700; line-height: 1.3; margin-bottom: 6px; }
+.related-meta { font-size: 11px; color: var(--muted); }
+.sidebar { padding-top: 1.5rem; position: sticky; top: 80px; }
+.sidebar-section { margin-bottom: 2rem; }
+.toc-item { font-size: 13px; color: var(--text-secondary); padding: 6px 0; border-bottom: 0.5px solid #F0EBE0; display: flex; gap: 8px; line-height: 1.4; }
+.toc-item:last-child { border-bottom: none; }
+.toc-item:hover { color: var(--accent); }
+.toc-num { color: var(--accent); font-weight: 500; flex-shrink: 0; }
+.toc-item.active { color: var(--accent); font-weight: 500; }
+.sidebar-nl { background: var(--cream-dark); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; }
+.sidebar-nl h4 { font-size: 13px; font-weight: 500; margin-bottom: 6px; }
+.sidebar-nl p { font-size: 12px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.5; }
+.further-item { display: flex; gap: 8px; padding: 8px 0; border-bottom: 0.5px solid #F0EBE0; align-items: flex-start; }
+.further-item:last-child { border-bottom: none; }
+.further-source { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px; }
+.further-title { font-size: 12px; line-height: 1.4; font-weight: 500; }
+.further-title:hover { color: var(--accent); }
+</style>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div>
+      <a href="index.html" style="display:block;text-decoration:none;"><svg width="280" height="36" viewBox="0 0 420 52" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0,4)"><rect x="0" y="0" width="44" height="8" rx="2.5" fill="#C8693A"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="#EDD9A3"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="none" stroke="#C8693A" stroke-width="0.75"/><rect x="5" y="15" width="30" height="2.5" rx="1.25" fill="#C8693A" opacity="0.4"/><rect x="5" y="19" width="22" height="2.5" rx="1.25" fill="#1D9E75" opacity="0.65"/><rect x="0" y="28" width="44" height="8" rx="2.5" fill="#C8693A"/></g><text x="58" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#1C1A17">Center of the </text><text x="238" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#C8693A">Sandwich</text></svg></a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="category.html" class="active">AI at Work</a></li>
+      <li><a href="tools.html">Tools &amp; Tech</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="site-wrap">
+  <div class="breadcrumb"><a href="index.html">Home</a> › <a href="category.html">AI at Work</a> › The AI Copilot Era</div>
+
+  <div class="article-layout">
+    <main>
+      <div style="display:flex;align-items:center;gap:10px;margin:1.5rem 0 1rem;">
+        <span class="article-cat" style="margin:0;">🤖 AI at Work</span>
+</span>
+      </div>
+      <h1 class="article-title">The <em>AI Copilot Era</em> Is Here. Is Your Workplace Ready?</h1>
+      <p class="article-deck">Adoption isn't transformation. Here's what separates teams genuinely winning with AI from those just paying for licenses nobody actually uses.</p>
+
+      <div class="byline-row">
+        <div class="byline-avatar">DWP</div>
+        <div>
+          <div class="byline-name">DWP Guy</div>
+          <div class="byline-meta">May 12, 2025 · 8 min read · <span style="color:var(--purple);font-weight:500;">AI at Work</span></div>
+        </div>
+        <div class="byline-actions">
+          <a class="byline-btn" href="#">&#8679; Share</a>
+          <a class="byline-btn" href="#">&#9734; Save</a>
+        </div>
+      </div>
+
+      <div class="progress-bar"><div class="progress-fill"></div></div>
+      <div class="progress-label">35% through · ~5 min left</div>
+
+      <div class="key-takeaways">
+        <h4>Key takeaways</h4>
+        <div class="takeaway"><div class="t-dot">1</div><div>Most organizations are in the first six months of an AI copilot rollout. Fewer than 20% have a structured adoption strategy to go with it.</div></div>
+        <div class="takeaway"><div class="t-dot">2</div><div>The gap between "licensed" and "actively using" is enormous at most companies. Understanding why matters more than buying more seats.</div></div>
+        <div class="takeaway"><div class="t-dot">3</div><div>Winning teams treat AI as a workflow redesign project, not a software deployment.</div></div>
+      </div>
+
+      <div class="article-body">
+        <p>It started with a memo. Or maybe a Slack message from IT. Or perhaps your CEO came back from a conference buzzing about something called Copilot. However it arrived, AI is now officially on the agenda at virtually every organization running Microsoft 365, Google Workspace, or Slack. Which is to say, almost everyone.</p>
+        <p>But here's what the vendor pitch decks won't tell you: buying access to an AI tool and actually transforming how your team works are two entirely different things. Most companies right now are stuck somewhere in the gap between them.</p>
+
+        <h2>The license problem nobody talks about</h2>
+        <p>Surveys from multiple analyst firms in early 2025 put the average utilization rate for Microsoft 365 Copilot somewhere between 15 and 30 percent of licensed users. The majority of people with access to the tool aren't using it in any meaningful way.</p>
+        <p>This isn't a technology failure. It's a change management failure.</p>
+        <div class="pull-quote">
+          <p>"You can't just drop a powerful new tool into someone's workflow and expect them to figure out why it matters. You have to show them, specifically, how Tuesday looks different because of it."</p>
+          <cite>A digital adoption lead at a Fortune 500 firm</cite>
+        </div>
+        <p>The teams getting genuine value from AI copilots all share a common pattern. They started with one use case, made it work really well, and then expanded from there. No boiling the ocean. No sprawling rollouts with 47 use cases on a slide deck. They found the part that actually mattered and built outward from it.</p>
+
+        <h2>What the winning teams are doing differently</h2>
+        <h3>They redesigned the workflow, not just the tooling</h3>
+        <p>The most effective AI rollouts treat the technology as a reason to rethink how work actually gets done. That means auditing which meetings produce real decisions versus which ones are just information distribution that could be replaced by an AI-generated summary. It means asking whether the 45-minute weekly status update still makes sense when Copilot can draft it from your project management tool overnight.</p>
+        <div class="callout">
+          <div class="callout-label">💡 Practical tip</div>
+          <p>Start with your highest-frequency, lowest-value tasks: meeting notes, status reports, first-draft emails, data lookups. These are the easiest AI wins and they build the habit before you tackle anything complex.</p>
+        </div>
+
+        <h3>They built internal champions, not just admin accounts</h3>
+        <p>The difference between a 15% adoption rate and a 70% adoption rate is almost always about people rather than product. Teams that succeed pick power users early on. Not necessarily the most technical people, but the most enthusiastic and well-connected ones. They invest in those people first, and those people become the colleagues who say "let me show you how I do this" in the hallway. That kind of peer-to-peer spread is worth more than any formal training program.</p>
+
+        <h2>The honest take on where we're headed</h2>
+        <p>We are genuinely early. The tools are improving every quarter and the cost curves are coming down. Organizations building real AI fluency right now, not just buying licenses but developing actual muscle memory around AI-assisted work, are going to have a structural advantage in 18 to 24 months that latecomers will struggle to close.</p>
+        <p>The center of the sandwich, as always, is the stuff that actually matters. Not the hype, not the vendor pitch, but the practical question of how your specific team, with your specific workflows and constraints, can do better work. That's what this site is here to help you figure out.</p>
+      </div>
+
+      <div class="article-footer">
+        <div class="tags-row">
+          <span class="tag">Copilot</span><span class="tag">Microsoft 365</span><span class="tag">AI adoption</span>
+          <span class="tag">Change management</span><span class="tag">Digital workplace</span><span class="tag">Productivity</span>
+        </div>
+        <div class="share-row">
+          <span class="share-label">Share</span>
+          <a class="share-btn" href="#">LinkedIn</a>
+          <a class="share-btn" href="#">Twitter/X</a>
+          <a class="share-btn" href="#">Copy link</a>
+        </div>
+        <div class="author-card">
+          <div class="author-avatar-lg">DWP</div>
+          <div>
+            <h4>DWP Guy</h4>
+            <p>30 years in the digital workplace. Writing about the tools, trends, and strategies that actually move the needle, with zero patience for filler. <a href="about.html" style="color:var(--accent);">Read more about me →</a></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-label">More from AI at Work</div>
+      <div class="related-grid">
+        <div class="related-card">
+          <div class="related-cat" style="color:var(--purple);">🤖 AI at Work</div>
+          <div class="related-title">Five prompts I use every morning before my first meeting</div>
+          <div class="related-meta">May 8 · 4 min</div>
+        </div>
+        <div class="related-card">
+          <div class="related-cat" style="color:var(--teal);">🛠 Tools &amp; Tech</div>
+          <div class="related-title">ServiceNow vs Jira Service Management: the 2025 showdown</div>
+          <div class="related-meta">May 10 · 6 min</div>
+        </div>
+        <div class="related-card">
+          <div class="related-cat" style="color:var(--pink);">📊 Strategy</div>
+          <div class="related-title">How to actually measure AI ROI without making up numbers</div>
+          <div class="related-meta">May 4 · 5 min</div>
+        </div>
+      </div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="section-label">In this article</div>
+        <a class="toc-item" href="#"><span class="toc-num">01</span> The license problem</a>
+        <a class="toc-item active" href="#"><span class="toc-num">02</span> What winning teams do</a>
+        <a class="toc-item" href="#"><span class="toc-num">03</span> Redesigning workflows</a>
+        <a class="toc-item" href="#"><span class="toc-num">04</span> Building champions</a>
+        <a class="toc-item" href="#"><span class="toc-num">05</span> Where we're headed</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-nl">
+          <h4>Get the weekly sandwich</h4>
+          <p>Fresh digital workplace insights, every Thursday. No fluff.</p>
+          <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
+          <button class="btn-accent" style="width:100%;">Subscribe free</button>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <div class="section-label">Further reading</div>
+        <div class="further-item"><span style="color:var(--accent);flex-shrink:0;">↗</span><div><div class="further-source">Microsoft</div><a class="further-title" href="#">2025 Work Trend Index: AI and the future of work</a></div></div>
+        <div class="further-item"><span style="color:var(--accent);flex-shrink:0;">↗</span><div><div class="further-source">Gartner</div><a class="further-title" href="#">How to build an AI center of excellence</a></div></div>
+        <div class="further-item"><span style="color:var(--accent);flex-shrink:0;">↗</span><div><div class="further-source">HBR</div><a class="further-title" href="#">Your employees are afraid of AI. Here's what to do.</a></div></div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>© 2025 centerofthesandwich.com</span>
+    <span>Digital Workplace · Tech · Trends · Personal</span>
+  </div>
+</footer>
+</body>
+</html>

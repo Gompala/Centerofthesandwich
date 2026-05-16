@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Center of the Sandwich — Digital Workplace & Tech</title>
-<link rel="stylesheet" href="shared.css">
+<link rel="stylesheet" href="/shared.css">
 <style>
 .hero { padding: 3rem 0 2.5rem; max-width: 680px; }
 .hero-badge { display: inline-block; background: var(--accent); color: #fff; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; padding: 4px 10px; border-radius: 2px; margin-bottom: 12px; font-weight: 500; }
@@ -81,25 +81,16 @@
 
   <div class="section-label">Latest posts</div>
   <div class="cards-grid">
+    {% for post in collections.posts | reverse %}
+    {% if loop.index <= 3 %}
     <div class="card">
-      <div class="card-cat"><span class="cat-badge badge-tools">🛠 Tools &amp; Tech</span></div>
-</span>
-      <div class="card-title">ServiceNow vs Jira Service Management: The 2025 Showdown</div>
-      <div class="card-excerpt">Both platforms are gunning for the same crown. We break down what actually matters for mid-size IT teams.</div>
-      <div class="card-meta">May 10 · 6 min read</div>
+      <div class="card-cat"><span class="cat-badge badge-ai">{{ post.data.category }}</span></div>
+      <div class="card-title"><a href="{{ post.url }}" style="color:inherit;text-decoration:none;">{{ post.data.title }}</a></div>
+      <div class="card-excerpt">{{ post.data.excerpt }}</div>
+      <div class="card-meta">{{ post.data.date }} · {{ post.data.readtime }} min read</div>
     </div>
-    <div class="card">
-      <div class="card-cat"><span class="cat-badge badge-ai">🤖 AI at Work</span></div>
-      <div class="card-title">Five Prompts I Use Every Morning Before My First Meeting</div>
-      <div class="card-excerpt">A personal routine that saves me 45 minutes a day. No exaggeration, no hype, just what works.</div>
-      <div class="card-meta">May 8 · 4 min read</div>
-    </div>
-    <div class="card">
-      <div class="card-cat"><span class="cat-badge badge-culture">💬 Culture</span></div>
-      <div class="card-title">The Return-to-Office Debate Is Tired. Here's What We Should Be Talking About Instead.</div>
-      <div class="card-excerpt">Hybrid is the default now. The real question is whether your digital infrastructure is built for it.</div>
-      <div class="card-meta">May 6 · 5 min read</div>
-    </div>
+    {% endif %}
+    {% endfor %}
   </div>
 
   <div class="two-col">

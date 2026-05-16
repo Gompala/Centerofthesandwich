@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Industry News — Center of the Sandwich</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+.page-header { padding: 2.5rem 0 1.5rem; border-bottom: 1.5px solid var(--border); margin-bottom: 2rem; }
+.page-header h1 { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 36px; margin-bottom: 8px; }
+.page-header p { font-size: 15px; color: var(--text-secondary); max-width: 560px; line-height: 1.6; }
+.news-layout { display: grid; grid-template-columns: minmax(0,1fr) 240px; gap: 48px; align-items: start; }
+.filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.75rem; align-items: center; }
+.filter-label { font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); margin-right: 4px; }
+.filter-btn { font-size: 12px; font-weight: 500; padding: 5px 14px; border-radius: 20px; border: 1px solid var(--border); background: #fff; color: var(--text-secondary); cursor: pointer; font-family: 'DM Sans', sans-serif; transition: all .15s; }
+.filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.news-block { margin-bottom: 2.5rem; }
+.news-block-date { font-size: 10px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--muted); background: var(--cream-mid); padding: 5px 10px; border-radius: 4px; display: inline-block; margin-bottom: 1rem; }
+.news-item { border: 0.5px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 10px; background: #fff; display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: start; transition: border-color .15s; }
+.news-item:hover { border-color: var(--accent); }
+.news-item-top { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+.news-source-badge { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+.news-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--muted); }
+.news-item-title { font-size: 15px; font-weight: 500; line-height: 1.4; margin-bottom: 6px; color: var(--text); }
+.news-item-title:hover { color: var(--accent); }
+.news-item-excerpt { font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 8px; }
+.news-item-footer { display: flex; align-items: center; gap: 10px; }
+.news-topic-tag { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; padding: 2px 8px; border-radius: 3px; font-weight: 500; }
+.news-item-age { font-size: 11px; color: var(--muted); }
+.news-item-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+.ext-link { font-size: 12px; color: var(--accent); font-weight: 500; white-space: nowrap; }
+.ext-link:hover { text-decoration: underline; }
+.dwp-take { background: var(--cream-dark); border: 1px solid var(--border-light); border-radius: 6px; padding: 0.75rem 1rem; margin-top: 8px; }
+.dwp-take-label { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent); font-weight: 500; margin-bottom: 4px; }
+.dwp-take p { font-size: 13px; color: var(--text-secondary); margin: 0; line-height: 1.5; font-style: italic; }
+.sidebar { position: sticky; top: 80px; }
+.sidebar-section { margin-bottom: 2rem; }
+.sidebar-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
+.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.source-item { display: flex; align-items: center; justify-content: space-between; padding: 6px 0; border-bottom: 0.5px solid #F0EBE0; font-size: 13px; }
+.source-item:last-child { border-bottom: none; }
+.source-item span { font-size: 11px; color: var(--muted); }
+.trending-tag { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; border-bottom: 0.5px solid #F0EBE0; font-size: 13px; }
+.trending-tag:last-child { border-bottom: none; }
+.trending-count { font-size: 11px; color: var(--accent); font-weight: 500; }
+.load-more { width: 100%; padding: 12px; border: 1.5px solid var(--border); border-radius: 8px; background: #fff; font-size: 14px; font-weight: 500; color: var(--text-secondary); cursor: pointer; font-family: 'DM Sans', sans-serif; margin-top: 0.5rem; transition: all .15s; }
+.load-more:hover { border-color: var(--accent); color: var(--accent); }
+</style>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div>
+      <a href="index.html" style="display:block;text-decoration:none;"><svg width="280" height="36" viewBox="0 0 420 52" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0,4)"><rect x="0" y="0" width="44" height="8" rx="2.5" fill="#C8693A"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="#EDD9A3"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="none" stroke="#C8693A" stroke-width="0.75"/><rect x="5" y="15" width="30" height="2.5" rx="1.25" fill="#C8693A" opacity="0.4"/><rect x="5" y="19" width="22" height="2.5" rx="1.25" fill="#1D9E75" opacity="0.65"/><rect x="0" y="28" width="44" height="8" rx="2.5" fill="#C8693A"/></g><text x="58" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#1C1A17">Center of the </text><text x="238" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#C8693A">Sandwich</text></svg></a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="category.html">AI at Work</a></li>
+      <li><a href="tools.html">Tools &amp; Tech</a></li>
+      <li><a href="news.html" class="active">News</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="site-wrap">
+  <div class="page-header">
+    <h1>📡 Industry News</h1>
+    <p>The most relevant digital workplace and enterprise tech stories, filtered through 30 years of experience. Headlines link to original sources. Always.</p>
+  </div>
+
+  <div class="news-layout">
+    <main>
+      <div class="filter-bar">
+        <span class="filter-label">Filter:</span>
+        <button class="filter-btn active">All</button>
+        <button class="filter-btn">🤖 AI &amp; Copilots</button>
+        <button class="filter-btn">🛠 Platforms</button>
+        <button class="filter-btn">👥 Future of Work</button>
+        <button class="filter-btn">📊 Market News</button>
+        <button class="filter-btn">🔐 Security</button>
+      </div>
+
+      <div class="news-block">
+        <div class="news-block-date">Today, May 12, 2025</div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">The Verge</span><div class="news-dot"></div><span class="news-item-age">2 hours ago</span></div>
+            <a class="news-item-title" href="#">Microsoft announces deeper Copilot integration across Teams and Outlook</a>
+            <div class="news-item-excerpt">New features include real-time meeting coaching, draft-on-send suggestions, and cross-app context awareness, rolling out to M365 Copilot subscribers this quarter.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-ai">AI &amp; Copilots</span>
+            </div>
+            <div class="dwp-take">
+              <div class="dwp-take-label">DWP Guy's take</div>
+              <p>The cross-app context is the real story here. Single-app AI is table stakes now. This is where it starts getting genuinely useful for knowledge workers.</p>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">TechCrunch</span><div class="news-dot"></div><span class="news-item-age">5 hours ago</span></div>
+            <a class="news-item-title" href="#">Slack's AI features now available on all paid plans, no add-on required</a>
+            <div class="news-item-excerpt">Salesforce-owned Slack is folding its AI summarization, search, and workflow tools into the base Pro and Business+ tiers, ending the separate AI add-on pricing.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-ai">AI &amp; Copilots</span>
+            </div>
+            <div class="dwp-take">
+              <div class="dwp-take-label">DWP Guy's take</div>
+              <p>Smart move by Slack. Bundling is how you drive adoption. Expect Microsoft to respond with more Teams AI baked into base tiers within six months.</p>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">ZDNet</span><div class="news-dot"></div><span class="news-item-age">7 hours ago</span></div>
+            <a class="news-item-title" href="#">Zoom's new agentic AI can attend meetings and take action on your behalf</a>
+            <div class="news-item-excerpt">Zoom's AI Companion 3.0 introduces autonomous agents that can join calls, extract action items, update CRM records, and draft follow-up emails without user input.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-ai">AI &amp; Copilots</span>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+      </div>
+
+      <div class="news-block">
+        <div class="news-block-date">Yesterday, May 11, 2025</div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">CIO.com</span><div class="news-dot"></div><span class="news-item-age">Yesterday</span></div>
+            <a class="news-item-title" href="#">Digital workplace spending to hit $4.8 trillion globally by 2027, new report finds</a>
+            <div class="news-item-excerpt">IDC's latest forecast shows enterprise investment in collaboration tools, employee experience platforms, and AI productivity tools accelerating through the decade.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-strat">Market News</span>
+            </div>
+            <div class="dwp-take">
+              <div class="dwp-take-label">DWP Guy's take</div>
+              <p>Big number, but the more interesting stat buried in the report: 60% of that spend will go to platforms that didn't exist five years ago. The churn rate in this space is relentless.</p>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">Wired</span><div class="news-dot"></div><span class="news-item-age">Yesterday</span></div>
+            <a class="news-item-title" href="#">Why IT leaders are still struggling to measure the ROI of AI tools</a>
+            <div class="news-item-excerpt">Despite massive investment, fewer than 30% of CIOs say they have a reliable framework for quantifying returns on AI workplace tools, according to a new survey.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-strat">Strategy</span>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">The Register</span><div class="news-dot"></div><span class="news-item-age">Yesterday</span></div>
+            <a class="news-item-title" href="#">ServiceNow adds autonomous AI agents to ITSM platform in major update</a>
+            <div class="news-item-excerpt">The Vancouver release brings agentic workflows to incident management, change advisory, and service catalog, positioning the platform as an AI-first ITSM player.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-tools">Platforms</span>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+      </div>
+
+      <div class="news-block">
+        <div class="news-block-date">May 10, 2025</div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">HR Dive</span><div class="news-dot"></div><span class="news-item-age">2 days ago</span></div>
+            <a class="news-item-title" href="#">Amazon mandates five days in office for all corporate employees starting June</a>
+            <div class="news-item-excerpt">The policy reverses a hybrid arrangement and follows similar moves from other large tech employers, reigniting debate about productivity, trust, and the future of distributed work.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag badge-culture">Future of Work</span>
+            </div>
+            <div class="dwp-take">
+              <div class="dwp-take-label">DWP Guy's take</div>
+              <p>This is a management philosophy story masquerading as a real estate story. The companies actually winning at hybrid aren't arguing about days in the office. They're redesigning how work happens in the first place.</p>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+
+        <div class="news-item">
+          <div>
+            <div class="news-item-top"><span class="news-source-badge">Dark Reading</span><div class="news-dot"></div><span class="news-item-age">2 days ago</span></div>
+            <a class="news-item-title" href="#">Shadow AI use in enterprise collaboration tools poses growing data risk</a>
+            <div class="news-item-excerpt">Employees are increasingly using personal AI accounts, including ChatGPT, Claude, and Gemini, to process work data through unofficial channels, bypassing enterprise security controls.</div>
+            <div class="news-item-footer">
+              <span class="news-topic-tag" style="background:#FCEBEB;color:#A32D2D;font-size:10px;letter-spacing:1px;text-transform:uppercase;padding:2px 8px;border-radius:3px;font-weight:500;">Security</span>
+            </div>
+          </div>
+          <div class="news-item-right"><a class="ext-link" href="#">Read original ↗</a></div>
+        </div>
+      </div>
+
+      <button class="load-more">Load more news →</button>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="section-label">Sources we follow</div>
+        <div class="sidebar-box">
+          <div class="source-item">The Verge <span>Tech</span></div>
+          <div class="source-item">TechCrunch <span>Startups</span></div>
+          <div class="source-item">CIO.com <span>Enterprise IT</span></div>
+          <div class="source-item">Wired <span>Culture &amp; Tech</span></div>
+          <div class="source-item">ZDNet <span>Enterprise</span></div>
+          <div class="source-item">HR Dive <span>People &amp; Work</span></div>
+          <div class="source-item">The Register <span>IT News</span></div>
+          <div class="source-item">Dark Reading <span>Security</span></div>
+          <div class="source-item">Gartner Blog <span>Analysis</span></div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="section-label">Trending topics</div>
+        <div class="sidebar-box">
+          <div class="trending-tag">Agentic AI <span class="trending-count">14 stories</span></div>
+          <div class="trending-tag">Microsoft Copilot <span class="trending-count">11 stories</span></div>
+          <div class="trending-tag">Return to office <span class="trending-count">8 stories</span></div>
+          <div class="trending-tag">ITSM platforms <span class="trending-count">7 stories</span></div>
+          <div class="trending-tag">Shadow AI <span class="trending-count">5 stories</span></div>
+          <div class="trending-tag">Digital adoption <span class="trending-count">5 stories</span></div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-box" style="background:var(--cream-dark);border-color:var(--border-light);">
+          <h4>Get the weekly sandwich</h4>
+          <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">The top stories + DWP Guy's take, every Thursday.</p>
+          <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
+          <button class="btn-accent" style="width:100%;">Subscribe free</button>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>© 2025 centerofthesandwich.com</span>
+    <span>All news links to original sources. No content is reproduced.</span>
+  </div>
+</footer>
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+</script>
+</body>
+</html>

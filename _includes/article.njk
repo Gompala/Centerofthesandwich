@@ -1,0 +1,36 @@
+---
+layout: base.njk
+---
+
+<div class="site-wrap">
+  <div class="article-layout">
+    <main>
+      <div style="display:flex;align-items:center;gap:10px;margin:1.5rem 0 1rem;">
+        <span class="article-cat">{{ category }}</span>
+      </div>
+      <h1 class="article-title">{{ title }}</h1>
+      <div class="byline-row">
+        <div class="byline-avatar">DWP</div>
+        <div>
+          <div class="byline-name">DWP Guy</div>
+          <div class="byline-meta">{{ date }} · {{ readtime }} min read · <span style="color:var(--purple);font-weight:500;">{{ category }}</span></div>
+        </div>
+      </div>
+      <div class="article-body">
+        {{ content | safe }}
+      </div>
+      <div class="article-footer">
+        <div class="tags-row">
+          {% for tag in tags %}
+          <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        <div class="share-row">
+          <span class="share-label">Share</span>
+          <a class="share-btn" href="#">LinkedIn</a>
+          <a class="share-btn" href="#">Twitter/X</a>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>

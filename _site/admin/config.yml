@@ -1,0 +1,59 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://centerofthesandwich.com
+display_url: https://centerofthesandwich.com
+
+collections:
+  - name: "posts"
+    label: "Articles"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "AI at Work", value: "ai-at-work" }
+          - { label: "Tools & Tech", value: "tools-tech" }
+          - { label: "Digital Culture", value: "digital-culture" }
+          - { label: "Industry News", value: "industry-news" }
+          - { label: "Strategy", value: "strategy" }
+          - { label: "Personal", value: "personal" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Read Time (mins)", name: "readtime", widget: "number", default: 5 }
+      - { label: "Featured Post", name: "featured", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+
+  - name: "news"
+    label: "News Items"
+    folder: "_news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Headline", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Source Name", name: "source", widget: "string" }
+      - { label: "Original Article URL", name: "url", widget: "string" }
+      - label: "Topic"
+        name: "topic"
+        widget: "select"
+        options:
+          - { label: "AI & Copilots", value: "ai-copilots" }
+          - { label: "Platforms", value: "platforms" }
+          - { label: "Future of Work", value: "future-of-work" }
+          - { label: "Market News", value: "market-news" }
+          - { label: "Security", value: "security" }
+          - { label: "Strategy", value: "strategy" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "DWP Guy's Take", name: "dwptake", widget: "text" }

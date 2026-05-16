@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI at Work — Center of the Sandwich</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+.cat-hero { padding: 2.5rem 0 2rem; border-bottom: 1.5px solid var(--border); margin-bottom: 2.5rem; }
+.cat-hero-inner { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
+.cat-icon { font-size: 48px; line-height: 1; margin-bottom: 12px; }
+.cat-hero h1 { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 38px; margin-bottom: 8px; line-height: 1.1; }
+.cat-hero h1 em { font-style: italic; color: var(--accent); }
+.cat-hero p { font-size: 15px; color: var(--text-secondary); max-width: 560px; line-height: 1.6; }
+.cat-stats { display: flex; gap: 24px; flex-shrink: 0; }
+.cat-stat { text-align: center; }
+.cat-stat-num { font-family: 'Playfair Display', serif; font-size: 32px; font-weight: 700; color: var(--accent); line-height: 1; }
+.cat-stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 1.5px; margin-top: 4px; }
+.sub-cats { display: flex; gap: 8px; margin-bottom: 2.5rem; }
+.sub-cat-btn { padding: 6px 16px; border-radius: 20px; font-size: 12px; font-weight: 500; border: 1px solid var(--border); background: #fff; color: var(--text-secondary); cursor: pointer; font-family: 'DM Sans',sans-serif; transition: all .15s; }
+.sub-cat-btn:hover { border-color: var(--purple); color: var(--purple); }
+.sub-cat-btn.active { background: var(--purple-bg); color: var(--purple-text); border-color: #AFA9EC; }
+.cat-layout { display: grid; grid-template-columns: minmax(0,1fr) 260px; gap: 48px; align-items: start; }
+.featured-article { border: 0.5px solid var(--border); border-radius: 10px; padding: 1.75rem; margin-bottom: 2rem; background: var(--cream); display: grid; grid-template-columns: 1fr; }
+.featured-label { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent); font-weight: 500; margin-bottom: 10px; }
+.featured-title { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 700; line-height: 1.2; margin-bottom: 10px; }
+.featured-title em { font-style: italic; color: var(--accent); }
+.featured-excerpt { font-size: 15px; color: var(--text-secondary); line-height: 1.65; margin-bottom: 14px; }
+.featured-meta { font-size: 12px; color: var(--muted); margin-bottom: 14px; }
+.article-list { margin-bottom: 2.5rem; }
+.list-item { border-top: 0.5px solid var(--border); padding: 1.1rem 0; display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: start; }
+.list-item:last-child { border-bottom: 0.5px solid var(--border); }
+.list-item:hover .list-title { color: var(--accent); }
+.list-eyebrow { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+.list-sub-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--purple-text); font-weight: 500; }
+.list-new { font-size: 10px; background: var(--accent); color: #fff; padding: 1px 6px; border-radius: 2px; letter-spacing: 1px; text-transform: uppercase; font-weight: 500; }
+.list-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; line-height: 1.3; margin-bottom: 5px; transition: color .15s; }
+.list-excerpt { font-size: 13px; color: var(--text-secondary); line-height: 1.55; }
+.list-meta { font-size: 11px; color: var(--muted); white-space: nowrap; margin-top: 4px; }
+.list-read-time { font-size: 11px; color: var(--muted); margin-top: 4px; }
+.load-more { width: 100%; padding: 12px; border: 1.5px solid var(--border); border-radius: 8px; background: #fff; font-size: 14px; font-weight: 500; color: var(--text-secondary); cursor: pointer; font-family: 'DM Sans',sans-serif; transition: all .15s; }
+.load-more:hover { border-color: var(--accent); color: var(--accent); }
+.sidebar { position: sticky; top: 80px; }
+.sidebar-section { margin-bottom: 2rem; }
+.sidebar-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
+.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; }
+.other-cats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.other-cat-card { border: 0.5px solid var(--border); border-radius: 8px; padding: 10px 12px; text-align: center; font-size: 13px; font-weight: 500; color: var(--text-secondary); background: #fff; transition: all .15s; }
+.other-cat-card:hover { border-color: var(--accent); color: var(--accent); }
+.other-cat-card span { display: block; font-size: 20px; margin-bottom: 4px; }
+.top-item { display: flex; gap: 10px; padding: 7px 0; border-bottom: 0.5px solid #F0EBE0; align-items: flex-start; }
+.top-item:last-child { border-bottom: none; }
+.top-num { font-family: 'Playfair Display', serif; font-size: 20px; font-weight: 700; color: #E8E2D4; flex-shrink: 0; line-height: 1.2; }
+.top-title { font-size: 13px; line-height: 1.4; font-weight: 500; color: var(--text); }
+.top-title:hover { color: var(--accent); }
+.top-meta { font-size: 11px; color: var(--muted); margin-top: 2px; }
+</style>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div>
+      <a href="index.html" style="display:block;text-decoration:none;"><svg width="280" height="36" viewBox="0 0 420 52" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0,4)"><rect x="0" y="0" width="44" height="8" rx="2.5" fill="#C8693A"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="#EDD9A3"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="none" stroke="#C8693A" stroke-width="0.75"/><rect x="5" y="15" width="30" height="2.5" rx="1.25" fill="#C8693A" opacity="0.4"/><rect x="5" y="19" width="22" height="2.5" rx="1.25" fill="#1D9E75" opacity="0.65"/><rect x="0" y="28" width="44" height="8" rx="2.5" fill="#C8693A"/></g><text x="58" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#1C1A17">Center of the </text><text x="238" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#C8693A">Sandwich</text></svg></a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="category.html" class="active">AI at Work</a></li>
+      <li><a href="tools.html">Tools &amp; Tech</a></li>
+      <li><a href="news.html">News</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="site-wrap">
+  <div class="cat-hero">
+    <div class="cat-hero-inner">
+      <div>
+        <div class="cat-icon">🤖</div>
+        <h1>AI at <em>Work</em></h1>
+        <p>Practical, honest coverage of AI in the digital workplace — covering copilot adoption, agentic workflows, prompt engineering, and ROI. No hype, no doom. Just what's actually useful.</p>
+      </div>
+      <div class="cat-stats">
+        <div class="cat-stat"><div class="cat-stat-num">24</div><div class="cat-stat-label">Articles</div></div>
+        <div class="cat-stat"><div class="cat-stat-num">6</div><div class="cat-stat-label">This month</div></div>
+        <div class="cat-stat"><div class="cat-stat-num">~5</div><div class="cat-stat-label">Min avg read</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-cats">
+    <button class="sub-cat-btn active">All AI at Work</button>
+    <button class="sub-cat-btn">Copilots &amp; Assistants</button>
+    <button class="sub-cat-btn">Prompt Engineering</button>
+    <button class="sub-cat-btn">Adoption &amp; Strategy</button>
+    <button class="sub-cat-btn">Agentic AI</button>
+    <button class="sub-cat-btn">ROI &amp; Measurement</button>
+  </div>
+
+  <div class="cat-layout">
+    <main>
+      <div class="featured-article">
+        <div class="featured-label">⭐ Featured post</div>
+</span>
+        <h2 class="featured-title">The <em>AI Copilot Era</em> Is Here. Is Your Workplace Ready?</h2>
+        <p class="featured-excerpt">From Microsoft 365 Copilot to Google Gemini, AI is baked into every tool we touch. But adoption isn't the same as transformation. Here's what actually separates teams winning with AI from those just paying for licenses nobody uses.</p>
+        <div class="featured-meta">May 12, 2025 · DWP Guy · 8 min read</div>
+        <a class="read-more" href="article.html">Read the full story →</a>
+      </div>
+
+      <div class="section-label">All posts in AI at Work</div>
+      <div class="article-list">
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Prompt Engineering</span><span class="list-new">New</span></div>
+            <div class="list-title">Five prompts I use every morning before my first meeting</div>
+            <div class="list-excerpt">A personal routine that saves me 45 minutes a day. No exaggeration, no hype, just what works.</div>
+          </div>
+          <div>
+            <div class="list-meta">May 8</div>
+            <div class="list-read-time">4 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">ROI &amp; Measurement</span></div>
+            <div class="list-title">How to actually measure AI ROI without making up numbers</div>
+            <div class="list-excerpt">Every vendor has a ROI calculator. Here's why they're all wrong, and what to track instead.</div>
+          </div>
+          <div>
+            <div class="list-meta">May 4</div>
+            <div class="list-read-time">5 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Adoption &amp; Strategy</span></div>
+            <div class="list-title">Why your Copilot adoption rate is low, and it's not the technology</div>
+            <div class="list-excerpt">Change management, not features, is what separates 15% utilization from 70%. Here's the framework I use.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 29</div>
+            <div class="list-read-time">7 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Agentic AI</span></div>
+            <div class="list-title">Agentic AI in the workplace: what it actually means for IT teams</div>
+            <div class="list-excerpt">Agents that can take actions, not just generate text. This is the next wave, and here's what to prepare for.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 22</div>
+            <div class="list-read-time">6 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Copilots &amp; Assistants</span></div>
+            <div class="list-title">Microsoft Copilot vs Google Gemini for Work: an honest comparison after 3 months</div>
+            <div class="list-excerpt">I've been living in both. Here's where each one is genuinely better, and which one I'd bet on long-term.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 15</div>
+            <div class="list-read-time">9 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Prompt Engineering</span></div>
+            <div class="list-title">The ITSM prompt library: 20 prompts for IT service management</div>
+            <div class="list-excerpt">Copy these into your AI tool of choice. Covers incident classification, change advisory notes, and knowledge base drafting.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 8</div>
+            <div class="list-read-time">5 min</div>
+          </div>
+        </div>
+
+        <div class="list-item">
+          <div>
+            <div class="list-eyebrow"><span class="list-sub-cat">Adoption &amp; Strategy</span></div>
+            <div class="list-title">Building your internal AI champions program: a step-by-step guide</div>
+            <div class="list-excerpt">The single highest-ROI investment in your AI rollout isn't software. It's your power users.</div>
+          </div>
+          <div>
+            <div class="list-meta">Apr 1</div>
+            <div class="list-read-time">8 min</div>
+          </div>
+        </div>
+
+      </div>
+
+      <button class="load-more">Load older posts →</button>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="section-label">Topics in this category</div>
+        <div class="sidebar-box">
+          <div class="tag-cloud">
+            <span class="tag">Copilot</span><span class="tag">Gemini</span><span class="tag">Agents</span>
+            <span class="tag">Prompt engineering</span><span class="tag">Adoption</span>
+            <span class="tag">ROI</span><span class="tag">Microsoft 365</span>
+            <span class="tag">Change management</span><span class="tag">ITSM AI</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="section-label">Most read</div>
+        <div class="sidebar-box" style="padding:0.875rem;">
+          <a class="top-item" href="#">
+            <span class="top-num">01</span>
+            <div><div class="top-title">Microsoft Copilot vs Google Gemini: an honest comparison</div><div class="top-meta">9 min · Apr 15</div></div>
+          </a>
+          <a class="top-item" href="#">
+            <span class="top-num">02</span>
+            <div><div class="top-title">Why your Copilot adoption rate is low</div><div class="top-meta">7 min · Apr 29</div></div>
+          </a>
+          <a class="top-item" href="#">
+            <span class="top-num">03</span>
+            <div><div class="top-title">The ITSM prompt library: 20 prompts</div><div class="top-meta">5 min · Apr 8</div></div>
+          </a>
+          <a class="top-item" href="#">
+            <span class="top-num">04</span>
+            <div><div class="top-title">Building your internal AI champions program</div><div class="top-meta">8 min · Apr 1</div></div>
+          </a>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="section-label">Other categories</div>
+        <div class="other-cats">
+          <a class="other-cat-card" href="#"><span>🛠</span>Tools &amp; Tech</a>
+          <a class="other-cat-card" href="#"><span>💬</span>Culture</a>
+          <a class="other-cat-card" href="#"><span>📊</span>Strategy</a>
+          <a class="other-cat-card" href="#"><span>✍️</span>Personal</a>
+        </div>
+      </div>
+
+      <div class="sidebar-box" style="background:var(--cream-dark);border-color:var(--border-light);">
+        <h4>Newsletter</h4>
+        <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">AI at Work stories + takes, every Thursday.</p>
+        <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
+        <button class="btn-accent" style="width:100%;">Subscribe free</button>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>© 2025 centerofthesandwich.com</span>
+    <span>Digital Workplace · Tech · Trends · Personal</span>
+  </div>
+</footer>
+
+<script>
+document.querySelectorAll('.sub-cat-btn').forEach(btn => {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.sub-cat-btn').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+</script>
+</body>
+</html>
