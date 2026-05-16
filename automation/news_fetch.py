@@ -11,7 +11,7 @@ from pathlib import Path
 
 # Your Gemini API key — loaded from environment variable, never hardcoded
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 # Max stories per category to keep API costs minimal
 MAX_PER_CATEGORY = 4
