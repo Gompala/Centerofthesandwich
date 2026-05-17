@@ -65,18 +65,13 @@ news: _data/news.json
   <div class="news-layout">
     <main>
 
-      {% set aiStories = news.categories["ai-at-work"] %}
-      {% set toolsStories = news.categories["tools-tech"] %}
-      {% set cultureStories = news.categories["digital-culture"] %}
-      {% set industryStories = news.categories["industry-news"] %}
-
-      {% if aiStories and aiStories.length > 0 %}
+      {% if news.categories["ai-at-work"] and news.categories["ai-at-work"].length > 0 %}
       <div class="news-block">
         <div class="news-block-date">🤖 AI at Work</div>
-        {% for story in aiStories %}
+        {% for story in news.categories["ai-at-work"] %}
         <div class="news-item">
           <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | truncate(10, true, "") }}</span></div>
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | slice(0,10) | join }}</span></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
             {% if story.dwp_take %}
@@ -89,13 +84,13 @@ news: _data/news.json
       </div>
       {% endif %}
 
-      {% if toolsStories and toolsStories.length > 0 %}
+      {% if news.categories["tools-tech"] and news.categories["tools-tech"].length > 0 %}
       <div class="news-block">
         <div class="news-block-date">🛠 Tools &amp; Tech</div>
-        {% for story in toolsStories %}
+        {% for story in news.categories["tools-tech"] %}
         <div class="news-item">
           <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | truncate(10, true, "") }}</span></div>
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | slice(0,10) | join }}</span></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
             {% if story.dwp_take %}
@@ -108,13 +103,13 @@ news: _data/news.json
       </div>
       {% endif %}
 
-      {% if cultureStories and cultureStories.length > 0 %}
+      {% if news.categories["digital-culture"] and news.categories["digital-culture"].length > 0 %}
       <div class="news-block">
         <div class="news-block-date">💬 Digital Culture</div>
-        {% for story in cultureStories %}
+        {% for story in news.categories["digital-culture"] %}
         <div class="news-item">
           <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | truncate(10, true, "") }}</span></div>
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | slice(0,10) | join }}</span></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
             {% if story.dwp_take %}
@@ -127,13 +122,13 @@ news: _data/news.json
       </div>
       {% endif %}
 
-      {% if industryStories and industryStories.length > 0 %}
+      {% if news.categories["industry-news"] and news.categories["industry-news"].length > 0 %}
       <div class="news-block">
         <div class="news-block-date">📡 Industry News</div>
-        {% for story in industryStories %}
+        {% for story in news.categories["industry-news"] %}
         <div class="news-item">
           <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | truncate(10, true, "") }}</span></div>
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">{{ story.date | slice(0,10) | join }}</span></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
             {% if story.dwp_take %}
