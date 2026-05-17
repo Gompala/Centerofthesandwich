@@ -126,23 +126,27 @@ input:focus{border-color:var(--blue)}
 <div class="site-wrap">
 
   <div class="hero">
+    {% for post in collections.posts | reverse %}
+    {% if loop.index <= 1 %}
     <div>
       <div class="hero-badge"><span class="hero-badge-dot"></span> Featured today</div>
-      <h1 class="hero-title">The <em>AI Copilot Era</em> Is Here. Is Your Workplace Ready?</h1>
-      <p class="hero-deck">From Microsoft 365 Copilot to Google Gemini, AI is baked into every tool we touch. But adoption isn't the same as transformation. Here's what separates teams winning with AI from those just paying for licenses nobody uses.</p>
+      <h1 class="hero-title">{{ post.data.title }}</h1>
+      <p class="hero-deck">{{ post.data.excerpt }}</p>
       <div class="hero-meta">
-        <span>May 17, 2026</span>
+        <span>{{ post.data.date }}</span>
         <span class="hero-meta-dot"></span>
-        <span>8 min read</span>
+        <span>{{ post.data.readtime }} min read</span>
         <span class="hero-meta-dot"></span>
-        <span class="hero-meta-cat">AI at Work</span>
+        <span class="hero-meta-cat">{{ post.data.category }}</span>
       </div>
-      <a class="read-more btn" href="/article/">Read the full story →</a>
+      <a class="read-more btn" href="{{ post.url }}">Read the full story →</a>
     </div>
+    {% endif %}
+    {% endfor %}
     <div class="hero-side">
       <div class="hero-side-title">Also today</div>
       {% for post in collections.posts | reverse %}
-      {% if loop.index <= 3 %}
+      {% if loop.index > 1 and loop.index <= 4 %}
       <div class="mini-card">
         <div class="mini-cat" style="color:var(--blue);">{{ post.data.category }}</div>
         <div class="mini-title"><a href="{{ post.url }}" style="color:inherit;">{{ post.data.title }}</a></div>
@@ -177,26 +181,75 @@ input:focus{border-color:var(--blue)}
     {% endfor %}
   </div>
 
-  <div class="two-col">
-    <div>
-      <div class="section-label">News from around the web</div>
-      {% if news and news.categories %}
-        {% for story in news.categories["ai-at-work"] %}{% if loop.index <= 2 %}
-        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
-        {% endif %}{% endfor %}
-        {% for story in news.categories["tools-tech"] %}{% if loop.index <= 1 %}
-        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
-        {% endif %}{% endfor %}
-        {% for story in news.categories["digital-culture"] %}{% if loop.index <= 1 %}
-        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
-        {% endif %}{% endfor %}
-        {% for story in news.categories["industry-news"] %}{% if loop.index <= 1 %}
-        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
-        {% endif %}{% endfor %}
-      {% endif %}
-      <br>
-      <a class="read-more" href="/news/">See all news →</a>
+  <div class="section-label">Today's takes</div>
+  {% if news and news.categories %}
+    {% for story in news.categories["ai-at-work"] %}{% if loop.index <= 1 %}
+    <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+        <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
+        <span style="font-size:10px;background:var(--blue-bg);color:#1D4ED8;padding:2px 7px;border-radius:3px;font-weight:600;letter-spacing:1px;text-transform:uppercase;">AI at Work</span>
+      </div>
+      <a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:15px;font-weight:600;color:var(--text);line-height:1.4;display:block;margin-bottom:10px;">{{ story.title }}</a>
+      <div style="background:var(--blue-bg);border-left:3px solid var(--blue);border-radius:0 6px 6px 0;padding:10px 14px;">
+        <div style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--blue);font-weight:600;margin-bottom:4px;">DWP Guy's take</div>
+        <p style="font-size:13px;color:var(--text-secondary);margin:0;line-height:1.6;font-style:italic;">{{ story.dwp_take }}</p>
+      </div>
+      <div style="margin-top:10px;"><a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:12px;color:var(--blue);font-weight:600;">Read original ↗</a></div>
     </div>
+    {% endif %}{% endfor %}
+
+    {% for story in news.categories["tools-tech"] %}{% if loop.index <= 1 %}
+    <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+        <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
+        <span style="font-size:10px;background:var(--green-bg);color:#065F46;padding:2px 7px;border-radius:3px;font-weight:600;letter-spacing:1px;text-transform:uppercase;">Tools & Tech</span>
+      </div>
+      <a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:15px;font-weight:600;color:var(--text);line-height:1.4;display:block;margin-bottom:10px;">{{ story.title }}</a>
+      <div style="background:var(--green-bg);border-left:3px solid var(--green);border-radius:0 6px 6px 0;padding:10px 14px;">
+        <div style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--green);font-weight:600;margin-bottom:4px;">DWP Guy's take</div>
+        <p style="font-size:13px;color:var(--text-secondary);margin:0;line-height:1.6;font-style:italic;">{{ story.dwp_take }}</p>
+      </div>
+      <div style="margin-top:10px;"><a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:12px;color:var(--blue);font-weight:600;">Read original ↗</a></div>
+    </div>
+    {% endif %}{% endfor %}
+
+    {% for story in news.categories["digital-culture"] %}{% if loop.index <= 1 %}
+    <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+        <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
+        <span style="font-size:10px;background:var(--amber-bg);color:#92400E;padding:2px 7px;border-radius:3px;font-weight:600;letter-spacing:1px;text-transform:uppercase;">Digital Culture</span>
+      </div>
+      <a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:15px;font-weight:600;color:var(--text);line-height:1.4;display:block;margin-bottom:10px;">{{ story.title }}</a>
+      <div style="background:var(--amber-bg);border-left:3px solid var(--amber);border-radius:0 6px 6px 0;padding:10px 14px;">
+        <div style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--amber);font-weight:600;margin-bottom:4px;">DWP Guy's take</div>
+        <p style="font-size:13px;color:var(--text-secondary);margin:0;line-height:1.6;font-style:italic;">{{ story.dwp_take }}</p>
+      </div>
+      <div style="margin-top:10px;"><a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:12px;color:var(--blue);font-weight:600;">Read original ↗</a></div>
+    </div>
+    {% endif %}{% endfor %}
+
+    {% for story in news.categories["industry-news"] %}{% if loop.index <= 1 %}
+    <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+        <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
+        <span style="font-size:10px;background:var(--purple-bg);color:#5B21B6;padding:2px 7px;border-radius:3px;font-weight:600;letter-spacing:1px;text-transform:uppercase;">Industry News</span>
+      </div>
+      <a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:15px;font-weight:600;color:var(--text);line-height:1.4;display:block;margin-bottom:10px;">{{ story.title }}</a>
+      <div style="background:var(--purple-bg);border-left:3px solid var(--purple);border-radius:0 6px 6px 0;padding:10px 14px;">
+        <div style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--purple);font-weight:600;margin-bottom:4px;">DWP Guy's take</div>
+        <p style="font-size:13px;color:var(--text-secondary);margin:0;line-height:1.6;font-style:italic;">{{ story.dwp_take }}</p>
+      </div>
+      <div style="margin-top:10px;"><a href="{{ story.url }}" target="_blank" rel="noopener noreferrer" style="font-size:12px;color:var(--blue);font-weight:600;">Read original ↗</a></div>
+    </div>
+    {% endif %}{% endfor %}
+  {% endif %}
+
+  <div style="text-align:center;margin-bottom:2.5rem;">
+    <a class="read-more" href="/news/">See all news and takes →</a>
+  </div>
+
+  <div style="display:grid;grid-template-columns:1fr 280px;gap:2rem;margin-bottom:2.5rem;">
+    <div></div>
     <div>
       <div class="sidebar-box">
         <h4>Hot right now</h4>
@@ -204,7 +257,7 @@ input:focus{border-color:var(--blue)}
           <span class="tag">Copilot</span><span class="tag">ITSM</span><span class="tag">Hybrid work</span>
           <span class="tag">ServiceNow</span><span class="tag">Agentic AI</span>
           <span class="tag">Microsoft 365</span><span class="tag">Slack</span>
-          <span class="tag">Employee EX</span><span class="tag">Digital adoption</span>
+          <span class="tag">Employee EX</span>
         </div>
       </div>
       <div class="nl-box">
