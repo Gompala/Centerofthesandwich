@@ -1,0 +1,175 @@
+---
+news: _data/news.json
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center of the Sandwich — Digital Workplace & Tech</title>
+<link rel="stylesheet" href="/shared.css">
+<style>
+.hero { padding: 3rem 0 0; display: grid; grid-template-columns: 1fr 320px; gap: 3rem; align-items: start; margin-bottom: 3rem; }
+.hero-badge { display: inline-flex; align-items: center; gap: 6px; background: var(--blue-bg); color: #1D4ED8; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; padding: 4px 10px; border-radius: 4px; font-weight: 600; margin-bottom: 14px; }
+.hero-badge-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--blue); animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+.hero-title { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 38px; line-height: 1.15; margin-bottom: 14px; color: var(--text); }
+.hero-title em { font-style: italic; color: var(--blue); }
+.hero-deck { font-size: 15px; line-height: 1.75; color: var(--text-secondary); margin-bottom: 20px; }
+.hero-meta { display: flex; align-items: center; gap: 10px; font-size: 12px; color: var(--text-muted); margin-bottom: 18px; }
+.hero-meta-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--border); }
+.hero-meta-cat { color: var(--blue); font-weight: 500; }
+.hero-side { display: flex; flex-direction: column; gap: 10px; padding-top: 0.5rem; }
+.hero-side-title { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; font-weight: 600; }
+.mini-card { background: var(--white); border: 0.5px solid var(--border); border-radius: 8px; padding: 12px 14px; transition: all .15s; border-left: 3px solid transparent; }
+.mini-card:hover { border-left-color: var(--blue); box-shadow: 0 4px 12px rgba(37,99,235,.06); }
+.mini-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; margin-bottom: 4px; }
+.mini-title { font-size: 13px; font-weight: 500; color: var(--text); line-height: 1.4; margin-bottom: 4px; }
+.mini-meta { font-size: 11px; color: var(--text-muted); }
+.cats-strip { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 2.5rem; }
+.cards-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 2.5rem; }
+.card-cat { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; margin-bottom: 8px; }
+.card-title { font-family: 'Playfair Display', serif; font-size: 15px; font-weight: 700; line-height: 1.35; margin-bottom: 8px; color: var(--text); }
+.card-excerpt { font-size: 12px; line-height: 1.6; color: var(--text-secondary); margin-bottom: 10px; }
+.card-meta { font-size: 11px; color: var(--text-muted); }
+.two-col { display: grid; grid-template-columns: 1fr 280px; gap: 2.5rem; margin-bottom: 2.5rem; }
+.news-row { padding: 12px 0; border-bottom: 0.5px solid var(--border-light); display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start; }
+.news-source { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-muted); font-weight: 600; margin-bottom: 3px; }
+.news-headline { font-size: 14px; font-weight: 500; line-height: 1.45; color: var(--text); display: block; }
+.news-headline:hover { color: var(--blue); }
+.news-age { font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; }
+</style>
+</head>
+<body>
+
+<div class="nav-ticker">🥪 The best part of the digital workplace — delivered fresh every day</div>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" class="nav-logo">
+      <svg class="nav-mark" width="32" height="32" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="8" width="46" height="9" rx="3" fill="#4F9CF9"/><rect x="5" y="20" width="46" height="16" rx="3" fill="#1E3A5F"/><rect x="5" y="20" width="46" height="16" rx="3" fill="none" stroke="#4F9CF9" stroke-width="0.75"/><rect x="10" y="24" width="30" height="3" rx="1.5" fill="#4F9CF9" opacity="0.5"/><rect x="10" y="29" width="22" height="3" rx="1.5" fill="#10B981" opacity="0.7"/><rect x="5" y="39" width="46" height="9" rx="3" fill="#4F9CF9"/></svg>
+      <span class="nav-logo-text">Center of the <span>Sandwich</span></span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="/" class="active">Home</a></li>
+      <li><a href="/category/">AI at Work</a></li>
+      <li><a href="/tools/">Tools &amp; Tech</a></li>
+      <li><a href="/news/">News</a></li>
+      <li><a href="/about/">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="site-wrap">
+
+  <div class="hero">
+    <div>
+      <div class="hero-badge"><span class="hero-badge-dot"></span> Featured today</div>
+      <h1 class="hero-title">The <em>AI Copilot Era</em> Is Here. Is Your Workplace Ready?</h1>
+      <p class="hero-deck">From Microsoft 365 Copilot to Google Gemini, AI is baked into every tool we touch. But adoption isn't the same as transformation. Here's what separates teams winning with AI from those just paying for licenses nobody uses.</p>
+      <div class="hero-meta">
+        <span>May 17, 2026</span>
+        <span class="hero-meta-dot"></span>
+        <span>8 min read</span>
+        <span class="hero-meta-dot"></span>
+        <span class="hero-meta-cat">AI at Work</span>
+      </div>
+      <a class="read-more btn" href="/article/">Read the full story →</a>
+    </div>
+    <div class="hero-side">
+      <div class="hero-side-title">Also today</div>
+      {% for post in collections.posts | reverse %}
+      {% if loop.index <= 3 %}
+      <div class="mini-card">
+        <div class="mini-cat" style="color:var(--blue);">{{ post.data.category }}</div>
+        <div class="mini-title"><a href="{{ post.url }}" style="color:inherit;">{{ post.data.title }}</a></div>
+        <div class="mini-meta">{{ post.data.readtime }} min read</div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="section-label">Browse by category</div>
+  <div class="cats-strip">
+    <a href="/category/" class="cat-pill pill-ai">🤖 AI at Work</a>
+    <a href="/tools/"    class="cat-pill pill-tools">🛠 Tools &amp; Tech</a>
+    <a href="#"          class="cat-pill pill-culture">💬 Digital Culture</a>
+    <a href="/news/"     class="cat-pill pill-news">📡 Industry News</a>
+    <a href="#"          class="cat-pill pill-strat">📊 Strategy</a>
+    <a href="/about/"    class="cat-pill pill-personal">✍️ Personal</a>
+  </div>
+
+  <div class="section-label">Latest posts</div>
+  <div class="cards-grid">
+    {% for post in collections.posts | reverse %}
+    {% if loop.index <= 3 %}
+    <div class="card">
+      <div class="card-cat" style="color:var(--blue);">{{ post.data.category }}</div>
+      <div class="card-title"><a href="{{ post.url }}" style="color:inherit;">{{ post.data.title }}</a></div>
+      <div class="card-excerpt">{{ post.data.excerpt }}</div>
+      <div class="card-meta">{{ post.data.date }} · {{ post.data.readtime }} min read</div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="two-col">
+    <div>
+      <div class="section-label">News from around the web</div>
+      {% if news and news.categories %}
+        {% for story in news.categories["ai-at-work"] %}{% if loop.index <= 2 %}
+        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
+        {% endif %}{% endfor %}
+        {% for story in news.categories["tools-tech"] %}{% if loop.index <= 1 %}
+        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
+        {% endif %}{% endfor %}
+        {% for story in news.categories["digital-culture"] %}{% if loop.index <= 1 %}
+        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
+        {% endif %}{% endfor %}
+        {% for story in news.categories["industry-news"] %}{% if loop.index <= 1 %}
+        <div class="news-row"><div><div class="news-source">{{ story.source }}</div><a class="news-headline" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a></div><div class="news-age">Today</div></div>
+        {% endif %}{% endfor %}
+      {% endif %}
+      <br>
+      <a class="read-more" href="/news/">See all news →</a>
+    </div>
+    <div>
+      <div class="sidebar-box">
+        <h4>Hot right now</h4>
+        <div class="tag-cloud">
+          <span class="tag">Copilot</span><span class="tag">ITSM</span><span class="tag">Hybrid work</span>
+          <span class="tag">ServiceNow</span><span class="tag">Agentic AI</span>
+          <span class="tag">Microsoft 365</span><span class="tag">Slack</span>
+          <span class="tag">Employee EX</span><span class="tag">Digital adoption</span>
+        </div>
+      </div>
+      <div class="nl-box">
+        <h4>Get the weekly sandwich</h4>
+        <p>The best of the digital workplace, every Thursday. No fluff.</p>
+        <input type="email" placeholder="your@email.com">
+        <button class="btn-accent">Subscribe free</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="about-strip">
+    <div class="about-avatar">DWP</div>
+    <div>
+      <div class="about-name">Hey — I'm DWP Guy.</div>
+      <div class="about-bio">30 years in the digital workplace. I've seen every trend, survived every platform migration, and I'm still here writing about what actually matters. No crusts. No filler. <a href="/about/">Learn more →</a></div>
+    </div>
+  </div>
+
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>© 2026 centerofthesandwich.com</span>
+    <span>Digital Workplace · Tech · Trends · Personal</span>
+  </div>
+</footer>
+
+</body>
+</html>
