@@ -1,5 +1,5 @@
 [build]
-  command = "npx @11ty/eleventy"
+  command = "npx @11ty/eleventy && cp shared.css _site/shared.css"
   publish = "_site"
 
 [build.environment]
