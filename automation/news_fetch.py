@@ -12,11 +12,12 @@ from pathlib import Path
 # CONFIGURATION
 # ============================================================
 
-# Your Gemini API key — loaded from environment variable, never hardcoded
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+# Anthropic API key — loaded from environment variable, never hardcoded
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 
-# Max stories per category to keep API costs minimal
+# Max stories per category
 MAX_PER_CATEGORY = 4
 
 # RSS sources by category
@@ -95,9 +96,9 @@ def fetch_feed(source):
 
 
 def generate_take(title, excerpt, source):
-    """Call Gemini API to write a DWP Guy summary and take."""
-    if not GEMINI_API_KEY:
-        print("No Gemini API key found — skipping AI generation")
+    """Call Anthropic API to write a DWP Guy summary and take."""
+    if not ANTHROPIC_API_KEY:
+        print("No Anthropic API key found — skipping AI generation")
         return excerpt[:200]
 
     prompt = (
@@ -119,28 +120,32 @@ def generate_take(title, excerpt, source):
 
     try:
         response = requests.post(
-            f"{GEMINI_URL}?key={GEMINI_API_KEY}",
-            headers={"Content-Type": "application/json"},
-            json={
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {
-                    "temperature": 0.7,
-                    "maxOutputTokens": 500
-                }
+            ANTHROPIC_URL,
+            headers={
+                "Content-Type": "application/json",
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01"
             },
-            timeout=15
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 300,
+                "messages": [
+                    {"role": "user", "content": prompt}
+                ]
+            },
+            timeout=30
         )
-        print(f"    Gemini status: {response.status_code}")
+        print(f"    Anthropic status: {response.status_code}")
         data = response.json()
-        if "candidates" in data:
-            time.sleep(15)  # Wait 15 seconds between calls to respect rate limits
-            return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        if "content" in data:
+            time.sleep(2)
+            return data["content"][0]["text"].strip()
         else:
-            print(f"    Gemini response: {data}")
-            time.sleep(15)
+            print(f"    Anthropic response: {data}")
+            time.sleep(2)
             return excerpt[:200]
     except Exception as e:
-        print(f"Gemini API error: {e}")
+        print(f"Anthropic API error: {e}")
         return excerpt[:200]
 
 
