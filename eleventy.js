@@ -2,11 +2,13 @@ const fs = require('fs');
 const path = require('path');
 
 module.exports = function(eleventyConfig) {
+  // Copy entire directories and files to output
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("logo");
-  eleventyConfig.addPassthroughCopy("styles.css");
   eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addWatchTarget("./styles.css");
+  
+  // Copy CSS using glob
+  eleventyConfig.addPassthroughCopy("**/*.css");
 
   eleventyConfig.addGlobalData("news", () => {
     const newsFile = path.join(__dirname, "_data", "news.json");
