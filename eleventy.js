@@ -4,9 +4,9 @@ const path = require('path');
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("logo");
-  eleventyConfig.addPassthroughCopy({ "shared.css": "shared.css" });
+  eleventyConfig.addPassthroughCopy("styles.css");
   eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addWatchTarget("./shared.css");
+  eleventyConfig.addWatchTarget("./styles.css");
 
   eleventyConfig.addGlobalData("news", () => {
     const newsFile = path.join(__dirname, "_data", "news.json");
