@@ -125,7 +125,7 @@ def generate_take(title, excerpt, source):
                 "contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {
                     "temperature": 0.7,
-                    "maxOutputTokens": 300
+                    "maxOutputTokens": 500
                 }
             },
             timeout=15
@@ -133,11 +133,11 @@ def generate_take(title, excerpt, source):
         print(f"    Gemini status: {response.status_code}")
         data = response.json()
         if "candidates" in data:
-            time.sleep(7)  # Wait 7 seconds between calls to respect rate limits
+            time.sleep(15)  # Wait 15 seconds between calls to respect rate limits
             return data["candidates"][0]["content"]["parts"][0]["text"].strip()
         else:
             print(f"    Gemini response: {data}")
-            time.sleep(7)
+            time.sleep(15)
             return excerpt[:200]
     except Exception as e:
         print(f"Gemini API error: {e}")
