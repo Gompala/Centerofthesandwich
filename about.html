@@ -10,9 +10,9 @@
 .about-main {}
 .about-hero { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1.5px solid var(--border); }
 .about-hero-top { display: flex; align-items: center; gap: 24px; margin-bottom: 1.75rem; }
-.about-avatar-xl { width: 88px; height: 88px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 22px; font-weight: 500; flex-shrink: 0; letter-spacing: 1px; border: 3px solid var(--border-light); }
+.about-avatar-xl { width: 88px; height: 88px; border-radius: 50%; background: var(--blue); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 22px; font-weight: 500; flex-shrink: 0; letter-spacing: 1px; border: 3px solid var(--border-light); }
 .about-hero-name { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 36px; line-height: 1.1; margin-bottom: 6px; }
-.about-hero-name em { font-style: italic; color: var(--accent); }
+.about-hero-name em { font-style: italic; color: var(--blue); }
 .about-tagline { font-size: 15px; color: var(--text-secondary); line-height: 1.5; }
 .about-hero-intro { font-family: 'Playfair Display', serif; font-size: 20px; font-style: italic; line-height: 1.6; color: var(--text-secondary); margin-bottom: 1.25rem; }
 .about-hero-body { font-size: 16px; line-height: 1.8; color: var(--text); }
@@ -23,40 +23,40 @@
 .timeline::before { content: ''; position: absolute; left: 7px; top: 6px; bottom: 6px; width: 1.5px; background: var(--border); }
 .timeline-item { position: relative; margin-bottom: 1.75rem; }
 .timeline-item:last-child { margin-bottom: 0; }
-.timeline-dot { position: absolute; left: -24px; top: 5px; width: 14px; height: 14px; border-radius: 50%; background: var(--accent); border: 2px solid #fff; outline: 1.5px solid var(--border); }
+.timeline-dot { position: absolute; left: -24px; top: 5px; width: 14px; height: 14px; border-radius: 50%; background: var(--blue); border: 2px solid #fff; outline: 1.5px solid var(--border); }
 .timeline-dot.muted { background: var(--border); }
-.timeline-era { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); font-weight: 500; margin-bottom: 4px; }
+.timeline-era { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--text-muted); font-weight: 500; margin-bottom: 4px; }
 .timeline-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; margin-bottom: 6px; line-height: 1.3; }
 .timeline-body { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
 .beliefs-section { margin-bottom: 2.5rem; padding-bottom: 2.5rem; border-bottom: 1.5px solid var(--border); }
 .belief-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 1rem; }
-.belief-card { background: var(--cream); border: 0.5px solid var(--border); border-radius: 8px; padding: 1.1rem; }
+.belief-card { background: var(--surface); border: 0.5px solid var(--border); border-radius: 8px; padding: 1.1rem; }
 .belief-icon { font-size: 24px; margin-bottom: 8px; }
 .belief-title { font-size: 14px; font-weight: 500; margin-bottom: 5px; }
 .belief-body { font-size: 13px; color: var(--text-secondary); line-height: 1.55; }
 .writing-section { margin-bottom: 2.5rem; }
 .writing-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 1rem; }
-.writing-card { border: 0.5px solid var(--border); border-radius: 8px; padding: 1rem; background: var(--cream); transition: border-color .15s; }
-.writing-card:hover { border-color: var(--accent); }
+.writing-card { border: 0.5px solid var(--border); border-radius: 8px; padding: 1rem; background: var(--surface); transition: border-color .15s; }
+.writing-card:hover { border-color: var(--blue); }
 .writing-card-cat { margin-bottom: 6px; }
 .writing-card-title { font-size: 14px; font-weight: 500; line-height: 1.4; margin-bottom: 4px; color: var(--text); }
-.writing-card-meta { font-size: 11px; color: var(--muted); }
+.writing-card-meta { font-size: 11px; color: var(--text-muted); }
 .sidebar { position: sticky; top: 80px; }
 .sidebar-section { margin-bottom: 2rem; }
-.sidebar-profile { background: var(--cream-dark); border: 1px solid var(--border-light); border-radius: 10px; padding: 1.5rem; text-align: center; margin-bottom: 20px; }
-.sidebar-avatar { width: 64px; height: 64px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 16px; font-weight: 500; margin: 0 auto 12px; }
+.sidebar-profile { background: var(--blue-bg); border: 1px solid var(--border-light); border-radius: 10px; padding: 1.5rem; text-align: center; margin-bottom: 20px; }
+.sidebar-avatar { width: 64px; height: 64px; border-radius: 50%; background: var(--blue); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 16px; font-weight: 500; margin: 0 auto 12px; }
 .sidebar-name { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; margin-bottom: 4px; }
-.sidebar-role { font-size: 12px; color: var(--muted); margin-bottom: 12px; line-height: 1.4; }
+.sidebar-role { font-size: 12px; color: var(--text-muted); margin-bottom: 12px; line-height: 1.4; }
 .social-links { display: flex; flex-direction: column; gap: 8px; }
 .social-link { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-secondary); border: 0.5px solid var(--border); border-radius: 6px; padding: 8px 12px; background: #fff; transition: all .15s; }
-.social-link:hover { border-color: var(--accent); color: var(--accent); }
+.social-link:hover { border-color: var(--blue); color: var(--blue); }
 .social-icon { width: 18px; height: 18px; flex-shrink: 0; }
 .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-.stat-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 0.875rem; text-align: center; }
-.stat-num { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 700; color: var(--accent); line-height: 1; margin-bottom: 4px; }
-.stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
-.sidebar-box { background: var(--cream-mid); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
-.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.stat-box { background: var(--surface); border: 1px solid var(--border-light); border-radius: 8px; padding: 0.875rem; text-align: center; }
+.stat-num { font-family: 'Playfair Display', serif; font-size: 24px; font-weight: 700; color: var(--blue); line-height: 1; margin-bottom: 4px; }
+.stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; }
+.sidebar-box { background: var(--surface); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
+.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 12px; }
 .exp-item { font-size: 13px; padding: 5px 0; border-bottom: 0.5px solid #F0EBE0; color: var(--text-secondary); line-height: 1.4; }
 .exp-item:last-child { border-bottom: none; }
 .exp-item strong { color: var(--text); font-weight: 500; }
@@ -66,9 +66,10 @@
 
 <nav class="site-nav">
   <div class="nav-inner">
-    <div>
-      <a href="/" style="display:block;text-decoration:none;"><svg width="280" height="36" viewBox="0 0 420 52" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0,4)"><rect x="0" y="0" width="44" height="8" rx="2.5" fill="#C8693A"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="#EDD9A3"/><rect x="0" y="11" width="44" height="14" rx="2.5" fill="none" stroke="#C8693A" stroke-width="0.75"/><rect x="5" y="15" width="30" height="2.5" rx="1.25" fill="#C8693A" opacity="0.4"/><rect x="5" y="19" width="22" height="2.5" rx="1.25" fill="#1D9E75" opacity="0.65"/><rect x="0" y="28" width="44" height="8" rx="2.5" fill="#C8693A"/></g><text x="58" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#1C1A17">Center of the </text><text x="238" y="34" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="26" fill="#C8693A">Sandwich</text></svg></a>
-    </div>
+    <a href="/" class="nav-logo">
+      <svg class="nav-mark" width="32" height="32" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="8" width="46" height="9" rx="3" fill="#4F9CF9"/><rect x="5" y="20" width="46" height="16" rx="3" fill="#1E3A5F"/><rect x="5" y="20" width="46" height="16" rx="3" fill="none" stroke="#4F9CF9" stroke-width="0.75"/><rect x="10" y="24" width="30" height="3" rx="1.5" fill="#4F9CF9" opacity="0.5"/><rect x="10" y="29" width="22" height="3" rx="1.5" fill="#10B981" opacity="0.7"/><rect x="5" y="39" width="46" height="9" rx="3" fill="#4F9CF9"/></svg>
+      <span class="nav-logo-text">Center of the <span>Sandwich</span></span>
+    </a>
     <ul class="nav-links">
       <li><a href="/">Home</a></li>
       <li><a href="/category/">AI at Work</a></li>
@@ -241,7 +242,7 @@
         </div>
       </div>
 
-      <div class="sidebar-box" style="background:var(--cream-dark);border-color:var(--border-light);">
+      <div class="sidebar-box" style="background:var(--blue-bg);border-color:var(--border-light);">
         <h4>Get the newsletter</h4>
         <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">30 years of pattern recognition, delivered every Thursday.</p>
         <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
