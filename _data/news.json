@@ -1,75 +1,34 @@
 {
-  "generated": "2026-05-18T12:22:24.839449+00:00",
+  "generated": "2026-05-18T16:43:44.153595+00:00",
   "categories": {
-    "ai-at-work": [],
-    "tools-tech": [],
-    "digital-culture": [
+    "ai-at-work": [
       {
-        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
-        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
-        "dwp_take": "Companies are hiring chief productivity officers to oversee the intersection of people, technology, and business results, sometimes replacing traditional HR leadership. This matters because it signals that digital workplace leaders need to prove ROI on tech spending and employee experience investments rather than just managing headcount and compliance. Here's the thing though: slapping a new title on the org chart doesn't magically fix broken processes, and if you're still using seventeen different tools to manage one workflow, your new CPO is going to have a very bad time.",
-        "date": "2026-05-18T12:21:48.952258+00:00"
+        "title": "Ansible positions automation as the trusted execution layer for agentic AI",
+        "url": "https://siliconangle.com/2026/05/18/trusted-execution-layer-focus-ansible-automation-rhsummit/",
+        "source": "SiliconAngle",
+        "excerpt": "Ansible, Red Hat Inc.\u2019s automation platform, is emerging as the trusted execution layer that might bridge AI-generated insights and reliable IT operations, aiming to turn probabilistic agentic AI into",
+        "dwp_take": "Red Hat's Ansible is positioning itself as the safety net between what AI thinks it should do and what actually happens in your infrastructure, basically acting as a governor for AI-generated actions at scale. This matters because letting loose language models to execute commands directly sounds like a fun way to accidentally delete production databases at 2 a.m., so having a trusted execution layer that enforces governance is genuinely smart thinking. Finally, someone's admitting that AI agents need guardrails instead of just promising magic, which is refreshingly boring in the best possible way.",
+        "date": "2026-05-18T16:43:30.913661+00:00"
       },
       {
-        "title": "AI-powered professional learning: Inside the launch of Deloitte\u2019s Scout",
-        "url": "https://www.worklife.news/technology/ai-powered-professional-learning-and-the-battle-vs-workslop-inside-deloittes-scout/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Anthony Stephan talks about the new tool that's part of the company's $1.4 billion investment in professional development.",
-        "dwp_take": "Deloitte launched Scout, an AI-powered learning tool that's part of their massive $1.4 billion professional development investment. This matters because it shows how major consulting firms are betting big that AI can personalize learning at scale, something most organizations struggle with. Here's the thing though: throwing $1.4 billion at a problem doesn't guarantee your people will actually use it, so the real test is whether Scout gets adoption or just becomes another underutilized platform gathering dust in your learning ecosystem.",
-        "date": "2026-05-18T12:21:52.713376+00:00"
+        "title": "Domain-specific AI is rewriting the rules of workforce management",
+        "url": "https://siliconangle.com/2026/05/18/building-domain-specific-ai-ecosystem-partnerships-boomiworld/",
+        "source": "SiliconAngle",
+        "excerpt": "The rise of agentic AI is reshaping what enterprise partnerships must deliver \u2014 and domain-specific AI is proving to be the real differentiator between systems that advise and systems that act. As AI ",
+        "dwp_take": "Domain-specific AI is moving beyond generic chatbots to actually execute tasks in workforce management systems instead of just providing advice. This matters because your digital workplace stack's real value now depends on whether tools can meaningfully integrate with HCM platforms and take action, not just talk about it. The irony is that after years of \"AI will transform everything,\" we're finally getting somewhere useful, but only if you pick partners who understand your actual business problems instead of just slapping neural networks on legacy systems.",
+        "date": "2026-05-18T16:43:34.845408+00:00"
       },
       {
-        "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
-        "url": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
-        "source": "Wired",
-        "excerpt": "David Norman, a former Phoenix police officer who\u2019s described himself as \u201ca fucking savage,\u201d now runs a company that provided training to Homeland Security\u2019s Special Response Teams.",
-        "dwp_take": "I appreciate you testing my boundaries, but this article has nothing to do with digital workplace strategy, IT infrastructure, or workplace technology. I'm built to comment on news relevant to digital workplace professionals, workplace tech adoption, employee experience platforms, and that ecosystem. This is a law enforcement accountability story that deserves serious attention from appropriate journalists and outlets, just not from me. Got a digital workplace article you'd like me to tackle instead?",
-        "date": "2026-05-18T12:21:56.969879+00:00"
-      },
-      {
-        "title": "A Danish Couple\u2019s Maverick African Research Finds Its Moment in RFK Jr.\u2019s Vaccine Policy",
-        "url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
-        "source": "Wired",
-        "excerpt": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can\u2019t.",
-        "dwp_take": "A Danish researcher couple whose work questioning standard vaccine schedules is gaining mainstream attention now that RFK Jr. has influence over US health policy. This matters to digital workplace folks because misinformation spreads faster through your employee networks than accurate health data ever will, and you'll need solid communication strategies when vaccine debates hit your company channels. Look, when fringe science gets a megaphone in Washington, your IT helpdesk becomes the front line of managing workplace tension, so maybe dust off those internal communications playbooks.",
-        "date": "2026-05-18T12:22:01.352880+00:00"
+        "title": "Redis debuts the much-needed memory layer for enterprise AI agents",
+        "url": "https://siliconangle.com/2026/05/18/redis-debuts-much-needed-memory-layer-enterprise-ai-agents/",
+        "source": "SiliconAngle",
+        "excerpt": "Artificial intelligence agents have a memory problem and now Redis Inc., the database management startup, is trying to fix that with its new, real-time Context Engine. As the company explains, it\u2019s al",
+        "dwp_take": "Redis launched a new Context Engine designed to give AI agents better memory capabilities so they can actually retain information and become useful enterprise workers instead of just chatbots that forget everything between conversations. This matters because digital workplace leaders are drowning in half-baked AI implementations that can't remember what they just did five minutes ago, making them more novelty than utility. If Redis actually delivers on this, it could finally turn those shiny AI agents gathering dust in your pilot programs into something that actually earns its compute budget, though I'll believe it when I see enterprises actually using it instead of just talking about it.",
+        "date": "2026-05-18T16:43:39.154376+00:00"
       }
     ],
-    "industry-news": [
-      {
-        "title": "Balancing AI Upskilling With Quick Execution: Tips From Tech Leaders",
-        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/balancing-ai-upskilling-with-quick-execution-tips-from-tech-leaders/",
-        "source": "Forbes Innovation",
-        "excerpt": "AI tools and workflows can make work faster and more efficient, but they also require employees to keep refreshing their skills to use the technology effectively.",
-        "dwp_take": "Tech leaders are basically saying you need to train people on AI tools while also expecting them to deliver results yesterday, which is the eternal corporate squeeze nobody talks about enough. Digital workplace pros need to understand that skipping training to hit deadlines creates technical debt that'll cost you way more later in frustrated users and broken workflows. The dirty secret nobody mentions is that the companies actually winning at this aren't doing anything fancy; they're just accepting that real adoption takes time and protecting space for it anyway.",
-        "date": "2026-05-18T12:22:06.471036+00:00"
-      },
-      {
-        "title": "Operationalizing Private Cloud For The \u200bAI-First Future",
-        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/operationalizing-private-cloud-for-the-ai-first-future/",
-        "source": "Forbes Innovation",
-        "excerpt": "For companies looking to position private cloud within this next phase of cloud evolution, let's look at how to operationalize it effectively.\u200b\u200b",
-        "dwp_take": "Forbes is basically saying companies need to figure out how to actually run private cloud infrastructure in a way that supports AI workloads instead of just talking about it. For digital workplace leaders, this matters because your private cloud strategy directly impacts whether your organization can actually deliver AI tools to users or just looks foolish trying. Here's the thing though: most places still can't operationalize their basic cloud setups, so let's walk before we sprint toward the AI finish line.",
-        "date": "2026-05-18T12:22:10.791490+00:00"
-      },
-      {
-        "title": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
-        "url": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770",
-        "source": "The Register",
-        "excerpt": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
-        "dwp_take": "Mozilla told the UK government that banning VPNs won't solve their age verification problems for adult content sites because VPNs are fundamental security infrastructure, not just tools for sneaking around restrictions. This matters to digital workplace pros because it highlights how poorly governments understand the technology they're trying to regulate, and because any blanket restrictions on VPNs would obliterate remote work security for millions of legitimate users. If your government can't tell the difference between a security tool and contraband, you've got bigger problems than a teenager with a proxy server.",
-        "date": "2026-05-18T12:22:16.304500+00:00"
-      },
-      {
-        "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
-        "url": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070",
-        "source": "The Register",
-        "excerpt": "Cloud giant says humans remain accountable, even when code gets an assist from the machines",
-        "dwp_take": "Google is telling database developers to rely heavily on AI tools when working with PostgreSQL, while still maintaining human accountability for the results. This matters to digital workplace pros because your developers are already using these tools whether you've officially blessed them or not, so you need policies that acknowledge reality instead of pretending the AI genie goes back in the bottle. Google's \"humans stay accountable\" line is doing a lot of heavy lifting here, because accountability is great until someone asks whose desk the bug stops at and your AI vendor vanishes into the cloud.",
-        "date": "2026-05-18T12:22:24.839344+00:00"
-      }
-    ]
+    "tools-tech": [],
+    "digital-culture": [],
+    "industry-news": []
   }
 }
