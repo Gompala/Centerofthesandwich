@@ -35,7 +35,7 @@ SOURCES = {
     "digital-culture": [
         {"name": "Fast Company", "url": "https://fastcompany.com/work-life/rss"},
         {"name": "WorkLife", "url": "https://worklife.news/feed"},
-        {"name": "Wired", "url": "https://wired.com/feed/rss"},
+        {"name": "Wired", "url": "https://wired.com/feed/category/business/rss"},
     ],
     "industry-news": [
         {"name": "HR Dive", "url": "https://hrdive.com/feeds/news/"},
@@ -45,13 +45,17 @@ SOURCES = {
 }
 
 # Keywords that indicate digital workplace relevance
+# Requires at least 2 matches - keeping these specific to avoid off-topic articles
 RELEVANCE_KEYWORDS = [
-    "workplace", "work", "employee", "enterprise", "productivity", "collaboration",
-    "remote", "hybrid", "office", "microsoft", "slack", "teams", "zoom", "google",
+    "workplace", "employee", "enterprise", "productivity", "collaboration",
+    "remote work", "hybrid work", "microsoft", "slack", "teams", "zoom", "google workspace",
     "servicenow", "jira", "itsm", "helpdesk", "service desk", "intranet", "sharepoint",
-    "copilot", "ai", "automation", "digital", "workforce", "hr", "human resources",
-    "saas", "cloud", "software", "platform", "tool", "app", "technology", "tech",
-    "leadership", "management", "culture", "future of work", "return to office"
+    "copilot", "artificial intelligence", "ai tool", "ai adoption", "automation",
+    "digital workplace", "workforce", "human resources", "hr tech",
+    "saas", "cloud computing", "software", "platform", "it department",
+    "leadership", "management", "future of work", "return to office",
+    "cybersecurity", "data breach", "enterprise software", "cio", "cto",
+    "work from home", "distributed team", "knowledge worker", "digital transformation"
 ]
 
 # ============================================================
@@ -62,7 +66,7 @@ def is_relevant(title, excerpt):
     """Check if article is relevant to digital workplace topics."""
     text = (title + " " + excerpt).lower()
     matches = sum(1 for kw in RELEVANCE_KEYWORDS if kw in text)
-    return matches >= 2
+    return matches >= 3
 
 
 def fetch_feed(source):
