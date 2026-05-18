@@ -1,132 +1,99 @@
 {
-  "generated": "2026-05-18T12:13:47.492200+00:00",
+  "generated": "2026-05-18T12:17:35.103408+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Forcepoint details TeamPCP supply chain attack that turned LiteLLM into a credential stealer",
-        "url": "https://siliconangle.com/2026/05/18/forcepoint-details-teampcp-supply-chain-attack-turned-litellm-credential-stealer/",
+        "title": "Red Hat dials in on telco cloud modernization as legacy pressure mounts",
+        "url": "https://siliconangle.com/2026/05/15/telco-cloud-modernization-accelerates-red-hat-rhsummit/",
         "source": "SiliconAngle",
-        "excerpt": "A new report out today from cybersecurity company Forcepoint LLC\u2019s X-Labs research team details a supply chain attack that compromised LiteLLM, a widely used open-source Python library that serves as ",
-        "dwp_take": "Forcepoint researchers discovered that LiteLLM, a popular open-source library used by thousands of developers to access AI models, was compromised in a supply chain attack that weaponized it as a credential stealer. This matters because it shows how a single trusted dependency can become a backdoor into your entire cloud and AI infrastructure if you're not actively monitoring what your teams are pulling in. The real kicker is that this happened to a library specifically designed to abstract away complexity, which means people trusted it more than they probably should have without actually checking what it was doing.",
-        "date": "2026-05-18T12:12:45.644642+00:00"
+        "excerpt": "Telco cloud modernization has become an urgent operational imperative for operators burdened by decades of siloed infrastructure and the demands of 5G, 6G and edge AI. A unified platform approach is n",
+        "dwp_take": "Red Hat is positioning itself as the modernization platform for telecom companies drowning in legacy infrastructure while trying to keep up with 5G, 6G, and edge AI demands. This matters to digital workplace professionals because telecom infrastructure modernization directly impacts how enterprise networks and connectivity work for your end users, and unified platform approaches are becoming the baseline expectation for infrastructure management everywhere. Look, telcos have been kicking the modernization can down the road for twenty years because ripping out legacy systems is genuinely risky, so watching Red Hat make this play tells you the pain threshold has finally hit the breaking point.",
+        "date": "2026-05-18T12:16:48.534467+00:00"
       },
       {
-        "title": "Multiplayer AI startup Dust raises $40M to help enterprises move beyond isolated AI assistants",
-        "url": "https://siliconangle.com/2026/05/18/multiplayer-ai-startup-dust-swipes-40m-funding-help-enterprises-move-beyond-isolated-ai-assistants/",
+        "title": "Agents are a manager\u2019s dream for productivity \u2014 and a CISO\u2019s worst nightmare when they go rogue",
+        "url": "https://siliconangle.com/2026/05/15/agent-risk-management-mission-critical-ai-workforce-kb4con/",
         "source": "SiliconAngle",
-        "excerpt": "Dust, an agentic artificial intelligence startup that\u2019s trying to push enterprise workers away from isolated chatbots into a more collaborative, multiplayer ecosystem, said today it has raised $40 mil",
-        "dwp_take": "Dust just raised $40 million to build collaborative AI systems that let multiple AI assistants work together instead of you bouncing between separate chatbots. This matters because your workers are already drowning in point solutions, and fragmented AI tools only make that worse. The real question is whether enterprises actually want multiplayer AI coordination or if we're just adding another layer of complexity to an already messy tech stack.",
-        "date": "2026-05-18T12:12:49.266760+00:00"
+        "excerpt": "Agent risk management is evolving rapidly as AI moves into consequential decision-making arenas, collapsing the boundary between human and machine risk across the enterprise. The dual-threat landscape",
+        "dwp_take": "Companies are deploying AI agents to boost productivity, but security teams are freaking out because these autonomous systems can go off the rails and create new security vulnerabilities nobody fully understands yet. This matters because your digital workplace is about to have unsupervised digital employees making decisions and accessing systems, and you need governance frameworks yesterday. Here's the thing: we spent 30 years teaching people not to click suspicious links, and now we've built systems that click whatever they want with nobody watching.",
+        "date": "2026-05-18T12:16:53.202162+00:00"
       },
       {
-        "title": "The big tent: Dell\u2019s expanding partnerships demonstrate strategic shift in enterprise infrastructure",
-        "url": "https://siliconangle.com/2026/05/17/dells-partnerships-drive-enterprise-infrastructure-delltechworld/",
+        "title": "9 themes defining the future of trust infrastructure: Insights from VeeamON",
+        "url": "https://siliconangle.com/2026/05/15/ai-resilience-insights-veeams-next-evolution-veeamon/",
         "source": "SiliconAngle",
-        "excerpt": "A significant reorganization is currently taking place within the enterprise infrastructure market, which means that Dell Technologies Inc. will play a prominent role in the outcome. To be successful,",
-        "dwp_take": "Dell is doubling down on partnerships across enterprise infrastructure and AI instead of trying to own everything themselves, which represents a meaningful shift from their traditional approach. This matters because digital workplace teams now need to understand that their infrastructure vendors will increasingly depend on partner ecosystems, which could affect everything from support models to integration complexity. Here's the thing though: partnerships sound great until you're the one trying to get three different vendors to actually work together when something breaks at 2 AM.",
-        "date": "2026-05-18T12:12:53.503100+00:00"
-      },
-      {
-        "title": "GridCare raises $64M to speed up AI data center projects",
-        "url": "https://siliconangle.com/2026/05/15/gridcare-raises-64m-speed-ai-data-center-projects/",
-        "source": "SiliconAngle",
-        "excerpt": "GridCare Inc., a startup that helps data center operators more quickly connect their facilities to the electrical grid, has raised $64 million in funding. Early Nvidia Corp. backer Sutter Hill Venture",
-        "dwp_take": "GridCare just raised 64 million dollars to help data centers connect to the power grid faster, which matters because AI infrastructure is eating electricity like never before and grid delays are becoming a real bottleneck. For digital workplace folks, this translates to the backends supporting your cloud services and AI tools actually being able to scale without waiting around for power infrastructure to catch up. The whole thing is basically venture capital's way of admitting that Moore's Law died but the power bill didn't get the memo.",
-        "date": "2026-05-18T12:12:57.772346+00:00"
+        "excerpt": "As AI moves deeper into enterprise operations, the industry is entering a new phase: AI resilience. Autonomous systems and fragmented data are reshaping the modern infrastructure stack, forcing organi",
+        "dwp_take": "Veeam is arguing that AI systems proliferating across enterprise infrastructure mean organizations need to rethink backup and recovery strategies for environments they can't fully control or predict. This matters because your disaster recovery playbook from 2023 probably assumed humans were still making the important decisions and your data stayed relatively still. The irony is rich: we spent decades trying to control chaos, and now we're intentionally deploying autonomous agents that create new kinds of it.",
+        "date": "2026-05-18T12:16:57.203734+00:00"
       }
     ],
-    "tools-tech": [
-      {
-        "title": "I switched to a Bose-Sonos hybrid setup for my home audio - and it worked harmoniously",
-        "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-        "source": "ZDNet",
-        "excerpt": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-        "dwp_take": "Bose is bringing its premium audio systems back into the game with a new product that plays nicely with Sonos ecosystems, proving the company hasn't completely abandoned the home audio space. This matters because your employees are spending more time in hybrid work setups, and audio quality during video calls and focused work sessions directly impacts productivity and fatigue. Honestly, if Bose can figure out ecosystem compatibility better than most software vendors manage to do with their own products, maybe there's hope for enterprise collaboration tools yet.",
-        "date": "2026-05-18T12:13:02.552058+00:00"
-      },
-      {
-        "title": "5 ways to curb AI sprawl without stifling innovation",
-        "url": "https://www.computerworld.com/article/4166728/5-ways-to-curb-ai-sprawl-without-stifling-innovation.html",
-        "source": "Computerworld",
-        "excerpt": "The trend shows no sign of slowing. McKinsey\u2019s latest The State of AI report suggests that 88% of organizations now use AI in at least one business function. As adoption expands, so too will experimen",
-        "dwp_take": "Most organizations are now using AI somewhere, but a lot of that experimentation is happening outside formal IT oversight, which creates the sprawl problem. This matters because unmanaged AI tools breed security gaps, duplicate spending, and integration nightmares that eventually land on the IT team's desk anyway. The real trick isn't stopping people from using AI, it's making it easier for them to use approved tools than to sneak around you, which is way harder than it sounds but necessary.",
-        "date": "2026-05-18T12:13:08.959292+00:00"
-      },
-      {
-        "title": "How Southwest Airlines is putting endpoint operations on autopilot",
-        "url": "https://www.computerworld.com/article/4170309/how-southwest-airlines-is-putting-endpoint-operations-on-autopilot.html",
-        "source": "Computerworld",
-        "excerpt": "As digital tools become more central to its operations, Southwest Airlines is increasingly turning to AI and automation to prevent endpoint issues from affecting the sprawling airline. The new tools a",
-        "dwp_take": "Southwest Airlines is using AI and automation to proactively manage endpoint issues instead of constantly fighting fires after they happen. This matters because most digital workplace teams are drowning in reactive work, so seeing a large organization actually shift to prevention instead of panic-mode troubleshooting is worth paying attention to. The real question is whether Southwest's IT team will actually stay strategic or if they'll just fill those freed-up hours with new projects until they're reactive again anyway.",
-        "date": "2026-05-18T12:13:13.077145+00:00"
-      }
-    ],
+    "tools-tech": [],
     "digital-culture": [
       {
-        "title": "Mozilla\u2019s Mark Surman on 3 ways CEOs can build trust in AI",
-        "url": "https://www.fastcompany.com/91543169/mozillas-mark-surman-on-3-ways-ceos-can-build-trust-in-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-        "dwp_take": "Mark Surman from Mozilla is apparently telling CEOs that trust in AI requires transparency, accountability, and getting employees involved in how AI gets deployed. This matters to digital workplace folks because employees are the ones actually living with AI tools every day, and their buy-in determines whether your new AI implementation becomes a real productivity win or a shelf-ware disaster. Here's the thing though: most of this boils down to just doing the basics right, which somehow still feels revolutionary in a world where executives want to deploy AI before anyone understands what it actually does.",
-        "date": "2026-05-18T12:13:17.796841+00:00"
+        "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
+        "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
+        "dwp_take": "Dayforce's Amy Capellanti-Wolf is making the case that AI and hybrid work models need to stay centered on actual humans if they're going to work. This matters because too many organizations treat these technologies as silver bullets while ignoring the people side of the equation, which is where everything falls apart. Here's the thing: everyone's talking about technology and humanity like they just discovered fire, but the leaders who've actually figured this out know it's not revolutionary, it's just remembering why you hired people in the first place.",
+        "date": "2026-05-18T12:17:04.045562+00:00"
       },
       {
-        "title": "We don\u2019t have a burnout epidemic. We have a burnout buzzword problem",
-        "url": "https://www.fastcompany.com/91542334/we-dont-have-a-burnout-epidemic-we-have-a-burnout-buzzword-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "One cold Friday night a few years ago, I collapsed to the ground in the arrivals hall of a small French airport. I started sobbing and couldn\u2019t stop. It took physical collapse for me to acknowledge th",
-        "dwp_take": "The article argues that \"burnout\" has become so overused as a catch-all term that we've lost sight of actual, serious burnout and what causes it. This matters to digital workplace folks because we're often blamed for burnout (endless Slack notifications, always-on culture) when the real culprit is usually unsustainable workloads and bad management. Here's the thing though: telling people their burnout is just a buzzword doesn't fix the fact that they're still exhausted, so maybe we focus less on semantics and more on actually changing how work gets done.",
-        "date": "2026-05-18T12:13:21.997701+00:00"
+        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+        "dwp_take": "Companies are finally waking up to the fact that they need solid workforce data to make decent decisions and integrate AI in ways that actually work. This matters because too many digital workplace leaders are still flying blind with half-baked people analytics and AI tools that solve problems nobody asked them to solve. Here's the thing though: having better data and smarter AI means nothing if you're still treating employees like inputs instead of humans, so don't use this as an excuse to surveil people into compliance.",
+        "date": "2026-05-18T12:17:07.958377+00:00"
       },
       {
-        "title": "How to balance your passion and your day job",
-        "url": "https://www.fastcompany.com/91541851/how-to-balance-your-passion-and-your-day-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "It\u2019s graduation season and my email inbox is flooded with inquiries from students entering the workforce, looking for career advice. How do I land my dream job? What should I do at the company where I",
-        "dwp_take": "A Fast Company piece is offering career advice to new graduates about balancing their passion projects with their actual jobs. This matters to digital workplace leaders because employees who feel trapped between their real work and their dreams tend to disengage, skip meetings, and eventually leave. My take: stop hiring people based on their \"passion\" and instead build jobs that don't feel like a holding pattern before their real life starts.",
-        "date": "2026-05-18T12:13:25.928774+00:00"
+        "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
+        "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
+        "dwp_take": "Employees are increasingly skipping or expressing indifference toward traditional holiday parties, with many preferring cash bonuses or extra time off instead. This matters because it signals a fundamental shift in what actually motivates your workforce, and continuing to throw mandatory gatherings nobody wants is just burning budget that could go toward things people genuinely value. Honestly, if you're still forcing people into uncomfortable small talk and stale cookies in 2024, you're not out of touch with trends, you're just out of touch with your own employees.",
+        "date": "2026-05-18T12:17:12.085549+00:00"
       },
       {
-        "title": "Stop selling what you think your customers need and start doing this instead",
-        "url": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "I used to think I was a great salesperson because I had all the right answers. I knew my product inside and out. I could explain every feature, every benefit, every reason someone should say yes. And ",
-        "dwp_take": "This article is basically saying stop pitching features and start listening to what customers actually need instead. For digital workplace pros, this is critical because we've spent years jamming collaboration tools and platforms at people without first understanding their real problems or workflows. The irony is that most failed digital workplace transformations happened because someone fell in love with a solution before they bothered asking employees what was actually broken.",
-        "date": "2026-05-18T12:13:29.788408+00:00"
+        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+        "dwp_take": "EY launched a \"Vitality Index\" tool to help employers measure and track workforce well-being as burnout costs keep climbing. This matters because digital workplace teams are increasingly expected to support employee health outcomes, not just deliver email and collaboration tools, and burnout directly impacts adoption and productivity of those very platforms. Here's the thing though: you can index well-being all day long, but if the actual work is unsustainable and people are drowning in meetings, no dashboard is going to fix that.",
+        "date": "2026-05-18T12:17:16.887210+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Modernizing commute benefits for today\u2019s flexible workforce",
-        "url": "https://www.hrdive.com/spons/modernizing-commute-benefits-for-todays-flexible-workforce/819876/",
-        "source": "HR Dive",
-        "excerpt": "With hybrid work reshaping commutes, flexible benefits help employees return with ease.",
-        "dwp_take": "Companies are reworking commute benefits to fit hybrid and flexible work arrangements instead of assuming everyone shows up five days a week. This matters because your digital workplace strategy only works if employees can actually get to the office when they need to, and outdated transit subsidies alienate remote and hybrid workers who rarely use them. Here's the thing: stop treating commute benefits like they're set in stone from 1995, and you'll actually retain people instead of watching them resent you for benefits they can't use.",
-        "date": "2026-05-18T12:13:34.464008+00:00"
-      },
-      {
-        "title": "AI readiness is no longer optional for leadership teams",
-        "url": "https://www.hrdive.com/spons/ai-readiness-is-no-longer-optional-for-leadership-teams/819868/",
-        "source": "HR Dive",
-        "excerpt": "AI adoption is accelerating, but many organizations are not ready to scale it responsibly.",
-        "dwp_take": "Leadership teams across most organizations still lack the skills and frameworks to implement AI at scale without creating chaos. This matters because digital workplace leaders will get stuck explaining to executives why their fancy AI pilot crashed into compliance issues, security problems, or worse, actually made work harder instead of easier. Here's the truth: being \"ready\" for AI doesn't mean buying the shiniest tools; it means having people who understand your actual workflows, your real risks, and your genuine bottlenecks before you let the algorithms loose.",
-        "date": "2026-05-18T12:13:38.697189+00:00"
-      },
-      {
-        "title": "How to develop high-potential employees",
-        "url": "https://www.hrdive.com/spons/how-to-develop-high-potential-employees/819666/",
-        "source": "HR Dive",
-        "excerpt": "Why do high-potential programs fail? It starts with strong individual performance. Find out how.",
-        "dwp_take": "HR Dive ran a piece on why high-potential employee development programs tank, with the basic insight that strong individual performance is actually where it starts. This matters to digital workplace teams because your best technical talent is probably being poached by other departments or companies if you're not actively developing them, and losing institutional knowledge hurts your ability to support the rest of the organization. Here's the thing though: most companies nail the identification part and then do nothing, leaving these people to figure out their own career path while wondering why they bother staying around.",
-        "date": "2026-05-18T12:13:43.008271+00:00"
-      },
-      {
-        "title": "Auracast Is The Next WiFi",
-        "url": "https://www.forbes.com/sites/billschiffmiller/2026/05/18/auracast-is-the-next-wifi/",
+        "title": "Why Factories Are The New Proving Ground For AI",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/why-factories-are-the-new-proving-ground-for-ai/",
         "source": "Forbes Innovation",
-        "excerpt": "Auracast is emerging as the next generation of audio infrastructure, reshaping workplaces, hotels, retail, and public spaces much like WiFi transformed connectivity.",
-        "dwp_take": "Bluetooth's new Auracast technology allows devices to broadcast audio to multiple receivers simultaneously without pairing, creating a shared audio experience in physical spaces. For digital workplace pros, this means rethinking how conference rooms, cafeterias, and collaboration spaces handle sound and accessibility, especially for hybrid work scenarios. Look, calling it \"the next WiFi\" is lazy Forbes talk, but the real value is probably in accessible meetings and reducing the audio chaos of modern offices, not hype.",
-        "date": "2026-05-18T12:13:47.492070+00:00"
+        "excerpt": "Except \u201cprobably right\u201d doesn\u2019t work in industrial environments; it needs to be absolutely right.",
+        "dwp_take": "Factories are becoming the testbed for AI systems because manufacturing environments demand near-perfect accuracy where mistakes have real consequences, unlike consumer apps that can tolerate occasional failures. Digital workplace pros should pay attention because whatever AI reliability standards factories establish will eventually become table stakes for enterprise software, meaning your organization's tolerance for AI errors is about to get a lot lower. The irony is rich: we've spent years letting chatbots hallucinate in the office while factories have been quietly building the kind of trustworthy AI that actually matters.",
+        "date": "2026-05-18T12:17:22.100323+00:00"
+      },
+      {
+        "title": "From Insight To Impact: Why Trust Defines Leadership In The Agentic AI Era",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/from-insight-to-impact-why-trust-defines-leadership-in-the-agentic-ai-era/",
+        "source": "Forbes Innovation",
+        "excerpt": "That combination\u2014data, context and motion\u2014is what transforms software from a passive tool into an AI engine for impact.\u200b",
+        "dwp_take": "Microsoft and other vendors are positioning agentic AI as the next big thing, claiming it transforms passive tools into active \"engines for impact\" by combining data, context, and motion. This matters because digital workplace leaders need to understand what agentic AI actually does versus what vendors want you to believe it does, especially when budget decisions loom. Here's the honest take: trust in leadership matters everywhere, but slapping \"agentic\" on your AI won't fix broken data or unclear workflows, so focus on fundamentals first and let the fancy terminology sort itself out later.",
+        "date": "2026-05-18T12:17:26.521444+00:00"
+      },
+      {
+        "title": "iOS 26.5: How To Make The Most Of Apple\u2019s New iPhone Messaging Upgrade",
+        "url": "https://www.forbes.com/sites/davidphelan/2026/05/18/ios-265-how-to-make-the-most-of-apples-new-iphone-messaging-upgrade/",
+        "source": "Forbes Innovation",
+        "excerpt": "The latest iPhone software introduced the biggest upgrade to iMessage in years. Here\u2019s how to get the most out of it.",
+        "dwp_take": "Apple just rolled out a significant update to iMessage that actually changes how people communicate on iPhones. This matters because if your organization relies on iMessage for work communication or BYOD scenarios, you need to understand what's changed and whether it affects your security policies and compliance requirements. Honestly, most enterprises should still be standardizing on proper business messaging tools rather than banking on consumer features, but if your users are going to use iMessage anyway, you might as well know what they're dealing with.",
+        "date": "2026-05-18T12:17:30.593900+00:00"
+      },
+      {
+        "title": "Your AI Model Just Changed: Why Your Document Processing Pipeline Broke Overnight",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/18/your-ai-model-just-changed-why-your-document-processing-pipeline-broke-overnight/",
+        "source": "Forbes Innovation",
+        "excerpt": "\u200bOne model update. Thousands of broken workflows. Here's what leaders need to know.",
+        "dwp_take": "OpenAI or another major AI provider pushed a model update that broke document processing workflows for companies relying on the old version's specific outputs and behaviors. This matters because it shows that building critical business processes on third-party AI models is like building your house on someone else's foundation, and they can renovate whenever they feel like it. If you're using AI to process documents at scale, you better have a versioning strategy and fallback plan, or you're just one update away from explaining to your CEO why accounts payable ground to a halt.",
+        "date": "2026-05-18T12:17:35.103291+00:00"
       }
     ]
   }
