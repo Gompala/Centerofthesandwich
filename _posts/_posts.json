@@ -1,1 +1,5 @@
-{"tags":["posts"],"layout":"article.njk"}
+{
+  "layout": "article.njk",
+  "tags": ["posts"],
+  "permalink": "/posts/{{ page.fileSlug }}/"
+}
