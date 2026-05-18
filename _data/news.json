@@ -1,140 +1,132 @@
 {
-  "generated": "2026-05-17T23:42:08.410110+00:00",
+  "generated": "2026-05-18T12:13:47.492200+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-        "source": "VentureBeat",
-        "excerpt": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the ",
-        "dwp_take": "Anthropic's Claude Code is charging developers up to $200 monthly for AI-assisted coding while competitors like Goose offer identical functionality for free. This matters because your developers will absolutely notice when they can get the same work done without dropping serious cash, and you'll have to justify Claude's premium if you're considering it for your teams. Here's the thing: pricing doesn't win wars in the developer tools space, features do, but when features are basically equal, price becomes the only argument you've got left.",
-        "date": "2026-05-17T23:41:05.859675+00:00"
+        "title": "Forcepoint details TeamPCP supply chain attack that turned LiteLLM into a credential stealer",
+        "url": "https://siliconangle.com/2026/05/18/forcepoint-details-teampcp-supply-chain-attack-turned-litellm-credential-stealer/",
+        "source": "SiliconAngle",
+        "excerpt": "A new report out today from cybersecurity company Forcepoint LLC\u2019s X-Labs research team details a supply chain attack that compromised LiteLLM, a widely used open-source Python library that serves as ",
+        "dwp_take": "Forcepoint researchers discovered that LiteLLM, a popular open-source library used by thousands of developers to access AI models, was compromised in a supply chain attack that weaponized it as a credential stealer. This matters because it shows how a single trusted dependency can become a backdoor into your entire cloud and AI infrastructure if you're not actively monitoring what your teams are pulling in. The real kicker is that this happened to a library specifically designed to abstract away complexity, which means people trusted it more than they probably should have without actually checking what it was doing.",
+        "date": "2026-05-18T12:12:45.644642+00:00"
       },
       {
-        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-        "source": "VentureBeat",
-        "excerpt": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe",
-        "dwp_take": "Salesforce rebuilt Slackbot from a basic notification tool into an AI agent that can search data, draft documents, and take actions within Slack for Business+ and Enterprise+ customers. This matters because workplace AI assistants are becoming table stakes, and every major vendor is racing to embed intelligent automation into the tools where people actually work. Here's the thing though: we've heard this \"AI agent\" story before, and most employees still just want their Slack notifications to work properly without drowning in bot clutter.",
-        "date": "2026-05-17T23:41:09.693261+00:00"
+        "title": "Multiplayer AI startup Dust raises $40M to help enterprises move beyond isolated AI assistants",
+        "url": "https://siliconangle.com/2026/05/18/multiplayer-ai-startup-dust-swipes-40m-funding-help-enterprises-move-beyond-isolated-ai-assistants/",
+        "source": "SiliconAngle",
+        "excerpt": "Dust, an agentic artificial intelligence startup that\u2019s trying to push enterprise workers away from isolated chatbots into a more collaborative, multiplayer ecosystem, said today it has raised $40 mil",
+        "dwp_take": "Dust just raised $40 million to build collaborative AI systems that let multiple AI assistants work together instead of you bouncing between separate chatbots. This matters because your workers are already drowning in point solutions, and fragmented AI tools only make that worse. The real question is whether enterprises actually want multiplayer AI coordination or if we're just adding another layer of complexity to an already messy tech stack.",
+        "date": "2026-05-18T12:12:49.266760+00:00"
       },
       {
-        "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-        "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-        "source": "VentureBeat",
-        "excerpt": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users \u2014 and according to company insiders, the team bui",
-        "dwp_take": "Anthropic released Cowork, an AI agent that lets non-technical users automate file-based tasks in Claude Desktop without writing code. This matters because digital workplace leaders are drowning in requests to integrate AI into daily workflows, and a no-code agent tool actually addresses real user pain instead of adding another chatbot to the pile. The fact they built it in ten days using their own AI tools is either impressive or terrifying depending on how you feel about AI eating its own lunch.",
-        "date": "2026-05-17T23:41:13.717179+00:00"
+        "title": "The big tent: Dell\u2019s expanding partnerships demonstrate strategic shift in enterprise infrastructure",
+        "url": "https://siliconangle.com/2026/05/17/dells-partnerships-drive-enterprise-infrastructure-delltechworld/",
+        "source": "SiliconAngle",
+        "excerpt": "A significant reorganization is currently taking place within the enterprise infrastructure market, which means that Dell Technologies Inc. will play a prominent role in the outcome. To be successful,",
+        "dwp_take": "Dell is doubling down on partnerships across enterprise infrastructure and AI instead of trying to own everything themselves, which represents a meaningful shift from their traditional approach. This matters because digital workplace teams now need to understand that their infrastructure vendors will increasingly depend on partner ecosystems, which could affect everything from support models to integration complexity. Here's the thing though: partnerships sound great until you're the one trying to get three different vendors to actually work together when something breaks at 2 AM.",
+        "date": "2026-05-18T12:12:53.503100+00:00"
       },
       {
-        "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-        "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-        "source": "VentureBeat",
-        "excerpt": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen \u2014 it takes notes.For the past week, the engineering community has been dissecting a thread on X fr",
-        "dwp_take": "Boris Cherny from Anthropic shared his personal coding workflow on X and developers went nuts dissecting it like it was the Rosetta Stone of productivity. This matters because digital workplace leaders are always hunting for ways to boost developer efficiency, and when influential figures publicize their methods, it shapes what tools and practices get adopted across teams. Here's the thing though: someone's personal workflow is basically their personal preference, and I've seen plenty of cargo cult adopters waste time copying setups that don't fit their actual problems or team dynamics.",
-        "date": "2026-05-17T23:41:17.857056+00:00"
+        "title": "GridCare raises $64M to speed up AI data center projects",
+        "url": "https://siliconangle.com/2026/05/15/gridcare-raises-64m-speed-ai-data-center-projects/",
+        "source": "SiliconAngle",
+        "excerpt": "GridCare Inc., a startup that helps data center operators more quickly connect their facilities to the electrical grid, has raised $64 million in funding. Early Nvidia Corp. backer Sutter Hill Venture",
+        "dwp_take": "GridCare just raised 64 million dollars to help data centers connect to the power grid faster, which matters because AI infrastructure is eating electricity like never before and grid delays are becoming a real bottleneck. For digital workplace folks, this translates to the backends supporting your cloud services and AI tools actually being able to scale without waiting around for power infrastructure to catch up. The whole thing is basically venture capital's way of admitting that Moore's Law died but the power bill didn't get the memo.",
+        "date": "2026-05-18T12:12:57.772346+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Microsoft business software faces UK antitrust probe over bundling, AI lock-in",
-        "url": "https://www.computerworld.com/article/4171743/microsoft-business-software-faces-uk-antitrust-probe-over-bundling-ai-lock-in.html",
-        "source": "Computerworld",
-        "excerpt": "The UK\u2019s competition regulator has launched a broad antitrust investigation into Microsoft\u2019s business software ecosystem, opening a new front in growing regulatory scrutiny of how cloud platforms, pro",
-        "dwp_take": "The UK's Competition and Markets Authority has launched an antitrust investigation into Microsoft's bundling practices around cloud, productivity software, and AI capabilities. This matters because it directly impacts enterprise software licensing strategies and could reshape how organizations access and pay for Microsoft tools going forward. Look, Microsoft's been playing the bundling game for decades, but now they've got AI sprinkled on top and regulators are finally asking uncomfortable questions about whether that's competition or just lock-in with better marketing.",
-        "date": "2026-05-17T23:41:22.553541+00:00"
+        "title": "I switched to a Bose-Sonos hybrid setup for my home audio - and it worked harmoniously",
+        "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+        "source": "ZDNet",
+        "excerpt": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+        "dwp_take": "Bose is bringing its premium audio systems back into the game with a new product that plays nicely with Sonos ecosystems, proving the company hasn't completely abandoned the home audio space. This matters because your employees are spending more time in hybrid work setups, and audio quality during video calls and focused work sessions directly impacts productivity and fatigue. Honestly, if Bose can figure out ecosystem compatibility better than most software vendors manage to do with their own products, maybe there's hope for enterprise collaboration tools yet.",
+        "date": "2026-05-18T12:13:02.552058+00:00"
       },
       {
-        "title": "The trouble with emotion-reading AI",
-        "url": "https://www.computerworld.com/article/4171382/the-trouble-with-emotion-reading-ai.html",
+        "title": "5 ways to curb AI sprawl without stifling innovation",
+        "url": "https://www.computerworld.com/article/4166728/5-ways-to-curb-ai-sprawl-without-stifling-innovation.html",
         "source": "Computerworld",
-        "excerpt": "\u201cIf you can\u2019t measure it, you can\u2019t fix it.\u201d That\u2019s a common saying in business, and it tends to be true. But what if the thing you want to fix is your employees\u2019 attitudes? The AI revolution makes it",
-        "dwp_take": "A bunch of vendors are pitching emotion-reading AI as a way to measure and improve employee attitudes and mental states. This matters because if you're considering deploying this stuff in your organization, you need to know that these systems are notoriously unreliable and create legitimate privacy concerns that will tank morale faster than they'll ever improve it. Here's the thing: if your employee engagement is so broken that you need a machine to guess how people feel instead of, you know, actually talking to them, you've already got much bigger problems than AI can solve.",
-        "date": "2026-05-17T23:41:26.707016+00:00"
+        "excerpt": "The trend shows no sign of slowing. McKinsey\u2019s latest The State of AI report suggests that 88% of organizations now use AI in at least one business function. As adoption expands, so too will experimen",
+        "dwp_take": "Most organizations are now using AI somewhere, but a lot of that experimentation is happening outside formal IT oversight, which creates the sprawl problem. This matters because unmanaged AI tools breed security gaps, duplicate spending, and integration nightmares that eventually land on the IT team's desk anyway. The real trick isn't stopping people from using AI, it's making it easier for them to use approved tools than to sneak around you, which is way harder than it sounds but necessary.",
+        "date": "2026-05-18T12:13:08.959292+00:00"
       },
       {
-        "title": "Windows 11 Insider Previews: What\u2019s in the latest build?",
-        "url": "https://www.computerworld.com/article/1614352/windows-11-insider-previews-whats-in-latest-build.html",
+        "title": "How Southwest Airlines is putting endpoint operations on autopilot",
+        "url": "https://www.computerworld.com/article/4170309/how-southwest-airlines-is-putting-endpoint-operations-on-autopilot.html",
         "source": "Computerworld",
-        "excerpt": "Windows 11 25H2 has been publicly released, but behind the scenes, Microsoft is constantly working to improve the newest version of Windows. The company frequently rolls out preview builds to members ",
-        "dwp_take": "Microsoft's releasing Windows 11 25H2 while simultaneously pushing preview builds through the Insider Program to test what comes next. Digital workplace teams need to pay attention because these previews signal what management will eventually expect them to deploy, and getting ahead of the curve means fewer fires to fight later. The real question is whether your organization has the appetite to actually test these builds or if you'll just wait until Microsoft makes it mandatory and then scramble like you always do.",
-        "date": "2026-05-17T23:41:30.731503+00:00"
-      },
-      {
-        "title": "Apple\u2019s App Store model for AI",
-        "url": "https://www.computerworld.com/article/4171288/apples-app-store-model-for-ai.html",
-        "source": "Computerworld",
-        "excerpt": "Apple has a design for AI life. It hopes to build on the outstanding hardware performance its systems already provide to create a fantastic environment in which AI developers can thrive. If this plan ",
-        "dwp_take": "Apple is positioning itself as the gatekeeper for AI applications through a curated marketplace model similar to its App Store, controlling which AI tools can run on its devices. This matters to digital workplace pros because it will shape which AI capabilities your workforce can actually access on Apple devices, and it gives one company significant power over what enterprise AI solutions are even available to you. Look, we've seen this movie before with the App Store, and spoiler alert: walled gardens are great for the company building the walls and considerably less great for everyone trying to actually get work done on the other side of them.",
-        "date": "2026-05-17T23:41:35.503954+00:00"
+        "excerpt": "As digital tools become more central to its operations, Southwest Airlines is increasingly turning to AI and automation to prevent endpoint issues from affecting the sprawling airline. The new tools a",
+        "dwp_take": "Southwest Airlines is using AI and automation to proactively manage endpoint issues instead of constantly fighting fires after they happen. This matters because most digital workplace teams are drowning in reactive work, so seeing a large organization actually shift to prevention instead of panic-mode troubleshooting is worth paying attention to. The real question is whether Southwest's IT team will actually stay strategic or if they'll just fill those freed-up hours with new projects until they're reactive again anyway.",
+        "date": "2026-05-18T12:13:13.077145+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "\u2018Too busy\u2019 all of the time? Here\u2019s how to get things done and make space for fun",
-        "url": "https://www.fastcompany.com/91541773/too-busy-all-of-the-time-get-things-done-make-space-for-fun?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Mozilla\u2019s Mark Surman on 3 ways CEOs can build trust in AI",
+        "url": "https://www.fastcompany.com/91543169/mozillas-mark-surman-on-3-ways-ceos-can-build-trust-in-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "Below, Laura Vanderkam shares five key insights from her new book, Big Time: A Simple Path to Time Abundance. Laura is the author of several time management books and the host of the Before Breakfast ",
-        "dwp_take": "Laura Vanderkam's latest book argues that feeling perpetually swamped is often a planning problem, not a time problem, and offers frameworks for better time management and creating space for things beyond work. This matters to digital workplace leaders because burned-out employees driving constant connectivity actually tank productivity and engagement, so helping teams work smarter rather than just harder becomes a talent retention issue. Here's the thing though: most organizations that preach work-life balance still measure success by how quickly you respond to Slack at 9 p.m., so until that culture shifts, no time management book will actually fix the real problem.",
-        "date": "2026-05-17T23:41:40.299389+00:00"
+        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
+        "dwp_take": "Mark Surman from Mozilla is apparently telling CEOs that trust in AI requires transparency, accountability, and getting employees involved in how AI gets deployed. This matters to digital workplace folks because employees are the ones actually living with AI tools every day, and their buy-in determines whether your new AI implementation becomes a real productivity win or a shelf-ware disaster. Here's the thing though: most of this boils down to just doing the basics right, which somehow still feels revolutionary in a world where executives want to deploy AI before anyone understands what it actually does.",
+        "date": "2026-05-18T12:13:17.796841+00:00"
       },
       {
-        "title": "Do you ever think about the paths you didn\u2019t take?",
-        "url": "https://www.fastcompany.com/91537880/do-you-ever-think-about-the-paths-you-didnt-take-regrets?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "We don\u2019t have a burnout epidemic. We have a burnout buzzword problem",
+        "url": "https://www.fastcompany.com/91542334/we-dont-have-a-burnout-epidemic-we-have-a-burnout-buzzword-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "A few weeks ago, I was reconnecting with a former colleague from my higher education days, and we started talking about our current work. At one point, she paused and said, \u201cI love the path you\u2019ve tak",
-        "dwp_take": "This piece explores how career paths shift unexpectedly over time, using a personal reflection on what-could-have-beens in professional life. For digital workplace folks, it's a reminder that the skills and experiences you build today might fuel completely different roles tomorrow, so don't get too precious about job titles. Here's the thing though: spend less time wondering about the dean position you didn't take and more time building the kind of workplace where people actually want to work, because that's the career move that actually matters.",
-        "date": "2026-05-17T23:41:44.210853+00:00"
+        "excerpt": "One cold Friday night a few years ago, I collapsed to the ground in the arrivals hall of a small French airport. I started sobbing and couldn\u2019t stop. It took physical collapse for me to acknowledge th",
+        "dwp_take": "The article argues that \"burnout\" has become so overused as a catch-all term that we've lost sight of actual, serious burnout and what causes it. This matters to digital workplace folks because we're often blamed for burnout (endless Slack notifications, always-on culture) when the real culprit is usually unsustainable workloads and bad management. Here's the thing though: telling people their burnout is just a buzzword doesn't fix the fact that they're still exhausted, so maybe we focus less on semantics and more on actually changing how work gets done.",
+        "date": "2026-05-18T12:13:21.997701+00:00"
       },
       {
-        "title": "Managers are unprepared to lead a human-agent hybrid workforce",
-        "url": "https://www.worklife.news/sponsored/managers-are-unprepared-to-lead-a-human-agent-hybrid-workforce/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Andrew Reece, Chief AI Scientist, BetterUp The introduction of AI agents into the corporate workforce is not like other technology disruptions. Unlike previous automation, agents are empowered to act ",
-        "dwp_take": "A new study found that most managers lack the skills and frameworks needed to effectively supervise teams that include AI agents working alongside humans. This matters because as AI agents take on autonomous decision-making roles, managers need entirely different approaches to oversight, accountability, and team dynamics than what worked with traditional automation. Here's the thing though: we've been saying \"managers need new skills\" for fifteen years with every technology wave, and most organizations still haven't figured out basic email management, so expecting widespread readiness on AI agents feels optimistic at best.",
-        "date": "2026-05-17T23:41:49.145996+00:00"
+        "title": "How to balance your passion and your day job",
+        "url": "https://www.fastcompany.com/91541851/how-to-balance-your-passion-and-your-day-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "It\u2019s graduation season and my email inbox is flooded with inquiries from students entering the workforce, looking for career advice. How do I land my dream job? What should I do at the company where I",
+        "dwp_take": "A Fast Company piece is offering career advice to new graduates about balancing their passion projects with their actual jobs. This matters to digital workplace leaders because employees who feel trapped between their real work and their dreams tend to disengage, skip meetings, and eventually leave. My take: stop hiring people based on their \"passion\" and instead build jobs that don't feel like a holding pattern before their real life starts.",
+        "date": "2026-05-18T12:13:25.928774+00:00"
       },
       {
-        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
-        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
-        "dwp_take": "So half your workforce is burned out from constant change initiatives and nobody's surprised anymore. This matters because those top performers you're trying to impress with your shiny new digital workplace tools are actually the ones most likely to quit when transformation fatigue sets in, which defeats the whole purpose. Here's the thing: transformation doesn't need to be a five-ring circus with new platforms launching every quarter. Sometimes the best digital workplace strategy is knowing when to stop changing things and let people actually work.",
-        "date": "2026-05-17T23:41:53.043592+00:00"
+        "title": "Stop selling what you think your customers need and start doing this instead",
+        "url": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "I used to think I was a great salesperson because I had all the right answers. I knew my product inside and out. I could explain every feature, every benefit, every reason someone should say yes. And ",
+        "dwp_take": "This article is basically saying stop pitching features and start listening to what customers actually need instead. For digital workplace pros, this is critical because we've spent years jamming collaboration tools and platforms at people without first understanding their real problems or workflows. The irony is that most failed digital workplace transformations happened because someone fell in love with a solution before they bothered asking employees what was actually broken.",
+        "date": "2026-05-18T12:13:29.788408+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "This week in 5 numbers: Half of job applicants want to ban or heavily regulate ATS",
-        "url": "https://www.hrdive.com/news/this-week-in-5-numbers-half-of-job-applicants-want-to-ban-or-heavily-regul/819984/",
+        "title": "Modernizing commute benefits for today\u2019s flexible workforce",
+        "url": "https://www.hrdive.com/spons/modernizing-commute-benefits-for-todays-flexible-workforce/819876/",
         "source": "HR Dive",
-        "excerpt": "Here\u2019s a roundup of numbers from the last week of HR news \u2014 including how many managers said they never received training on how to ask for feedback.",
-        "dwp_take": "Half of job applicants now want to ban or heavily regulate applicant tracking systems, according to recent HR data. This matters because your ATS is literally the first impression candidates have of your organization, and if they're already frustrated before they even apply, you're losing talent before round one. Here's the thing: most ATS systems were designed by people who clearly never actually used them, and candidates know it.",
-        "date": "2026-05-17T23:41:56.954201+00:00"
+        "excerpt": "With hybrid work reshaping commutes, flexible benefits help employees return with ease.",
+        "dwp_take": "Companies are reworking commute benefits to fit hybrid and flexible work arrangements instead of assuming everyone shows up five days a week. This matters because your digital workplace strategy only works if employees can actually get to the office when they need to, and outdated transit subsidies alienate remote and hybrid workers who rarely use them. Here's the thing: stop treating commute benefits like they're set in stone from 1995, and you'll actually retain people instead of watching them resent you for benefits they can't use.",
+        "date": "2026-05-18T12:13:34.464008+00:00"
       },
       {
-        "title": "Employers say they\u2019re doing enough to help with medical costs, but workers disagree",
-        "url": "https://www.hrdive.com/news/employers-say-theyre-doing-enough-to-help-with-medical-costs-workers-disagree/819985/",
+        "title": "AI readiness is no longer optional for leadership teams",
+        "url": "https://www.hrdive.com/spons/ai-readiness-is-no-longer-optional-for-leadership-teams/819868/",
         "source": "HR Dive",
-        "excerpt": "Companies could see lower productivity, increased absenteeism and higher turnover as employees face financial stress, Prudential Financial said.",
-        "dwp_take": "Companies are telling themselves they're handling employee healthcare costs just fine while workers are clearly struggling financially and losing sleep over it. This gap matters because when your workforce is stressed about medical bills, they're not focused on their jobs, they're calling out sick more often, and your replacement costs are climbing. The real issue isn't what employers think they're doing, it's what employees actually experience, and right now there's a canyon between those two things.",
-        "date": "2026-05-17T23:42:00.770501+00:00"
+        "excerpt": "AI adoption is accelerating, but many organizations are not ready to scale it responsibly.",
+        "dwp_take": "Leadership teams across most organizations still lack the skills and frameworks to implement AI at scale without creating chaos. This matters because digital workplace leaders will get stuck explaining to executives why their fancy AI pilot crashed into compliance issues, security problems, or worse, actually made work harder instead of easier. Here's the truth: being \"ready\" for AI doesn't mean buying the shiniest tools; it means having people who understand your actual workflows, your real risks, and your genuine bottlenecks before you let the algorithms loose.",
+        "date": "2026-05-18T12:13:38.697189+00:00"
       },
       {
-        "title": "Reports of misconduct have spiked \u2014 and cases are getting more complex, study finds",
-        "url": "https://www.hrdive.com/news/reports-of-misconduct-have-spiked-and-cases-are-getting-more-complex-stu/820223/",
+        "title": "How to develop high-potential employees",
+        "url": "https://www.hrdive.com/spons/how-to-develop-high-potential-employees/819666/",
         "source": "HR Dive",
-        "excerpt": "To create lasting change, employee relations teams must effectively handle a greater volume of investigations and reach workers who don\u2019t speak up, HR Acuity\u2019s CEO said.",
-        "dwp_take": "Misconduct reports are up and investigations are getting messier, according to HR Acuity's latest research. This matters to digital workplace folks because you're now the folks building the systems that document, track, and manage these cases, which means compliance, security, and privacy just got a whole lot more complicated on your platform. Here's the thing: better reporting tools are great, but if your culture still discourages people from speaking up in the first place, you're just building a faster way to document the same broken trust.",
-        "date": "2026-05-17T23:42:04.756547+00:00"
+        "excerpt": "Why do high-potential programs fail? It starts with strong individual performance. Find out how.",
+        "dwp_take": "HR Dive ran a piece on why high-potential employee development programs tank, with the basic insight that strong individual performance is actually where it starts. This matters to digital workplace teams because your best technical talent is probably being poached by other departments or companies if you're not actively developing them, and losing institutional knowledge hurts your ability to support the rest of the organization. Here's the thing though: most companies nail the identification part and then do nothing, leaving these people to figure out their own career path while wondering why they bother staying around.",
+        "date": "2026-05-18T12:13:43.008271+00:00"
       },
       {
-        "title": "Employers adopt AI tools faster than they can train workers to use them",
-        "url": "https://www.hrdive.com/news/employers-adopt-ai-tools-faster-than-they-can-train-workers-to-use-them/820235/",
-        "source": "HR Dive",
-        "excerpt": "This \u201cproductivity paradox\u201d is one reason artificial intelligence ROI remains somewhat elusive, Randstad Digital said in its report.",
-        "dwp_take": "Companies are rolling out AI tools without giving employees the training they need to actually use them effectively. This matters because you're about to spend a lot of money on software licenses while your workforce fumbles around trying to figure out what the tools even do. It's like handing someone a Ferrari and expecting them to win a race without ever teaching them to drive, which explains why your AI investment probably won't deliver the returns you promised the CFO.",
-        "date": "2026-05-17T23:42:08.409980+00:00"
+        "title": "Auracast Is The Next WiFi",
+        "url": "https://www.forbes.com/sites/billschiffmiller/2026/05/18/auracast-is-the-next-wifi/",
+        "source": "Forbes Innovation",
+        "excerpt": "Auracast is emerging as the next generation of audio infrastructure, reshaping workplaces, hotels, retail, and public spaces much like WiFi transformed connectivity.",
+        "dwp_take": "Bluetooth's new Auracast technology allows devices to broadcast audio to multiple receivers simultaneously without pairing, creating a shared audio experience in physical spaces. For digital workplace pros, this means rethinking how conference rooms, cafeterias, and collaboration spaces handle sound and accessibility, especially for hybrid work scenarios. Look, calling it \"the next WiFi\" is lazy Forbes talk, but the real value is probably in accessible meetings and reducing the audio chaos of modern offices, not hype.",
+        "date": "2026-05-18T12:13:47.492070+00:00"
       }
     ]
   }
