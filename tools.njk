@@ -103,14 +103,6 @@ input:focus{border-color:var(--blue)}
     </div>
     {% endif %}
     {% endfor %}
-    {% set ns = namespace(count=0) %}
-    {% for post in collections.posts %}{% if post.data.category == "tools-tech" %}{% set ns.count = ns.count + 1 %}{% endif %}{% endfor %}
-    {% if ns.count == 0 %}
-    <div style="grid-column:span 2;padding:3rem;text-align:center;color:var(--text-muted);border:0.5px dashed var(--border);border-radius:10px;">
-      <p style="font-size:15px;margin-bottom:8px;">Articles coming soon.</p>
-      <p style="font-size:13px;">New content is published automatically every morning. Check back daily.</p>
-    </div>
-    {% endif %}
   </div>
 </div>
 <footer class="site-footer">
