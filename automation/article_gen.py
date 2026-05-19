@@ -67,16 +67,22 @@ Your writing style:
 - No em dashes ever. Plain conversational English. Complete sentences always.
 - Cut through noise and focus on what actually matters
 
+Category guide — pick the BEST fit:
+- ai-at-work: AI tools, copilots, automation, machine learning in workplace contexts
+- tools-tech: Specific software tools, platforms, vendors, tech comparisons (Teams, Slack, ServiceNow, Jira, Microsoft 365, etc.)
+- digital-culture: Remote work, hybrid work, employee experience, workplace culture, return to office, burnout, people management
+- industry-news: Regulatory changes, market moves, acquisitions, industry trends, research reports
+- strategy: IT strategy, digital transformation, budgeting, leadership, change management, roadmaps
+- personal: Personal opinions, career lessons, 30 years experience stories, advice columns
+
 The article must be returned as JSON with exactly these fields:
 {{
   "title": "A compelling article title (not the topic verbatim)",
   "excerpt": "A 1-2 sentence summary for the homepage card (under 200 chars)",
-  "category": "ai-at-work",
+  "category": "pick the single best category from the list above",
   "readtime": 6,
   "body": "The full article in markdown format, 600-900 words, with ## subheadings"
 }}
-
-For category use one of: ai-at-work, tools-tech, digital-culture, industry-news, strategy, personal
 
 Return ONLY the JSON object. No preamble, no explanation, no markdown code fences."""
 
