@@ -1,34 +1,51 @@
 {
-  "generated": "2026-05-18T16:43:44.153595+00:00",
+  "generated": "2026-05-19T16:55:11.599698+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Ansible positions automation as the trusted execution layer for agentic AI",
-        "url": "https://siliconangle.com/2026/05/18/trusted-execution-layer-focus-ansible-automation-rhsummit/",
+        "title": "Sola Security launches Lumina to cut enterprise security alert noise with contextual AI",
+        "url": "https://siliconangle.com/2026/05/19/sola-security-launches-lumina-cut-enterprise-security-alert-noise-contextual-ai/",
         "source": "SiliconAngle",
-        "excerpt": "Ansible, Red Hat Inc.\u2019s automation platform, is emerging as the trusted execution layer that might bridge AI-generated insights and reliable IT operations, aiming to turn probabilistic agentic AI into",
-        "dwp_take": "Red Hat's Ansible is positioning itself as the safety net between what AI thinks it should do and what actually happens in your infrastructure, basically acting as a governor for AI-generated actions at scale. This matters because letting loose language models to execute commands directly sounds like a fun way to accidentally delete production databases at 2 a.m., so having a trusted execution layer that enforces governance is genuinely smart thinking. Finally, someone's admitting that AI agents need guardrails instead of just promising magic, which is refreshingly boring in the best possible way.",
-        "date": "2026-05-18T16:43:30.913661+00:00"
+        "excerpt": "Cybersecurity startup Sola Security Ltd. today announced the launch of Lumina, an autonomous risk intelligence platform that applies contextual artificial intelligence across cloud, identity, software",
+        "dwp_take": "Sola Security just launched Lumina, an AI platform designed to filter security noise by giving you prioritized alerts instead of dumping raw data on your team. This matters because your security team is drowning in false positives and alert fatigue is a real threat to actual incident response, so smarter prioritization could actually help them focus on real problems. Here's the thing though: every security vendor claims to reduce noise, and the proof is in whether your team actually stops ignoring alerts or just ignores a different dashboard instead.",
+        "date": "2026-05-19T16:54:47.298773+00:00"
       },
       {
-        "title": "Domain-specific AI is rewriting the rules of workforce management",
-        "url": "https://siliconangle.com/2026/05/18/building-domain-specific-ai-ecosystem-partnerships-boomiworld/",
+        "title": "LaunchDarkly\u00a0launches runtime control layer for the agentic AI era",
+        "url": "https://siliconangle.com/2026/05/19/launchdarkly-launches-runtime-control-layer-agentic-ai-era/",
         "source": "SiliconAngle",
-        "excerpt": "The rise of agentic AI is reshaping what enterprise partnerships must deliver \u2014 and domain-specific AI is proving to be the real differentiator between systems that advise and systems that act. As AI ",
-        "dwp_take": "Domain-specific AI is moving beyond generic chatbots to actually execute tasks in workforce management systems instead of just providing advice. This matters because your digital workplace stack's real value now depends on whether tools can meaningfully integrate with HCM platforms and take action, not just talk about it. The irony is that after years of \"AI will transform everything,\" we're finally getting somewhere useful, but only if you pick partners who understand your actual business problems instead of just slapping neural networks on legacy systems.",
-        "date": "2026-05-18T16:43:34.845408+00:00"
+        "excerpt": "LaunchDarkly, a feature control platform that helps developers and software engineers launch and manage products, today announced the launch of AgentControl, a new solution providing real-time managem",
+        "dwp_take": "LaunchDarkly rolled out AgentControl, a new tool designed to manage AI agents in production environments with real-time controls, addressing the fact that AI behaves unpredictably compared to traditional code. For digital workplace leaders, this matters because AI agents are increasingly handling actual work tasks, and you need ways to monitor and adjust them without pulling the plug entirely. Here's the thing though: if your biggest concern right now is managing rogue AI agents, you probably haven't solved the human problems of getting people to actually use your new tools in the first place.",
+        "date": "2026-05-19T16:54:51.402348+00:00"
       },
       {
-        "title": "Redis debuts the much-needed memory layer for enterprise AI agents",
-        "url": "https://siliconangle.com/2026/05/18/redis-debuts-much-needed-memory-layer-enterprise-ai-agents/",
+        "title": "Darwinium pushes mobile fraud detection beyond the login moment",
+        "url": "https://siliconangle.com/2026/05/19/darwinium-pushes-mobile-fraud-detection-beyond-login-moment/",
         "source": "SiliconAngle",
-        "excerpt": "Artificial intelligence agents have a memory problem and now Redis Inc., the database management startup, is trying to fix that with its new, real-time Context Engine. As the company explains, it\u2019s al",
-        "dwp_take": "Redis launched a new Context Engine designed to give AI agents better memory capabilities so they can actually retain information and become useful enterprise workers instead of just chatbots that forget everything between conversations. This matters because digital workplace leaders are drowning in half-baked AI implementations that can't remember what they just did five minutes ago, making them more novelty than utility. If Redis actually delivers on this, it could finally turn those shiny AI agents gathering dust in your pilot programs into something that actually earns its compute budget, though I'll believe it when I see enterprises actually using it instead of just talking about it.",
-        "date": "2026-05-18T16:43:39.154376+00:00"
+        "excerpt": "Artificial intelligence fraud prevention platform company Darwinium UK Ltd. today released updates to its Android and iOS mobile software development kits, adding continuous in-session detection of re",
+        "dwp_take": "Darwinium released updated mobile SDKs that detect fraud beyond just the login screen, catching ongoing threats like remote access scams and account farming schemes. This matters because your users are getting hit with sophisticated mobile attacks that old-school authentication alone won't stop, and you're liable when your apps become a fraud pipeline. The real question is whether your team has capacity to integrate another security layer or if you're already drowning in vendor integrations.",
+        "date": "2026-05-19T16:54:55.619029+00:00"
+      },
+      {
+        "title": "Everpure pitches storage as the last line of cyber defense in the AI era",
+        "url": "https://siliconangle.com/2026/05/19/everpure-pitches-storage-last-line-cyber-defense-ai-era/",
+        "source": "SiliconAngle",
+        "excerpt": "Everpure Inc. today reinforced its Enterprise Data Cloud vision by defining the storage layer as the last line of defense in modern cyber resilience, an architecture the company argues is essential as",
+        "dwp_take": "Everpure is positioning storage infrastructure as the final defensive layer against cyberattacks in an AI-driven threat landscape, arguing that immutable and resilient storage is critical as attacks become faster and more sophisticated. This matters because digital workplace professionals increasingly need to think about data protection holistically rather than relying solely on perimeter defenses, and storage architecture decisions now directly impact business continuity. That said, calling storage \"the last line of defense\" is a bit like saying your fire extinguisher is your fire prevention strategy, when you really need the whole building designed right in the first place.",
+        "date": "2026-05-19T16:54:59.880439+00:00"
       }
     ],
     "tools-tech": [],
     "digital-culture": [],
-    "industry-news": []
+    "industry-news": [
+      {
+        "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
+        "url": "https://www.theregister.com/ai-ml/2026/05/19/microsoft-refreshes-surface-for-business-lineup-starts-ai-pc-upsell-at-1499/5242697",
+        "source": "The Register",
+        "excerpt": "Latest hardware adds Intel\u2019s newest AI-focused processors as Redmond continues pushing enterprises toward Copilot+ PCs",
+        "dwp_take": "Microsoft rolled out refreshed Surface devices packed with Intel's latest AI processors and started pricing the new lineup at $1,499 for businesses looking to upgrade. This matters because IT leaders now face real budget decisions: whether these AI-capable machines justify the premium or whether existing hardware will do the job fine for most users. Here's the thing, though: slapping a neural processing unit on a device doesn't automatically mean your organization needs to drop fifteen hundred bucks per seat unless you've actually got workloads that benefit from on-device AI processing, and most shops don't yet.",
+        "date": "2026-05-19T16:55:11.599290+00:00"
+      }
+    ]
   }
 }
