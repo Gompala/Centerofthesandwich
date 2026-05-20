@@ -1,51 +1,18 @@
 {
-  "generated": "2026-05-19T16:55:11.599698+00:00",
+  "generated": "2026-05-20T17:43:31.542695+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Sola Security launches Lumina to cut enterprise security alert noise with contextual AI",
-        "url": "https://siliconangle.com/2026/05/19/sola-security-launches-lumina-cut-enterprise-security-alert-noise-contextual-ai/",
+        "title": "Agentic AI has become an organization-wide imperative, says Google Cloud CTO",
+        "url": "https://siliconangle.com/2026/05/20/enterprise-agentic-ai-focus-google-cloud-googlecloudnext/",
         "source": "SiliconAngle",
-        "excerpt": "Cybersecurity startup Sola Security Ltd. today announced the launch of Lumina, an autonomous risk intelligence platform that applies contextual artificial intelligence across cloud, identity, software",
-        "dwp_take": "Sola Security just launched Lumina, an AI platform designed to filter security noise by giving you prioritized alerts instead of dumping raw data on your team. This matters because your security team is drowning in false positives and alert fatigue is a real threat to actual incident response, so smarter prioritization could actually help them focus on real problems. Here's the thing though: every security vendor claims to reduce noise, and the proof is in whether your team actually stops ignoring alerts or just ignores a different dashboard instead.",
-        "date": "2026-05-19T16:54:47.298773+00:00"
-      },
-      {
-        "title": "LaunchDarkly\u00a0launches runtime control layer for the agentic AI era",
-        "url": "https://siliconangle.com/2026/05/19/launchdarkly-launches-runtime-control-layer-agentic-ai-era/",
-        "source": "SiliconAngle",
-        "excerpt": "LaunchDarkly, a feature control platform that helps developers and software engineers launch and manage products, today announced the launch of AgentControl, a new solution providing real-time managem",
-        "dwp_take": "LaunchDarkly rolled out AgentControl, a new tool designed to manage AI agents in production environments with real-time controls, addressing the fact that AI behaves unpredictably compared to traditional code. For digital workplace leaders, this matters because AI agents are increasingly handling actual work tasks, and you need ways to monitor and adjust them without pulling the plug entirely. Here's the thing though: if your biggest concern right now is managing rogue AI agents, you probably haven't solved the human problems of getting people to actually use your new tools in the first place.",
-        "date": "2026-05-19T16:54:51.402348+00:00"
-      },
-      {
-        "title": "Darwinium pushes mobile fraud detection beyond the login moment",
-        "url": "https://siliconangle.com/2026/05/19/darwinium-pushes-mobile-fraud-detection-beyond-login-moment/",
-        "source": "SiliconAngle",
-        "excerpt": "Artificial intelligence fraud prevention platform company Darwinium UK Ltd. today released updates to its Android and iOS mobile software development kits, adding continuous in-session detection of re",
-        "dwp_take": "Darwinium released updated mobile SDKs that detect fraud beyond just the login screen, catching ongoing threats like remote access scams and account farming schemes. This matters because your users are getting hit with sophisticated mobile attacks that old-school authentication alone won't stop, and you're liable when your apps become a fraud pipeline. The real question is whether your team has capacity to integrate another security layer or if you're already drowning in vendor integrations.",
-        "date": "2026-05-19T16:54:55.619029+00:00"
-      },
-      {
-        "title": "Everpure pitches storage as the last line of cyber defense in the AI era",
-        "url": "https://siliconangle.com/2026/05/19/everpure-pitches-storage-last-line-cyber-defense-ai-era/",
-        "source": "SiliconAngle",
-        "excerpt": "Everpure Inc. today reinforced its Enterprise Data Cloud vision by defining the storage layer as the last line of defense in modern cyber resilience, an architecture the company argues is essential as",
-        "dwp_take": "Everpure is positioning storage infrastructure as the final defensive layer against cyberattacks in an AI-driven threat landscape, arguing that immutable and resilient storage is critical as attacks become faster and more sophisticated. This matters because digital workplace professionals increasingly need to think about data protection holistically rather than relying solely on perimeter defenses, and storage architecture decisions now directly impact business continuity. That said, calling storage \"the last line of defense\" is a bit like saying your fire extinguisher is your fire prevention strategy, when you really need the whole building designed right in the first place.",
-        "date": "2026-05-19T16:54:59.880439+00:00"
+        "excerpt": "The innovation race has entered a new phase with enterprise agentic AI spreading across every part of the business. The potential of agents \u2014 once limited to technical teams \u2014 is quickly becoming acce",
+        "dwp_take": "Google Cloud is saying agentic AI (software agents that act autonomously) has moved from niche technical projects to something every department should be using right now. For digital workplace leaders, this means you're going to start fielding requests to deploy AI agents across finance, HR, ops, and everywhere else, which brings real questions about governance, security, and whether your infrastructure can actually handle it. Here's my take: before you sprint into agentic AI because a vendor told you it's an \"imperative,\" figure out what problem you're actually solving, because autonomously running agents in your production environment without controls is how you get some very expensive mistakes.",
+        "date": "2026-05-20T17:43:21.052365+00:00"
       }
     ],
     "tools-tech": [],
     "digital-culture": [],
-    "industry-news": [
-      {
-        "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
-        "url": "https://www.theregister.com/ai-ml/2026/05/19/microsoft-refreshes-surface-for-business-lineup-starts-ai-pc-upsell-at-1499/5242697",
-        "source": "The Register",
-        "excerpt": "Latest hardware adds Intel\u2019s newest AI-focused processors as Redmond continues pushing enterprises toward Copilot+ PCs",
-        "dwp_take": "Microsoft rolled out refreshed Surface devices packed with Intel's latest AI processors and started pricing the new lineup at $1,499 for businesses looking to upgrade. This matters because IT leaders now face real budget decisions: whether these AI-capable machines justify the premium or whether existing hardware will do the job fine for most users. Here's the thing, though: slapping a neural processing unit on a device doesn't automatically mean your organization needs to drop fifteen hundred bucks per seat unless you've actually got workloads that benefit from on-device AI processing, and most shops don't yet.",
-        "date": "2026-05-19T16:55:11.599290+00:00"
-      }
-    ]
+    "industry-news": []
   }
 }
