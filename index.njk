@@ -101,6 +101,30 @@ input:focus{border-color:var(--blue)}
 .news-headline:hover { color: var(--blue); }
 .news-age { font-size: 11px; color: var(--text-muted); white-space: nowrap; }
 .tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; }
+
+@media (max-width: 768px) {
+  .site-wrap { padding: 0 1rem; }
+  .nav-inner { padding: 0 1rem; }
+  .nav-links { display: none; }
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; padding: 1.5rem 0 0; }
+  .hero-title { font-size: 26px; }
+  .hero-side { display: none; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .two-col { grid-template-columns: 1fr; }
+  .cats-strip { gap: 6px; }
+  .cat-pill { font-size: 11px; padding: 5px 12px; }
+  .news-layout { grid-template-columns: 1fr; }
+  .about-layout { grid-template-columns: 1fr; }
+  .belief-grid { grid-template-columns: 1fr; }
+  .writing-grid { grid-template-columns: 1fr; }
+  .article-title { font-size: 28px; }
+  .article-wrap { padding: 1.5rem 1rem 3rem; }
+  .footer-inner { flex-direction: column; gap: 8px; text-align: center; }
+  .about-hero-top { flex-direction: column; text-align: center; }
+  .about-hero-name { font-size: 26px; }
+  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+  .section-label { font-size: 9px; }
+}
 </style>
 </head>
 <body>
