@@ -1,14 +1,38 @@
 {
-  "generated": "2026-05-20T17:43:31.542695+00:00",
+  "generated": "2026-05-21T19:29:24.208684+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Agentic AI has become an organization-wide imperative, says Google Cloud CTO",
-        "url": "https://siliconangle.com/2026/05/20/enterprise-agentic-ai-focus-google-cloud-googlecloudnext/",
+        "title": "IBM positions itself as an ecosystem conductor as sovereign AI pressures mount",
+        "url": "https://siliconangle.com/2026/05/21/hybrid-ai-orchestration-defines-new-ibm-operating-model-ibmthink/",
         "source": "SiliconAngle",
-        "excerpt": "The innovation race has entered a new phase with enterprise agentic AI spreading across every part of the business. The potential of agents \u2014 once limited to technical teams \u2014 is quickly becoming acce",
-        "dwp_take": "Google Cloud is saying agentic AI (software agents that act autonomously) has moved from niche technical projects to something every department should be using right now. For digital workplace leaders, this means you're going to start fielding requests to deploy AI agents across finance, HR, ops, and everywhere else, which brings real questions about governance, security, and whether your infrastructure can actually handle it. Here's my take: before you sprint into agentic AI because a vendor told you it's an \"imperative,\" figure out what problem you're actually solving, because autonomously running agents in your production environment without controls is how you get some very expensive mistakes.",
-        "date": "2026-05-20T17:43:21.052365+00:00"
+        "excerpt": "Partner ecosystems and hybrid AI orchestration have become essential for enterprises navigating agentic AI at scale, where governance, data sovereignty and coordination determine success in a regulate",
+        "dwp_take": "IBM is positioning itself as a middleman orchestrator for enterprise AI deployments, emphasizing hybrid approaches and partner ecosystems to handle governance and data sovereignty concerns. This matters to digital workplace pros because sovereign AI and regulatory compliance are becoming real constraints on where and how you deploy AI tools across your organization. Honestly, calling yourself an \"ecosystem conductor\" is just a fancy way of saying \"we'll help you navigate this mess,\" which isn't wrong, but let's see if IBM can actually conduct better than the last five strategies they pushed.",
+        "date": "2026-05-21T19:29:02.558418+00:00"
+      },
+      {
+        "title": "AI transformation demands enterprises operate at two different speeds \u2014 or risk stalling entirely",
+        "url": "https://siliconangle.com/2026/05/21/multi-speed-transformation-enterprise-management-freshworksrefresh/",
+        "source": "SiliconAngle",
+        "excerpt": "AI adoption is maturing past the pilot phase, but organizations that treat the transition as a single-gear shift risk stalling before they reach production. The real challenge is navigating multi-spee",
+        "dwp_take": "Organizations need to run two parallel AI tracks simultaneously: one moving deliberately through careful redesign and another moving fast through experimentation, or they'll get stuck between speeds. This matters because your IT operations can't afford to treat AI like a single rollout where everything moves at the same pace, and you'll face real pressure from business units demanding both stability and speed. Here's the kicker: most places can't even manage one speed well, so asking them to operate two is like handing someone a manual transmission after they've only driven automatics.",
+        "date": "2026-05-21T19:29:07.268383+00:00"
+      },
+      {
+        "title": "Bugcrowd launches reinforcement learning environments to train AI on real software vulnerabilities",
+        "url": "https://siliconangle.com/2026/05/21/bugcrowd-launches-reinforcement-learning-environments-train-ai-real-software-vulnerabilities/",
+        "source": "SiliconAngle",
+        "excerpt": "Crowdsourced cybersecurity company Bugcrowd Inc. today launched Reinforcement Learning Environments, a new offering that lets frontier artificial intelligence labs train models on real vulnerable soft",
+        "dwp_take": "Bugcrowd launched a new tool that lets AI companies train security models using real vulnerabilities found by actual hackers instead of fake test data, built on technology from their Mayhem Security acquisition. This matters because the AI systems protecting your infrastructure are only as good as the vulnerabilities they've seen, so training on real-world exploits instead of lab scenarios actually improves your security posture. I'm cautiously optimistic here: using real data to train security AI is smart, but let's hope this doesn't just become another way for vendors to monetize vulnerability disclosures while security teams still can't get basic patch management right.",
+        "date": "2026-05-21T19:29:11.611107+00:00"
+      },
+      {
+        "title": "Infrawatch\u00a0raises $3M to build an infrastructure\u00a0intelligence platform for cybersecurity",
+        "url": "https://siliconangle.com/2026/05/21/infrawatch-raises-3m-build-infrastructure-intelligence-platform-cybersecurity/",
+        "source": "SiliconAngle",
+        "excerpt": "Infrawatch Ltd., a cybersecurity company providing intelligence about the infrastructure used by malicious actors to help organizations stop attacks, fraud and online abuse, announced Wednesday it has",
+        "dwp_take": "Infrawatch just scored $3 million in pre-seed funding to build infrastructure intelligence tools that help organizations identify and block malicious actors before they cause damage. For digital workplace leaders, this matters because understanding the infrastructure attackers use is becoming as important as traditional perimeter security, especially as distributed workforces expand your attack surface. Of course, the real test isn't the funding round, it's whether they can actually deliver something that doesn't require your security team to become infrastructure archaeologists.",
+        "date": "2026-05-21T19:29:15.432589+00:00"
       }
     ],
     "tools-tech": [],
