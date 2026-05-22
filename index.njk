@@ -151,14 +151,12 @@ input:focus{border-color:var(--blue)}
 
   <div class="hero">
     {% for post in collections.posts | reverse %}
-    {% if loop.index <= 1 %}
+    {% if loop.index <= 2 %}
     <div>
       <div class="hero-badge"><span class="hero-badge-dot"></span> Featured today</div>
       <h1 class="hero-title">{{ post.data.title }}</h1>
       <p class="hero-deck">{{ post.data.excerpt }}</p>
       <div class="hero-meta">
-        <span>{{ post.data.date }}</span>
-        <span class="hero-meta-dot"></span>
         <span>{{ post.data.readtime }} min read</span>
         <span class="hero-meta-dot"></span>
         <span class="hero-meta-cat">{{ post.data.category }}</span>
@@ -199,7 +197,7 @@ input:focus{border-color:var(--blue)}
       <div class="card-cat" style="color:var(--blue);">{{ post.data.category }}</div>
       <div class="card-title"><a href="{{ post.url }}" style="color:inherit;">{{ post.data.title }}</a></div>
       <div class="card-excerpt">{{ post.data.excerpt }}</div>
-      <div class="card-meta">{{ post.data.date }} · {{ post.data.readtime }} min read</div>
+      <div class="card-meta">{{ post.data.readtime }} min read</div>
     </div>
     {% endif %}
     {% endfor %}
@@ -207,7 +205,7 @@ input:focus{border-color:var(--blue)}
 
   <div class="section-label">Today's takes</div>
   {% if news and news.categories %}
-    {% for story in news.categories["ai-at-work"] %}{% if loop.index <= 1 %}
+    {% for story in news.categories["ai-at-work"] %}{% if loop.index <= 2 %}
     <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
       <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
         <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
@@ -222,7 +220,7 @@ input:focus{border-color:var(--blue)}
     </div>
     {% endif %}{% endfor %}
 
-    {% for story in news.categories["tools-tech"] %}{% if loop.index <= 1 %}
+    {% for story in news.categories["tools-tech"] %}{% if loop.index <= 2 %}
     <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
       <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
         <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
@@ -237,7 +235,7 @@ input:focus{border-color:var(--blue)}
     </div>
     {% endif %}{% endfor %}
 
-    {% for story in news.categories["digital-culture"] %}{% if loop.index <= 1 %}
+    {% for story in news.categories["digital-culture"] %}{% if loop.index <= 2 %}
     <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
       <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
         <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
@@ -252,7 +250,7 @@ input:focus{border-color:var(--blue)}
     </div>
     {% endif %}{% endfor %}
 
-    {% for story in news.categories["industry-news"] %}{% if loop.index <= 1 %}
+    {% for story in news.categories["industry-news"] %}{% if loop.index <= 2 %}
     <div style="border:0.5px solid var(--border);border-radius:10px;padding:1.25rem;margin-bottom:14px;background:var(--white);">
       <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
         <span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;">{{ story.source }}</span>
@@ -272,26 +270,7 @@ input:focus{border-color:var(--blue)}
     <a class="read-more" href="/news/">See all news and takes →</a>
   </div>
 
-  <div style="display:grid;grid-template-columns:1fr 280px;gap:2rem;margin-bottom:2.5rem;">
-    <div></div>
-    <div>
-      <div class="sidebar-box">
-        <h4>Hot right now</h4>
-        <div class="tag-cloud">
-          <span class="tag">Copilot</span><span class="tag">ITSM</span><span class="tag">Hybrid work</span>
-          <span class="tag">ServiceNow</span><span class="tag">Agentic AI</span>
-          <span class="tag">Microsoft 365</span><span class="tag">Slack</span>
-          <span class="tag">Employee EX</span>
-        </div>
-      </div>
-      <div class="nl-box">
-        <h4>Get the weekly sandwich</h4>
-        <p>The best of the digital workplace, every Thursday. No fluff.</p>
-        <input type="email" placeholder="your@email.com">
-        <button class="btn-accent">Subscribe free</button>
-      </div>
-    </div>
-  </div>
+
 
   <div class="about-strip">
     <div class="about-avatar">DWP</div>
