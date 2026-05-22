@@ -1,41 +1,34 @@
 {
-  "generated": "2026-05-21T19:29:24.208684+00:00",
+  "generated": "2026-05-22T18:26:00.968931+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "IBM positions itself as an ecosystem conductor as sovereign AI pressures mount",
-        "url": "https://siliconangle.com/2026/05/21/hybrid-ai-orchestration-defines-new-ibm-operating-model-ibmthink/",
+        "title": "Freshworks leans on partner flywheel to unlock mid-market opportunity at scale",
+        "url": "https://siliconangle.com/2026/05/22/distribution-scale-built-modern-cloud-marketplaces-freshworksrefresh/",
         "source": "SiliconAngle",
-        "excerpt": "Partner ecosystems and hybrid AI orchestration have become essential for enterprises navigating agentic AI at scale, where governance, data sovereignty and coordination determine success in a regulate",
-        "dwp_take": "IBM is positioning itself as a middleman orchestrator for enterprise AI deployments, emphasizing hybrid approaches and partner ecosystems to handle governance and data sovereignty concerns. This matters to digital workplace pros because sovereign AI and regulatory compliance are becoming real constraints on where and how you deploy AI tools across your organization. Honestly, calling yourself an \"ecosystem conductor\" is just a fancy way of saying \"we'll help you navigate this mess,\" which isn't wrong, but let's see if IBM can actually conduct better than the last five strategies they pushed.",
-        "date": "2026-05-21T19:29:02.558418+00:00"
+        "excerpt": "As enterprise software companies race to close the gap between product capability and market reach, the distribution scale \u2014 a company\u2019s ability to move product through partner networks at volume and ",
+        "dwp_take": "Freshworks is betting that building out a strong partner network will help them scale faster in the mid-market without burning through cash on direct sales alone. For digital workplace leaders, this matters because it signals that the vendors selling you collaboration tools, IT service management platforms, and workplace software are reshaping how they reach customers, which could affect pricing, support models, and implementation timelines. The reality is that partner-heavy strategies often mean you're dealing with resellers who may or may not actually understand your specific workplace challenges, so get comfortable asking who your real point of contact actually is.",
+        "date": "2026-05-22T18:25:45.468321+00:00"
       },
       {
-        "title": "AI transformation demands enterprises operate at two different speeds \u2014 or risk stalling entirely",
-        "url": "https://siliconangle.com/2026/05/21/multi-speed-transformation-enterprise-management-freshworksrefresh/",
+        "title": "Organic adoption becomes the real measure of successful IT platform rollouts",
+        "url": "https://siliconangle.com/2026/05/22/freshservice-transformation-hits-stride-new-balance-freshworksrefresh/",
         "source": "SiliconAngle",
-        "excerpt": "AI adoption is maturing past the pilot phase, but organizations that treat the transition as a single-gear shift risk stalling before they reach production. The real challenge is navigating multi-spee",
-        "dwp_take": "Organizations need to run two parallel AI tracks simultaneously: one moving deliberately through careful redesign and another moving fast through experimentation, or they'll get stuck between speeds. This matters because your IT operations can't afford to treat AI like a single rollout where everything moves at the same pace, and you'll face real pressure from business units demanding both stability and speed. Here's the kicker: most places can't even manage one speed well, so asking them to operate two is like handing someone a manual transmission after they've only driven automatics.",
-        "date": "2026-05-21T19:29:07.268383+00:00"
-      },
-      {
-        "title": "Bugcrowd launches reinforcement learning environments to train AI on real software vulnerabilities",
-        "url": "https://siliconangle.com/2026/05/21/bugcrowd-launches-reinforcement-learning-environments-train-ai-real-software-vulnerabilities/",
-        "source": "SiliconAngle",
-        "excerpt": "Crowdsourced cybersecurity company Bugcrowd Inc. today launched Reinforcement Learning Environments, a new offering that lets frontier artificial intelligence labs train models on real vulnerable soft",
-        "dwp_take": "Bugcrowd launched a new tool that lets AI companies train security models using real vulnerabilities found by actual hackers instead of fake test data, built on technology from their Mayhem Security acquisition. This matters because the AI systems protecting your infrastructure are only as good as the vulnerabilities they've seen, so training on real-world exploits instead of lab scenarios actually improves your security posture. I'm cautiously optimistic here: using real data to train security AI is smart, but let's hope this doesn't just become another way for vendors to monetize vulnerability disclosures while security teams still can't get basic patch management right.",
-        "date": "2026-05-21T19:29:11.611107+00:00"
-      },
-      {
-        "title": "Infrawatch\u00a0raises $3M to build an infrastructure\u00a0intelligence platform for cybersecurity",
-        "url": "https://siliconangle.com/2026/05/21/infrawatch-raises-3m-build-infrastructure-intelligence-platform-cybersecurity/",
-        "source": "SiliconAngle",
-        "excerpt": "Infrawatch Ltd., a cybersecurity company providing intelligence about the infrastructure used by malicious actors to help organizations stop attacks, fraud and online abuse, announced Wednesday it has",
-        "dwp_take": "Infrawatch just scored $3 million in pre-seed funding to build infrastructure intelligence tools that help organizations identify and block malicious actors before they cause damage. For digital workplace leaders, this matters because understanding the infrastructure attackers use is becoming as important as traditional perimeter security, especially as distributed workforces expand your attack surface. Of course, the real test isn't the funding round, it's whether they can actually deliver something that doesn't require your security team to become infrastructure archaeologists.",
-        "date": "2026-05-21T19:29:15.432589+00:00"
+        "excerpt": "IT teams are under growing pressure to do more than keep the lights on \u2014 employees now expect the same seamless digital experiences at work that they get in their personal lives. Freshservice transfor",
+        "dwp_take": "IT leaders are realizing that forcing people to use new platforms doesn't work anymore, and they're measuring success by how many employees actually choose to use something without being told. This matters because it shifts the conversation from \"we bought this expensive tool\" to \"does anyone actually want to use it,\" which is a more honest way to assess whether your digital workplace investments are solving real problems. The irony is that IT spent decades building things for IT, and now we're finally discovering that maybe asking employees what they actually need was the better plan all along.",
+        "date": "2026-05-22T18:25:51.472791+00:00"
       }
     ],
-    "tools-tech": [],
+    "tools-tech": [
+      {
+        "title": "Workday extends Sana AI to ITSM after HR, finance",
+        "url": "https://www.computerworld.com/article/4176384/workday-extends-sana-ai-to-itsm-after-hr-finance-2.html",
+        "source": "Computerworld",
+        "excerpt": "Workday conversational AI platform Sana for Workday is now ready to talk about IT Service Management (ITSM) automation as part of the company\u2019s broader effort to help enterprises streamline workflows,",
+        "dwp_take": "Workday added ITSM capabilities to its Sana AI platform, expanding beyond HR and finance into IT service management tasks like onboarding and access management. This matters because IT teams are drowning in repetitive tickets, and if Sana actually works, it could free up your people to do real work instead of babysitting password resets. Skeptical? Good, you should be. Show me the ROI numbers from actual customers before you hand over your entire ticketing system to a chatbot.",
+        "date": "2026-05-22T18:25:58.504593+00:00"
+      }
+    ],
     "digital-culture": [],
     "industry-news": []
   }
