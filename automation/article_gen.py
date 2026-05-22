@@ -46,7 +46,7 @@ def get_topic():
 
 
 def generate_article(topic, source_story=None):
-    """Call Anthropic API to write a full DWP Guy article."""
+    """Call Anthropic API to write a full DWP Insider article."""
     if not ANTHROPIC_API_KEY:
         print("No Anthropic API key — skipping article generation")
         return None
@@ -55,7 +55,7 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-    prompt = f"""You are DWP Guy, a digital workplace expert with 30 years of experience writing for centerofthesandwich.com.
+    prompt = f"""You are DWP Insider, a digital workplace expert with 30 years of experience writing for centerofthesandwich.com.
 
 Write a complete blog article on this topic: {topic}
 {context}

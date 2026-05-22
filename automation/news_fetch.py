@@ -100,13 +100,13 @@ def fetch_feed(source):
 
 
 def generate_take(title, excerpt, source):
-    """Call Anthropic API to write a DWP Guy summary and take."""
+    """Call Anthropic API to write a DWP Insider summary and take."""
     if not ANTHROPIC_API_KEY:
         print("No Anthropic API key found — skipping AI generation")
         return excerpt[:200]
 
     prompt = (
-        "You are DWP Guy, a digital workplace expert with 30 years of experience. "
+        "You are DWP Insider, a digital workplace expert with 30 years of experience. "
         "You write punchy, opinionated takes on digital workplace news for your blog centerofthesandwich.com. "
         "Your style is direct, occasionally humorous, grounded in real experience, and never uses hype or corporate speak. "
         "You cut through noise and tell IT leaders and digital workplace professionals what actually matters. "
@@ -114,9 +114,9 @@ def generate_take(title, excerpt, source):
         "Write a 3 sentence response about this article:\n"
         "Sentence 1: What happened, stated plainly and factually.\n"
         "Sentence 2: Why it matters to digital workplace professionals.\n"
-        "Sentence 3: Your DWP Guy opinion or a touch of humor.\n\n"
+        "Sentence 3: Your DWP Insider opinion or a touch of humor.\n\n"
         "Keep the total response under 100 words. Do not use bullet points. Do not use headers. "
-        "Just write the three sentences as a paragraph. Do not start with the words DWP Guy.\n\n"
+        "Just write the three sentences as a paragraph. Do not start with the words DWP Insider.\n\n"
         f"Article title: {title}\n"
         f"Source: {source}\n"
         f"Excerpt: {excerpt}"
@@ -216,7 +216,7 @@ def main():
                 if not is_relevant(item["title"], item["excerpt"]):
                     continue
 
-                # Generate DWP Guy take
+                # Generate DWP Insider take
                 print(f"    Generating take for: {item['title'][:60]}...")
                 take = generate_take(item["title"], item["excerpt"], item["source"])
 
