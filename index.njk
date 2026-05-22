@@ -151,7 +151,7 @@ input:focus{border-color:var(--blue)}
 
   <div class="hero">
     {% for post in collections.posts | reverse %}
-    {% if loop.index <= 2 %}
+    {% if loop.index <= 1 %}
     <div>
       <div class="hero-badge"><span class="hero-badge-dot"></span> Featured today</div>
       <h1 class="hero-title">{{ post.data.title }}</h1>
