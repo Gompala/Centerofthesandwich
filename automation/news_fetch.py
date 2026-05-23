@@ -47,15 +47,14 @@ SOURCES = {
 # Keywords that indicate digital workplace relevance
 # Requires at least 2 matches - keeping these specific to avoid off-topic articles
 RELEVANCE_KEYWORDS = [
-    "workplace", "employee", "enterprise", "productivity", "collaboration",
-    "remote work", "hybrid work", "microsoft", "slack", "teams", "zoom", "google workspace",
+    "workplace", "work", "employee", "enterprise", "productivity", "collaboration",
+    "remote", "hybrid", "microsoft", "slack", "teams", "zoom", "google workspace",
     "servicenow", "jira", "itsm", "helpdesk", "service desk", "intranet", "sharepoint",
-    "copilot", "artificial intelligence", "ai tool", "ai adoption", "automation",
-    "digital workplace", "workforce", "human resources", "hr tech",
-    "saas", "cloud computing", "software", "platform", "it department",
+    "copilot", "ai", "artificial intelligence", "automation", "digital workplace",
+    "workforce", "human resources", "hr", "saas", "cloud", "software", "platform",
     "leadership", "management", "future of work", "return to office",
     "cybersecurity", "data breach", "enterprise software", "cio", "cto",
-    "work from home", "distributed team", "knowledge worker", "digital transformation"
+    "digital transformation", "technology", "tech"
 ]
 
 # ============================================================
@@ -66,7 +65,7 @@ def is_relevant(title, excerpt):
     """Check if article is relevant to digital workplace topics."""
     text = (title + " " + excerpt).lower()
     matches = sum(1 for kw in RELEVANCE_KEYWORDS if kw in text)
-    return matches >= 3
+    return matches >= 2
 
 
 def fetch_feed(source):
