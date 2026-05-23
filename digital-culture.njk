@@ -116,6 +116,15 @@ input:focus{border-color:var(--blue)}
     <h1 style="font-family:'Playfair Display',serif;font-size:36px;font-weight:700;margin-bottom:8px;">💬 Digital Culture</h1>
     <p style="font-size:15px;color:var(--text-secondary);">Remote work, hybrid models, employee experience and the human side of digital transformation.</p>
   </div>
+  <div style="display:flex;flex-wrap:wrap;gap:8px;padding:1rem 0 1.5rem;border-bottom:1px solid #DCE8F5;margin-bottom:1.5rem;">
+    <a href="/category/"        style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #BFDBFE;background:#EEF5FF;color:#1D4ED8;text-decoration:none;">🤖 AI at Work</a>
+    <a href="/tools/"           style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #6EE7B7;background:#ECFDF5;color:#065F46;text-decoration:none;">🛠 Tools &amp; Tech</a>
+    <a href="/digital-culture/" style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #FCD34D;background:#FEF3C7;color:#92400E;text-decoration:none;">💬 Digital Culture</a>
+    <a href="/news/"            style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #C4B5FD;background:#F5F3FF;color:#5B21B6;text-decoration:none;">📡 Industry News</a>
+    <a href="/strategy/"        style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #FECDD3;background:#FFF1F2;color:#9F1239;text-decoration:none;">📊 Strategy</a>
+    <a href="/about/"           style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #86EFAC;background:#F0FDF4;color:#14532D;text-decoration:none;">✍️ About DWP Insider</a>
+  </div>
+
   <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin-bottom:3rem;">
     {% for post in collections.posts | reverse %}
     {% if post.data.category == "digital-culture" %}
