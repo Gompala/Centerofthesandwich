@@ -1,9 +1,141 @@
 {
-  "generated": "2026-05-23T15:01:22.164332+00:00",
+  "generated": "2026-05-23T20:51:53.019749+00:00",
   "categories": {
-    "ai-at-work": [],
-    "tools-tech": [],
-    "digital-culture": [],
-    "industry-news": []
+    "ai-at-work": [
+      {
+        "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "source": "TechCrunch",
+        "excerpt": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "dwp_take": "Ferrari partnered with IBM to use AI technology for analyzing fan data and personalizing the Formula 1 experience for supporters. This matters to digital workplace folks because it shows how enterprise AI is moving beyond internal operations and into customer engagement, which means your organization probably needs similar capabilities soon. The irony is that Ferrari is using cutting-edge AI to build deeper fan connections while most companies still can't get their internal communication platforms to actually work.",
+        "date": "2026-05-23T20:50:44.129066+00:00"
+      },
+      {
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+        "source": "TechCrunch",
+        "excerpt": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+        "dwp_take": "SpaceX just filed to go public with a valuation so ambitious it makes most enterprise software projections look conservative. For digital workplace folks, this matters because it shows how mega-scale companies tie compensation and strategy to moonshot goals, which inevitably trickles down to how tech companies hire and retain talent in your own organization. Honestly, if your executive team is still using \"synergy\" as a KPI while SpaceX is literally tying pay to Mars colonization, you might want to sharpen your strategic messaging.",
+        "date": "2026-05-23T20:50:48.806504+00:00"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+        "source": "VentureBeat",
+        "excerpt": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+        "dwp_take": "Railway just raised 100 million dollars to build cloud infrastructure designed specifically for AI workloads, positioning itself as an alternative to AWS for developers who find existing platforms clunky. This matters because your organization's cloud strategy might need rethinking if legacy infrastructure becomes a bottleneck for the AI projects everyone suddenly wants to fund. The irony is thick here: a startup with zero marketing budget somehow convinced two million developers to show up, which is something AWS should probably be worried about.",
+        "date": "2026-05-23T20:50:54.465678+00:00"
+      },
+      {
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+        "source": "VentureBeat",
+        "excerpt": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the ",
+        "dwp_take": "Anthropic's Claude Code tool runs between $20 and $200 monthly while Goose offers identical functionality at no cost, triggering developer pushback over pricing. Digital workplace leaders evaluating AI coding tools need to understand that price doesn't equal value, and free alternatives can deliver identical outcomes while keeping budgets intact. This is a reminder that the AI gold rush doesn't excuse charging premium prices for commodity features, and vendors betting on customer lock-in rather than genuine differentiation are playing a dangerous game.",
+        "date": "2026-05-23T20:50:59.009673+00:00"
+      }
+    ],
+    "tools-tech": [
+      {
+        "title": "This rugged Windows tablet handles mud and rain - but didn't impress with the basics",
+        "url": "https://www.zdnet.com/article/getac-g14-windows-ai-tablet-review/",
+        "source": "ZDNet",
+        "excerpt": "The Getac G140 puts power in the hands of fire & rescue, automotive, and utility workers.",
+        "dwp_take": "Getac released a rugged Windows tablet designed for field workers in demanding environments like firefighting and utilities. For digital workplace pros deploying devices to workers outside the office, rugged hardware matters more than ever, especially when your IT assets are getting rained on and thrown in trucks daily. Here's the thing though: if a device can't handle the basics properly, all that toughness just means your fieldworkers are stuck with an expensive brick that survives everything except actually doing its job.",
+        "date": "2026-05-23T20:51:03.544700+00:00"
+      },
+      {
+        "title": "FBI warns of Kali Oauth stealers",
+        "url": "https://www.computerworld.com/article/4176466/fbi-warns-of-kali-oauth-stealers-2.html",
+        "source": "Computerworld",
+        "excerpt": "The FBI has warned of the danger from a new wave of phishing attacks generated by a tool called Kali365. It enables cyber criminals to obtain Microsoft 365 access tokens and bypass multi-factor authen",
+        "dwp_take": "The FBI is warning about a new phishing tool called Kali365 that steals Microsoft 365 OAuth tokens and bypasses MFA by capturing authentication tokens rather than passwords. This matters because your employees are the front line here, and traditional password-focused security training becomes almost useless when attackers can steal the actual session tokens. The real kicker is that MFA, which everyone keeps telling you is the silver bullet, doesn't stop this attack, so you need to focus harder on email filtering and user awareness around suspicious authentication requests.",
+        "date": "2026-05-23T20:51:08.848804+00:00"
+      },
+      {
+        "title": "Meta says goodbye to those who won\u2019t use AI",
+        "url": "https://www.computerworld.com/article/4176447/meta-says-goodbye-to-those-who-wont-use-ai.html",
+        "source": "Computerworld",
+        "excerpt": "Meta is the latest company to trim its workforce as a result of the growing use of AI within the industry. The company laid off 8,000 employees earlier this week, while also moving 7,000 more to AI-fo",
+        "dwp_take": "Meta just fired 8,000 people and shoved another 7,000 into AI roles, basically telling employees that if you're not riding the AI wave, you're dead weight. This matters because every IT leader and workplace boss is now watching to see if this is the future of tech employment or just Meta being Meta. Here's the thing: companies that use AI to replace thinking usually end up replacing quality instead, but I'll admit the efficiency argument is harder to ignore when your competitor just cut payroll by 15 percent.",
+        "date": "2026-05-23T20:51:13.327569+00:00"
+      },
+      {
+        "title": "The AI that cracked Apple Silicon is only the beginning",
+        "url": "https://www.computerworld.com/article/4176408/the-ai-that-cracked-apple-silicon-is-only-the-beginning.html",
+        "source": "Computerworld",
+        "excerpt": "A security research team just used Claude Mythos to identify the first known exploit in Apple\u2019s M5 chip. They needed physical access to the device to use it, the vulnerability has since been patched, ",
+        "dwp_take": "AI just found the first exploitable vulnerability in Apple's M5 chip, though it required physical access and Apple patched it quickly. For digital workplace leaders, this is a wake-up call that adversaries can now weaponize AI to discover security gaps faster than your teams can defend against them. The good news is your Mac fleet probably isn't doomed; the bad news is your security team's comfortable pace of vulnerability management just became obsolete.",
+        "date": "2026-05-23T20:51:17.394768+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "How to handle a workplace bully",
+        "url": "https://www.fastcompany.com/91539882/how-to-handle-a-workplace-bully?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "If you\u2019re leaving meetings feeling destabilized and second-guessing yourself, you\u2019re probably not imagining it. Workplace bullying looks a lot different than it did in middle school. Here\u2019s how to rec",
+        "dwp_take": "Fast Company published a guide on recognizing and responding to workplace bullying, noting that modern bullying is more subtle than the playground variety and often leaves victims questioning their own judgment. Digital workplace professionals need to care about this because toxic behavior spreads through hybrid and remote teams just as easily as it does in offices, and they're often first to hear about it through Slack, email, and collaboration tools. The real question isn't how to handle a bully once they've destabilized you, it's why your organization's culture allows someone to be a bully in the first place.",
+        "date": "2026-05-23T20:51:21.805263+00:00"
+      },
+      {
+        "title": "JPMorgan CEO Jamie Dimon says he\u2019ll hire fewer bankers, more \u2018AI people\u2019",
+        "url": "https://www.fastcompany.com/91546461/jpmorgan-ceo-jamie-dimon-says-hell-hire-fewer-bankers-more-ai-people?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "In an interview with Bloomberg on Wednesday, JPMorgan Chase CEO Jamie Dimon said that every job will feel the effects of artificial intelligence\u2014including bankers. \u201cI think [AI will] reduce some of ou",
+        "dwp_take": "JPMorgan's CEO just announced the company will hire fewer bankers and more AI specialists, acknowledging that artificial intelligence will reshape staffing across the organization. This matters because it signals that major enterprises are moving past \"AI experimentation\" into actual workforce reallocation, which means digital workplace teams need to start planning for skills gaps, retraining programs, and the cultural friction that comes with telling people their job category is shrinking. Here's the thing: every CEO will say this for the next two years, but most won't actually execute the hard part, which is retraining existing staff instead of just hiring shiny new AI people while laying off the experienced ones.",
+        "date": "2026-05-23T20:51:26.595296+00:00"
+      },
+      {
+        "title": "3 ways high-performing teams make better decisions",
+        "url": "https://www.fastcompany.com/91526618/3-ways-high-performing-teams-make-better-decisions-leadership-performance-decision-making?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "Most teams have a decision-making problem that no one can quite put their finger on. Meetings multiply. Decisions get relitigated endlessly. The choices that eventually emerge are often so cautious th",
+        "dwp_take": "Fast Company ran a piece about how high-performing teams actually make decisions better by using shared language and frameworks instead of just hoping talented people figure it out naturally. This matters to digital workplace pros because decision paralysis is killing productivity in most organizations right now, and remote or hybrid work makes it even worse when people can't just grab coffee and align. Here's the thing though: most companies will read this article, nod along, and then go back to their seventh meeting about whether they should have a meeting to discuss meeting culture.",
+        "date": "2026-05-23T20:51:31.231010+00:00"
+      },
+      {
+        "title": "AI may replace 80% of skills. This last 20% will make you irreplaceable",
+        "url": "https://www.fastcompany.com/91545170/ai-may-replace-80-of-skills-this-last-20-will-make-you-irreplaceable?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "I work in front of a screen. And I\u2019ve been thinking about how AI will change my work. What does it even mean for my future? It\u2019s completely normal to wonder about this. Most people are convinced artif",
+        "dwp_take": "Here's my response:\n\nThe article argues that while AI might automate 80% of routine job skills, the remaining 20% of uniquely human capabilities will become your actual career insurance. This matters because digital workplace leaders need to stop panic-planning around AI replacement and start building cultures that actually develop critical thinking, judgment, and creativity in their teams. Funny thing though: if your entire job IS that 80% of automatable tasks, knowing there's a valuable 20% somewhere doesn't exactly keep you employed while the transition happens.",
+        "date": "2026-05-23T20:51:35.927552+00:00"
+      }
+    ],
+    "industry-news": [
+      {
+        "title": "Worker\u2019s disciplinary write-up omitting \u2018relevant information\u2019 grants her a retaliation trial",
+        "url": "https://www.hrdive.com/news/workers-disciplinary-write-up-omitting-relevant-information-amazon/820915/",
+        "source": "HR Dive",
+        "excerpt": "An Amazon worker can move forward with claims the company discriminated against her based on her sexuality.",
+        "dwp_take": "An Amazon employee won the right to pursue a retaliation lawsuit after the company allegedly left out key information from her disciplinary record. This matters because digital workplace professionals need to understand that documentation systems and policies aren't just operational tools, they're legal records that can expose your company to significant liability if handled carelessly. Here's the thing: if you're going to write someone up, actually write it up properly, because cutting corners on documentation is how you end up explaining yourself to a judge instead of just moving on with your day.",
+        "date": "2026-05-23T20:51:40.709649+00:00"
+      },
+      {
+        "title": "Amid heavy AI use, workers say their skills are atrophying",
+        "url": "https://www.hrdive.com/news/amid-heavy-ai-use-workers-say-skills-atrophying/820975/",
+        "source": "HR Dive",
+        "excerpt": "As worker sentiment sours on artificial intelligence, clearer guidelines surrounding its usage may be even more critical.",
+        "dwp_take": "Workers are reporting that leaning on AI tools for routine tasks is making them rusty on the fundamentals they actually need to know. This matters because you can't build a sustainable digital workplace culture around shortcuts that hollow out your workforce's actual capabilities. Here's the truth: AI is a great crutch until the day you really need someone who can actually walk, and that day always comes sooner than you think.",
+        "date": "2026-05-23T20:51:44.937046+00:00"
+      },
+      {
+        "title": "A massive labor force loss is coming. What can employers do?",
+        "url": "https://www.hrdive.com/news/a-massive-labor-force-loss-is-coming-what-can-employers-do/820944/",
+        "source": "HR Dive",
+        "excerpt": "Artificial intelligence can make up some gaps \u2014 but not the ones needed to be bridged the most, Indeed Hiring Lab said.",
+        "dwp_take": "A bunch of people are leaving the workforce faster than employers can replace them, and AI isn't going to solve the problem where it matters most. Digital workplace leaders need to understand that throwing automation at a staffing crisis won't fix the human skills gap you're actually facing. Here's the real talk: if your retention strategy is \"let's automate away the pain,\" you're about to discover that no amount of chatbots can replace institutional knowledge walking out the door.",
+        "date": "2026-05-23T20:51:48.791879+00:00"
+      },
+      {
+        "title": "Dems re-up overtime bill that would set threshold over $89K by 2030",
+        "url": "https://www.hrdive.com/news/restoring-overtime-pay-act-2026/820904/",
+        "source": "HR Dive",
+        "excerpt": "Following the U.S. Department of Labor\u2019s overtime rule rescission, Congressional Democrats introduced a bill that would greatly expand the number of workers who qualify for overtime.",
+        "dwp_take": "Congressional Democrats introduced a bill that would raise the overtime salary threshold above $89,000 by 2030, significantly expanding who qualifies for overtime pay. This matters to digital workplace pros because it directly affects how you manage salaried tech workers, project timelines, and budget planning, especially if you've got a lean team doing the work of three people. Honestly, if this passes, a lot of companies are going to finally have to hire actual staff instead of pretending one person can do five jobs.",
+        "date": "2026-05-23T20:51:53.019626+00:00"
+      }
+    ]
   }
 }
