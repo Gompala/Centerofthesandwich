@@ -22,27 +22,64 @@ POSTS_DIR = Path("_posts")
 # ============================================================
 
 def get_topic():
-    """Get today's article topic — from file or pick from news."""
+    """Get today's article topic — from file or pick from news with category rotation."""
     if TOPIC_FILE.exists():
         topic = TOPIC_FILE.read_text().strip()
         if topic:
             print(f"Using suggested topic: {topic}")
-            # Clear the topic file after reading
             TOPIC_FILE.write_text("")
             return topic, None
 
-    # No topic file — pick best story from news
+    # Rotate categories by day of week to ensure variety
+    # Mon=ai-at-work, Tue=tools-tech, Wed=digital-culture, Thu=strategy,
+    # Fri=industry-news, Sat=ai-at-work, Sun=tools-tech
+    day = datetime.now(timezone.utc).weekday()
+    rotation = {
+        0: "ai-at-work",
+        1: "tools-tech",
+        2: "digital-culture",
+        3: "strategy",
+        4: "industry-news",
+        5: "ai-at-work",
+        6: "tools-tech",
+    }
+    preferred_cat = rotation[day]
+    print(f"Today is day {day}, targeting category: {preferred_cat}")
+
+    # Fallback topics by category if news is empty
+    fallback_topics = {
+        "ai-at-work": "How to measure real AI adoption in your workplace beyond license counts",
+        "tools-tech": "The honest guide to choosing between Microsoft Teams and Slack in 2026",
+        "digital-culture": "Why hybrid work policies keep failing and what actually works",
+        "strategy": "Building a digital workplace roadmap that survives contact with reality",
+        "industry-news": "What the latest enterprise tech consolidation means for IT leaders",
+    }
+
     if NEWS_FILE.exists():
         news = json.loads(NEWS_FILE.read_text())
         categories = news.get("categories", {})
-        for cat in ["ai-at-work", "tools-tech", "digital-culture", "industry-news"]:
+
+        # First try preferred category
+        stories = categories.get(preferred_cat, [])
+        if stories:
+            story = stories[0]
+            print(f"Auto-picking topic from {preferred_cat}: {story['title']}")
+            return story["title"], story
+
+        # Then try any other category
+        for cat in ["ai-at-work", "tools-tech", "digital-culture", "strategy", "industry-news"]:
+            if cat == preferred_cat:
+                continue
             stories = categories.get(cat, [])
             if stories:
                 story = stories[0]
-                print(f"Auto-picking topic from: {story['title']}")
+                print(f"Fallback to {cat}: {story['title']}")
                 return story["title"], story
-    
-    return "The state of digital workplace technology in 2026", None
+
+    # No news available — use fallback topic for today's category
+    fallback = fallback_topics.get(preferred_cat, "The state of digital workplace technology in 2026")
+    print(f"Using fallback topic: {fallback}")
+    return fallback, None
 
 
 def generate_article(topic, source_story=None):
