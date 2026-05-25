@@ -38,9 +38,9 @@ SOURCES = {
         {"name": "Wired", "url": "https://wired.com/feed/category/business/rss"},
     ],
     "industry-news": [
-        {"name": "HR Dive", "url": "https://hrdive.com/feeds/news/"},
-        {"name": "Forbes Innovation", "url": "https://forbes.com/innovation/feed2"},
-        {"name": "The Register", "url": "https://theregister.com/headlines.atom"},
+        {"name": "TechRepublic", "url": "https://www.techrepublic.com/rssfeeds/articles/"},
+        {"name": "ITPro", "url": "https://www.itpro.com/feeds.xml"},
+        {"name": "Computer Weekly", "url": "https://www.computerweekly.com/rss/All-ComputerWeekly-News.xml"},
     ],
 }
 
