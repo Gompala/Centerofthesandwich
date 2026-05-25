@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-25T16:55:41.203170+00:00",
+  "generated": "2026-05-25T21:58:13.435578+00:00",
   "categories": {
     "ai-at-work": [
       {
@@ -7,34 +7,66 @@
         "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
         "source": "TechCrunch",
         "excerpt": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "dwp_take": "ClickUp just cut hundreds of employees and replaced them with AI agents to handle their internal workflows. This matters because it's a real-world test case of what happens when a productivity software company actually eats its own dog food at scale, and right now the results look messy. Here's the thing: if ClickUp can't figure out how to integrate AI without mass layoffs, that tells you something important about the gap between AI hype and actual workplace reality, and it's worth watching before your CEO gets similar ideas.",
-        "date": "2026-05-25T16:54:45.880832+00:00"
+        "dwp_take": "ClickUp laid off hundreds of workers and replaced them with AI agents to handle routine tasks across their platform. This matters because it's a real-world test case of what AI automation actually looks like at scale, not the theoretical stuff we read about in vendor whitepapers. Here's the thing though: if ClickUp can't figure out how to keep humans in the loop while automating grunt work, they're probably building something nobody actually wants to use, because work still requires judgment calls that AI currently botches.",
+        "date": "2026-05-25T21:57:08.781499+00:00"
       },
       {
-        "title": "Dell and Nvidia target the data chaos standing between AI pilots and real results",
-        "url": "https://siliconangle.com/2026/05/25/fragmented-enterprise-data-remains-critical-ai-blocker-delltechworld/",
-        "source": "SiliconAngle",
-        "excerpt": "As organizations push to convert AI ambition into defensible business results, many are discovering that infrastructure alone is not enough. Instead, the real challenge lies in reconciling decades of ",
-        "dwp_take": "Dell and Nvidia are basically saying that most companies have a data mess so chaotic that their fancy AI dreams will crash and burn without fixing it first. This matters because digital workplace leaders are about to get asked why their organization's AI pilot failed, and the honest answer is probably \"our data looked like a yard sale.\" The irony is that organizations spent years ignoring data governance, and now they're shocked that AI won't magically make spaghetti organized.",
-        "date": "2026-05-25T16:54:55.536559+00:00"
+        "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
+        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "source": "TechCrunch",
+        "excerpt": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+        "dwp_take": "The Pope's latest encyclical uses artificial intelligence as a vehicle to address deeper structural problems like power concentration, democratic erosion, and tech oligarchy rather than focusing narrowly on AI itself. This matters to digital workplace leaders because it's a reminder that the tools we implement don't exist in a vacuum, and blindly adopting the latest technology without examining who benefits and who loses is exactly how we end up with workplace systems that entrench inequality. Turns out even the Vatican knows that \"it's not actually about the technology\" is the most important lesson in digital transformation, which is either comforting or deeply depressing depending on how many failed AI pilots you've already watched.",
+        "date": "2026-05-25T21:57:13.197854+00:00"
       },
       {
-        "title": "As token costs shoot up, Dell doubles down on desktop AI",
-        "url": "https://siliconangle.com/2026/05/25/on-prem-ai-computing-agentic-enterprise-delltechworld/",
-        "source": "SiliconAngle",
-        "excerpt": "As enterprises confront spiraling cloud inference bills, on-prem AI computing is emerging as the decisive lever for making agentic AI economically viable at scale. Dell Technologies Inc.\u2019s announcemen",
-        "dwp_take": "Dell is betting that running AI locally on desktops will be cheaper than paying cloud providers for every AI query your employees make. This matters because digital workplace leaders are already drowning in new software costs, and the math on AI infrastructure is genuinely broken right now. Honestly, if local AI actually delivers on the cost promise, it might be the first time a vendor solved a real problem instead of creating three new ones.",
-        "date": "2026-05-25T16:54:59.584384+00:00"
+        "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "source": "TechCrunch",
+        "excerpt": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "dwp_take": "Ferrari partnered with IBM to deploy AI tools that personalize fan experiences and engagement around Formula 1 racing. This matters because it shows how major organizations are moving beyond internal productivity AI and actually using it to create differentiated customer experiences that drive real business value. The funny part is that Ferrari needed IBM's help to figure out how to talk to fans, which suggests even legendary brands recognize that throwing technology at engagement problems without proper strategy is just expensive window dressing.",
+        "date": "2026-05-25T21:57:17.012606+00:00"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+        "source": "VentureBeat",
+        "excerpt": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+        "dwp_take": "Railway just raised $100 million to build AI-focused cloud infrastructure that challenges AWS's dominance. This matters because your current cloud setup might not handle AI workloads efficiently, and having real alternatives to AWS forces the big players to actually compete instead of just raising prices every quarter. Honestly, it's refreshing to see someone building for what companies actually need now instead of what worked in 2015.",
+        "date": "2026-05-25T21:57:21.084139+00:00"
       }
     ],
     "tools-tech": [
+      {
+        "title": "Google adds open source Agent Executor to support AI agents in production",
+        "url": "https://www.computerworld.com/article/4176809/google-adds-open-source-agent-executor-to-support-ai-agents-in-production-3.html",
+        "source": "Computerworld",
+        "excerpt": "Google has introduced Agent Executor, an open source runtime aimed at helping enterprises run AI agents more reliably at scale, as attention shifts from building agent prototypes to managing the opera",
+        "dwp_take": "Google released Agent Executor, an open source tool designed to help companies actually run AI agents in production instead of just building proof-of-concepts that sit in a lab somewhere. This matters because if you're betting on AI agents to handle real work in your organization, you need infrastructure that doesn't fall apart when things get messy at scale. Honestly, it's refreshing to see Google acknowledge that the hard part isn't the AI itself, it's keeping the lights on when your agent decides to go rogue at 2 a.m.",
+        "date": "2026-05-25T21:57:25.635396+00:00"
+      },
       {
         "title": "Q&A: How video helps build robot brains for physical AI",
         "url": "https://www.computerworld.com/article/4175902/qa-how-video-helps-build-robot-brains-for-physical-ai.html",
         "source": "Computerworld",
         "excerpt": "Robots could well be the next trillion-dollar tech opportunity, in no small part thanks to AI. Not surprisingly, that\u2019s led to race by a variety of robotics companies to build industrial and humanoid ",
-        "dwp_take": "A bunch of robotics companies are training AI robot brains by feeding them massive amounts of YouTube video data so the robots can actually understand the physical world around them. This matters to digital workplace leaders because if robots start showing up in your offices and warehouses (and they will), those robots are only as smart as the training data they consumed, which means your workplace environments need to be designed with that reality in mind. Here's the thing though: robots trained on random YouTube clips is basically like hiring employees who learned everything they know from TikTok, so manage your expectations accordingly.",
-        "date": "2026-05-25T16:55:04.799503+00:00"
+        "dwp_take": "Robotics companies are training AI models by feeding them millions of YouTube videos so robots can understand physical spaces and perform tasks in the real world. This matters to digital workplace professionals because we're about to manage workplaces where robots are actual colleagues, which means rethinking everything from network infrastructure to physical space design. Honestly, we spent years optimizing offices for Zoom calls only to discover the real threat was always the machines learning to navigate them better than we do.",
+        "date": "2026-05-25T21:57:29.774395+00:00"
+      },
+      {
+        "title": "FBI warns of Kali Oauth stealers",
+        "url": "https://www.computerworld.com/article/4176466/fbi-warns-of-kali-oauth-stealers-2.html",
+        "source": "Computerworld",
+        "excerpt": "The FBI has warned of the danger from a new wave of phishing attacks generated by a tool called Kali365. It enables cyber criminals to obtain Microsoft 365 access tokens and bypass multi-factor authen",
+        "dwp_take": "The FBI is warning about Kali365, a tool that lets attackers steal Microsoft 365 OAuth tokens through phishing, effectively bypassing MFA without needing actual passwords. This matters because your users are your weakest link, and even solid MFA doesn't protect against token theft if someone clicks a malicious link. The real takeaway here is that MFA alone won't save you, so you need proper email filtering, user training that actually sticks, and monitoring for suspicious token activity.",
+        "date": "2026-05-25T21:57:33.735794+00:00"
+      },
+      {
+        "title": "Meta says goodbye to those who won\u2019t use AI",
+        "url": "https://www.computerworld.com/article/4176447/meta-says-goodbye-to-those-who-wont-use-ai.html",
+        "source": "Computerworld",
+        "excerpt": "Meta is the latest company to trim its workforce as a result of the growing use of AI within the industry. The company laid off 8,000 employees earlier this week, while also moving 7,000 more to AI-fo",
+        "dwp_take": "Meta just fired 8,000 people and shuffled 7,000 others into AI roles, basically saying \"learn to work with AI or find the door.\" This matters because it's a real signal that enterprise software and workplace tools are about to change fast, and your training budget better account for people who need to actually understand these systems rather than just fear them. Here's the thing though: moving people to \"AI-focused roles\" doesn't magically make them useful if you haven't thought through what those roles actually do.",
+        "date": "2026-05-25T21:57:37.952914+00:00"
       }
     ],
     "digital-culture": [
@@ -43,56 +75,66 @@
         "url": "https://www.fastcompany.com/91547078/how-ai-keeps-both-jobseekers-and-employers-from-filling-roles?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "excerpt": "Jobseekers and recruiters are at a technological standoff. Candidates upload (and retype) their resumes into an applicant tracking system (ATS) with no sense of whether or not their applications are g",
-        "dwp_take": "AI-powered applicant tracking systems are so good at filtering candidates that perfectly qualified people never get seen, while recruiters still drown in applications. This matters because your internal hiring process probably has the same problem: you're using technology that's supposed to solve recruitment friction but actually just hides candidates behind another wall. The irony is that we've built systems so efficient at rejecting people that we've made it harder than ever to actually find talent.",
-        "date": "2026-05-25T16:55:09.774943+00:00"
+        "dwp_take": "AI-powered applicant tracking systems are screening out qualified candidates at scale while job seekers game the system with keyword stuffing and resume tricks, creating a mutual frustration loop. This matters because your talent pipeline is only as good as the tools filtering it, and right now those tools are broken in ways that hurt both sides. The irony is that companies spent millions on automation to solve hiring problems and somehow made them worse, which tells you everything you need to know about implementing technology without understanding the actual human workflow first.",
+        "date": "2026-05-25T21:57:42.348682+00:00"
       },
       {
-        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
-        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
-        "dwp_take": "Half your workforce is burnt out from constant change initiatives, and nobody's really talking about the cost of losing your best people in the process. Digital workplace professionals need to understand that transformation fatigue is real and it directly impacts adoption rates, productivity, and retention of the talent you actually need. Here's the truth: announcing another shiny new tool or process without letting people catch their breath is a great way to watch your A-players quietly update their LinkedIn profiles.",
-        "date": "2026-05-25T16:55:13.956544+00:00"
+        "title": "Bosses take remote less work seriously when it\u2019s geared toward parents, study shows",
+        "url": "https://www.fastcompany.com/91547074/bosses-take-remote-less-work-seriously-when-its-geared-toward-parents-study-shows?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "Being penalized for using flexible working policies\u2014remote work, hybrid work, parental leave, and more\u2014can be subtle, or screamingly obvious. Nicole Yelland, a communications strategist from Detroit, ",
+        "dwp_take": "A new study confirms what most of us already know: managers take remote work less seriously when employees cite parenting responsibilities, essentially punishing people for being honest about why they need flexibility. This matters because it exposes the gap between stated DEI commitments and actual behavior, and it means your organization is probably losing talented people to competitors who don't penalize honesty. Here's the real kicker: managers who treat parental flexibility as less legitimate than \"I just want to work from home\" are basically admitting they've got no actual trust framework for remote work, which is a management problem dressed up as a flexibility problem.",
+        "date": "2026-05-25T21:57:47.097528+00:00"
       },
       {
-        "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
-        "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
-        "dwp_take": "Dayforce's Amy Capellanti-Wolf is making the rounds talking about AI, hybrid work, and keeping people from bolting to competitors. This matters because HR leaders are the ones actually living with the technology decisions IT makes, so when they speak up about what's working and what's not, it's worth listening to instead of ignoring them. The \"technology x humanity\" angle is refreshing because it acknowledges that throwing AI at your retention problem won't work if your hybrid policy still requires butts in seats on Tuesdays.",
-        "date": "2026-05-25T16:55:17.965069+00:00"
+        "title": "AI is already killing the executive assistant job",
+        "url": "https://www.fastcompany.com/91547256/ai-is-already-killing-the-executive-assistant-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "There is a growing body of evidence that AI is redefining white-collar work. It\u2019s not just the endless rounds of layoffs at tech companies that herald this transformation. Entry-level jobs are disappe",
+        "dwp_take": "AI automation is eliminating executive assistant roles faster than anyone predicted, with entry-level positions across white-collar sectors disappearing alongside them. This matters because your workplace is about to lose institutional knowledge sitting in those assistant roles, and you'll discover too late that nobody documented where anything actually lives. The irony is that most executives will spend the next two years looking for their own passwords while wondering why their calendar is a disaster.",
+        "date": "2026-05-25T21:57:50.824878+00:00"
       },
       {
-        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
-        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
-        "dwp_take": "Organizations are finally treating workforce data as a strategic asset instead of something IT shoves into a spreadsheet and forgets about. This matters because digital workplace professionals need to understand that data governance and AI integration aren't technical problems anymore, they're business problems that will either make or break employee experience initiatives. Here's the thing though: most companies will talk a big game about \"smarter AI integration\" while their actual data is still a mess, and that gap between intention and reality is where most projects go to die.",
-        "date": "2026-05-25T16:55:22.323569+00:00"
+        "title": "AI may be eating jobs, but it poses an even bigger threat",
+        "url": "https://www.fastcompany.com/91546546/ai-is-eating-jobs-but-theres-a-bigger-threat?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "The AI conversation today focuses on systems. Which jobs will survive? How does education need to adapt? What happens to the economy when machines produce what humans used to? Governments are commissi",
+        "dwp_take": "Researchers are warning that while job displacement from AI gets all the attention, the real threat is something we can actually control: how we prepare people and systems to work alongside these tools right now. For digital workplace leaders, this means stopping the endless \"AI will destroy work\" handwringing and starting concrete work on skills training, process redesign, and cultural readiness in your organization today. The irony is that most companies will get blindsided not by AI itself, but by their own paralysis while waiting for the perfect strategy to emerge.",
+        "date": "2026-05-25T21:57:54.997230+00:00"
+      }
+    ],
+    "industry-news": [
+      {
+        "title": "Turn Prompts Into Pro Visual Content Fast For Just $64",
+        "url": "https://www.techrepublic.com/article/arta-ai-premium-5-year-subscription/",
+        "source": "TechRepublic",
+        "excerpt": "Build professional-grade visuals instantly with ARTA AI. The post Turn Prompts Into Pro Visual Content Fast For Just $64 appeared first on TechRepublic.",
+        "dwp_take": "ARTA AI is selling a lifetime license for $64 that promises to turn text prompts into professional visuals without design skills. For digital workplace pros managing content creation across teams, this matters because it could genuinely speed up internal communications, training materials, and presentation assets without hiring designers or waiting weeks. That said, I'd test the actual output quality first because \"professional-grade\" is doing a lot of heavy lifting in that marketing copy, and the difference between AI-generated and actually polished is still pretty wide.",
+        "date": "2026-05-25T21:57:59.557910+00:00"
       },
       {
-        "title": "Hermes Agentic AI Overtakes OpenClaw, 10 Shifts Leaders Need To Know",
-        "url": "https://www.forbes.com/sites/sandycarter/2026/05/25/hermes-agentic-ai-overtakes-openclaw-10-shifts-leaders-need-to-know/",
-        "source": "Forbes Innovation",
-        "excerpt": "Hermes Agent overtakes OpenClaw as agentic systems accelerate. Learn the 10 key agentic shifts reshaping enterprise strategy, speed, and execution today.",
-        "dwp_take": "Hermes Agentic AI has apparently surpassed OpenClaw in some capability metric, and Forbes is suggesting this signals major shifts in how enterprises should think about autonomous AI agents. This matters because agentic AI will eventually touch your workplace tech stack, your support processes, and how knowledge workers actually get things done. Here's the thing though: \"10 key shifts\" listicles rarely survive contact with your actual infrastructure, legacy systems, and the reality that your org moves at human speed no matter what the AI can do.",
-        "date": "2026-05-25T16:55:31.422209+00:00"
+        "title": "8 Expert-Approved Microsoft Project Alternatives (2026)",
+        "url": "https://www.techrepublic.com/article/microsoft-project-alternatives/",
+        "source": "TechRepublic",
+        "excerpt": "Looking for Microsoft Project alternatives? Check out the top 8 tools that offer more flexibility, cost savings, and improved productivity for your team. The post 8 Expert-Approved Microsoft Project A",
+        "dwp_take": "Microsoft Project has competition now, and there are eight solid alternatives getting real traction with teams who want more flexibility and better pricing. This matters because your organization probably has Project licenses you're not fully using, and switching costs less than you think if you pick the right tool. Honestly, the fact that people are finally willing to look beyond Microsoft's default answer suggests Project has been coasting on inertia for a while now.",
+        "date": "2026-05-25T21:58:04.024360+00:00"
       },
       {
-        "title": "How To Use AI Agents To Streamline Email Sorting And Boost Productivity",
-        "url": "https://www.forbes.com/sites/technology/article/how-to-use-ai-agents-for-emails/",
-        "source": "Forbes Innovation",
-        "excerpt": "Learn how to use an AI agent to sort emails, automate your inbox, and save time with simple tools and step-by-step instructions.",
-        "dwp_take": "Forbes is pushing AI agents as the answer to email overload, suggesting they can automatically sort and organize your inbox with minimal setup. This matters because email chaos is still eating up real productivity time in most organizations, and if AI can actually reduce that friction without creating new problems, it's worth evaluating. The reality though is that most people's email problems stem from terrible folder discipline and unclear communication norms, not missing technology, so don't expect an AI agent to fix what's fundamentally a people and process issue.",
-        "date": "2026-05-25T16:55:35.843998+00:00"
+        "title": "Southwest Bans Humanoid Robots After Viral Passenger Flights",
+        "url": "https://www.techrepublic.com/article/news-southwest-bans-humanoid-robots-flights/",
+        "source": "TechRepublic",
+        "excerpt": "Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety. The post Southwest Bans Humanoid Robots After V",
+        "dwp_take": "Southwest Airlines decided to ban humanoid and animal-like robots from passenger cabins and checked baggage due to safety concerns around lithium-ion batteries after some viral moments got people's attention. This matters because it shows how quickly physical security policies have to adapt when emerging tech shows up in real-world environments, and your workplace needs to think about similar battery and device risks if you're bringing robots or autonomous systems into your spaces. Honestly, the fact that we needed a viral TikTok moment to tighten up lithium-ion battery rules suggests most organizations are still playing catch-up with basic hardware safety protocols.",
+        "date": "2026-05-25T21:58:09.291618+00:00"
       },
       {
-        "title": "Digital sovereignty, the musical: One engineer\u2019s bizarre crusade against hyperscalers",
-        "url": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
-        "source": "The Register",
-        "excerpt": "A French engineer has declared war on AWS, Google and Microsoft using AI-generated sea shanties, satirical poetry, and a multilingual protest campaign",
-        "dwp_take": "A French engineer has taken his frustration with big cloud providers and turned it into an absurdist art project featuring AI sea shanties and multilingual protest poetry instead of, you know, filing actual complaints or building alternatives. Digital workplace professionals should care because this highlights real sovereignty concerns that deserve serious attention, even if the delivery mechanism is completely unhinged. Look, I'm all for creative protest, but if you've got legitimate gripes about vendor lock-in and data residency, maybe skip the musical number and just write a technical white paper like a normal person.",
-        "date": "2026-05-25T16:55:41.203086+00:00"
+        "title": "Anthropic Reportedly Reaches Profitability as Claude Wins Over Businesses",
+        "url": "https://www.techrepublic.com/article/news-anthropic-first-profitable-quarter-enterprise-ai/",
+        "source": "TechRepublic",
+        "excerpt": "Anthropic reportedly expects its first profitable quarter as enterprise AI revenue surges, but rising compute costs could test that momentum. The post Anthropic Reportedly Reaches Profitability as Cla",
+        "dwp_take": "Anthropic says it's heading toward its first profitable quarter as more businesses adopt Claude for enterprise work, though rising compute costs could throw a wrench in that plan. This matters because your procurement team is probably already evaluating Claude against other AI tools, and knowing the vendor's financial stability actually affects how much you should trust them with critical workflows. Here's the thing though: profitability is nice, but don't mistake it for a sign that AI costs are finally getting reasonable for most organizations, because they're still not.",
+        "date": "2026-05-25T21:58:13.435451+00:00"
       }
     ]
   }
