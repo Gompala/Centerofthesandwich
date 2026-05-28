@@ -1,140 +1,140 @@
 {
-  "generated": "2026-05-27T18:16:14.169998+00:00",
+  "generated": "2026-05-28T18:44:25.365583+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-        "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+        "title": "Anthropic releases Opus 4.8 with new \u2018dynamic workflow\u2019 tool",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
         "source": "TechCrunch",
-        "excerpt": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
-        "dwp_take": "TechCrunch's Startup Battlefield 200 competition is closing applications today, offering one hundred thousand dollars in equity-free funding and a stage to pitch in front of investors. For digital workplace professionals building tools that solve real collaboration or productivity problems, this is one of the few legitimate funding opportunities where you won't get drowned out by AI hype. If you've got something that actually works and solves a pain point your customers face every day, it's worth the twenty minutes to throw your hat in the ring before midnight.",
-        "date": "2026-05-27T18:15:05.172238+00:00"
+        "excerpt": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+        "dwp_take": "Anthropic just dropped Opus 4.8 with a Dynamic Workflows feature that lets you coordinate multiple AI agents working together on complex tasks. This matters because digital workplace teams are already drowning in point solutions, and now you've got to figure out whether orchestrating AI agent swarms actually solves your problems or just creates a new layer of complexity to manage. The real question isn't whether this technology is cool, it's whether your organization can even keep track of what its AI agents are doing once you let them loose.",
+        "date": "2026-05-28T18:43:18.635804+00:00"
       },
       {
-        "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
-        "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+        "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+        "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
         "source": "TechCrunch",
-        "excerpt": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you p",
-        "dwp_take": "TechCrunch is pushing early bird ticket sales for their 2026 Disrupt conference, offering savings of up to $410 before prices jump on May 29th. For digital workplace leaders, these conferences can expose you to emerging collaboration tools and workplace tech trends worth evaluating. That said, most of what gets announced at Disrupt won't meaningfully impact your actual workplace for 18 months, so maybe sleep on it and catch the session recordings instead of rushing to spend $1500+ on a ticket.",
-        "date": "2026-05-27T18:15:09.397422+00:00"
+        "excerpt": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
+        "dwp_take": "Musk is claiming xAI's compute contract with Anthropic is temporary and cancellable, but SpaceX's official paperwork says payments run through 2029, creating a public contradiction that looks like damage control. Digital workplace leaders should care because this signals how quickly AI infrastructure deals can become contested territory, and it matters when you're betting your organization's future on vendor relationships. Watching a billionaire argue with his own company's SEC filings is either the funniest or most terrifying thing you'll see this week, depending on how much you've already invested in AI.",
+        "date": "2026-05-28T18:43:23.254708+00:00"
       },
       {
-        "title": "SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M",
-        "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+        "title": "At TechCrunch Disrupt 2026: Databricks\u2019 co-founder on what kills enterprise AI deals",
+        "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
         "source": "TechCrunch",
-        "excerpt": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-        "dwp_take": "A sleep tech startup called SOND just raised $7 million to sell AI-powered earbuds designed to improve how people sleep. This matters because employee wellness programs are becoming table stakes for attracting talent, and sleep quality directly impacts productivity and mental health at work. That said, I'll believe the ROI story when I see it, because most wellness gadgets end up gathering dust in desk drawers next to those standing desk converters nobody actually uses.",
-        "date": "2026-05-27T18:15:13.294467+00:00"
+        "excerpt": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+        "dwp_take": "Databricks' co-founder says enterprises have moved past the \"ooh shiny\" phase and are now seriously weighing the risks of rolling out AI at scale. This matters because your C-suite is probably asking you the same hard questions right now: security, compliance, governance, and whether this actually solves real problems. The good news is that enterprises finally asking \"is this safe?\" instead of \"can we do this?\" means the AI circus might actually be maturing into something useful for your actual business.",
+        "date": "2026-05-28T18:43:27.433119+00:00"
       },
       {
-        "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-        "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-        "source": "VentureBeat",
-        "excerpt": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users \u2014 and according to company insiders, the team bui",
-        "dwp_take": "Anthropic just released Cowork, an AI agent that lets regular people automate file work in Claude Desktop without writing code, and they built the whole thing in ten days using their own AI tool. This matters because it's the first time a mainstream AI company has delivered something genuinely useful to non-technical workers instead of just hyping \"agents coming soon.\" If it actually works as advertised, your users might finally have a reason to care about AI beyond chatting with a very smart paperclip.",
-        "date": "2026-05-27T18:15:17.468835+00:00"
+        "title": "YouTube adds new podcast features, including an AI recommendation tool and \u2018Auto speed\u2019",
+        "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+        "source": "TechCrunch",
+        "excerpt": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+        "dwp_take": "YouTube rolled out new podcast features including AI-powered recommendations and an auto speed function to grab a bigger slice of the podcast market. This matters to digital workplace pros because your employees are consuming work-related content on these platforms, and understanding where your audience actually listens is critical for internal communications strategy. Honestly, YouTube treating podcasts like they just invented them while Spotify and Apple Podcasts have been doing this for years is peak tech company energy, but at least the competition means better tools for everyone.",
+        "date": "2026-05-28T18:43:32.022132+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "How I got my business emails through spam filters with SPF, DKIM, and DMARC",
-        "url": "https://www.zdnet.com/article/work-emails-going-to-spam-security-tweaks-to-fix/",
+        "title": "Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9",
+        "url": "https://www.zdnet.com/article/euro-office-a-sovereign-cloud-based-office-suite-google-microsoft-alternative/",
         "source": "ZDNet",
-        "excerpt": "SPF, DKIM, and DMARC are three DNS-based authentication records that stop your emails from landing in spam and prevent criminals from spoofing your domain.",
-        "dwp_take": "A guy figured out how to properly configure SPF, DKIM, and DMARC records so his business emails actually reach people instead of rotting in spam folders. This matters because nothing kills collaboration faster than when your carefully crafted messages vanish into the void, and poor email authentication is still one of the most preventable problems in most organizations. Here's the thing: if you're not already running these three protocols, you're essentially hoping your emails make it through on good vibes and prayers, which is a strategy that has never worked in the history of email.",
-        "date": "2026-05-27T18:15:21.831769+00:00"
+        "excerpt": "European tech firms will ship the first stable release of Euro-Office next month, giving governments and businesses worldwide a ready-to-run, sovereign alternative to Microsoft Office and Google Docs.",
+        "dwp_take": "Euro-Office, an open-source productivity suite built by European tech companies, is launching its first stable release in June as an alternative to Microsoft Office and Google Docs. This matters because digital workplace leaders managing sovereign data requirements or seeking to reduce licensing costs now have a legitimate third option worth evaluating. Here's the thing though: open-source office suites have been solving this problem for fifteen years, so the real question isn't whether Euro-Office works, it's whether anyone will actually switch from what's already on their desktop.",
+        "date": "2026-05-28T18:43:36.391924+00:00"
       },
       {
-        "title": "I found an easy way to automatically keep AI out of my search results - and it works in nearly every browser",
-        "url": "https://www.zdnet.com/article/easy-way-to-exclude-ai-from-search-results-in-every-browser/",
+        "title": "The solar-powered backup station I trust after years of testing - and why it works so well",
+        "url": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
         "source": "ZDNet",
-        "excerpt": "You can add a custom search engine in your browser that excludes all AI results. I'll show you how to do it in every major browser.",
-        "dwp_take": "Someone figured out how to filter AI-generated garbage out of search results by creating custom search engine parameters that exclude AI content from major search engines. This matters because your employees are already drowning in AI slop cluttering their research, and IT leaders need to know there are actual workarounds beyond just hoping Google cleans up its own mess. The fact that we've reached the point where blocking AI results is now a basic productivity tool tells you everything you need to know about where we are right now.",
-        "date": "2026-05-27T18:15:29.375286+00:00"
+        "excerpt": "Summer blackouts are on the horizon. Here's the setup I'm relying on to get me through the season.",
+        "dwp_take": "A tech journalist tested solar-powered backup power systems and found one reliable enough to stake their reputation on as summer blackouts loom. This matters because digital workplace professionals increasingly work from home, and a dead laptop during a power outage means lost productivity, missed meetings, and potential data loss. Here's the thing though: if you need a solar backup station to keep your home office running, you've got bigger problems than your power setup\u2014your company should have a real business continuity plan that doesn't rely on you buying consumer gear.",
+        "date": "2026-05-28T18:43:40.700967+00:00"
       },
       {
-        "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
-        "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
-        "source": "ZDNet",
-        "excerpt": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure.",
-        "dwp_take": "Dell's telling enterprises that the future of AI isn't living in someone else's cloud, it's coming home to roost on your own servers. Digital workplace leaders need to hear this because it directly impacts infrastructure spending, security decisions, and whether your company controls its own data or keeps renting compute from hyperscalers. Here's the thing though: \"on-premises is the future\" is exactly what server vendors say when cloud costs spike, so take it with a grain of salt while also taking seriously the sovereignty and cost arguments that actually hold water.",
-        "date": "2026-05-27T18:15:34.382077+00:00"
-      },
-      {
-        "title": "Apple\u2019s iPhone satellite ambition goes beyond rescuing hikers",
-        "url": "https://www.computerworld.com/article/4177592/apples-iphone-satellite-ambition-goes-beyond-rescuing-hikers.html",
+        "title": "AGI could be here in three years, says DeepMind CEO",
+        "url": "https://www.computerworld.com/article/4178398/deepmind-ceo-agi-could-be-here-in-three-years.html",
         "source": "Computerworld",
-        "excerpt": "Apple has spent billions of dollars to develop satellite connectivity for iPhone; I very much doubt it did so solely to rescue stranded hikers. The company will most certainly have had a bigger prize ",
-        "dwp_take": "Apple is building out satellite connectivity for iPhones to create an alternative network infrastructure beyond traditional cellular coverage. For digital workplace professionals, this matters because it signals how consumer device capabilities are reshaping expectations around always-on connectivity and redundancy in enterprise environments. Here's the thing though: most organizations will spend the next five years figuring out how to secure and manage satellite connections while their users are already using them.",
-        "date": "2026-05-27T18:15:39.718453+00:00"
+        "excerpt": "Google DeepMind CEO Demis Hassabis believes progress toward artificial general intelligence (AGI) is moving faster than expected and that society now has only a few years to prepare. He believes AGI c",
+        "dwp_take": "A DeepMind CEO said AGI might show up in three years instead of the decades we were told to expect. This matters because your executives are already panicking about AI disrupting every process you've built, so now they'll panic faster and with more urgency. Here's the thing though: most organizations still can't get email governance right, so whether AGI arrives in three years or thirty, we've got plenty of time to keep missing the actual problems.",
+        "date": "2026-05-28T18:43:45.944190+00:00"
+      },
+      {
+        "title": "Democratizing AI adoption with Tether\u2019s Bitnet LLM fine-tuning framework",
+        "url": "https://www.computerworld.com/article/4177577/democratizing-ai-adoption-with-tethers-bitnet-llm-fine-tuning-framework.html",
+        "source": "Computerworld",
+        "excerpt": "\u201cThe future of AI should be accessible, available, and open to people and builders everywhere, and it should not require an absurd amount of resources only available to a handful of cloud providers,\u201d ",
+        "dwp_take": "Tether launched Bitnet, a framework aimed at making large language model fine-tuning cheaper and more accessible to organizations without massive cloud budgets. For digital workplace leaders, this matters because it could finally mean you're not locked into paying premium rates to the usual cloud suspects for AI customization that actually fits your business. Whether this actually works at scale or just sounds nice in a press release remains to be seen, but at least someone's finally asking why democratizing AI shouldn't mean mortgaging your department's budget.",
+        "date": "2026-05-28T18:43:50.108934+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "How to know if your solo business needs to evolve, innovate, or pivot",
-        "url": "https://www.fastcompany.com/91547014/how-know-your-solo-business-needs-evolve-innovate-pivot?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The mom-influencer boom is filling a workplace void",
+        "url": "https://www.fastcompany.com/91548360/the-mom-influencer-boom-is-filling-a-workplace-void?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "Ever get the feeling that you need to make a change in your business? Your pipeline has dried up, your prospective clients\u2019 needs have changed, or something just feels \u201coff\u201d? Companies have entire tea",
-        "dwp_take": "A Fast Company piece talks about how solo business owners need to recognize when it's time to evolve, innovate, or pivot their operations. This matters to digital workplace folks because remote work and distributed teams mean more of your colleagues are running independent practices or consulting gigs on the side, and they're often struggling with strategic planning in isolation. Here's the thing: solopreneurs aren't some separate species from your corporate workforce anymore, and if your organization doesn't understand what independent workers actually deal with, you're missing insights about flexibility, autonomy, and what your best people might be thinking about.",
-        "date": "2026-05-27T18:15:44.340771+00:00"
+        "excerpt": "It\u2019s become an unfortunate yet well-documented truth that having a baby can impact a woman\u2019s career. A 2025 survey found that 87% of working mothers say they\u2019ve missed promotions or opportunities due ",
+        "dwp_take": "Mom influencers are building careers outside traditional employment because workplaces still haven't figured out how to support working mothers without derailing their advancement. This matters because it signals a massive failure in your workplace culture and retention strategy: talented people are literally leaving to film TikToks instead of working for you. If nearly 60% of mothers are switching industries entirely, your organization's flexibility policies aren't just ineffective, they're pushing experienced talent straight into the arms of algorithm-based income instead of keeping them on your payroll.",
+        "date": "2026-05-28T18:43:54.796238+00:00"
       },
       {
-        "title": "How AI inhibits our curiosity, and what to do to regain it, according to science",
-        "url": "https://www.fastcompany.com/91536344/how-ai-inhibits-our-curiosity-and-what-to-do-to-regain-it-according-to-science?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "It will take 200 years for the average worker to match annual CEO pay",
+        "url": "https://www.fastcompany.com/91549412/it-will-take-200-years-for-the-average-worker-to-match-annual-ceo-pay?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "Curiosity is one of the most consequential forces in human history. Every scientific breakthrough, technological leap, and cultural advance begins not with knowledge, but the desire to know. At its co",
-        "dwp_take": "A new study suggests that AI tools are actually suppressing human curiosity by giving us answers before we've had a chance to wonder about the questions. This matters to digital workplace professionals because we're now managing teams where knowledge workers can get instant answers instead of doing the critical thinking that builds expertise and innovation. Here's the thing: if your workplace strategy is just plugging AI into everything without thinking about what you're losing, you've already lost the plot.",
-        "date": "2026-05-27T18:15:48.068416+00:00"
+        "excerpt": "The looming SpaceX IPO has drawn renewed attention to the astronomical pay that Elon Musk has secured through his companies. Last year, Tesla shareholders approved a compensation package for Musk that",
+        "dwp_take": "CEO compensation has completely detached from worker reality, with Elon Musk's pay packages so enormous that average workers would need two centuries to earn what he makes in a year. This matters because massive pay disparity directly affects workplace culture, retention, and the credibility of leadership when they talk about \"shared success\" and team alignment. Honestly, if your CEO needs a compensation package worth more than the GDP of some nations, you've got a bigger problem than any Slack integration could fix.",
+        "date": "2026-05-28T18:43:59.215121+00:00"
       },
       {
-        "title": "Sam Altman is \u2018delighted to be wrong\u2019 about AI destroying jobs",
-        "url": "https://www.fastcompany.com/91548418/sam-altman-is-delighted-to-be-wrong-about-ai-destroying-jobs?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Nearly half of CEOs plan upskilling, reskilling initiatives for workers to keep up with AI",
+        "url": "https://www.fastcompany.com/91549410/nearly-half-of-ceos-plan-upskilling-reskilling-initiatives-for-workers-to-keep-up-with-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "Unlike some of his industry peers, OpenAI CEO Sam Altman has been surprisingly skeptical of the notion that AI is displacing workers. In an interview a few months ago, he argued that AI is a convenien",
-        "dwp_take": "Sam Altman is walking back the \"AI will eliminate all jobs\" narrative, saying companies are using AI as cover for layoffs they'd planned anyway. This matters because your executives are probably using the same AI excuse when you know the real story involves cost-cutting and poor planning. It's refreshing to see someone in tech admit uncertainty, though I'd feel better about it if we weren't all just watching companies use AI as the convenient villain while they downsize.",
-        "date": "2026-05-27T18:15:52.218522+00:00"
+        "excerpt": "Despite uncertainty around its value creation, companies are still spending big on AI. CEOs from around the world say that artificial intelligence is changing everything from customer service and core",
+        "dwp_take": "Nearly half of CEOs surveyed say they're planning to upskill and reskill workers to keep pace with AI, even though most companies haven't figured out where AI actually creates value yet. This matters to you because it means your organization is probably about to dump training budgets at the problem without clear strategy, which typically leads to employees sitting through generic \"AI literacy\" courses that won't stick. The real question isn't whether your people need AI skills, it's whether your leadership can articulate what jobs actually change and what skills those jobs need, and my guess is they can't.",
+        "date": "2026-05-28T18:44:03.782672+00:00"
       },
       {
-        "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
-        "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
-        "dwp_take": "Dayforce's Amy Capellanti-Wolf sat down to discuss how AI, hybrid work, and talent retention are reshaping HR technology. Digital workplace pros need to pay attention because this is where the actual business impact happens\u2014it's not about the tools, it's about whether your people stick around and do their best work. The real test isn't whether your company has AI; it's whether you've figured out how to use it without making your employees feel like they're working alongside a calculator.",
-        "date": "2026-05-27T18:15:56.839136+00:00"
+        "title": "Here\u2019s why change is so exhausting, according to neuroscience",
+        "url": "https://www.fastcompany.com/91534894/the-neuroscience-of-change-fatigue-work-leadership-change-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "excerpt": "Organizations today are running what amounts to a continuous stress experiment on their people. Restructuring, digital transformation, remote and hybrid transitions, supply chain reorganisation and th",
+        "dwp_take": "Neuroscience research confirms that constant organizational change actually exhausts people's brains, not just their patience, because our neural resources for processing novelty are finite. This matters because digital workplace leaders who understand this can stop blaming resistance on stubbornness and start designing change rollouts that don't burn people out before they even start. Here's the truth: if your change management strategy relies on willpower alone, you're basically asking people to run a marathon while their brain is already halfway through an ultramarathon.",
+        "date": "2026-05-28T18:44:08.604365+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Google AI Studio Cheat Sheet: Features, Pricing, and More",
-        "url": "https://www.techrepublic.com/article/news-google-ai-studio-cheat-sheet/",
+        "title": "Nvidia Retires Control Panel for GeForce Users After 20 Years",
+        "url": "https://www.techrepublic.com/article/news-nvidia-control-panel-retired/",
         "source": "TechRepublic",
-        "excerpt": "Google AI Studio lets users test Gemini models, build apps, generate media, and export code. Here\u2019s what it does, costs, and where it falls short. The post Google AI Studio Cheat Sheet: Features, Pric",
-        "dwp_take": "Google released AI Studio, a tool that lets people experiment with Gemini models, build applications, create media, and pull out working code without touching the command line. This matters because your knowledge workers are already playing with these tools whether IT approves or not, so you need to understand what they're actually doing and where the security and governance gaps live. The real question isn't whether AI Studio is good or bad, it's whether your organization has a plan for when your staff starts building internal tools with it and then forgets to tell you.",
-        "date": "2026-05-27T18:16:01.381582+00:00"
+        "excerpt": "Nvidia\u2019s Control Panel retirement shifts GeForce settings into the Nvidia app, creating new support and documentation steps for IT teams managing shared PCs. The post Nvidia Retires Control Panel for ",
+        "dwp_take": "Nvidia is killing its 20-year-old Control Panel and forcing GeForce users to manage settings through their new Nvidia app instead. If your organization manages shared PCs with Nvidia graphics, you're looking at retraining users, updating documentation, and likely a spike in support tickets during the transition. It's the classic tech move of \"we're modernizing\" which really means \"figure it out yourself, and try not to break anything in the meantime.\"",
+        "date": "2026-05-28T18:44:12.839627+00:00"
       },
       {
-        "title": "The Next AI Security Failure May Start With a Trusted Assistant",
-        "url": "https://www.techrepublic.com/article/news-ai-agent-data-layer-security-may-2026-2/",
+        "title": "Google\u2019s $135M Android Privacy Settlement: Who May Be Eligible",
+        "url": "https://www.techrepublic.com/article/news-google-android-privacy-settlement/",
         "source": "TechRepublic",
-        "excerpt": "AI coding tool flaws highlight the need for data-layer governance, access controls, encryption, and audit logs for AI agents. The post The Next AI Security Failure May Start With a Trusted Assistant a",
-        "dwp_take": "TechRepublic is warning that AI coding assistants have security gaps that could let bad actors slip through via trusted tools we're already using. This matters because most organizations are throwing these tools at their workforce without governance frameworks, meaning your developers might be leaking credentials or proprietary code without even realizing it. Here's the thing: we've built a trust relationship with AI assistants that we haven't actually earned yet, and we're bolting it straight into our infrastructure like it's going to behave itself.",
-        "date": "2026-05-27T18:16:05.640325+00:00"
+        "excerpt": "Google\u2019s $135 million Android settlement could pay eligible US users who used Android devices with cellular data since November 2017. The post Google\u2019s $135M Android Privacy Settlement: Who May Be Eli",
+        "dwp_take": "Google is paying out $135 million to settle privacy violations involving Android users' cellular data collection since 2017. For digital workplace pros managing Android deployments, this is a reminder that mobile device management strategies need to account for platform-level privacy risks you can't always control. If your organization's been pushing Android for BYOD programs without deep privacy audits, this settlement is basically the universe giving you a gentle nudge to actually do that work.",
+        "date": "2026-05-28T18:44:16.757343+00:00"
       },
       {
-        "title": "SK Hynix Tops $1 Trillion Valuation as AI Memory Boom Reshapes Chip Market",
-        "url": "https://www.techrepublic.com/article/news-sk-hynix-trillion-ai-memory-chip-rally-apac/",
+        "title": "Meta Adds Paid Subscription Tiers Across Facebook, Instagram, and WhatsApp",
+        "url": "https://www.techrepublic.com/article/news-meta-subscription-tiers-facebook-instagram-whatsapp/",
         "source": "TechRepublic",
-        "excerpt": "SK Hynix crossed a $1 trillion valuation as AI data center demand drives memory chip prices higher and reshapes the semiconductor market. The post SK Hynix Tops $1 Trillion Valuation as AI Memory Boom",
-        "dwp_take": "SK Hynix just hit a trillion dollar valuation thanks to AI-driven demand for memory chips that's reshaping the entire semiconductor market. This matters to you because your organization's infrastructure costs are about to get real interesting when you're competing for the same memory and compute resources that everyone else suddenly needs for their AI projects. Here's the thing: your CFO is going to start asking hard questions about why your digital workplace platform upgrades are getting more expensive, and the honest answer is that the entire tech supply chain just got a lot pricier.",
-        "date": "2026-05-27T18:16:10.044696+00:00"
+        "excerpt": "Meta is launching paid tiers for Facebook, Instagram, and WhatsApp while testing new AI, creator, and business subscriptions. The post Meta Adds Paid Subscription Tiers Across Facebook, Instagram, and",
+        "dwp_take": "Meta is rolling out paid subscription options across its three major platforms, letting users pay for ad-free experiences and extra features while the company experiments with AI, creator, and business-focused tiers. If your organization relies on these platforms for internal communication or external marketing, you need to understand how pricing changes might affect your team's workflows and whether premium features deliver real value for your use case. Honestly, it's a sign that free social platforms are becoming less free, which means IT leaders should start planning for the day when employee communication costs actual money instead of just your sanity.",
+        "date": "2026-05-28T18:44:20.998384+00:00"
       },
       {
-        "title": "Meta Layoffs Leave Employees Wary Despite Zuckerberg\u2019s Reassurance",
-        "url": "https://www.techrepublic.com/article/news-meta-layoffs-zuckerberg-stability-promise/",
+        "title": "Transfr Pro Replaces WeTransfer With a Single $99.99 Payment",
+        "url": "https://www.techrepublic.com/article/transfr-pro-lifetime-subscription/",
         "source": "TechRepublic",
-        "excerpt": "Meta employees are questioning Mark Zuckerberg\u2019s pledge to avoid more company-wide layoffs this year as the company restructures around AI. The post Meta Layoffs Leave Employees Wary Despite Zuckerber",
-        "dwp_take": "Meta employees are skeptical about leadership's promise of no more layoffs after recent cuts and ongoing AI-driven restructuring. This matters because it shows how quickly employee trust erodes when companies make strategic pivots without clear communication about what that means for individual jobs. The real lesson here isn't about Meta specifically, it's that telling people \"no more layoffs\" while simultaneously restructuring departments is like saying \"we're definitely keeping this sandwich together\" while actively reorganizing the fillings.",
-        "date": "2026-05-27T18:16:14.169889+00:00"
+        "excerpt": "Send unlimited files with real-time tracking, custom branding, and GDPR-compliant infrastructure \u2014 no fees. The post Transfr Pro Replaces WeTransfer With a Single $99.99 Payment appeared first on Tech",
+        "dwp_take": "Transfr Pro is launching as a WeTransfer alternative that charges a one-time $99.99 fee instead of recurring subscription costs, offering unlimited file transfers with tracking and custom branding. This matters because enterprises are tired of paying monthly SaaS fees for basic functionality and finally have a vendor willing to challenge the subscription model that's become standard in this space. The real question isn't whether Transfr Pro is good, it's whether anyone actually needs to pay for file transfer when a dozen free options exist.",
+        "date": "2026-05-28T18:44:25.365437+00:00"
       }
     ]
   }
