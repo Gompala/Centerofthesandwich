@@ -1,140 +1,140 @@
 {
-  "generated": "2026-05-29T18:43:48.742065+00:00",
+  "generated": "2026-05-30T12:52:46.438308+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "What happens when companies become too AI-pilled?",
-        "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+        "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
+        "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+        "source": "TechCrunch",
+        "excerpt": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+        "dwp_take": "Developers are increasingly demanding AI tools as a baseline expectation, but the research suggests the code they're producing isn't necessarily better, just faster. For digital workplace leaders, this matters because you're inheriting the technical debt and maintenance headaches when faster code turns out to be sloppier code. Here's the thing: rushing to ship AI-generated anything without quality gates is how you end up explaining to your board why your systems are held together with digital duct tape.",
+        "date": "2026-05-30T12:51:41.937383+00:00"
+      },
+      {
+        "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+        "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch",
+        "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "dwp_take": "TechCrunch published a glossary of AI terminology because the field has exploded with jargon that most people are nodding along to without actually understanding. This matters because digital workplace leaders are being asked to make real decisions about AI tools, vendors, and implementations while drowning in buzzwords like \"hallucinations\" and \"fine-tuning\" without solid definitions. Honestly, if you need a glossary to understand what your own tech vendors are selling you, that's less a problem with the vocabulary and more a signal that someone's overselling complexity to cover for underwhelming substance.",
+        "date": "2026-05-30T12:51:46.254204+00:00"
+      },
+      {
+        "title": "Does your CEO have AI psychosis?\u00a0Aaron Levie thinks most of them\u00a0do.",
+        "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
         "source": "TechCrunch",
         "excerpt": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \u201c",
-        "dwp_take": "Companies are rushing to replace workers with AI without understanding what those workers actually do, a phenomenon Box founder Aaron Levie calls \"AI psychosis.\" This matters because digital workplace leaders are caught between board pressure to automate everything and the reality that most job elimination decisions are made by people who've never done the work being eliminated. The irony is that the executives most confidently slashing headcount are probably the same ones who'll panic when critical institutional knowledge walks out the door with the people they fired.",
-        "date": "2026-05-29T18:42:42.707939+00:00"
+        "dwp_take": "Aaron Levie is calling out what he sees as CEO delusion around AI capabilities, arguing that executives making AI replacement decisions often don't actually understand the work being done. This matters because digital workplace pros are stuck in the middle between boardroom hype and messy operational reality, watching leaders make sweeping automation bets without understanding what will actually break. The irony is thick: the same executives who claim AI will solve everything are probably the ones least equipped to implement it without torching their organizations in the process.",
+        "date": "2026-05-30T12:51:50.189274+00:00"
       },
       {
-        "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-        "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-        "source": "TechCrunch",
-        "excerpt": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant",
-        "dwp_take": "TechCrunch is running a last-chance promotion for early bird discounts on Disrupt 2026 tickets, offering up to $410 off before prices jump tonight. If you're a digital workplace leader looking to stay current on enterprise tech trends and network with peers in the space, this is worth considering. That said, before you drop four hundred bucks, ask yourself honestly whether you'll actually attend or if you'll just end up with another conference t-shirt gathering dust in your closet.",
-        "date": "2026-05-29T18:42:46.690383+00:00"
-      },
-      {
-        "title": "Glean\u2019s top line crosses $300M as AI budget cutting becomes its major selling point",
-        "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-        "source": "TechCrunch",
-        "excerpt": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-        "dwp_take": "Glean, an enterprise AI search platform, hit $300M in annual revenue while competitors like Microsoft and Google moved into the same space. For digital workplace leaders, this matters because it shows that specialized AI search built specifically for work context is winning against general-purpose tools shoehorned into enterprise. The real story isn't that Glean is selling AI, it's that companies are desperate enough to cut through information overload that they'll pay premium prices for something that actually works instead of settling for whatever their software vendor bundles in.",
-        "date": "2026-05-29T18:42:50.860656+00:00"
-      },
-      {
-        "title": "The internet is being rebuilt for machines",
-        "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-        "source": "TechCrunch",
-        "excerpt": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-        "dwp_take": "Cloud giants are restructuring their entire infrastructure because AI agents will soon generate way more traffic than people do. This matters because your digital workplace tech stack will live on infrastructure optimized for machine-to-machine communication, which fundamentally changes how apps perform, scale, and cost money. The funny part is we spent thirty years building the internet for humans, and now we're basically starting over because our robots are chattier than we are.",
-        "date": "2026-05-29T18:42:54.922214+00:00"
+        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+        "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+        "source": "VentureBeat",
+        "excerpt": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
+        "dwp_take": "Nous Research just dropped NousCoder-14B, an open-source coding model that claims to match bigger proprietary systems while being trained in only four days on a relatively modest GPU setup. This matters because it shows open-source alternatives are finally catching up to Claude and GitHub Copilot, which means your organization actually has real choices instead of being locked into one vendor's vision of how developers should work. The crypto backing is mildly amusing given how many blockchain projects need rescuing from bad code, but hey, at least someone's democratizing AI coding tools.",
+        "date": "2026-05-30T12:51:54.415876+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "After using this Windows laptop for work and play, I'm wondering why I still need my PC tower",
-        "url": "https://www.zdnet.com/article/msi-raider-16-max-hx-review/",
+        "title": "I tried Microsoft's Windows 365 Cloud PC on MacOS, Android, and iOS - here's what it's like",
+        "url": "https://www.zdnet.com/article/windows-365-cloud-pc-hands-on/",
         "source": "ZDNet",
-        "excerpt": "The MSI Raider 16 Max HX combines powerful current-gen hardware with a revamped cooling system and a stunning 240Hz OLED screen.",
-        "dwp_take": "Someone tested a high-end gaming laptop for mixed work and personal use and found it handled everything without needing a separate desktop tower. This matters because it reflects a real shift in how knowledge workers actually use devices, which means IT leaders need to rethink their one-device-per-worker mentality and support strategies. Here's the thing though: just because a laptop can do it all doesn't mean your organization's security policies, VPN throughput, or thermal management actually want it to.",
-        "date": "2026-05-29T18:42:59.655297+00:00"
+        "excerpt": "Who needs a Cloud PC, anyway? What's the experience like? How much does it really cost? I've got answers to all those questions.",
+        "dwp_take": "Microsoft rolled out Windows 365 Cloud PC across Mac, Android, and iOS devices, and someone actually tested whether it works in the real world. This matters because it shows enterprises can now give remote workers genuine Windows experiences without lugging around hardware, which changes the conversation about BYOD policies and support costs. The real question isn't whether it works technically, it's whether your organization is actually ready to manage cloud-based desktops when half your IT team is still struggling with basic endpoint management on premises.",
+        "date": "2026-05-30T12:51:58.930738+00:00"
       },
       {
-        "title": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
-        "url": "https://www.zdnet.com/article/open-source-security-is-a-mess-ibm-and-red-hat-bet-5-billion-to-fix-it/",
-        "source": "ZDNet",
-        "excerpt": "Project Lightwell is an AI\u2011powered initiative to find and fix vulnerabilities in open-source software at an industrial scale. Here's what we know so far.",
-        "dwp_take": "IBM and Red Hat are dumping $5 billion and 20,000 engineers into Project Lightwell, an AI system designed to scan open-source code for vulnerabilities at scale. This matters because your entire tech stack probably runs on open-source libraries that nobody's properly maintaining, which means your security posture is essentially a game of Russian roulette. Look, I'll believe it when I see it, but at least someone's finally admitting that open-source security is held together with duct tape and good intentions.",
-        "date": "2026-05-29T18:43:03.379552+00:00"
-      },
-      {
-        "title": "Open source Euro-Office productivity suite to launch June 9",
-        "url": "https://www.computerworld.com/article/4178807/open-source-euro-office-productivity-suite-to-launch-june-9.html",
+        "title": "AI hiring monoculture is delivering racial bias at scale",
+        "url": "https://www.computerworld.com/article/4178801/ai-hiring-monoculture-is-delivering-racial-bias-at-scale-2.html",
         "source": "Computerworld",
-        "excerpt": "The Euro-Office open source productivity app suite will be available with the first stable release of the software on June 9. Euro-Office was unveiled in March with the aim of providing a modern, open",
-        "dwp_take": "A European open source productivity suite called Euro-Office is launching June 9 with four browser-based apps designed to compete with Microsoft and Google offerings. This matters because it gives digital workplace leaders an actual alternative for organizations that genuinely need to reduce dependence on US tech vendors, which is becoming a real compliance and political issue in Europe. The timing is interesting, but let's be honest: open source productivity suites have a graveyard behind them, so this one will live or die based on whether it actually works smoothly and whether IT teams will support it.",
-        "date": "2026-05-29T18:43:08.889200+00:00"
+        "excerpt": "A research project examining AI-driven recruitment hires across the US has revealed a systemic racial bias. Researchers from Stanford University found a startling pattern of racial disparities when lo",
+        "dwp_take": "AI recruiting tools are systematically showing racial bias across thousands of employers, according to Stanford research analyzing 4 million job applications. This matters to digital workplace leaders because you're likely using or evaluating these same tools right now, and deploying biased hiring systems creates legal exposure, talent pipeline problems, and actively harms your workforce diversity efforts. The real kicker is that we've built a monoculture of broken AI tools that most companies are just copy-pasting into their hiring processes without question, which means the bias gets replicated at scale rather than fixed.",
+        "date": "2026-05-30T12:52:04.216844+00:00"
       },
       {
-        "title": "Meta considers becoming a hyperscaler",
-        "url": "https://www.computerworld.com/article/4178813/meta-considers-becoming-a-hyperscaler-2.html",
+        "title": "Certifiably random: Swiss researchers claim perfect random number source",
+        "url": "https://www.computerworld.com/article/4178764/certifiably-random-swiss-researchers-claim-perfect-random-number-source-3.html",
         "source": "Computerworld",
-        "excerpt": "Meta has raised the possibility that it could be joining the likes of Amazon, Microsoft and Google in offering cloud services at some point in the future \u2014 although potential customers shouldn\u2019t be ad",
-        "dwp_take": "Meta is exploring the idea of entering the cloud services market as a hyperscaler, potentially competing with Amazon, Microsoft, and Google, though nothing concrete has been announced yet. For digital workplace professionals, this matters because it could eventually expand your options for infrastructure providers and potentially shift pricing dynamics in an already competitive market. Honestly, Meta entering the hyperscaler game feels like watching someone casually mention they might learn to juggle while their house is on fire, but stranger things have happened in tech.",
-        "date": "2026-05-29T18:43:12.993101+00:00"
+        "excerpt": "Researchers in Switzerland claim to have built a perfect random number generator from two quantum superconducting chips, a 30-meter-long pipe, and some software. The resulting device could be used to ",
+        "dwp_take": "Swiss researchers built a quantum random number generator using superconducting chips and claim it's genuinely perfect, unlike previous attempts that always had some bias. This matters because cryptographic security depends on actual randomness, and if your encryption keys come from a fake random source, your whole security posture is built on sand. That said, I'll believe it when every major tech company and security firm independently verifies it, because \"we fixed randomness\" is about as common in research papers as \"we cured cancer.\"",
+        "date": "2026-05-30T12:52:08.259890+00:00"
+      },
+      {
+        "title": "Why AI can\u2019t match human creative work",
+        "url": "https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html",
+        "source": "Computerworld",
+        "excerpt": "It\u2019s hard for people to tell the difference between AI-generated advertising and writing. So why do they respond better to the human-made stuff? AI vs. Mad Men Ipsos, along with faculty members from S",
+        "dwp_take": "A new Ipsos study shows people can't easily spot the difference between AI-generated and human-created ads, yet they still prefer and respond better to the human-made versions. This matters to digital workplace pros because it cuts through the AI hype around \"replacing creative workers\" and shows that audiences actually value the human element even when they can't articulate why. The real takeaway: your marketing team isn't getting replaced by ChatGPT tomorrow, but they do need to understand how to work alongside these tools instead of against them.",
+        "date": "2026-05-30T12:52:13.590254+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "To stay active or to step away: Older Americans face a double standard in the workplace",
-        "url": "https://www.fastcompany.com/91549324/work-retirement-older-americans-double-standard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Should you take a soft off day?",
+        "url": "https://www.fastcompany.com/91542774/should-you-take-a-soft-off-day?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "There is a scene in The Devil Wears Prada 2 where legendary fashion editor Miranda Priestly, played by Meryl Streep, is walking alone through Milan\u2019s fashion district. Her influence has been built on ",
-        "dwp_take": "A new Fast Company piece uses Miranda Priestly's struggle with relevance in fashion to spotlight how older workers face impossible choices: stay visible and risk being seen as clinging to power, or step back and risk being forgotten. This matters because digital workplace leaders are actively designing the tools, communication channels, and culture that either amplify or silence different age groups, often without realizing it. Here's the thing though: if your digital workplace strategy requires people to choose between staying relevant and staying sane, you've built a broken system, not a modern one.",
-        "date": "2026-05-29T18:43:17.389212+00:00"
+        "excerpt": "From doing laundry to flying to Europe, all while on the company clock. The soft off day is a remote work habit that\u2019s everywhere right now. Is it time theft or just surviving burnout culture? Here\u2019s ",
+        "dwp_take": "Remote workers are quietly taking partial days off while staying logged in, doing personal errands or even traveling without formally clocking out. This matters because it's a symptom of how broken our work culture has become, creating legal exposure for companies and ethical gray zones for employees who are frankly exhausted. My take: stop pretending this is clever and instead actually fix the real problem, which is that people are so burned out they need to steal time just to survive their jobs.",
+        "date": "2026-05-30T12:52:17.844678+00:00"
       },
       {
-        "title": "Why the hardest skills in leadership are the ones we\u2019ve typically called soft",
-        "url": "https://www.fastcompany.com/91547022/why-hardest-skills-leadership-ones-weve-typically-called-soft?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "In the late 1960s, the U.S. Army made a distinction between the skills necessary for machinery operations and those used in service of people management. Hard skills, as the Army framed it, were the c",
-        "dwp_take": "The Army's decades-old distinction between hard skills (operating equipment) and soft skills (managing people) is finally being recognized as backwards, since leadership competencies like communication and emotional intelligence are genuinely difficult to master. This matters to digital workplace pros because we spend enormous energy building systems and infrastructure when the real bottleneck in most organizations is actually leadership quality, not technology. Here's the thing: calling them \"soft\" skills was always corporate gaslighting that let incompetent managers off the hook, so maybe we stop pretending that actually knowing how to lead people is somehow easier than learning software.",
-        "date": "2026-05-29T18:43:21.623274+00:00"
+        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+        "dwp_take": "Companies are planning to lean harder on workforce data and AI tools to make decisions about their employees in 2025. This matters because digital workplace leaders are now the gatekeepers of the infrastructure that feeds these systems, which means they own both the opportunity and the risk when data goes wrong. Here's the thing though: most organizations still can't get basic employee directory data clean, so \"smarter AI integration\" is probably going to be garbage in, garbage out until someone actually fixes the fundamentals first.",
+        "date": "2026-05-30T12:52:22.416052+00:00"
       },
       {
-        "title": "Congrats on that promotion. Are you sure you want it?",
-        "url": "https://www.fastcompany.com/91535970/do-i-really-want-that-promotion-career-advice-promotions?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "\u201cI wish I had slowed down to reflect more deeply on this opportunity before saying yes.\u201d That\u2019s what Tanya told me in a coaching session. Even though she had just been promoted, she was close to burno",
-        "dwp_take": "A Fast Company piece chronicles how Tanya rushed into a director promotion at her consulting firm, only to find herself burned out within months because she didn't properly evaluate whether the role actually suited her. This matters to digital workplace folks because promotion fever often hits right when you're doing well in your current role, and nobody stops to ask whether the new gig will destroy your life or just change it. Here's the thing: if you're excited enough about a promotion to say yes in the first meeting, you probably weren't thinking clearly enough to say no, and that's exactly when you should have paused.",
-        "date": "2026-05-29T18:43:25.894470+00:00"
+        "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
+        "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
+        "dwp_take": "Employees increasingly skip traditional holiday parties in favor of cash bonuses or extra time off, signaling a real shift in what workers actually value. This matters because it forces digital workplace leaders to rethink how they build culture and connection, especially when remote and hybrid work already fragment team cohesion. Honestly, if your culture strategy depends on forcing people to stand around a conference room eating stale cookies while making small talk, you had bigger problems than apathy anyway.",
+        "date": "2026-05-30T12:52:26.328686+00:00"
       },
       {
-        "title": "How to hack your calendar for more vacation by \u2018PTO-maxxing\u2019",
-        "url": "https://www.fastcompany.com/91550047/how-to-hack-your-calendar-for-more-vacation-by-pto-maxxing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "excerpt": "Paid time off is precious. The average private-sector worker in the U.S. who has been at their job for at least a year is given 11 days of paid leave annually, according to the Bureau of Labor Statist",
-        "dwp_take": "A new trend called \"PTO-maxxing\" is getting attention as a way for workers to stretch their limited vacation time more effectively. This matters because digital workplace leaders need to understand that burnout prevention isn't just about wellness messaging; it's about employees actually disconnecting, and that's hard when people only get 11 days off annually. Here's the thing though: no calendar hack fixes the real problem, which is that American PTO is embarrassingly low compared to the rest of the developed world, so stop pretending productivity tools solve what policy should.",
-        "date": "2026-05-29T18:43:30.040697+00:00"
+        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+        "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve workforce well-being as burnout costs continue climbing. This matters because digital workplace leaders are increasingly expected to own employee experience metrics beyond just tech adoption, and burnout directly impacts productivity, retention, and your ability to attract talent. The real question is whether another well-being index actually changes behavior or just gives executives another dashboard to ignore while they quietly pile on more work.",
+        "date": "2026-05-30T12:52:30.348400+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "BYD Offers Crash Cost Coverage for God\u2019s Eye Assisted Driving",
-        "url": "https://www.techrepublic.com/article/news-byd-gods-eye-crash-cost-coverage-apac/",
+        "title": "Jeff Bezos\u2019 Blue Origin Faces Setback After New Glenn Rocket Explodes",
+        "url": "https://www.techrepublic.com/article/news-new-glenn-rocket-explosion-blue-origin/",
         "source": "TechRepublic",
-        "excerpt": "BYD says it will cover some God\u2019s Eye crash costs, but drivers still need to know when the guarantee applies and where the limits are. The post BYD Offers Crash Cost Coverage for God\u2019s Eye Assisted Dr",
-        "dwp_take": "BYD is offering to cover some crash costs for vehicles using their God's Eye assisted driving system, though coverage comes with plenty of fine print about when it actually applies. This matters to digital workplace professionals because autonomous vehicle tech increasingly touches corporate fleet management and employee safety policies, forcing IT leaders to understand liability and insurance implications. Here's the thing: offering crash coverage while hiding the real limits in the T's and C's is basically the automotive equivalent of \"we've secured your data\" in a breach notification letter, and we all know how that usually ends.",
-        "date": "2026-05-29T18:43:34.637083+00:00"
+        "excerpt": "Blue Origin\u2019s New Glenn rocket exploded during a Florida ground test, leaving crews to assess launch-site damage, debris risks, and the cause of the fireball. The post Jeff Bezos\u2019 Blue Origin Faces Se",
+        "dwp_take": "Blue Origin's New Glenn rocket caught fire during a ground test in Florida, destroying the vehicle and forcing investigators to assess damage and debris. This matters to digital workplace pros because space companies rely on robust testing protocols and incident documentation systems that your organization probably uses too, just with lower stakes. If Bezos can't keep a rocket from exploding on the ground, at least we know IT's infrastructure disasters are more forgivable by comparison.",
+        "date": "2026-05-30T12:52:34.304769+00:00"
       },
       {
-        "title": "Carnival Data Breach Exposes Data of Nearly 6 Million Customers",
-        "url": "https://www.techrepublic.com/article/news-carnival-data-breach-6-million-customers/",
+        "title": "AI Data Centers Now Account for 17% of Australia\u2019s Private Investment",
+        "url": "https://www.techrepublic.com/article/news-australia-ai-data-center-investment-boom-apac/",
         "source": "TechRepublic",
-        "excerpt": "Carnival says a data breach exposed personal information of nearly 6 million customers after a social engineering attack tied to a single employee account. The post Carnival Data Breach Exposes Data o",
-        "dwp_take": "A social engineering attack targeting one employee account at Carnival compromised personal data for nearly 6 million customers, proving once again that your strongest security system crumbles when someone clicks the wrong link. Digital workplace leaders need to understand that endpoint security and fancy firewalls mean nothing if your workforce doesn't know how to spot a phishing attempt, which is why security training needs to be actual training, not a checkbox. The irony here is brutal: one person's bad day just made millions of vacationers' days significantly worse.",
-        "date": "2026-05-29T18:43:39.646256+00:00"
+        "excerpt": "Australia\u2019s AI data center boom drove private investment sharply higher, even as weaker household spending exposed a widening economic split. The post AI Data Centers Now Account for 17% of Australia\u2019",
+        "dwp_take": "Australia is plowing massive private capital into AI data centers at a scale that would make most sectors jealous, with these facilities now representing 17% of all private investment. For digital workplace leaders, this signals that AI infrastructure spending is real money with real consequences for everything from cloud services to compliance obligations in your region. The funny part is watching organizations scramble to build AI strategies when the actual infrastructure race is already well underway, which means you're either in it or you're explaining to your board why you're not.",
+        "date": "2026-05-30T12:52:38.373196+00:00"
       },
       {
-        "title": "Samsung Rolls Out Passport Verification Feature Inside Wallet App",
-        "url": "https://www.techrepublic.com/article/news-samsung-wallet-clear-digital-id/",
+        "title": "Dexcom Warns Stolen G7 Glucose Sensors May Pose Infection, Reading Risks",
+        "url": "https://www.techrepublic.com/article/news-dexcom-g7-stolen-sensors-resold/",
         "source": "TechRepublic",
-        "excerpt": "Samsung Wallet now supports CLEAR-verified digital IDs based on US passports for domestic travel at more than 250 TSA checkpoints. The post Samsung Rolls Out Passport Verification Feature Inside Walle",
-        "dwp_take": "Samsung has added digital ID verification to its Wallet app, letting travelers use their phones instead of physical passports at TSA checkpoints across the country. This matters to digital workplace professionals because mobile identity verification will eventually replace passwords and physical credentials in corporate environments, so understanding how it works in travel scenarios teaches you what's coming to your office. Honestly, if TSA can verify your identity from your phone, your IT department has zero excuses left for making employees remember sixteen different passwords.",
-        "date": "2026-05-29T18:43:43.915814+00:00"
+        "excerpt": "Dexcom says stolen G7 sensors from two scrapped lots were sold through unauthorized channels, creating infection and reading-failure risks. The post Dexcom Warns Stolen G7 Glucose Sensors May Pose Inf",
+        "dwp_take": "Dexcom had two batches of G7 glucose sensors stolen from scrap lots and sold on the black market, potentially exposing users to infections and faulty readings. For digital workplace professionals managing health tech deployments or employee wellness programs, this is a reminder that device security extends well beyond software to physical supply chains and asset management. The lesson here is brutal: you can't just toss medical devices in a dumpster and hope for the best, which apparently needed saying.",
+        "date": "2026-05-30T12:52:42.414517+00:00"
       },
       {
-        "title": "Leaked Disney Document Points to Hulu App Shutdown After Disney+ Transition",
-        "url": "https://www.techrepublic.com/article/news-hulu-app-shutdown-disney-transition/",
+        "title": "iOS 27 Rumor: Siri Could Become Apple\u2019s Answer to ChatGPT",
+        "url": "https://www.techrepublic.com/article/news-ios-27-siri-ai-redesign-apple/",
         "source": "TechRepublic",
-        "excerpt": "A leaked internal Disney document points to a possible shutdown of the standalone Hulu app after users move to Disney+. For media and technology teams, the shift highlights the complexity of consolida",
-        "dwp_take": "Disney is apparently planning to shut down the standalone Hulu app and fold everything into Disney+, which means migrating millions of user accounts, preferences, and billing systems in one go. This matters to digital workplace professionals because it's a textbook example of the nightmare scenarios that keep integration projects awake at night: consolidating apps, profiles, recommendations, and ad systems across a global platform is exponentially harder than it sounds on a PowerPoint slide. If even Disney with unlimited resources is treating this cautiously enough to leak documents, imagine what happens when your mid-market company tries to consolidate two enterprise systems.",
-        "date": "2026-05-29T18:43:48.741982+00:00"
+        "excerpt": "iOS 27 could bring a rebuilt Siri, Dynamic Island AI search, chatbot-style tools, and deeper AI features across iPhone apps. The post iOS 27 Rumor: Siri Could Become Apple\u2019s Answer to ChatGPT appeared",
+        "dwp_take": "Apple is apparently rebuilding Siri with AI capabilities similar to ChatGPT for iOS 27, along with adding chatbot-style tools and deeper AI integration across iPhone apps. This matters because your workforce already relies on iPhones and iPads, and a smarter Siri could change how employees search, get information, and interact with business apps on mobile devices. The real question is whether Apple will actually make Siri useful this time around, or if we'll just get another feature that everyone ignores in favor of asking ChatGPT directly.",
+        "date": "2026-05-30T12:52:46.438181+00:00"
       }
     ]
   }
