@@ -1,140 +1,116 @@
 {
-  "generated": "2026-05-30T12:52:46.438308+00:00",
+  "generated": "2026-05-31T14:59:40.485793+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
-        "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+        "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
         "source": "TechCrunch",
-        "excerpt": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-        "dwp_take": "Developers are increasingly demanding AI tools as a baseline expectation, but the research suggests the code they're producing isn't necessarily better, just faster. For digital workplace leaders, this matters because you're inheriting the technical debt and maintenance headaches when faster code turns out to be sloppier code. Here's the thing: rushing to ship AI-generated anything without quality gates is how you end up explaining to your board why your systems are held together with digital duct tape.",
-        "date": "2026-05-30T12:51:41.937383+00:00"
+        "excerpt": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+        "dwp_take": "GitHub Copilot is moving from a flat monthly fee to a token-based consumption model, which means developers will pay based on actual usage rather than a fixed subscription. This matters to digital workplace pros because it signals how AI tooling costs will increasingly work going forward, forcing you to think harder about governance, usage tracking, and budgeting for these \"productivity\" tools. The real joke isn't the pricing model itself, it's that companies spent two years telling people AI was free and unlimited, and now devs are surprised there's actually a meter running.",
+        "date": "2026-05-31T14:58:41.468889+00:00"
       },
       {
-        "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-        "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
         "source": "TechCrunch",
-        "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "dwp_take": "TechCrunch published a glossary of AI terminology because the field has exploded with jargon that most people are nodding along to without actually understanding. This matters because digital workplace leaders are being asked to make real decisions about AI tools, vendors, and implementations while drowning in buzzwords like \"hallucinations\" and \"fine-tuning\" without solid definitions. Honestly, if you need a glossary to understand what your own tech vendors are selling you, that's less a problem with the vocabulary and more a signal that someone's overselling complexity to cover for underwhelming substance.",
-        "date": "2026-05-30T12:51:46.254204+00:00"
+        "excerpt": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product.",
+        "dwp_take": "Google launched Gemini Spark as a dedicated AI assistant aimed at automating routine workplace tasks like email summaries and scheduling, though the product strategy remains murky. This matters because your teams are already drowning in notification noise, and if an AI tool can actually reduce that friction without adding another login, it's worth evaluating. The real question isn't whether Spark works, it's whether your organization needs yet another Google product when you're probably already managing Gmail, Calendar, and Meet fatigue.",
+        "date": "2026-05-31T14:58:45.369132+00:00"
       },
       {
-        "title": "Does your CEO have AI psychosis?\u00a0Aaron Levie thinks most of them\u00a0do.",
-        "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+        "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
         "source": "TechCrunch",
-        "excerpt": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \u201c",
-        "dwp_take": "Aaron Levie is calling out what he sees as CEO delusion around AI capabilities, arguing that executives making AI replacement decisions often don't actually understand the work being done. This matters because digital workplace pros are stuck in the middle between boardroom hype and messy operational reality, watching leaders make sweeping automation bets without understanding what will actually break. The irony is thick: the same executives who claim AI will solve everything are probably the ones least equipped to implement it without torching their organizations in the process.",
-        "date": "2026-05-30T12:51:50.189274+00:00"
+        "excerpt": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "dwp_take": "TechCrunch rounded up alternative browsers that are trying to chip away at Chrome and Safari's market dominance. This matters because your browser choice affects everything from security posture to how well your web apps perform across your workforce, and IT leaders need to actually understand what's out there beyond the default options. Here's the thing though: most organizations will stick with Chrome or Safari anyway because switching browsers organization-wide is like trying to herd cats with a laser pointer, so unless an alternative offers genuinely compelling security or performance gains, this is mostly interesting reading for the technically curious.",
+        "date": "2026-05-31T14:58:50.311390+00:00"
       },
       {
-        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-        "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-        "source": "VentureBeat",
-        "excerpt": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
-        "dwp_take": "Nous Research just dropped NousCoder-14B, an open-source coding model that claims to match bigger proprietary systems while being trained in only four days on a relatively modest GPU setup. This matters because it shows open-source alternatives are finally catching up to Claude and GitHub Copilot, which means your organization actually has real choices instead of being locked into one vendor's vision of how developers should work. The crypto backing is mildly amusing given how many blockchain projects need rescuing from bad code, but hey, at least someone's democratizing AI coding tools.",
-        "date": "2026-05-30T12:51:54.415876+00:00"
+        "title": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack",
+        "url": "https://siliconangle.com/2026/05/30/personal-agents-light-fuse-snowflake-databricks-move-ai-stack/",
+        "source": "SiliconAngle",
+        "excerpt": "The artificial intelligence wave is starting to look a bit like the personal computer era \u2013 with some obvious differences. The first similarity is personal productivity. Individuals are taking control",
+        "dwp_take": "Snowflake and Databricks are moving beyond pure data infrastructure to build AI agents that let individual workers automate their own tasks without waiting for IT to build solutions. This matters because it shifts control of automation from centralized teams to end users, which means your workplace will suddenly have dozens of AI workflows running that nobody officially approved. It's the spreadsheet shadow IT problem all over again, except this time it's actually useful and potentially more dangerous if nobody's watching what data these agents are touching.",
+        "date": "2026-05-31T14:58:55.838043+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I tried Microsoft's Windows 365 Cloud PC on MacOS, Android, and iOS - here's what it's like",
-        "url": "https://www.zdnet.com/article/windows-365-cloud-pc-hands-on/",
-        "source": "ZDNet",
-        "excerpt": "Who needs a Cloud PC, anyway? What's the experience like? How much does it really cost? I've got answers to all those questions.",
-        "dwp_take": "Microsoft rolled out Windows 365 Cloud PC across Mac, Android, and iOS devices, and someone actually tested whether it works in the real world. This matters because it shows enterprises can now give remote workers genuine Windows experiences without lugging around hardware, which changes the conversation about BYOD policies and support costs. The real question isn't whether it works technically, it's whether your organization is actually ready to manage cloud-based desktops when half your IT team is still struggling with basic endpoint management on premises.",
-        "date": "2026-05-30T12:51:58.930738+00:00"
-      },
-      {
-        "title": "AI hiring monoculture is delivering racial bias at scale",
-        "url": "https://www.computerworld.com/article/4178801/ai-hiring-monoculture-is-delivering-racial-bias-at-scale-2.html",
+        "title": "How to protect Windows 10 and 11 PCs from ransomware",
+        "url": "https://www.computerworld.com/article/1715548/how-to-protect-windows-10-from-ransomware.html",
         "source": "Computerworld",
-        "excerpt": "A research project examining AI-driven recruitment hires across the US has revealed a systemic racial bias. Researchers from Stanford University found a startling pattern of racial disparities when lo",
-        "dwp_take": "AI recruiting tools are systematically showing racial bias across thousands of employers, according to Stanford research analyzing 4 million job applications. This matters to digital workplace leaders because you're likely using or evaluating these same tools right now, and deploying biased hiring systems creates legal exposure, talent pipeline problems, and actively harms your workforce diversity efforts. The real kicker is that we've built a monoculture of broken AI tools that most companies are just copy-pasting into their hiring processes without question, which means the bias gets replicated at scale rather than fixed.",
-        "date": "2026-05-30T12:52:04.216844+00:00"
-      },
-      {
-        "title": "Certifiably random: Swiss researchers claim perfect random number source",
-        "url": "https://www.computerworld.com/article/4178764/certifiably-random-swiss-researchers-claim-perfect-random-number-source-3.html",
-        "source": "Computerworld",
-        "excerpt": "Researchers in Switzerland claim to have built a perfect random number generator from two quantum superconducting chips, a 30-meter-long pipe, and some software. The resulting device could be used to ",
-        "dwp_take": "Swiss researchers built a quantum random number generator using superconducting chips and claim it's genuinely perfect, unlike previous attempts that always had some bias. This matters because cryptographic security depends on actual randomness, and if your encryption keys come from a fake random source, your whole security posture is built on sand. That said, I'll believe it when every major tech company and security firm independently verifies it, because \"we fixed randomness\" is about as common in research papers as \"we cured cancer.\"",
-        "date": "2026-05-30T12:52:08.259890+00:00"
-      },
-      {
-        "title": "Why AI can\u2019t match human creative work",
-        "url": "https://www.computerworld.com/article/4178383/why-ai-cant-match-human-creative-work.html",
-        "source": "Computerworld",
-        "excerpt": "It\u2019s hard for people to tell the difference between AI-generated advertising and writing. So why do they respond better to the human-made stuff? AI vs. Mad Men Ipsos, along with faculty members from S",
-        "dwp_take": "A new Ipsos study shows people can't easily spot the difference between AI-generated and human-created ads, yet they still prefer and respond better to the human-made versions. This matters to digital workplace pros because it cuts through the AI hype around \"replacing creative workers\" and shows that audiences actually value the human element even when they can't articulate why. The real takeaway: your marketing team isn't getting replaced by ChatGPT tomorrow, but they do need to understand how to work alongside these tools instead of against them.",
-        "date": "2026-05-30T12:52:13.590254+00:00"
+        "excerpt": "CryptoLocker. WannaCry. DarkSide. Conti. MedusaLocker. Qilin. The ransomware threat has exploded over the past decade, and it isn\u2019t going away anytime soon; the news brings constant reports of new wav",
+        "dwp_take": "Ransomware attacks keep getting more sophisticated and financially motivated, making Windows endpoints prime targets for criminals looking for quick paydays. Digital workplace professionals need to treat ransomware defense as a core operational requirement, not a checkbox on a security audit, because one successful attack can paralyze your entire organization's productivity. Here's the truth: most ransomware succeeds not because of some zero-day vulnerability but because someone skipped the backup, didn't patch their system, or clicked something they shouldn't have, which means your best defense is still the boring stuff done consistently.",
+        "date": "2026-05-31T14:59:02.589896+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Should you take a soft off day?",
-        "url": "https://www.fastcompany.com/91542774/should-you-take-a-soft-off-day?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The hidden gap between how others see you and what you\u2019re worth",
+        "url": "https://www.fastcompany.com/91550788/the-hidden-gap-between-how-others-see-you-and-what-youre-worth?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
-        "excerpt": "From doing laundry to flying to Europe, all while on the company clock. The soft off day is a remote work habit that\u2019s everywhere right now. Is it time theft or just surviving burnout culture? Here\u2019s ",
-        "dwp_take": "Remote workers are quietly taking partial days off while staying logged in, doing personal errands or even traveling without formally clocking out. This matters because it's a symptom of how broken our work culture has become, creating legal exposure for companies and ethical gray zones for employees who are frankly exhausted. My take: stop pretending this is clever and instead actually fix the real problem, which is that people are so burned out they need to steal time just to survive their jobs.",
-        "date": "2026-05-30T12:52:17.844678+00:00"
+        "excerpt": "The biggest career risk right now isn\u2019t being replaced by AI. It\u2019s being misunderstood by humans. A senior partner at a global consulting firm recently described to me what she thought she was experie",
+        "dwp_take": "A consulting partner with serious accomplishments felt like a fraud because her organization didn't actually understand what she'd done or why it mattered. This matters to digital workplace pros because the same visibility gap happens constantly in remote and hybrid setups where your work happens off-camera and gets lost in async messages nobody reads. The real imposter syndrome isn't in your head; it's in your company's inability to see what you're actually contributing, which is why documenting wins and over-communicating impact has become a survival skill, not a personality flaw.",
+        "date": "2026-05-31T14:59:06.899193+00:00"
       },
       {
-        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
-        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
+        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
         "source": "WorkLife",
-        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
-        "dwp_take": "Companies are planning to lean harder on workforce data and AI tools to make decisions about their employees in 2025. This matters because digital workplace leaders are now the gatekeepers of the infrastructure that feeds these systems, which means they own both the opportunity and the risk when data goes wrong. Here's the thing though: most organizations still can't get basic employee directory data clean, so \"smarter AI integration\" is probably going to be garbage in, garbage out until someone actually fixes the fundamentals first.",
-        "date": "2026-05-30T12:52:22.416052+00:00"
+        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
+        "dwp_take": "Companies are creating chief productivity officer roles to replace traditional HR directors, betting that this role can better connect people strategy with technology and business results. This matters because it signals a fundamental shift in how organizations think about the employee experience: productivity is now seen as a boardroom priority rather than just an HR checkbox. Honestly, this feels like we're finally admitting that HR alone can't solve the people-technology gap, though I'd argue the real question is whether one person can either, or whether we just need HR and IT to finally stop sitting in separate cafeterias.",
+        "date": "2026-05-31T14:59:11.559224+00:00"
       },
       {
-        "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
-        "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
+        "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
         "source": "WorkLife",
-        "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
-        "dwp_take": "Employees increasingly skip traditional holiday parties in favor of cash bonuses or extra time off, signaling a real shift in what workers actually value. This matters because it forces digital workplace leaders to rethink how they build culture and connection, especially when remote and hybrid work already fragment team cohesion. Honestly, if your culture strategy depends on forcing people to stand around a conference room eating stale cookies while making small talk, you had bigger problems than apathy anyway.",
-        "date": "2026-05-30T12:52:26.328686+00:00"
+        "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
+        "dwp_take": "Schneider Electric is actively recruiting military veterans to fill data center technician roles as demand for skilled workers outpaces supply in the energy tech sector. This matters to digital workplace pros because data center operations are foundational to everything we do, and talent shortages directly impact infrastructure reliability and workplace continuity. Here's the thing though: if we're only now mining military talent pools to solve skills gaps, we've been sleeping on talent development for way too long, and this should be a wake-up call for broader workforce planning across the entire industry.",
+        "date": "2026-05-31T14:59:15.594446+00:00"
       },
       {
-        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
-        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
-        "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve workforce well-being as burnout costs continue climbing. This matters because digital workplace leaders are increasingly expected to own employee experience metrics beyond just tech adoption, and burnout directly impacts productivity, retention, and your ability to attract talent. The real question is whether another well-being index actually changes behavior or just gives executives another dashboard to ignore while they quietly pile on more work.",
-        "date": "2026-05-30T12:52:30.348400+00:00"
+        "title": "\u2018We\u2019re Just Getting the Crumbs Here\u2019: Contractors Protest Layoffs at Meta\u2019s European Headquarters",
+        "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+        "source": "Wired",
+        "excerpt": "Soon-to-be-laid-off Meta contractors say they\u2019re being treated differently than Mark Zuckerberg\u2019s full-time employees, who stand to receive more generous severance packages.",
+        "dwp_take": "Meta contractors in Europe are getting substantially smaller severance packages than full-time employees during recent layoffs, creating a two-tier system that's left contractors feeling like second-class workers. This matters because it exposes the real gap between how companies treat permanent staff versus contingent workers, something that affects everything from morale to your ability to retain institutional knowledge across your digital workplace. Nothing says \"we value our people\" quite like paying some folks based on a different rulebook when the pink slips come around.",
+        "date": "2026-05-31T14:59:22.741078+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Jeff Bezos\u2019 Blue Origin Faces Setback After New Glenn Rocket Explodes",
-        "url": "https://www.techrepublic.com/article/news-new-glenn-rocket-explosion-blue-origin/",
+        "title": "10 AI Prompting Tips That Improve ChatGPT, Claude, and Gemini Results",
+        "url": "https://www.techrepublic.com/article/news-ai-prompting-tips-chatgpt-claude-gemini-2026/",
         "source": "TechRepublic",
-        "excerpt": "Blue Origin\u2019s New Glenn rocket exploded during a Florida ground test, leaving crews to assess launch-site damage, debris risks, and the cause of the fireball. The post Jeff Bezos\u2019 Blue Origin Faces Se",
-        "dwp_take": "Blue Origin's New Glenn rocket caught fire during a ground test in Florida, destroying the vehicle and forcing investigators to assess damage and debris. This matters to digital workplace pros because space companies rely on robust testing protocols and incident documentation systems that your organization probably uses too, just with lower stakes. If Bezos can't keep a rocket from exploding on the ground, at least we know IT's infrastructure disasters are more forgivable by comparison.",
-        "date": "2026-05-30T12:52:34.304769+00:00"
+        "excerpt": "Improve AI chatbot results with 10 practical prompting tips for ChatGPT, Claude, and Gemini, from clearer context to better formatting. The post 10 AI Prompting Tips That Improve ChatGPT, Claude, and ",
+        "dwp_take": "TechRepublic published a straightforward guide on how to get better outputs from the three major AI chatbots by using smarter prompting techniques like providing clearer context and better formatting. This matters because most of your workforce is already using these tools, and they're probably doing it badly, which means you're leaving performance on the table. Here's the thing: teaching people to prompt effectively costs nothing and beats buying another tool, so maybe do that first before your CEO asks why you need another AI platform.",
+        "date": "2026-05-31T14:59:27.070023+00:00"
       },
       {
-        "title": "AI Data Centers Now Account for 17% of Australia\u2019s Private Investment",
-        "url": "https://www.techrepublic.com/article/news-australia-ai-data-center-investment-boom-apac/",
+        "title": "AI Upheaval, Security Warnings, and Legal Battles Define This Week in Tech",
+        "url": "https://www.techrepublic.com/article/ai-upheaval-security-warnings-and-legal-battles-define-this-week-in-tech/",
         "source": "TechRepublic",
-        "excerpt": "Australia\u2019s AI data center boom drove private investment sharply higher, even as weaker household spending exposed a widening economic split. The post AI Data Centers Now Account for 17% of Australia\u2019",
-        "dwp_take": "Australia is plowing massive private capital into AI data centers at a scale that would make most sectors jealous, with these facilities now representing 17% of all private investment. For digital workplace leaders, this signals that AI infrastructure spending is real money with real consequences for everything from cloud services to compliance obligations in your region. The funny part is watching organizations scramble to build AI strategies when the actual infrastructure race is already well underway, which means you're either in it or you're explaining to your board why you're not.",
-        "date": "2026-05-30T12:52:38.373196+00:00"
+        "excerpt": "See what you missed in Daily Tech Insider from May 26\u201329. The post AI Upheaval, Security Warnings, and Legal Battles Define This Week in Tech appeared first on TechRepublic.",
+        "dwp_take": "This week brought the usual chaos: AI drama, security scares, and lawyers getting involved because apparently tech can't have nice things. Digital workplace leaders need to pay attention because every one of these issues lands on their desk eventually, whether it's a new AI tool someone wants to deploy, a vulnerability the CEO read about on Twitter, or legal compliance questions nobody has answers for yet. The real fun starts when your CFO asks if you've \"secured the AI\" and you have to explain that securing AI is like securing water.",
+        "date": "2026-05-31T14:59:31.409222+00:00"
       },
       {
-        "title": "Dexcom Warns Stolen G7 Glucose Sensors May Pose Infection, Reading Risks",
-        "url": "https://www.techrepublic.com/article/news-dexcom-g7-stolen-sensors-resold/",
-        "source": "TechRepublic",
-        "excerpt": "Dexcom says stolen G7 sensors from two scrapped lots were sold through unauthorized channels, creating infection and reading-failure risks. The post Dexcom Warns Stolen G7 Glucose Sensors May Pose Inf",
-        "dwp_take": "Dexcom had two batches of G7 glucose sensors stolen from scrap lots and sold on the black market, potentially exposing users to infections and faulty readings. For digital workplace professionals managing health tech deployments or employee wellness programs, this is a reminder that device security extends well beyond software to physical supply chains and asset management. The lesson here is brutal: you can't just toss medical devices in a dumpster and hope for the best, which apparently needed saying.",
-        "date": "2026-05-30T12:52:42.414517+00:00"
+        "title": "Dell raises annual forecasts as AI boom continues to reward hardware vendors",
+        "url": "https://www.itpro.com/business/business-strategy/dell-raises-annual-forecasts-as-ai-boom-continues-to-reward-hardware-vendors",
+        "source": "ITPro",
+        "excerpt": "Supply chain adjustments and shrewd management of the memory chip shortage help Dell capitalize on increased demand for AI",
+        "dwp_take": "Dell raised its annual financial forecasts because AI demand is driving hardware sales and their supply chain management is finally working in their favor. This matters because it signals that organizations are actually buying the infrastructure to support AI projects, which means your digital workplace strategies need to account for real hardware refresh cycles and the accompanying support costs. The funny part is that Dell's success here basically comes down to \"we managed our supply chain competently,\" which shouldn't be remarkable, but in tech it apparently is.",
+        "date": "2026-05-31T14:59:36.225998+00:00"
       },
       {
-        "title": "iOS 27 Rumor: Siri Could Become Apple\u2019s Answer to ChatGPT",
-        "url": "https://www.techrepublic.com/article/news-ios-27-siri-ai-redesign-apple/",
-        "source": "TechRepublic",
-        "excerpt": "iOS 27 could bring a rebuilt Siri, Dynamic Island AI search, chatbot-style tools, and deeper AI features across iPhone apps. The post iOS 27 Rumor: Siri Could Become Apple\u2019s Answer to ChatGPT appeared",
-        "dwp_take": "Apple is apparently rebuilding Siri with AI capabilities similar to ChatGPT for iOS 27, along with adding chatbot-style tools and deeper AI integration across iPhone apps. This matters because your workforce already relies on iPhones and iPads, and a smarter Siri could change how employees search, get information, and interact with business apps on mobile devices. The real question is whether Apple will actually make Siri useful this time around, or if we'll just get another feature that everyone ignores in favor of asking ChatGPT directly.",
-        "date": "2026-05-30T12:52:46.438181+00:00"
+        "title": "Post-cloud strategy: what comes after hyperscale?",
+        "url": "https://www.itpro.com/cloud/cloud-computing/post-cloud-strategy-what-comes-after-hyperscale",
+        "source": "ITPro",
+        "excerpt": "Rising geopolitical risks and data sovereignty laws are driving enterprises toward regional clouds and hybrid infrastructure strategies",
+        "dwp_take": "Enterprises are moving away from the pure hyperscale cloud model toward regional and hybrid setups because of geopolitical tensions and tightening data sovereignty regulations. This matters to digital workplace leaders because your infrastructure decisions now directly impact compliance, user experience, and cost, which means you can't just hand everything to AWS and call it a day anymore. The irony is that after two decades of \"move everything to the cloud,\" we're circling back to distributed systems that look suspiciously like what we had in 2005, except now it costs more and requires better governance.",
+        "date": "2026-05-31T14:59:40.485669+00:00"
       }
     ]
   }
