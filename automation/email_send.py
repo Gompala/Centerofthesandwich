@@ -103,7 +103,7 @@ def send_email(article):
     payload = {
         "subject": f"{title}",
         "body": email_body,
-        "status": "sent"
+        "status": "about_to_send"
     }
 
     try:
