@@ -142,5 +142,149 @@
     "excerpt": "Nvidia and Microsoft unveiled RTX Spark Windows PCs built for local AI agents, with systems expected from major PC makers this fall. The post Nvidia, Microsoft Launch RTX Spark PCs for AI Agents appea",
     "dwp_take": "Nvidia and Microsoft are pushing out RTX Spark PCs designed to run AI agents locally on Windows machines, with major manufacturers rolling them out later this year. This matters because running AI processing on employee devices instead of cloud servers could shift how workplace software gets built and deployed, affecting everything from security to IT support models. Look, we're about to find out if workers actually want their laptops getting hotter and louder to power some local AI thing, or if this is just hardware makers looking for the next reason people should buy new computers.",
     "date": "2026-06-01T20:38:41.775375+00:00"
+  },
+  {
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could \u2014 and should \u2014 be big.",
+    "dwp_take": "Nvidia is pushing AI agent PCs into the mainstream through partnerships with Microsoft, Dell, and HP, targeting the massive $200 billion CPU market. This matters because if AI agents actually work reliably on employee machines, it could fundamentally change how knowledge workers spend their day and what skills we actually need them to have. The big question nobody's asking yet is whether anyone actually wants an AI agent running around their PC making decisions, or if we're just excited about the technology because it's shiny and new.",
+    "date": "2026-06-01T21:40:23.532067+00:00"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+    "dwp_take": "Railway just raised $100 million to build cloud infrastructure specifically designed for AI workloads, positioning itself as an alternative to AWS and the legacy cloud players. This matters because digital workplace teams are increasingly running AI applications that choke on traditional cloud setups, so having viable alternatives actually changes what your infrastructure conversations look like. Here's the thing though: two million developers, zero marketing dollars, and now $100 million means either they've genuinely cracked something the big players haven't, or we're about to watch a very well-funded learning experience play out in real time.",
+    "date": "2026-06-01T21:40:27.967940+00:00"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the ",
+    "dwp_take": "Anthropic's Claude Code is charging developers up to $200 monthly for AI-assisted coding while a competing tool called Goose offers identical functionality for free. This matters to digital workplace leaders because development tool costs directly impact IT budgets and developer satisfaction, and when free alternatives exist, talent retention becomes real leverage in negotiations. After thirty years watching this cycle repeat, I'll say it plainly: charging premium prices for something your competitor gives away free is how you win market share for your competitor, not yourself.",
+    "date": "2026-06-01T21:40:32.325647+00:00"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe",
+    "dwp_take": "Salesforce rebuilt Slackbot from a basic notification tool into a full AI agent that can search data, draft documents, and take actions on behalf of users, now available to higher-tier customers. This matters because workplace AI assistants are becoming table stakes, and how well they integrate with your existing tools determines whether they're actually useful or just another chatbot collecting dust. Honestly, the real test isn't the features Salesforce claims it has, it's whether people will actually trust it to take actions without babysitting it first.",
+    "date": "2026-06-01T21:40:36.538720+00:00"
+  },
+  {
+    "title": "Intel stakes new claim in physical AI with robotics chips",
+    "url": "https://www.computerworld.com/article/4179342/intel-stakes-new-claim-in-physical-ai-with-robotics-chips.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Intel is invading the physical AI space with a reentry into the robotics market it quit many years ago amid financial struggles. The robotics strategy is part of the company\u2019s larger plan to establish",
+    "dwp_take": "Intel is jumping back into robotics chips after years away, betting that edge AI computing will matter more than cloud-based processing going forward. For digital workplace folks, this matters because it could reshape how workplace devices handle data privacy, latency, and offline capability, potentially shifting what hardware you'll actually want to deploy. Honestly, it's refreshing to see someone build actual infrastructure instead of just slapping \"AI\" on existing products, but Intel has promised comebacks before so let's see if they actually execute this time.",
+    "date": "2026-06-01T21:40:42.336635+00:00"
+  },
+  {
+    "title": "IBM unveils tool to track sovereignty risks for cloud workloads",
+    "url": "https://www.computerworld.com/article/4179308/ibm-unveils-tool-to-track-sovereignty-risks-for-cloud-workloads.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "IBM has launched a tool designed to help customers assess cloud-sovereignty risks and meet regulatory compliance requirements. The Sovereignty Risk Profile launch comes as digital sovereignty becomes ",
+    "dwp_take": "IBM released a new tool to help organizations figure out where their cloud data lives and whether it meets local regulatory rules. Digital workplace leaders need to care about this because data sovereignty isn't just a nice-to-have anymore, it's a business requirement that affects everything from hiring to infrastructure decisions. Funny how it took three decades for companies to realize that \"the cloud\" actually means \"someone else's country's servers\" and maybe they should know which one.",
+    "date": "2026-06-01T21:40:46.288932+00:00"
+  },
+  {
+    "title": "Windows 11 Smart App Control explained",
+    "url": "https://www.computerworld.com/article/4043925/windows-11-smart-app-control-explained.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "In the ever-evolving cybersecurity landscape, Microsoft has introduced various new features in Windows 11 designed to protect users from modern workplace threats. Among such features, Smart App Contro",
+    "dwp_take": "Microsoft's Smart App Control feature in Windows 11 is essentially a gatekeeper that blocks apps it doesn't recognize as safe, using reputation data to stop malware before it runs. This matters because endpoint security is no longer just IT's problem anymore, it's baked into the OS now, which means fewer support tickets and fewer ransomware incidents if it actually works as advertised. The real question is whether your users will rage quit when SAC blocks their favorite sketchy utility app, because security theater only works until your employees start finding workarounds.",
+    "date": "2026-06-01T21:40:51.876109+00:00"
+  },
+  {
+    "title": "Windows 11 Insider Previews: What\u2019s in the latest build?",
+    "url": "https://www.computerworld.com/article/1614352/windows-11-insider-previews-whats-in-latest-build.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Windows 11 25H2 has been publicly released, but behind the scenes, Microsoft is constantly working to improve the newest version of Windows. The company frequently rolls out preview builds to members ",
+    "dwp_take": "Microsoft released Windows 11 25H2 and continues rolling out preview builds to Insider Program members to test and refine upcoming features. This matters because organizations need to understand what's coming down the pipe to plan their own deployment strategies and avoid surprise compatibility issues when features go live. Look, if you're not paying attention to what's brewing in these previews, you'll be the one scrambling when your users suddenly can't print or that new security feature breaks your workflow.",
+    "date": "2026-06-01T21:40:56.010238+00:00"
+  },
+  {
+    "title": "120,000 people applied for this very NSFW \u201chottest vacancy in AI right now\u201d",
+    "url": "https://www.fastcompany.com/91549430/120000-people-applied-for-this-very-nsfw-hottest-vacancy-in-ai-right-now?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "One AI company\u2019s latest opening for a consultant role is anything but a standard tech job. When AI companion company Joi AI posted a callout for \u201cmasturbation consultants,\u201d Julie Levin, the company\u2019s ",
+    "dwp_take": "Joi AI's call for masturbation consultants generated 120,000 applications, far exceeding their expectations of a few hundred. This matters because it reveals how people actually engage with digital products in intimate spaces, and companies are finally willing to study it seriously rather than pretend it doesn't exist. The real insight here isn't the shock value: it's that digital workplace professionals need to understand that user research sometimes gets awkward, and pretending otherwise just means you're building products for people who don't actually exist.",
+    "date": "2026-06-01T21:41:00.479778+00:00"
+  },
+  {
+    "title": "Managers are unprepared to lead a human-agent hybrid workforce",
+    "url": "https://www.worklife.news/sponsored/managers-are-unprepared-to-lead-a-human-agent-hybrid-workforce/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "Andrew Reece, Chief AI Scientist, BetterUp The introduction of AI agents into the corporate workforce is not like other technology disruptions. Unlike previous automation, agents are empowered to act ",
+    "dwp_take": "A new study shows that most managers lack the skills to oversee teams where AI agents work alongside humans and make autonomous decisions. This matters because digital workplace leaders are suddenly responsible for outcomes they don't directly control, which breaks every management playbook written in the last thirty years. The real problem isn't the AI itself but that we've handed managers a brand new job without giving them any training, then acted surprised when they look confused.",
+    "date": "2026-06-01T21:41:04.849353+00:00"
+  },
+  {
+    "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
+    "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
+    "dwp_take": "Here's my take:\n\nNearly half of your workforce is burnt out from constant change initiatives, according to new research cited in WorkLife. This matters because transformation fatigue directly tanks productivity and sends your best people job hunting, which costs way more than whatever efficiency gains you were chasing. The real kicker is that most companies never measure the exodus of talent against their transformation ROI, so they keep wondering why their brilliant people are ghosting them.",
+    "date": "2026-06-01T21:41:08.682540+00:00"
+  },
+  {
+    "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
+    "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
+    "dwp_take": "Dayforce's Amy Capellanti-Wolf sat down to discuss how AI, hybrid work, and talent retention are reshaping HR strategy. This matters because HR leaders are finally realizing that throwing technology at people problems doesn't work unless you actually understand what employees need. After thirty years watching companies chase shiny tools while ignoring basic human needs, I'm cautiously optimistic whenever an HR exec remembers that \"technology x humanity\" means the multiplication has to work both ways.",
+    "date": "2026-06-01T21:41:12.463657+00:00"
+  },
+  {
+    "title": "Google Chrome\u2019s New Feature Takes Aim at Cookie Theft, Account Hijacking",
+    "url": "https://www.techrepublic.com/article/news-google-chrome-dbsc-session-cookie-theft/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Chrome\u2019s DBSC update binds login sessions to user devices, making stolen session cookies harder to reuse in account hijacking attacks. The post Google Chrome\u2019s New Feature Takes Aim at Cookie Theft, A",
+    "dwp_take": "Google rolled out a new Chrome feature that ties login sessions to specific devices, making it much harder for attackers to hijack accounts even when they steal session cookies. This matters because workplace security teams spend half their time cleaning up after credential theft, and anything that raises the bar for attackers directly reduces breach response headaches. It's a solid move, though I'll believe it's truly effective once I stop seeing \"we got breached\" emails in my inbox.",
+    "date": "2026-06-01T21:41:16.499538+00:00"
+  },
+  {
+    "title": "Samsung Tests Galaxy Watch for GLP-1 Muscle Loss Monitoring",
+    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-glp-1/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Samsung and Mass General are studying whether Galaxy Watch8 data can help doctors monitor muscle loss during GLP-1 weight-loss treatment more closely. The post Samsung Tests Galaxy Watch for GLP-1 Mus",
+    "dwp_take": "Samsung and Mass General are testing whether Galaxy Watch data can track muscle loss in patients taking GLP-1 drugs for weight loss. This matters because wearables are quietly becoming legitimate clinical tools, which means your workplace wellness programs are about to get a lot more sophisticated and data-rich. Here's the thing though: everyone's excited about the tech solving the problem, but nobody's talking about what happens to all that biometric data and who actually owns it once it leaves your wrist.",
+    "date": "2026-06-01T21:41:21.075972+00:00"
+  },
+  {
+    "title": "8 Hidden Google Chrome Features That Make Browsing Easier",
+    "url": "https://www.techrepublic.com/article/news-hidden-google-chrome-features-save-time/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "These hidden Google Chrome features can organize tabs, reduce distractions, improve accessibility, save memory, and make browsing faster. The post 8 Hidden Google Chrome Features That Make Browsing Ea",
+    "dwp_take": "Google published a roundup of Chrome features most users don't know about, covering tab organization, distraction reduction, accessibility, memory management, and speed improvements. Digital workplace pros need to know this stuff because Chrome is where your workforce actually works, and most of your team is probably leaving performance and usability on the table by not using these features. After three decades in this space, I can tell you that \"hidden\" features are just poorly explained features, and nobody reads the help docs anymore, so TechRepublic doing this public service means your IT team should probably just send this link to everyone and call it a training day.",
+    "date": "2026-06-01T21:41:25.353345+00:00"
+  },
+  {
+    "title": "Acer\u2019s New $699 Laptop Is a Budget-Friendly Swing at Apple\u2019s MacBook Neo",
+    "url": "https://www.techrepublic.com/article/news-acer-swift-air-14-ai-laptop/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Acer\u2019s Swift Air 14 starts at $699 with Intel Core Series 3 chips, AI features, long battery claims, and an ultraportable design. The post Acer\u2019s New $699 Laptop Is a Budget-Friendly Swing at Apple\u2019s ",
+    "dwp_take": "Acer just dropped the Swift Air 14 at $699, packing Intel's latest chips, AI features, and claiming all-day battery life in a lightweight package that's clearly gunning for MacBook territory. For digital workplace pros, this matters because it means the laptop market is finally getting interesting again with real alternatives that don't require selling a kidney. That said, I'll believe the battery claims when I see them, and let's be honest, most people buying this will spend the first week uninstalling bloatware anyway.",
+    "date": "2026-06-01T21:41:29.840461+00:00"
   }
 ]
