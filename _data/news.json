@@ -1,116 +1,156 @@
 {
-  "generated": "2026-05-31T14:59:40.485793+00:00",
+  "generated": "2026-06-01T20:38:41.775486+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+        "title": "Anthropic files to go public",
+        "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "The company said Monday it has filed confidentially for an IPO.",
+        "dwp_take": "Anthropic, the AI company behind Claude, has filed confidential IPO paperwork with the SEC and is preparing to go public. This matters to digital workplace pros because generative AI is becoming embedded in every collaboration platform and productivity tool we support, and a major player's IPO signals these technologies aren't going anywhere. Here's the thing though: when AI companies go public, the pressure to monetize their tech intensifies, which usually means those \"free tier\" features your users love are about to get expensive real fast.",
+        "date": "2026-06-01T20:37:37.972327+00:00"
+      },
+      {
+        "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
+        "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+        "dwp_take": "DuckDuckGo is rolling out browser extensions that let users search without AI-generated summaries cluttering up their results. This matters because it signals real demand from knowledge workers tired of AI slop polluting their search experience, which means your organization's search strategy needs to account for this backlash. Here's the thing though: if your employees are installing extensions to avoid AI results, you're probably already losing them to better tools elsewhere, so maybe don't force copilot summaries into your intranet search just yet.",
+        "date": "2026-06-01T20:37:42.093499+00:00"
+      },
+      {
+        "title": "Making sense of the debate over AI psychosis",
+        "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+        "dwp_take": "Tech CEOs are apparently prone to making wild, unfounded claims about AI capabilities and timelines, leading to debate about whether this represents genuine delusion or just good marketing. For digital workplace leaders, this matters because these overblown narratives directly influence the AI tools you're actually expected to implement, often before they're ready for real work. Honestly, after three decades in this space, I've learned that the gap between what gets announced on stage and what actually works in your Slack channel is usually measured in years, not months.",
+        "date": "2026-06-01T20:37:46.265533+00:00"
+      },
+      {
+        "title": "\u2018What a joke\u2019: GitHub Copilot\u2019s new token-based billing spurs consternation among devs",
         "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
         "source": "TechCrunch",
-        "excerpt": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-        "dwp_take": "GitHub Copilot is moving from a flat monthly fee to a token-based consumption model, which means developers will pay based on actual usage rather than a fixed subscription. This matters to digital workplace pros because it signals how AI tooling costs will increasingly work going forward, forcing you to think harder about governance, usage tracking, and budgeting for these \"productivity\" tools. The real joke isn't the pricing model itself, it's that companies spent two years telling people AI was free and unlimited, and now devs are surprised there's actually a meter running.",
-        "date": "2026-05-31T14:58:41.468889+00:00"
-      },
-      {
-        "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
-        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "source": "TechCrunch",
-        "excerpt": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product.",
-        "dwp_take": "Google launched Gemini Spark as a dedicated AI assistant aimed at automating routine workplace tasks like email summaries and scheduling, though the product strategy remains murky. This matters because your teams are already drowning in notification noise, and if an AI tool can actually reduce that friction without adding another login, it's worth evaluating. The real question isn't whether Spark works, it's whether your organization needs yet another Google product when you're probably already managing Gmail, Calendar, and Meet fatigue.",
-        "date": "2026-05-31T14:58:45.369132+00:00"
-      },
-      {
-        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-        "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "source": "TechCrunch",
-        "excerpt": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-        "dwp_take": "TechCrunch rounded up alternative browsers that are trying to chip away at Chrome and Safari's market dominance. This matters because your browser choice affects everything from security posture to how well your web apps perform across your workforce, and IT leaders need to actually understand what's out there beyond the default options. Here's the thing though: most organizations will stick with Chrome or Safari anyway because switching browsers organization-wide is like trying to herd cats with a laser pointer, so unless an alternative offers genuinely compelling security or performance gains, this is mostly interesting reading for the technically curious.",
-        "date": "2026-05-31T14:58:50.311390+00:00"
-      },
-      {
-        "title": "Personal agents light the fuse as Snowflake and Databricks move up the AI stack",
-        "url": "https://siliconangle.com/2026/05/30/personal-agents-light-fuse-snowflake-databricks-move-ai-stack/",
-        "source": "SiliconAngle",
-        "excerpt": "The artificial intelligence wave is starting to look a bit like the personal computer era \u2013 with some obvious differences. The first similarity is personal productivity. Individuals are taking control",
-        "dwp_take": "Snowflake and Databricks are moving beyond pure data infrastructure to build AI agents that let individual workers automate their own tasks without waiting for IT to build solutions. This matters because it shifts control of automation from centralized teams to end users, which means your workplace will suddenly have dozens of AI workflows running that nobody officially approved. It's the spreadsheet shadow IT problem all over again, except this time it's actually useful and potentially more dangerous if nobody's watching what data these agents are touching.",
-        "date": "2026-05-31T14:58:55.838043+00:00"
+        "category": "ai-at-work",
+        "excerpt": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
+        "dwp_take": "GitHub switched Copilot from a seat-based subscription model to token-based billing, where developers pay for actual usage instead of a flat monthly fee. This matters because it signals how AI tools are shifting toward consumption-based pricing, which digital workplace leaders need to factor into their tech budgets and procurement strategies. The real irony is that Microsoft convinced everyone AI was going to make us more productive, then figured out they could charge us by the keystroke for that productivity gain, which is peak tech industry move.",
+        "date": "2026-06-01T20:37:51.043492+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "How to protect Windows 10 and 11 PCs from ransomware",
-        "url": "https://www.computerworld.com/article/1715548/how-to-protect-windows-10-from-ransomware.html",
-        "source": "Computerworld",
-        "excerpt": "CryptoLocker. WannaCry. DarkSide. Conti. MedusaLocker. Qilin. The ransomware threat has exploded over the past decade, and it isn\u2019t going away anytime soon; the news brings constant reports of new wav",
-        "dwp_take": "Ransomware attacks keep getting more sophisticated and financially motivated, making Windows endpoints prime targets for criminals looking for quick paydays. Digital workplace professionals need to treat ransomware defense as a core operational requirement, not a checkbox on a security audit, because one successful attack can paralyze your entire organization's productivity. Here's the truth: most ransomware succeeds not because of some zero-day vulnerability but because someone skipped the backup, didn't patch their system, or clicked something they shouldn't have, which means your best defense is still the boring stuff done consistently.",
-        "date": "2026-05-31T14:59:02.589896+00:00"
+        "title": "New PC? This MX Linux version is the best distro for you",
+        "url": "https://www.zdnet.com/article/mx-linux-xfce-ahs-might-be-the-best-distribution-for-newer-hardware/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "MX Linux has released a version that includes certain features and software that make it a brilliant option for computers that are 1-3 years old.",
+        "dwp_take": "MX Linux dropped a new version optimized for older hardware, specifically machines between one and three years old. This matters because plenty of enterprises are still running aging devices, and IT teams constantly hunt for OS options that actually work on their existing kit without requiring expensive replacements. Here's the thing though: if your organization is still standardizing on Windows, this distro is interesting for personal projects but won't solve your real problem, which is that nobody wants to retrain their workforce on Linux just to squeeze another year out of a laptop.",
+        "date": "2026-06-01T20:37:55.645892+00:00"
+      },
+      {
+        "title": "I ditched my office desktop PC for a gaming laptop, and it's a serious productivity upgrade",
+        "url": "https://www.zdnet.com/article/msi-raider-16-max-hx-review/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "The MSI Raider 16 Max HX combines powerful hardware with a revamped cooling system and a 240Hz OLED screen.",
+        "dwp_take": "Someone swapped their office desktop for a gaming laptop and found it boosted their productivity. This matters because it highlights how consumer hardware designed for performance (and yes, gaming) can actually outperform traditional enterprise machines while adding mobility that desktop users never had. Here's the thing though: IT departments will have a collective anxiety attack reading this, because \"but what about security, compliance, and asset management\" are their three favorite words, and they're right to worry even if the user's performance gains are genuine.",
+        "date": "2026-06-01T20:38:00.185431+00:00"
+      },
+      {
+        "title": "My top 7 laptop-bag essentials now, after decades of remote work",
+        "url": "https://www.zdnet.com/article/my-tech-laptop-bag-essentials/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Have gear, will travel: Here are the gadgets powering my mobile office this summer.",
+        "dwp_take": "A tech journalist shared seven gadgets he considers essential for mobile remote work based on decades of experience. This matters because digital workplace leaders need to understand what actually works for distributed teams instead of guessing, and it challenges the myth that remote work means zero equipment investment. The real takeaway isn't the specific gadgets\u2014it's that professionals carrying their offices around have legitimate infrastructure needs, and pretending they don't just means your team buys their own solutions anyway.",
+        "date": "2026-06-01T20:38:04.394275+00:00"
+      },
+      {
+        "title": "Chrome stops hackers from stealing your browser cookies now - how its new security feature works",
+        "url": "https://www.zdnet.com/article/chrome-protects-hackers-steal-browser-cookies/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Now available for all Windows users, Chrome's security feature will thwart attackers who try to impersonate you by using your stolen browser cookies on their own devices.",
+        "dwp_take": "Google Chrome added a security feature that prevents attackers from using stolen cookies to impersonate you on different devices, now rolling out to all Windows users. This matters because workplace browsers handle authentication tokens for email, cloud storage, and internal systems, so cookie theft is a real threat to corporate security posture. Finally, someone remembered that \"just asking nicely\" and \"hoping nobody notices\" aren't viable security strategies, though I'd love to see Microsoft follow suit with Edge before we're all here again in 2026.",
+        "date": "2026-06-01T20:38:08.485019+00:00"
       }
     ],
     "digital-culture": [
       {
+        "title": "14 high-achiever habits that lead straight to burnout",
+        "url": "https://www.fastcompany.com/91535974/14-high-achiever-habits-that-lead-straight-to-burnout-burnout-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "High achievers often mistake their most productive habits for the very behaviors driving them toward burnout. This article draws on insights from workplace psychology experts and organizational leader",
+        "dwp_take": "Fast Company identified fourteen high-achiever habits that paradoxically drive burnout, from overcommitment to perfectionism to inability to delegate. This matters because digital workplace leaders often inadvertently design cultures that reward exactly these behaviors through always-on collaboration tools, endless meeting culture, and metrics that punish time off. Here's the thing though: knowing that perfectionism causes burnout doesn't stop perfectionists from burning out, so the real question is whether your organization will actually change incentives or just add a wellness webinar to the calendar.",
+        "date": "2026-06-01T20:38:13.164966+00:00"
+      },
+      {
+        "title": "Everyone wants to kill the middle manager role. The data says don\u2019t do it",
+        "url": "https://www.fastcompany.com/91548285/everyone-wants-to-kill-the-middle-manager-role-the-data-says-dont-do-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Recently, I spoke with a head of HR for a tech company who asked: \u201cAre you hearing of other organizations eliminating the manager role? Our CEO thinks they won\u2019t be needed in the future because of AI,",
+        "dwp_take": "A new Fast Company piece pushes back on the trend of eliminating middle managers, arguing the data shows they're still essential even as AI and self-managing teams gain traction. This matters because digital workplace leaders are often caught between executive hype about flattening org structures and the messy reality that humans still need coordination, feedback, and someone to actually make decisions. The irony is thick: CEOs who want to eliminate middle managers are literally the people those managers protect them from having to deal with directly.",
+        "date": "2026-06-01T20:38:16.947972+00:00"
+      },
+      {
+        "title": "How to stop procrastinating with just one word",
+        "url": "https://www.fastcompany.com/91547321/how-to-stop-procrastinating-with-just-one-word?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Below, Jon Acuff shares five key insights from his new book, Procrastination Proof: Never Get Stuck Again. Acuff is a New York Times bestselling author of 12 books. He was named one of Inc.\u2019s Top 100 ",
+        "dwp_take": "Jon Acuff released a new book called Procrastination Proof that promises to help people stop procrastinating using simple techniques, including a one-word strategy. Digital workplace leaders need to pay attention because procrastination directly tanks productivity, engagement scores, and project timelines across organizations. Here's the thing though: I've watched people spend more time reading procrastination books than they would have spent just doing the actual work in the first place.",
+        "date": "2026-06-01T20:38:20.876676+00:00"
+      },
+      {
         "title": "The hidden gap between how others see you and what you\u2019re worth",
         "url": "https://www.fastcompany.com/91550788/the-hidden-gap-between-how-others-see-you-and-what-youre-worth?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
+        "category": "digital-culture",
         "excerpt": "The biggest career risk right now isn\u2019t being replaced by AI. It\u2019s being misunderstood by humans. A senior partner at a global consulting firm recently described to me what she thought she was experie",
-        "dwp_take": "A consulting partner with serious accomplishments felt like a fraud because her organization didn't actually understand what she'd done or why it mattered. This matters to digital workplace pros because the same visibility gap happens constantly in remote and hybrid setups where your work happens off-camera and gets lost in async messages nobody reads. The real imposter syndrome isn't in your head; it's in your company's inability to see what you're actually contributing, which is why documenting wins and over-communicating impact has become a survival skill, not a personality flaw.",
-        "date": "2026-05-31T14:59:06.899193+00:00"
-      },
-      {
-        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
-        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
-        "dwp_take": "Companies are creating chief productivity officer roles to replace traditional HR directors, betting that this role can better connect people strategy with technology and business results. This matters because it signals a fundamental shift in how organizations think about the employee experience: productivity is now seen as a boardroom priority rather than just an HR checkbox. Honestly, this feels like we're finally admitting that HR alone can't solve the people-technology gap, though I'd argue the real question is whether one person can either, or whether we just need HR and IT to finally stop sitting in separate cafeterias.",
-        "date": "2026-05-31T14:59:11.559224+00:00"
-      },
-      {
-        "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
-        "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
-        "dwp_take": "Schneider Electric is actively recruiting military veterans to fill data center technician roles as demand for skilled workers outpaces supply in the energy tech sector. This matters to digital workplace pros because data center operations are foundational to everything we do, and talent shortages directly impact infrastructure reliability and workplace continuity. Here's the thing though: if we're only now mining military talent pools to solve skills gaps, we've been sleeping on talent development for way too long, and this should be a wake-up call for broader workforce planning across the entire industry.",
-        "date": "2026-05-31T14:59:15.594446+00:00"
-      },
-      {
-        "title": "\u2018We\u2019re Just Getting the Crumbs Here\u2019: Contractors Protest Layoffs at Meta\u2019s European Headquarters",
-        "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
-        "source": "Wired",
-        "excerpt": "Soon-to-be-laid-off Meta contractors say they\u2019re being treated differently than Mark Zuckerberg\u2019s full-time employees, who stand to receive more generous severance packages.",
-        "dwp_take": "Meta contractors in Europe are getting substantially smaller severance packages than full-time employees during recent layoffs, creating a two-tier system that's left contractors feeling like second-class workers. This matters because it exposes the real gap between how companies treat permanent staff versus contingent workers, something that affects everything from morale to your ability to retain institutional knowledge across your digital workplace. Nothing says \"we value our people\" quite like paying some folks based on a different rulebook when the pink slips come around.",
-        "date": "2026-05-31T14:59:22.741078+00:00"
+        "dwp_take": "A senior consulting partner realized her actual track record of major restructurings and industry pivots didn't match how her organization perceived her value, which she initially mistook for imposter syndrome. Digital workplace professionals need to understand this gap because remote work, async communication, and organizational silos make visibility harder than ever, meaning your accomplishments literally don't exist if nobody sees them. The real career threat isn't AI or layoffs, it's being invisible in your own company, which is why documenting your work and over-communicating wins across platforms matters more than pretending you're doing fine.",
+        "date": "2026-06-01T20:38:25.163068+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "10 AI Prompting Tips That Improve ChatGPT, Claude, and Gemini Results",
-        "url": "https://www.techrepublic.com/article/news-ai-prompting-tips-chatgpt-claude-gemini-2026/",
+        "title": "Samsung Galaxy Watch for Diabetes Management: What It Can Track and What It Can\u2019t",
+        "url": "https://www.techrepublic.com/article/news-samsung-watch-diabetes-management/",
         "source": "TechRepublic",
-        "excerpt": "Improve AI chatbot results with 10 practical prompting tips for ChatGPT, Claude, and Gemini, from clearer context to better formatting. The post 10 AI Prompting Tips That Improve ChatGPT, Claude, and ",
-        "dwp_take": "TechRepublic published a straightforward guide on how to get better outputs from the three major AI chatbots by using smarter prompting techniques like providing clearer context and better formatting. This matters because most of your workforce is already using these tools, and they're probably doing it badly, which means you're leaving performance on the table. Here's the thing: teaching people to prompt effectively costs nothing and beats buying another tool, so maybe do that first before your CEO asks why you need another AI platform.",
-        "date": "2026-05-31T14:59:27.070023+00:00"
+        "category": "industry-news",
+        "excerpt": "Learn how the Samsung Galaxy Watch supports diabetes management through Samsung Health, blood sugar logs, medication tracking, meals, sleep, stress, and activity. The post Samsung Galaxy Watch for Dia",
+        "dwp_take": "Samsung's latest Galaxy Watch can now track blood sugar, medications, meals, sleep, stress, and activity through Samsung Health, positioning wearables as legitimate health management tools for diabetic employees. This matters because it signals that workplace wellness programs need to evolve beyond step counters into genuine clinical support, which could reduce healthcare costs and improve retention of employees managing chronic conditions. Of course, the real test is whether your IT security team will approve it, your benefits team will integrate it properly, and your employees will actually use it instead of just charging it on Friday nights.",
+        "date": "2026-06-01T20:38:29.632465+00:00"
       },
       {
-        "title": "AI Upheaval, Security Warnings, and Legal Battles Define This Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-upheaval-security-warnings-and-legal-battles-define-this-week-in-tech/",
+        "title": "SoftBank Plans \u20ac75B AI Data Center Buildout in France",
+        "url": "https://www.techrepublic.com/article/news-softbank-france-ai-data-centers-75b/",
         "source": "TechRepublic",
-        "excerpt": "See what you missed in Daily Tech Insider from May 26\u201329. The post AI Upheaval, Security Warnings, and Legal Battles Define This Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "This week brought the usual chaos: AI drama, security scares, and lawyers getting involved because apparently tech can't have nice things. Digital workplace leaders need to pay attention because every one of these issues lands on their desk eventually, whether it's a new AI tool someone wants to deploy, a vulnerability the CEO read about on Twitter, or legal compliance questions nobody has answers for yet. The real fun starts when your CFO asks if you've \"secured the AI\" and you have to explain that securing AI is like securing water.",
-        "date": "2026-05-31T14:59:31.409222+00:00"
+        "category": "industry-news",
+        "excerpt": "SoftBank plans to build 5 GW of AI data center capacity in France, but the first phase will not arrive until 2031. The post SoftBank Plans \u20ac75B AI Data Center Buildout in France appeared first on Tech",
+        "dwp_take": "SoftBank is committing 75 billion euros to build massive AI data center capacity in France, with the first phase not arriving until 2031. This matters because digital workplace professionals need to understand that meaningful AI infrastructure investments take a decade to materialize, which means all those \"AI is here now\" promises need serious reality checks. Eight years is a long time to wait for the compute power that marketing departments are already selling to executives today.",
+        "date": "2026-06-01T20:38:33.508380+00:00"
       },
       {
-        "title": "Dell raises annual forecasts as AI boom continues to reward hardware vendors",
-        "url": "https://www.itpro.com/business/business-strategy/dell-raises-annual-forecasts-as-ai-boom-continues-to-reward-hardware-vendors",
-        "source": "ITPro",
-        "excerpt": "Supply chain adjustments and shrewd management of the memory chip shortage help Dell capitalize on increased demand for AI",
-        "dwp_take": "Dell raised its annual financial forecasts because AI demand is driving hardware sales and their supply chain management is finally working in their favor. This matters because it signals that organizations are actually buying the infrastructure to support AI projects, which means your digital workplace strategies need to account for real hardware refresh cycles and the accompanying support costs. The funny part is that Dell's success here basically comes down to \"we managed our supply chain competently,\" which shouldn't be remarkable, but in tech it apparently is.",
-        "date": "2026-05-31T14:59:36.225998+00:00"
+        "title": "Meta Plans AI Pendant, New Smart Glasses in \u2018Wearables for Work\u2019 Expansion",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-pendant-wearables-privacy/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "Meta is reportedly developing an AI pendant as part of a broader wearable hardware push that includes smart glasses and workplace tools. The post Meta Plans AI Pendant, New Smart Glasses in \u2018Wearables",
+        "dwp_take": "Meta is building an AI pendant and expanding its smart glasses lineup specifically targeting workplace use. This matters because if wearables actually gain traction in work settings, they'll fundamentally reshape how we think about always-on connectivity, notification management, and the blurry line between work and personal life. Personally, I've seen enough \"revolutionary\" workplace hardware come and go that I'll believe this one changes behavior when I see actual adoption numbers that aren't just early adopters and tech enthusiasts.",
+        "date": "2026-06-01T20:38:37.607619+00:00"
       },
       {
-        "title": "Post-cloud strategy: what comes after hyperscale?",
-        "url": "https://www.itpro.com/cloud/cloud-computing/post-cloud-strategy-what-comes-after-hyperscale",
-        "source": "ITPro",
-        "excerpt": "Rising geopolitical risks and data sovereignty laws are driving enterprises toward regional clouds and hybrid infrastructure strategies",
-        "dwp_take": "Enterprises are moving away from the pure hyperscale cloud model toward regional and hybrid setups because of geopolitical tensions and tightening data sovereignty regulations. This matters to digital workplace leaders because your infrastructure decisions now directly impact compliance, user experience, and cost, which means you can't just hand everything to AWS and call it a day anymore. The irony is that after two decades of \"move everything to the cloud,\" we're circling back to distributed systems that look suspiciously like what we had in 2005, except now it costs more and requires better governance.",
-        "date": "2026-05-31T14:59:40.485669+00:00"
+        "title": "Nvidia, Microsoft Launch RTX Spark PCs for AI Agents",
+        "url": "https://www.techrepublic.com/article/news-nvidia-microsoft-launch-rtx-spark-pcs-ai-agents/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "Nvidia and Microsoft unveiled RTX Spark Windows PCs built for local AI agents, with systems expected from major PC makers this fall. The post Nvidia, Microsoft Launch RTX Spark PCs for AI Agents appea",
+        "dwp_take": "Nvidia and Microsoft are pushing out RTX Spark PCs designed to run AI agents locally on Windows machines, with major manufacturers rolling them out later this year. This matters because running AI processing on employee devices instead of cloud servers could shift how workplace software gets built and deployed, affecting everything from security to IT support models. Look, we're about to find out if workers actually want their laptops getting hotter and louder to power some local AI thing, or if this is just hardware makers looking for the next reason people should buy new computers.",
+        "date": "2026-06-01T20:38:41.775375+00:00"
       }
     ]
   }
