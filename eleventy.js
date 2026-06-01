@@ -2,13 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 module.exports = function(eleventyConfig) {
-  // Copy entire directories and files to output
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("logo");
   eleventyConfig.addPassthroughCopy("images");
-  
-  // Copy CSS using glob
-  eleventyConfig.addPassthroughCopy("**/*.css");
+  eleventyConfig.addWatchTarget("./shared.css");
 
   eleventyConfig.addGlobalData("news", () => {
     const newsFile = path.join(__dirname, "_data", "news.json");
@@ -16,6 +13,14 @@ module.exports = function(eleventyConfig) {
       return JSON.parse(fs.readFileSync(newsFile, "utf8"));
     }
     return { categories: {} };
+  });
+
+  eleventyConfig.addGlobalData("news_history", () => {
+    const historyFile = path.join(__dirname, "_data", "news_history.json");
+    if (fs.existsSync(historyFile)) {
+      return JSON.parse(fs.readFileSync(historyFile, "utf8"));
+    }
+    return [];
   });
 
   return {

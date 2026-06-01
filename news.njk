@@ -1,5 +1,5 @@
 ---
-news: _data/news.json
+permalink: /news/
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -8,9 +8,9 @@ news: _data/news.json
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Industry News — Center of the Sandwich</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Cormorant+Garamond:ital,wght@0,700;1,400&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Inter:wght@400;500;600&display=swap');
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--navy:#0F1624;--navy-mid:#1E3A5F;--navy-light:#0A0F1A;--blue:#2563EB;--blue-light:#4F9CF9;--blue-bg:#EEF5FF;--blue-border:#BFDBFE;--text:#0F1624;--text-secondary:#4B6080;--text-muted:#8BA3C7;--border:#DCE8F5;--border-light:#EFF4FB;--surface:#F8FAFD;--white:#ffffff;--green:#059669;--green-bg:#ECFDF5;--amber:#D97706;--amber-bg:#FEF3C7;--purple:#7C3AED;--purple-bg:#F5F3FF;--red:#9F1239;--red-bg:#FFF1F2;--accent:#2563EB;--accent-dark:#1D4ED8;--muted:#8BA3C7}
+:root{--navy:#0F1624;--navy-mid:#1E3A5F;--navy-light:#0A0F1A;--blue:#2563EB;--blue-light:#4F9CF9;--blue-bg:#EEF5FF;--blue-border:#BFDBFE;--text:#0F1624;--text-secondary:#4B6080;--text-muted:#8BA3C7;--border:#DCE8F5;--border-light:#EFF4FB;--surface:#F8FAFD;--white:#ffffff;--green:#059669;--green-bg:#ECFDF5;--amber:#D97706;--amber-bg:#FEF3C7;--purple:#7C3AED;--purple-bg:#F5F3FF;--red:#9F1239;--red-bg:#FFF1F2}
 body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white);font-size:15px;line-height:1.7}
 a{color:inherit;text-decoration:none}
 .site-wrap{max-width:960px;margin:0 auto;padding:0 2rem}
@@ -19,110 +19,44 @@ a{color:inherit;text-decoration:none}
 .nav-inner{max-width:960px;margin:0 auto;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:72px}
 .nav-logo{display:flex;align-items:center;gap:12px;text-decoration:none;flex-shrink:0}
 .nav-logo-text{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:var(--white);white-space:nowrap;line-height:1.1}
-.nav-logo-em{color:var(--blue-light);font-style:italic;}
-.nav-logo-sub{font-family:'Inter',sans-serif;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-top:2px;}
+.nav-logo-em{color:var(--blue-light);font-style:italic}
+.nav-logo-sub{font-family:'Inter',sans-serif;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-top:2px}
 .nav-links{display:flex;gap:4px;list-style:none}
-.nav-links a{font-size:13px;font-weight:500;color:var(--text-muted);padding:6px 12px;border-radius:6px;text-decoration:none;transition:all .15s}
+.nav-links a{font-size:12px;font-weight:500;color:var(--text-muted);padding:5px 10px;border-radius:6px;text-decoration:none;transition:all .15s}
 .nav-links a:hover{color:var(--white);background:rgba(79,156,249,0.12)}
 .nav-links a.active{color:var(--blue-light)}
 .nav-mark{flex-shrink:0}
-.section-label{display:flex;align-items:center;gap:10px;font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--text-muted);font-weight:600;margin-bottom:1.25rem}
-.section-label::after{content:'';flex:1;height:1px;background:var(--border)}
-.cat-pill{padding:7px 16px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid;cursor:pointer;transition:all .15s;text-decoration:none;display:inline-block}
-.cat-pill:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(0,0,0,.08)}
-.pill-ai{background:var(--blue-bg);color:#1D4ED8;border-color:var(--blue-border)}
-.pill-tools{background:var(--green-bg);color:#065F46;border-color:#6EE7B7}
-.pill-culture{background:var(--amber-bg);color:#92400E;border-color:#FCD34D}
-.pill-news{background:var(--purple-bg);color:#5B21B6;border-color:#C4B5FD}
-.pill-strat{background:var(--red-bg);color:var(--red);border-color:#FECDD3}
-.pill-personal{background:#F0FDF4;color:#14532D;border-color:#86EFAC}
-.card{background:var(--white);border:0.5px solid var(--border);border-radius:10px;padding:1.1rem;transition:all .15s;position:relative;overflow:hidden}
-.card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--blue),var(--blue-light));opacity:0;transition:opacity .15s}
-.card:hover::before{opacity:1}
-.card:hover{border-color:#93C5FD;transform:translateY(-2px);box-shadow:0 8px 24px rgba(37,99,235,.08)}
-.read-more{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--blue);text-decoration:none;transition:gap .15s}
-.read-more:hover{gap:10px}
-.read-more.btn{border:1.5px solid var(--blue);padding:8px 16px;border-radius:6px}
-.read-more.btn:hover{background:var(--blue);color:var(--white)}
-.tag{font-size:12px;background:var(--white);border:0.5px solid var(--border);border-radius:4px;padding:3px 9px;color:var(--text-secondary);cursor:pointer;transition:all .15s}
-.tag:hover{border-color:var(--blue);color:var(--blue)}
+.page-header{padding:2.5rem 0 1rem;margin-bottom:1rem}
+.page-header h1{font-family:'Playfair Display',serif;font-weight:700;font-size:36px;margin-bottom:8px}
+.page-header p{font-size:15px;color:var(--text-secondary);max-width:560px;line-height:1.6}
+.pill-strip{display:flex;flex-wrap:wrap;gap:8px;padding:1rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:1.5rem}
+.pill-strip a{padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid;text-decoration:none;transition:all .15s}
+.news-layout{display:grid;grid-template-columns:minmax(0,1fr) 240px;gap:48px;align-items:start}
+.news-block{margin-bottom:2.5rem}
+.news-block-cat{font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--text-muted);background:var(--surface);padding:5px 10px;border-radius:4px;display:inline-block;margin-bottom:1rem;font-weight:600}
+.news-item{border:0.5px solid var(--border);border-radius:8px;padding:1rem 1.25rem;margin-bottom:10px;background:#fff;transition:border-color .15s}
+.news-item:hover{border-color:var(--blue)}
+.news-item-top{display:flex;align-items:center;gap:8px;margin-bottom:5px}
+.news-source-badge{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);font-weight:500}
+.news-dot{width:3px;height:3px;border-radius:50%;background:var(--text-muted)}
+.news-item-title{font-size:15px;font-weight:500;line-height:1.4;margin-bottom:6px;color:var(--text);display:block}
+.news-item-title:hover{color:var(--blue)}
+.news-item-excerpt{font-size:13px;color:var(--text-secondary);line-height:1.5;margin-bottom:8px}
+.ext-link{font-size:12px;color:var(--blue);font-weight:500}
+.ext-link:hover{text-decoration:underline}
+.dwp-take{background:var(--surface);border:1px solid var(--border-light);border-radius:6px;padding:0.75rem 1rem;margin-top:8px}
+.dwp-take-label{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--blue);font-weight:500;margin-bottom:4px}
+.dwp-take p{font-size:13px;color:var(--text-secondary);margin:0;line-height:1.5;font-style:italic}
+.sidebar{position:sticky;top:80px}
 .sidebar-box{background:var(--surface);border:0.5px solid var(--border);border-radius:10px;padding:1rem;margin-bottom:14px}
 .sidebar-box h4{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:12px;font-weight:600}
-.nl-box{background:var(--blue-bg);border:1.5px solid var(--blue-border);border-radius:10px;padding:1.1rem}
-.nl-box h4{font-size:13px;font-weight:600;color:#1E3A5F;margin-bottom:6px}
-.nl-box p{font-size:12px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5}
-input[type="text"],input[type="email"]{width:100%;border:1px solid var(--blue-border);border-radius:6px;padding:8px 10px;font-size:13px;font-family:'Inter',sans-serif;outline:none;background:var(--white);margin-bottom:8px}
-input:focus{border-color:var(--blue)}
-.btn-accent{width:100%;background:var(--blue);color:var(--white);border:none;padding:9px;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;transition:background .15s}
-.btn-accent:hover{background:#1D4ED8}
-.about-strip{background:var(--navy);border-radius:10px;padding:1.5rem 2rem;display:flex;align-items:center;gap:20px;margin-bottom:2.5rem}
-.about-avatar{width:54px;height:54px;border-radius:50%;background:var(--blue);display:flex;align-items:center;justify-content:center;color:var(--white);font-size:13px;font-weight:600;flex-shrink:0;border:2px solid var(--blue-light)}
-.about-name{font-weight:600;font-size:15px;color:var(--white);margin-bottom:4px}
-.about-bio{font-size:13px;color:var(--text-muted);line-height:1.5}
-.about-bio a{color:var(--blue-light)}
+.source-item{display:flex;align-items:center;justify-content:space-between;padding:6px 0;border-bottom:0.5px solid var(--border-light);font-size:13px}
+.source-item:last-child{border-bottom:none}
+.source-item span{font-size:11px;color:var(--text-muted)}
 .site-footer{border-top:1px solid var(--border);padding:1.5rem 0;margin-top:2rem}
 .footer-inner{max-width:960px;margin:0 auto;padding:0 2rem;display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--text-muted)}
-.cat-badge{display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:3px 8px;border-radius:4px;font-weight:600}
-.badge-ai{background:var(--blue-bg);color:#1D4ED8}
-.badge-tools{background:var(--green-bg);color:#065F46}
-.badge-culture{background:var(--amber-bg);color:#92400E}
-.badge-news{background:var(--purple-bg);color:#5B21B6}
-.badge-strat{background:var(--red-bg);color:var(--red)}
-.badge-personal{background:#F0FDF4;color:#14532D}
-</style>
-
-<style>
-.page-header { padding: 2.5rem 0 1.5rem; border-bottom: 1.5px solid var(--border); margin-bottom: 2rem; }
-.page-header h1 { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 36px; margin-bottom: 8px; }
-.page-header p { font-size: 15px; color: var(--text-secondary); max-width: 560px; line-height: 1.6; }
-.news-layout { display: grid; grid-template-columns: minmax(0,1fr) 240px; gap: 48px; align-items: start; }
-.news-block { margin-bottom: 2.5rem; }
-.news-block-date { font-size: 10px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--text-muted); background: var(--surface); padding: 5px 10px; border-radius: 4px; display: inline-block; margin-bottom: 1rem; }
-.news-item { border: 0.5px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 10px; background: #fff; display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: start; transition: border-color .15s; }
-.news-item:hover { border-color: var(--blue); }
-.news-item-top { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
-.news-source-badge { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-muted); font-weight: 500; }
-.news-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-muted); }
-.news-item-title { font-size: 15px; font-weight: 500; line-height: 1.4; margin-bottom: 6px; color: var(--text); display: block; }
-.news-item-title:hover { color: var(--blue); }
-.news-item-excerpt { font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 8px; }
-.news-item-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
-.ext-link { font-size: 12px; color: var(--blue); font-weight: 500; white-space: nowrap; }
-.ext-link:hover { text-decoration: underline; }
-.dwp-take { background: var(--blue-bg); border: 1px solid var(--border-light); border-radius: 6px; padding: 0.75rem 1rem; margin-top: 8px; }
-.dwp-take-label { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--blue); font-weight: 500; margin-bottom: 4px; }
-.dwp-take p { font-size: 13px; color: var(--text-secondary); margin: 0; line-height: 1.5; font-style: italic; }
-.sidebar { position: sticky; top: 80px; }
-.sidebar-section { margin-bottom: 2rem; }
-.sidebar-box { background: var(--surface); border: 1px solid var(--border-light); border-radius: 8px; padding: 1rem; margin-bottom: 16px; }
-.sidebar-box h4 { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 12px; }
-.source-item { display: flex; align-items: center; justify-content: space-between; padding: 6px 0; border-bottom: 0.5px solid #F0EBE0; font-size: 13px; }
-.source-item:last-child { border-bottom: none; }
-.source-item span { font-size: 11px; color: var(--text-muted); }
-
-@media (max-width: 768px) {
-  .site-wrap { padding: 0 1rem; }
-  .nav-inner { padding: 0 1rem; }
-  .nav-links { display: none; }
-  .hero { grid-template-columns: 1fr; gap: 1.5rem; padding: 1.5rem 0 0; }
-  .hero-title { font-size: 26px; }
-  .hero-side { display: none; }
-  .cards-grid { grid-template-columns: 1fr; }
-  .two-col { grid-template-columns: 1fr; }
-  .cats-strip { gap: 6px; }
-  .cat-pill { font-size: 11px; padding: 5px 12px; }
-  .news-layout { grid-template-columns: 1fr; }
-  .about-layout { grid-template-columns: 1fr; }
-  .belief-grid { grid-template-columns: 1fr; }
-  .writing-grid { grid-template-columns: 1fr; }
-  .article-title { font-size: 28px; }
-  .article-wrap { padding: 1.5rem 1rem 3rem; }
-  .footer-inner { flex-direction: column; gap: 8px; text-align: center; }
-  .about-hero-top { flex-direction: column; text-align: center; }
-  .about-hero-name { font-size: 26px; }
-  .stat-grid { grid-template-columns: repeat(2, 1fr); }
-  .section-label { font-size: 9px; }
-}
+.date-label{font-size:11px;color:var(--text-muted);margin-bottom:3px}
+@media(max-width:768px){.nav-links{display:none}.news-layout{grid-template-columns:1fr}.site-wrap{padding:0 1rem}}
 </style>
 </head>
 <body>
@@ -143,131 +77,114 @@ input:focus{border-color:var(--blue)}
       <li><a href="/news/" class="active">News</a></li>
       <li><a href="/category/">AI at Work</a></li>
       <li><a href="/tools/">Tools &amp; Tech</a></li>
+      <li><a href="/digital-culture/">Digital Culture</a></li>
+      <li><a href="/strategy/">Strategy</a></li>
       <li><a href="/about/">About</a></li>
     </ul>
   </div>
 </nav>
 
 <div class="site-wrap">
-
   <div class="page-header">
     <h1>📡 Industry News</h1>
-    <p>The most relevant digital workplace and enterprise tech stories, filtered through 30 years of experience. Every headline links to the original source.</p>
+    <p>The most relevant digital workplace and enterprise tech stories from the last 7 days, filtered through 30 years of experience. Every headline links to the original source.</p>
   </div>
 
-  <div style="display:flex;flex-wrap:wrap;gap:8px;padding:1rem 0 1.5rem;border-bottom:1px solid #DCE8F5;margin-bottom:1.5rem;">
-    <a href="/category/"        style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #BFDBFE;background:#EEF5FF;color:#1D4ED8;text-decoration:none;">🤖 AI at Work</a>
-    <a href="/tools/"           style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #6EE7B7;background:#ECFDF5;color:#065F46;text-decoration:none;">🛠 Tools &amp; Tech</a>
-    <a href="/digital-culture/" style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #FCD34D;background:#FEF3C7;color:#92400E;text-decoration:none;">💬 Digital Culture</a>
-    <a href="/news/"            style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #C4B5FD;background:#F5F3FF;color:#5B21B6;text-decoration:none;">📡 Industry News</a>
-    <a href="/strategy/"        style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #FECDD3;background:#FFF1F2;color:#9F1239;text-decoration:none;">📊 Strategy</a>
-    <a href="/about/"           style="padding:6px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1.5px solid #86EFAC;background:#F0FDF4;color:#14532D;text-decoration:none;">✍️ About DWP Insider</a>
+  <div class="pill-strip">
+    <a href="/category/"        style="background:#EEF5FF;color:#1D4ED8;border-color:#BFDBFE;">🤖 AI at Work</a>
+    <a href="/tools/"           style="background:#ECFDF5;color:#065F46;border-color:#6EE7B7;">🛠 Tools &amp; Tech</a>
+    <a href="/digital-culture/" style="background:#FEF3C7;color:#92400E;border-color:#FCD34D;">💬 Digital Culture</a>
+    <a href="/news/"            style="background:#F5F3FF;color:#5B21B6;border-color:#C4B5FD;">📡 Industry News</a>
+    <a href="/strategy/"        style="background:#FFF1F2;color:#9F1239;border-color:#FECDD3;">📊 Strategy</a>
+    <a href="/about/"           style="background:#F0FDF4;color:#14532D;border-color:#86EFAC;">✍️ About DWP Insider</a>
   </div>
 
   <div class="news-layout">
     <main>
 
-      {% if news.categories["ai-at-work"] and news.categories["ai-at-work"].length > 0 %}
-      <div class="news-block">
-        <div class="news-block-date">🤖 AI at Work</div>
-        {% for story in news.categories["ai-at-work"] %}
-        <div class="news-item">
-          <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">Today</span></div>
-            <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
-            <div class="news-item-excerpt">{{ story.excerpt }}</div>
-            {% if story.dwp_take %}
-            <div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>
-            {% endif %}
-          </div>
-          <div class="news-item-right"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %}
+      {% if news_history and news_history.length > 0 %}
 
-      {% if news.categories["tools-tech"] and news.categories["tools-tech"].length > 0 %}
-      <div class="news-block">
-        <div class="news-block-date">🛠 Tools &amp; Tech</div>
-        {% for story in news.categories["tools-tech"] %}
-        <div class="news-item">
-          <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">Today</span></div>
+        <div class="news-block">
+          <div class="news-block-cat">🤖 AI at Work</div>
+          {% for story in news_history | reverse %}
+          {% if story.category == "ai-at-work" %}
+          <div class="news-item">
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
-            {% if story.dwp_take %}
-            <div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>
-            {% endif %}
+            {% if story.dwp_take %}<div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>{% endif %}
+            <div style="margin-top:8px;"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
           </div>
-          <div class="news-item-right"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
+          {% endif %}
+          {% endfor %}
         </div>
-        {% endfor %}
-      </div>
-      {% endif %}
 
-      {% if news.categories["digital-culture"] and news.categories["digital-culture"].length > 0 %}
-      <div class="news-block">
-        <div class="news-block-date">💬 Digital Culture</div>
-        {% for story in news.categories["digital-culture"] %}
-        <div class="news-item">
-          <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">Today</span></div>
+        <div class="news-block">
+          <div class="news-block-cat">🛠 Tools & Tech</div>
+          {% for story in news_history | reverse %}
+          {% if story.category == "tools-tech" %}
+          <div class="news-item">
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
-            {% if story.dwp_take %}
-            <div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>
-            {% endif %}
+            {% if story.dwp_take %}<div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>{% endif %}
+            <div style="margin-top:8px;"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
           </div>
-          <div class="news-item-right"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
+          {% endif %}
+          {% endfor %}
         </div>
-        {% endfor %}
-      </div>
-      {% endif %}
 
-      {% if news.categories["industry-news"] and news.categories["industry-news"].length > 0 %}
-      <div class="news-block">
-        <div class="news-block-date">📡 Industry News</div>
-        {% for story in news.categories["industry-news"] %}
-        <div class="news-item">
-          <div>
-            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div><span class="news-item-age">Today</span></div>
+        <div class="news-block">
+          <div class="news-block-cat">💬 Digital Culture</div>
+          {% for story in news_history | reverse %}
+          {% if story.category == "digital-culture" %}
+          <div class="news-item">
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div></div>
             <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
             <div class="news-item-excerpt">{{ story.excerpt }}</div>
-            {% if story.dwp_take %}
-            <div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>
-            {% endif %}
+            {% if story.dwp_take %}<div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>{% endif %}
+            <div style="margin-top:8px;"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
           </div>
-          <div class="news-item-right"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
+          {% endif %}
+          {% endfor %}
         </div>
-        {% endfor %}
-      </div>
+
+        <div class="news-block">
+          <div class="news-block-cat">📡 Industry News</div>
+          {% for story in news_history | reverse %}
+          {% if story.category == "industry-news" %}
+          <div class="news-item">
+            <div class="news-item-top"><span class="news-source-badge">{{ story.source }}</span><div class="news-dot"></div></div>
+            <a class="news-item-title" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
+            <div class="news-item-excerpt">{{ story.excerpt }}</div>
+            {% if story.dwp_take %}<div class="dwp-take"><div class="dwp-take-label">DWP Insider's take</div><p>{{ story.dwp_take }}</p></div>{% endif %}
+            <div style="margin-top:8px;"><a class="ext-link" href="{{ story.url }}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+      {% else %}
+        <p style="color:var(--text-secondary);padding:2rem 0;">News feed updating soon. Check back shortly.</p>
       {% endif %}
 
     </main>
 
     <aside class="sidebar">
-      <div class="sidebar-section">
-        <div class="section-label">Sources we follow</div>
-        <div class="sidebar-box">
-          <div class="source-item"><a href="https://techcrunch.com/category/artificial-intelligence/" target="_blank" rel="noopener" style="color:inherit;">TechCrunch</a> <span>Tech</span></div>
-          <div class="source-item"><a href="https://venturebeat.com/category/ai/" target="_blank" rel="noopener" style="color:inherit;">VentureBeat</a> <span>Enterprise AI</span></div>
-          <div class="source-item"><a href="https://siliconangle.com" target="_blank" rel="noopener" style="color:inherit;">SiliconAngle</a> <span>Enterprise Tech</span></div>
-          <div class="source-item"><a href="https://zdnet.com" target="_blank" rel="noopener" style="color:inherit;">ZDNet</a> <span>Enterprise IT</span></div>
-          <div class="source-item"><a href="https://cio.com" target="_blank" rel="noopener" style="color:inherit;">CIO.com</a> <span>IT Leaders</span></div>
-          <div class="source-item"><a href="https://computerworld.com" target="_blank" rel="noopener" style="color:inherit;">Computerworld</a> <span>Enterprise</span></div>
-          <div class="source-item"><a href="https://fastcompany.com/work-life" target="_blank" rel="noopener" style="color:inherit;">Fast Company</a> <span>Work Culture</span></div>
-          <div class="source-item"><a href="https://worklife.news" target="_blank" rel="noopener" style="color:inherit;">WorkLife</a> <span>Future of Work</span></div>
-          <div class="source-item"><a href="https://wired.com" target="_blank" rel="noopener" style="color:inherit;">Wired</a> <span>Tech &amp; Culture</span></div>
-          <div class="source-item"><a href="https://www.techrepublic.com" target="_blank" rel="noopener" style="color:inherit;">TechRepublic</a> <span>IT Pro</span></div>
-          <div class="source-item"><a href="https://www.itpro.com" target="_blank" rel="noopener" style="color:inherit;">ITPro</a> <span>Enterprise IT</span></div>
-          <div class="source-item"><a href="https://www.computerweekly.com" target="_blank" rel="noopener" style="color:inherit;">Computer Weekly</a> <span>IT Management</span></div>
-        </div>
-      </div>
-      <div class="sidebar-box" style="background:var(--blue-bg);border-color:var(--border-light);">
-        <h4>Get the weekly sandwich</h4>
-        <p style="font-size:13px;color:var(--text-secondary);margin-bottom:10px;line-height:1.5;">The top stories plus DWP Insider's take, every Thursday.</p>
-        <input type="email" placeholder="your@email.com" style="margin-bottom:8px;">
-        <button class="btn-accent" style="width:100%;">Subscribe free</button>
+      <div class="sidebar-box">
+        <h4>Sources we follow</h4>
+        <div class="source-item"><a href="https://techcrunch.com/category/artificial-intelligence/" target="_blank" rel="noopener" style="color:inherit;">TechCrunch</a> <span>Tech</span></div>
+        <div class="source-item"><a href="https://venturebeat.com/category/ai/" target="_blank" rel="noopener" style="color:inherit;">VentureBeat</a> <span>Enterprise AI</span></div>
+        <div class="source-item"><a href="https://siliconangle.com" target="_blank" rel="noopener" style="color:inherit;">SiliconAngle</a> <span>Enterprise Tech</span></div>
+        <div class="source-item"><a href="https://zdnet.com" target="_blank" rel="noopener" style="color:inherit;">ZDNet</a> <span>Enterprise IT</span></div>
+        <div class="source-item"><a href="https://cio.com" target="_blank" rel="noopener" style="color:inherit;">CIO.com</a> <span>IT Leaders</span></div>
+        <div class="source-item"><a href="https://computerworld.com" target="_blank" rel="noopener" style="color:inherit;">Computerworld</a> <span>Enterprise</span></div>
+        <div class="source-item"><a href="https://fastcompany.com/work-life" target="_blank" rel="noopener" style="color:inherit;">Fast Company</a> <span>Work Culture</span></div>
+        <div class="source-item"><a href="https://worklife.news" target="_blank" rel="noopener" style="color:inherit;">WorkLife</a> <span>Future of Work</span></div>
+        <div class="source-item"><a href="https://wired.com" target="_blank" rel="noopener" style="color:inherit;">Wired</a> <span>Tech &amp; Culture</span></div>
+        <div class="source-item"><a href="https://www.techrepublic.com" target="_blank" rel="noopener" style="color:inherit;">TechRepublic</a> <span>IT Pro</span></div>
+        <div class="source-item"><a href="https://www.itpro.com" target="_blank" rel="noopener" style="color:inherit;">ITPro</a> <span>Enterprise IT</span></div>
+        <div class="source-item"><a href="https://www.computerweekly.com" target="_blank" rel="noopener" style="color:inherit;">Computer Weekly</a> <span>IT Management</span></div>
       </div>
     </aside>
   </div>
@@ -275,18 +192,10 @@ input:focus{border-color:var(--blue)}
 
 <footer class="site-footer">
   <div class="footer-inner">
-    <span>© 2025 centerofthesandwich.com</span>
-    <span>All news links to original sources. No content is reproduced.</span>
+    <span>© 2026 centerofthesandwich.com</span>
+    <span>Digital Workplace · Tech · Trends · Personal</span>
   </div>
 </footer>
 
-<script>
-document.querySelectorAll('.filter-btn').forEach(btn => {
-  btn.addEventListener('click', function() {
-    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-    this.classList.add('active');
-  });
-});
-</script>
 </body>
 </html>
