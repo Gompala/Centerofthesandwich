@@ -38,5 +38,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Daily news and article update
-          file_pattern: _data/news.json _data/seen_urls.json _data/article_topic.txt _posts/*.md
+          file_pattern: _data/news.json _data/news_history.json _data/seen_urls.json _data/article_topic.txt _posts/*.md
           push_options: --force-with-lease
