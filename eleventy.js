@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("logo");
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("google02ab5a5d1425c6ac.html");
   eleventyConfig.addWatchTarget("./shared.css");
 
   eleventyConfig.addGlobalData("news", () => {
