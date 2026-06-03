@@ -111,7 +111,8 @@ def send_email(article):
             BUTTONDOWN_URL,
             headers={
                 "Authorization": f"Token {BUTTONDOWN_API_KEY}",
-                "Content-Type": "application/json"
+                "Content-Type": "application/json",
+                "X-Buttondown-Live-Dangerously": "true"
             },
             json=payload,
             timeout=30
