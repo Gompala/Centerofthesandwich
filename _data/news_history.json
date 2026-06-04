@@ -574,5 +574,149 @@
     "excerpt": "Cisco unveiled Cloud Control, Live Protect, and Hybrid Mesh Firewall at Cisco Live to help enterprises manage AI-era IT and security operations. The post Cisco Live 2026: New Security Tools Target AI ",
     "dwp_take": "Cisco just rolled out three new security tools, Cloud Control, Live Protect, and Hybrid Mesh Firewall, designed to help enterprises handle security risks that come with AI adoption. For digital workplace folks, this matters because your employees are already using AI tools whether you've blessed them or not, and these controls could actually help you govern that mess without shutting everything down. Look, after three decades in this space, I've seen vendors chase every shiny threat, but the real question is whether anyone will actually implement these things properly or they'll just sit in the backlog next to that zero-trust strategy from 2023.",
     "date": "2026-06-03T20:42:58.762169+00:00"
+  },
+  {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "dwp_take": "Lovable locked in a multiyear deal with Google Cloud to massively scale their operations while getting deeper access to Anthropic's Claude models. This matters because it signals how AI tooling partnerships are reshaping infrastructure decisions, and digital workplace leaders need to understand which platforms their teams will depend on. Here's the thing though: every vendor now claims they're scaling 5x, so the real question is whether this actually changes what lands on your employees' desks or if it's just noise between enterprise sales cycles.",
+    "date": "2026-06-04T12:26:10.587458+00:00"
+  },
+  {
+    "title": "Critical Hugging Face Transformers flaw ran attacker code on a routine model load",
+    "url": "https://siliconangle.com/2026/06/04/critical-hugging-face-transformers-flaw-ran-attacker-code-routine-model-load/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Pluto Security Inc. today disclosed a critical remote code execution vulnerability in Hugging Face Inc.\u2019s Transformers library that allowed attacker-controlled artificial intelligence models to run ar",
+    "dwp_take": "A critical security hole in Hugging Face's popular Transformers library let attackers execute arbitrary code just by loading a malicious AI model, bypassing standard security practices. This matters because plenty of organizations are pulling pre-built models from Hugging Face into their workflows without realizing they're basically running a stranger's executable file. Turns out \"just download this model\" is basically the digital equivalent of accepting candy from a sketchy van, and even following best practices didn't protect you.",
+    "date": "2026-06-04T12:26:15.850060+00:00"
+  },
+  {
+    "title": "Offroad launches with $7M to automate identity security with AI agents",
+    "url": "https://siliconangle.com/2026/06/04/offroad-launches-7m-automate-identity-security-ai-agents/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Offroad Inc. launched today with $7 million in funding to build what it calls an agentic identity security team, using artificial intelligence agents to investigate and remediate access risks across h",
+    "dwp_take": "A startup called Offroad just raised 7 million dollars to use AI agents for automating identity security and access management across users, machines, and other AI systems. This matters because digital workplace leaders are drowning in identity governance complexity, and if this actually works, it could free up security teams from manual remediation work they've been doing since 2003. The real test will be whether AI agents can handle the edge cases and exceptions that always trip up automation, but at least someone's finally funding a solution for this nightmare.",
+    "date": "2026-06-04T12:26:19.814257+00:00"
+  },
+  {
+    "title": "Asana launches AI-powered products to help organizations manage human and agent work",
+    "url": "https://siliconangle.com/2026/06/04/asana-launches-ai-powered-products-help-organizations-manage-human-agent-work/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Asana Inc. announced today during the company\u2019s Work Innovation Summit in London the launch of a new product suite that helps organizations manage work by humans and artificial intelligence agents usi",
+    "dwp_take": "Asana just launched Agentic Work Management, a suite of tools designed to help organizations manage work performed by both humans and AI agents within the same planning system. This matters because digital workplace pros now need to think about workflow design differently, treating AI as a legitimate team member rather than an afterthought bolted onto existing processes. Look, if your work management system can't handle humans and bots working side by side without imploding, you're not ready for what's actually coming next.",
+    "date": "2026-06-04T12:26:24.210369+00:00"
+  },
+  {
+    "title": "Google brings local AI agents to laptops with Gemma 4 12B",
+    "url": "https://www.computerworld.com/article/4181180/google-brings-local-ai-agents-to-laptops-with-gemma-4-12b-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Google has released new tools that allow developers to run agentic AI workflows locally using Gemma 4 12B, a 12-billion-parameter model from Google DeepMind. In a blog post, the company said the model",
+    "dwp_take": "Google just released Gemma 4 12B, a smaller AI model that runs locally on regular laptops without needing cloud connections, letting developers build and test AI agents directly on their machines. This matters to digital workplace pros because it means organizations can experiment with AI automation for actual workflows, from document processing to data handling, without waiting for IT approval or worrying about sending sensitive data to the cloud. Honestly, this is the first time I've seen a tech release that actually solves a real problem instead of creating five new ones, which probably means adoption will be slower than Google expects because enterprises love complicated solutions.",
+    "date": "2026-06-04T12:26:29.587214+00:00"
+  },
+  {
+    "title": "AI saves workers a day a week, but they don\u2019t know what to do with it",
+    "url": "https://www.computerworld.com/article/4181083/ai-saves-workers-a-day-a-week-but-they-dont-know-what-to-do-with-it-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "A report released Wednesday by Boston Consulting Group (BCG) indicates that many organizations are having difficulty converting efficiency gains that are AI-driven into any sort of measurable value. T",
+    "dwp_take": "A BCG survey found that 42% of frontline workers using AI regularly save a full day per week, but two-thirds aren't given guidance on how to use that reclaimed time. This matters because freed-up time is worthless if organizations haven't thought through what workers should actually do with it\u2014you've just created confusion and resentment instead of productivity gains. After three decades watching tech rollouts, I can tell you this is the classic corporate move: buy the shiny tool, congratulate yourself on efficiency, then act shocked when people sit around wondering if they should slack off or find extra work to justify their existence.",
+    "date": "2026-06-04T12:26:36.348332+00:00"
+  },
+  {
+    "title": "EU sets out plans to reduce reliance on US cloud providers",
+    "url": "https://www.computerworld.com/article/4180801/eu-sets-out-plans-to-reduce-reliance-on-us-cloud-providers.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The European Union has now published a set of measures aimed at boosting Europe\u2019s tech industry to help reduce reliance on US and Chinese suppliers for AI, cloud, and semiconductors. The proposals inc",
+    "dwp_take": "The EU has published measures to reduce European dependence on US and Chinese tech suppliers for cloud, AI, and semiconductors, including rules that restrict but don't ban US hyperscalers from some public sector contracts. This matters because digital workplace infrastructure decisions increasingly sit at the intersection of geopolitics, data sovereignty, and compliance, meaning IT leaders will need to navigate a more fragmented cloud landscape. Honestly, this is Europe finally admitting what we've all known for years: betting your entire digital future on three American companies was never a great strategy, and now they're trying to build an exit ramp before the door closes completely.",
+    "date": "2026-06-04T12:26:41.263130+00:00"
+  },
+  {
+    "title": "RTX Spark may split the AI PC market into mainstream laptops and premium workstations",
+    "url": "https://www.computerworld.com/article/4180451/rtx-spark-may-split-the-ai-pc-market-into-mainstream-laptops-and-premium-workstations.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Nvidia\u2019s RTX Spark could give PC makers a new high-end category, built around machines that run more demanding AI workloads locally rather than in the cloud. The chipmaker and Microsoft said RTX Spark",
+    "dwp_take": "Nvidia and Microsoft are pushing RTX Spark PCs as a new premium category designed to run demanding AI workloads locally instead of relying on cloud computing. This matters to digital workplace pros because it signals a fundamental shift in how organizations will need to think about hardware provisioning, support, and security for employees working with AI tools. After three decades watching tech cycles, I'd say we're about to experience the joy of supporting two completely different device ecosystems, which should be fun for IT budgets everywhere.",
+    "date": "2026-06-04T12:26:45.126652+00:00"
+  },
+  {
+    "title": "This startup is trying to make peace between AI companies and creatives",
+    "url": "https://www.fastcompany.com/91553134/this-startup-is-trying-to-make-peace-between-ai-companies-and-creatives?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "\u201cIt was a dark and stormy night. In her attic bedroom Margaret Murry, wrapped in an old patchwork quilt, sat on the foot of her bed and watched the trees tossing in the frenzied lashing of the wind\u2026\u201d ",
+    "dwp_take": "A startup is building tools to help AI companies and creative professionals work together rather than fight over training data and copyright issues. This matters because every digital workplace now has to figure out where AI fits into their creative workflows, and legal chaos helps nobody get actual work done. Honestly, it's refreshing to see someone trying to solve the problem instead of just screaming at each other on Twitter, which has been the default strategy so far.",
+    "date": "2026-06-04T12:26:49.337172+00:00"
+  },
+  {
+    "title": "New internal Microsoft memo shows shifting employee sentiment",
+    "url": "https://www.fastcompany.com/91552523/new-internal-microsoft-memo-shows-shifting-employee-sentiment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "According to a recent internal memo, Microsoft employees are feeling positive about producing meaningful work, but less so about coaching, feedback, and motivation from managers, Business Insider repo",
+    "dwp_take": "Microsoft's latest employee survey shows workers feel good about doing meaningful work but are souring on manager coaching, feedback, and motivation. This matters because it's the same pattern we're seeing everywhere: remote and hybrid work has made it brutally hard for managers to actually manage, and no amount of collaboration software fixes that gap. The real story here is that you can have all the Teams meetings you want, but if your manager hasn't talked to you about your growth in six months, no productivity dashboard will make that sting less.",
+    "date": "2026-06-04T12:26:53.537434+00:00"
+  },
+  {
+    "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+    "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+    "dwp_take": "Companies are betting that better workforce data and smarter AI integration will be their ticket to workplace success in 2024. This matters because digital workplace teams are now expected to be data interpreters and AI custodians on top of everything else they already do. Here's the thing though: most organizations will spend the year collecting data and talking about AI while their employees are still fighting with three different search tools to find a document.",
+    "date": "2026-06-04T12:26:57.929746+00:00"
+  },
+  {
+    "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
+    "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
+    "dwp_take": "Companies are ditching traditional holiday parties because employees would rather have cash bonuses or extra PTO, though some still defend the value of in-person gatherings. This matters because it forces you to rethink how you use your digital workplace to build culture and connection when the old standbys aren't cutting it anymore. Honestly, if your holiday party needs a digital save, you've already lost the room, but at least this gives you permission to stop forcing fake cheer and invest in things people actually want.",
+    "date": "2026-06-04T12:27:02.114466+00:00"
+  },
+  {
+    "title": "SpaceX Sets $135 IPO Price at $1.77T Valuation",
+    "url": "https://www.techrepublic.com/article/news-spacex-ipo-price-valuation/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "SpaceX set its IPO price at $135, putting the company on track for a record public listing and a valuation near $1.77 trillion. The post SpaceX Sets $135 IPO Price at $1.77T Valuation appeared first o",
+    "dwp_take": "SpaceX just went public at $135 per share with a nearly $1.77 trillion valuation, making it one of the biggest IPOs on record. For digital workplace folks, this matters because mega-valuations like this fuel talent wars, remote work expectations, and the tech arms race for collaboration tools to keep distributed teams connected. Honestly, watching a rocket company become a $1.77 trillion entity should make every corporate intranet manager question their life choices.",
+    "date": "2026-06-04T12:27:06.466045+00:00"
+  },
+  {
+    "title": "Amazon Moves Prime Day, Keeps Four-Day Shopping Event for 2026",
+    "url": "https://www.techrepublic.com/article/news-amazon-june-2026-prime-day/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Amazon Prime Day 2026 runs June 23-26, shifting earlier as the company keeps its four-day format and leans into groceries. The post Amazon Moves Prime Day, Keeps Four-Day Shopping Event for 2026 appea",
+    "dwp_take": "Amazon shifted Prime Day 2026 to late June instead of its traditional July slot, maintaining the four-day format while emphasizing grocery shopping integration. This matters to digital workplace folks because it signals how consumer behavior and retail calendars now shape enterprise software decisions, from inventory management systems to employee scheduling tools that have to flex around these events. Honestly, if your company's digital workplace can't handle a shifted shopping event without breaking, you've got bigger problems than Amazon's calendar shuffle.",
+    "date": "2026-06-04T12:27:10.829514+00:00"
+  },
+  {
+    "title": "Apple\u2019s 2026 Security Events: iPhone Exploits, Zero-Days Put Millions at Risk",
+    "url": "https://www.techrepublic.com/article/news-apple-security-roundup-june-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple\u2019s 2026 security year includes zero-days, iPhone exploit kits, WebKit fixes, and background patches that users and IT teams need to track. The post Apple\u2019s 2026 Security Events: iPhone Exploits, ",
+    "dwp_take": "Apple disclosed a significant backlog of zero-day vulnerabilities and iPhone exploits throughout 2026 that require immediate attention from security teams. Digital workplace pros managing iOS devices need to stay on top of these patches because an unpatched iPhone is basically a security liability sitting in your employee's pocket, potentially compromised before they even know it. Here's the thing: if your company treats iPhone updates like optional software suggestions rather than mandatory security hygiene, you're playing Russian roulette with your entire network.",
+    "date": "2026-06-04T12:27:14.631516+00:00"
+  },
+  {
+    "title": "Microsoft Tests Wearable AI Badge for Office Workers",
+    "url": "https://www.techrepublic.com/article/news-microsoft-wearable-ai-badge-office-workers/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft showed Project Solara concept devices at Build 2026, including a wearable AI badge for office workers using AI agents. The post Microsoft Tests Wearable AI Badge for Office Workers appeared ",
+    "dwp_take": "Microsoft is testing a wearable AI badge that office workers can wear to interact with AI agents throughout their day. This matters because if it actually works, it could reshape how we think about accessing information and getting work done, replacing the constant screen-switching most of us do now. That said, I've seen enough \"revolutionary\" wearables come and go to know that the real test isn't the tech, it's whether people will actually want to wear another device on their bodies while they work.",
+    "date": "2026-06-04T12:27:18.383302+00:00"
   }
 ]
