@@ -24,10 +24,14 @@ POSTS_DIR = Path("_posts")
 def get_topic():
     """Get today's article topic — from file or pick from news with category rotation."""
     if TOPIC_FILE.exists():
-        topic = TOPIC_FILE.read_text().strip()
-        if topic:
+        lines = [l.strip() for l in TOPIC_FILE.read_text().splitlines() if l.strip()]
+        if lines:
+            topic = lines[0]
+            # Remove the first line, keep the rest for future days
+            remaining = '\n'.join(lines[1:])
+            TOPIC_FILE.write_text(remaining)
             print(f"Using suggested topic: {topic}")
-            TOPIC_FILE.write_text("")
+            print(f"Remaining queued topics: {len(lines)-1}")
             return topic, None
 
     # Rotate categories by day of week to ensure variety
