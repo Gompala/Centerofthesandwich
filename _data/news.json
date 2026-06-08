@@ -1,129 +1,156 @@
 {
-  "generated": "2026-06-07T10:58:58.053831+00:00",
+  "generated": "2026-06-08T16:55:42.189217+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Dell sharpens data protection strategy as AI reshapes cyber resilience",
-        "url": "https://siliconangle.com/2026/06/06/dell-data-management-cubeconversations/",
-        "source": "SiliconAngle",
+        "title": "Notion restores access to Anthropic after service disruption",
+        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "After Dell Technologies Inc. saw an 88% jump in revenue reported last week, it\u2019s safe to say the hardware and data management company is on a roll. Although the hype is primarily around Dell\u2019s artific",
-        "dwp_take": "Dell just posted an 88% revenue jump and is doubling down on data protection because they know AI adoption brings bigger security headaches. For digital workplace teams, this matters because your AI tools are only as trustworthy as the data infrastructure protecting them, and vendor strategy shifts usually precede product announcements worth paying attention to. Honestly, it's refreshing when a hardware vendor actually talks about security instead of just slapping \"AI-powered\" on everything and calling it innovation.",
-        "date": "2026-06-07T10:58:03.787458+00:00"
+        "excerpt": "Notion's head of product said he was \"astonished\" at \u201cthe amount of people RT-ing this.\"",
+        "dwp_take": "Notion had a service disruption that blocked access to Anthropic's Claude AI, then restored it after the incident drew attention on social media. For digital workplace professionals relying on Notion as a knowledge hub or using Claude integrations for productivity, unexpected outages like this are a reminder that vendor dependencies create real business risk. The head of product being \"astonished\" at the social media attention is a polite way of saying they got caught flat footed, which tells you something about how seriously some platforms monitor their own critical infrastructure.",
+        "date": "2026-06-08T16:54:34.189580+00:00"
       },
       {
-        "title": "Four insights you might have missed from theCUBE\u2019s coverage of IBM Think",
-        "url": "https://siliconangle.com/2026/06/05/four-insights-enterprise-ai-ibmthink/",
-        "source": "SiliconAngle",
+        "title": "OpenAI is still working on that \u2018super app\u2019",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "IBM Corp. is positioning itself to be a foundational player in enterprise AI. The computing giant brings mainframe hardware, hybrid computing assets and a legacy of strong governance to the AI infrast",
-        "dwp_take": "IBM is doubling down on enterprise AI by leveraging its mainframe hardware, hybrid cloud infrastructure, and governance capabilities to position itself as foundational AI infrastructure. This matters because digital workplace leaders are scrambling to understand how AI actually gets deployed at scale, and knowing which vendors have the plumbing to support it beats chasing shiny demos. Here's the thing: IBM's got the boring infrastructure stuff right, which is exactly what enterprises need when they're ready to stop experimenting and start shipping AI that actually works.",
-        "date": "2026-06-07T10:58:08.521429+00:00"
+        "excerpt": "\"Chat is dead\" \u2014 at least, according to a senior OpenAI employee.",
+        "dwp_take": "OpenAI is building a broader platform beyond ChatGPT, with internal messaging suggesting they see chat interfaces as yesterday's news. For digital workplace folks, this matters because it signals where enterprise AI is heading: integrated, multi-modal tools rather than siloed chatbots tacked onto your existing stack. Honestly, I've heard \"chat is dead\" approximately 47 times in my career, usually right before chat becomes more important than ever, so I'll believe it when I see it actually shipped and actually useful.",
+        "date": "2026-06-08T16:54:38.489419+00:00"
       },
       {
-        "title": "Augment Code launches Cosmos to bring agentic AI software development to teams",
-        "url": "https://siliconangle.com/2026/06/05/augment-code-launches-cosmos-bring-agentic-ai-software-development-teams/",
+        "title": "Pega expands AI platform with agent orchestration, development tools and new pricing model",
+        "url": "https://siliconangle.com/2026/06/08/pega-expands-ai-platform-agent-orchestration-development-tools-new-pricing-model/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Augment Code Computing Inc., an artificial intelligence agent platform provider, Thursday announced the launch of Cosmos, a service it says is designed to push beyond the era of individual AI coding a",
-        "dwp_take": "Augment Code just launched Cosmos, a platform that moves AI coding assistance from individual tools to coordinated team-based systems for engineering groups. This matters because digital workplace leaders are watching how AI collaboration tools reshape how distributed teams actually build software together, not just how individuals work faster. Here's the thing though: we've heard \"revolutionary team coordination\" promises before, and what usually happens is people keep using whatever's easiest on their laptop while the shiny platform collects dust in the procurement folder.",
-        "date": "2026-06-07T10:58:12.515387+00:00"
+        "excerpt": "Workflow automation vendor Pegasystems Inc. today unveiled a broad set of artificial intelligence enhancements aimed at helping enterprises deploy AI agents in mission-critical business processes whil",
+        "dwp_take": "Pega rolled out a bunch of AI agent tools designed to help companies automate workflows while keeping costs and governance in check, announced at their PegaWorld conference. For digital workplace folks, this matters because orchestrating multiple AI agents across business processes is where the real productivity gains hide, and having built-in controls beats trying to frankenstein solutions together later. Here's the thing though: every vendor is now claiming they've cracked the AI agent code, so the real test will be whether Pega's governance actually works in the chaos of actual enterprise deployments, not just in the demo.",
+        "date": "2026-06-08T16:54:45.303434+00:00"
       },
       {
-        "title": "OpenGov and Snowflake build a knowledge graph to unify government data and AI",
-        "url": "https://siliconangle.com/2026/06/05/knowledge-graph-government-data-ai-opengov-snowflakesummit/",
+        "title": "Snowflake and 1Password tackle the growing challenge of securing AI agents at scale",
+        "url": "https://siliconangle.com/2026/06/08/ai-agent-security-snowflakesummit/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Government software is facing the same information management crisis as every other enterprise sector, and the knowledge graph is emerging as the architectural answer. Nickhil Tekwani (pictured, secon",
-        "dwp_take": "OpenGov and Snowflake are building a knowledge graph to help government agencies connect fragmented data and improve AI capabilities. This matters because government workers are drowning in disconnected systems just like corporate employees, and a unified data layer could actually make their tools useful instead of frustrating. The irony is that government tech usually lags five years behind the private sector, so if they're finally tackling data silos with knowledge graphs, the rest of us should probably pay attention to what actually works.",
-        "date": "2026-06-07T10:58:16.534591+00:00"
+        "excerpt": "As AI agents gain access to sensitive enterprise data, AI agent security is becoming a top priority for organizations. The challenge is no longer just protecting systems, but ensuring autonomous agent",
+        "dwp_take": "Snowflake and 1Password are teaming up to help organizations secure AI agents that have access to sensitive data, recognizing that autonomous AI systems need governance and control frameworks just like any other enterprise tool. This matters because digital workplace teams are increasingly deploying AI agents into production environments without solid security protocols, and when those agents go sideways, it's usually IT and security who get the call at midnight. Here's the thing: we spent twenty years locking down applications and infrastructure, and now we're about to do the whole dance again with AI agents, except this time the agent might be making decisions without asking permission first.",
+        "date": "2026-06-08T16:54:49.786504+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Asana launches AI \u2018chief of staff\u2019 to keep projects on track",
-        "url": "https://www.computerworld.com/article/4181295/asana-launches-ai-chief-of-staff-to-keep-projects-on-track.html",
+        "title": "How ChatGPT's new Lockdown mode protects you from data theft (and what else it does)",
+        "url": "https://www.zdnet.com/article/chatgpt-lockdown-mode-data-theft-prompt-injection/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "The goal is to protect you against attackers who try to steal your personal data through prompt injection. But it does limit your ability to access the web.",
+        "dwp_take": "OpenAI rolled out Lockdown mode for ChatGPT to block prompt injection attacks that try to steal your data, though it comes with the trade-off of disabling web access. Digital workplace pros need to understand this because we're increasingly relying on AI tools for work tasks, and security versus functionality is always the uncomfortable dance we have to do. Here's the thing though: if your security feature forces people to choose between safety and doing their job, half your users will find a way around it, which defeats the whole purpose.",
+        "date": "2026-06-08T16:54:54.296036+00:00"
+      },
+      {
+        "title": "Minimus Unveils New Supply Chain Protection Proxy and Command-Line Interface for Container Management",
+        "url": "https://www.computerworld.com/article/4182505/minimus-unveils-new-supply-chain-protection-proxy-and-command-line-interface-for-container-management.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Asana has launched an AI personal assistant that can track various data sources to alerts users when a work project runs into problems and recommends next actions. It\u2019s one of a range of product annou",
-        "dwp_take": "Asana rolled out an AI assistant that monitors project data across multiple sources and alerts teams when things go sideways, plus recommends next steps. This matters because digital workplace pros are constantly drowning in status updates and context switching, so an AI that actually catches problems before they spiral could save real time and headaches. The real test is whether it'll become another notification your team ignores or if Asana actually built something useful that doesn't sound like a corporate buzzword generator.",
-        "date": "2026-06-07T10:58:21.603989+00:00"
+        "excerpt": "Cloud software security firm Minimus today expanded its product portfolio with the general availability of Minimus Supply Chain Protection and minicli. The tools introduce a unified approach to managi",
+        "dwp_take": "Minimus released new security tools for managing container risks and third-party software vulnerabilities in cloud environments. This matters because digital workplace teams are increasingly responsible for managing security across distributed systems, and supply chain attacks are a real threat now. The honest take: another tool promising to solve complexity, but if your team can't enforce policy on what actually gets deployed, you're still playing defense.",
+        "date": "2026-06-08T16:54:58.461682+00:00"
+      },
+      {
+        "title": "WWDC: Apple\u2019s AI moment of truth arrives",
+        "url": "https://www.computerworld.com/article/4182387/wwdc-apples-ai-moment-of-truth-arrives.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Everybody is watching to see what comes from Apple at its annual Worldwide Developer Conference (WWDC) today. There\u2019s a great deal at stake, as when it comes to artificial intelligence (AI) today\u2019s ev",
+        "dwp_take": "Apple is presenting its AI strategy at WWDC today, and the tech world is watching to see if the company can finally prove it has a credible AI story to tell after years of playing catch-up. For digital workplace pros, this matters because Apple's moves on AI will shape what Mac and iPad users expect from their tools, which directly impacts how enterprises think about device strategy and employee productivity platforms. Honestly, after watching Apple spend three years talking about \"on-device intelligence\" while competitors shipped actual features, today's announcements need to be less \"here's what we've been thinking about\" and more \"here's what works right now.\"",
+        "date": "2026-06-08T16:55:03.276363+00:00"
+      },
+      {
+        "title": "EU\u2019s cloud sovereignty push leaves room for US hyperscalers",
+        "url": "https://www.computerworld.com/article/4181816/eu-takes-first-steps-to-reduce-reliance-on-us-hyperscalers.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "The European Commission published its tech sovereignty package last week, including the clearest signal yet of its intention to strengthen European cloud sovereignty and reduce its dependence on US hy",
+        "dwp_take": "The EU published a tech sovereignty package aimed at reducing dependence on US cloud providers like Amazon and Microsoft, though the actual enforcement mechanisms remain vague enough that American hyperscalers will probably keep their market dominance. This matters because digital workplace teams across Europe could face pressure to migrate to local alternatives, but those alternatives don't yet exist at scale or with feature parity. Here's the thing: sovereignty sounds great until your CFO realizes European cloud options cost three times as much for half the functionality, at which point everyone suddenly remembers why they signed up with AWS in the first place.",
+        "date": "2026-06-08T16:55:07.915075+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "The efficiency trap",
-        "url": "https://www.fastcompany.com/91552431/the-efficiency-trap?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "What kinds of knowledge will save you from AI?",
+        "url": "https://www.fastcompany.com/91553818/what-kinds-knowledge-will-save-you-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "When I became a mother, I closed my office door. Not dramatically\u2014no manifesto, no announcement. I just needed to get more work done in less time, and open doors invite conversations that consume minu",
-        "dwp_take": "A professor traded open-door accessibility for closed-door productivity after becoming a mother, realizing she needed to protect time by limiting informal interactions. This matters because it exposes the real tension in modern workplace design: we've optimized for efficiency at the expense of the spontaneous conversations that actually generate innovation and culture. The irony is brutal, and any workplace that claims to value both collaboration and individual productivity without addressing this trade-off is just paying lip service to both.",
-        "date": "2026-06-07T10:58:26.039251+00:00"
+        "excerpt": "For some professions, \u201cAI is coming for our jobs\u201d is no longer a vague threat about future events. Timothy McKeon, who spent years translating to and from Irish for the European Union, knows this bett",
+        "dwp_take": "Timothy McKeon lost about 70% of his translation income as machine translation improved enough to handle routine EU work, illustrating how AI isn't some distant threat but an immediate economic reality for knowledge workers. This matters to digital workplace pros because it's a real-world case study in how \"good enough\" automation disrupts skilled work, forcing us to rethink how organizations value different types of expertise. The grim part: turns out the knowledge that saves you is usually the stuff that's hardest to automate, which means your job got more complicated just when it got less secure.",
+        "date": "2026-06-08T16:55:12.814233+00:00"
       },
       {
-        "title": "Summer is the season that breaks working parents",
-        "url": "https://www.fastcompany.com/91552307/summer-season-breaks-working-parents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Creativity is currency",
+        "url": "https://www.fastcompany.com/91553099/creativity-is-currency?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Every June, the school year ends, and the framework that kept us afloat all year vanishes. If you\u2019re lucky, your child is in camp. If you\u2019re very lucky, camp goes past 3 p.m. And if you\u2019re really luck",
-        "dwp_take": "Every June, working parents lose the structural support that school provides, forcing them to scramble for childcare coverage for three months. This matters to digital workplace leaders because summer productivity takes a predictable nosedive, remote work arrangements get tested, and retention risk spikes for parents who can't make the math work. Here's the thing: we've known this problem exists for decades, yet most organizations still treat June like a surprise rather than planning around it with flexible policies that actually acknowledge reality.",
-        "date": "2026-06-07T10:58:30.182802+00:00"
+        "excerpt": "A couple of years ago, I started noticing a quiet anxiety beneath the surface of nearly every leadership conversation I was having. It wasn\u2019t about talent pipelines or quarterly earnings. It was somet",
+        "dwp_take": "Fast Company argues that organizations chasing AI adoption are accidentally killing off the creative and human elements that actually make workplace culture worth something. This matters because digital workplace pros are the ones building the systems that either protect or erode those human spaces where real thinking happens. The irony is delicious: companies spend millions on collaboration tools and AI while ignoring the fact that you can't automate your way into having a culture people actually give a damn about.",
+        "date": "2026-06-08T16:55:16.937603+00:00"
       },
       {
-        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
-        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "When competence becomes a liability",
+        "url": "https://www.fastcompany.com/91552288/when-comp-etence-becomes-liability?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
-        "dwp_take": "Some companies are hiring chief productivity officers to replace traditional HR directors, betting this role will better connect people strategy with technology and business results. This matters because it signals a fundamental shift in how organizations value what used to be called \"human resources\" - now it's about measurable output rather than employee experience. Honestly, if your company needs a new C-suite title to figure out how to connect people with the tools they need to work effectively, you've already got a bigger problem than an org chart can fix.",
-        "date": "2026-06-07T10:58:36.752814+00:00"
+        "excerpt": "Competence is one of the most rewarded qualities in the workplace\u2014it earns trust, opens doors, and creates opportunities. When something important needs to get done, organizations naturally gravitate ",
+        "dwp_take": "The article argues that being too good at your job can backfire, trapping high performers in repetitive roles and preventing their growth or advancement. Digital workplace professionals need to understand this dynamic because it directly affects retention, knowledge management, and succession planning in their organizations. Here's the bitter truth: if your digital workplace culture rewards competence so heavily that talented people can't escape their own excellence, you're building a golden cage, not a career path.",
+        "date": "2026-06-08T16:55:21.337986+00:00"
       },
       {
-        "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
-        "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "How to ace your summer internship",
+        "url": "https://www.fastcompany.com/91554969/how-to-ace-your-summer-internship?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
-        "dwp_take": "Schneider Electric launched a hiring program targeting military veterans to fill open data center technician roles as demand for skilled workers outpaces supply. This matters because digital workplace infrastructure depends entirely on people who can keep the lights on, and any talent shortage ripples through every organization relying on cloud services and on-prem systems. The real play here is that veterans already know how to work in high-stress, mission-critical environments where failure isn't an option, which frankly beats most corporate training programs by a mile.",
-        "date": "2026-06-07T10:58:40.792304+00:00"
+        "excerpt": "As summer begins, many college students are getting ready to dip a toe in the sea of work by taking on an internship. These internships play a few important roles. For many interns, this is the first ",
+        "dwp_take": "Fast Company ran a piece about summer internships and why they matter for students entering the workforce. For digital workplace pros, this is relevant because interns represent your future talent pipeline and how you onboard them sets the tone for their entire career trajectory. Here's the thing though: most organizations still treat intern onboarding like an afterthought, sticking them in front of a screen with outdated training videos while the actual team ignores them for three months. That's leaving money on the table.",
+        "date": "2026-06-08T16:55:25.825467+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "AI Upgrades, Security Flaws, and SpaceX\u2019s Record IPO Define the Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-upgrades-security-flaws-and-spacexs-record-ipo-define-the-week-in-tech/",
+        "title": "Minimus Expands Enterprise Security Platform with General Availability of Advanced Supply Chain Controls",
+        "url": "https://www.techrepublic.com/article/minimus-expands-enterprise-security-platform-with-general-availability-of-advanced-supply-chain-controls/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from June 1\u20135. The post AI Upgrades, Security Flaws, and SpaceX\u2019s Record IPO Define the Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "This week saw AI tool upgrades roll out across platforms while security vulnerabilities surfaced simultaneously, alongside SpaceX hitting a record IPO milestone. For digital workplace leaders, this is the familiar tension we face every single week: new capabilities arrive with fresh risks attached, and someone has to figure out how to govern both responsibly. The real story here isn't the headlines but the fact that by Monday morning, your CEO will ask about AI and your security team will ask about patches, and you'll get to explain why you can't just pick one.",
-        "date": "2026-06-07T10:58:45.256190+00:00"
+        "excerpt": "Minimus, a pioneer in cloud vulnerability reduction, today introduced two major enterprise capabilities: Minimus Supply Chain Protection and minicli. Now generally available, these solutions provide o",
+        "dwp_take": "Minimus just released Supply Chain Protection and minicli tools to help enterprises secure their software dependencies and container infrastructure with centralized controls. For digital workplace pros, this matters because supply chain attacks are increasingly targeting the software your organization actually uses, making this stuff table stakes for any serious security posture. Honestly, if your company isn't thinking hard about supply chain risk by now, you're playing with fire while your CISO watches nervously.",
+        "date": "2026-06-08T16:55:29.808871+00:00"
       },
       {
-        "title": "Apple WWDC26 Live Updates: Apple Intelligence, macOS 27, and More",
-        "url": "https://www.techrepublic.com/article/news-apple-wwdc-26-live-blog/",
+        "title": "OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users",
+        "url": "https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Follow TechRepublic\u2019s WWDC26 live updates on Apple Intelligence, macOS 27, Siri, security, developer tools, and enterprise IT impact. The post Apple WWDC26 Live Updates: Apple Intelligence, macOS 27, ",
-        "dwp_take": "Apple just announced new AI features, a fresh macOS version, and updates to Siri at their developer conference. Digital workplace teams need to pay attention because Apple Intelligence and updated enterprise tools will eventually land on the Macs your employees are using, which means IT planning and security considerations are coming down the pike. Here's the thing though: every year Apple promises seamless integration and enterprise readiness, and every year IT departments still end up fielding the same support tickets because change management doesn't happen by keynote.",
-        "date": "2026-06-07T10:58:49.929633+00:00"
+        "excerpt": "OpenAI is expanding ChatGPT Lockdown Mode to more users, limiting web-connected tools to reduce the risks of prompt injection and data leakage. The post OpenAI Expands ChatGPT Lockdown Mode to Million",
+        "dwp_take": "OpenAI is rolling out Lockdown Mode for ChatGPT to millions more users, which restricts web-connected features to prevent prompt injection attacks and accidental data leaks. This matters because your employees are already using ChatGPT at work, and uncontrolled web access means your proprietary information could end up training the next model instead of staying in your filing cabinet. Finally, someone at a major AI company is admitting that giving an AI unfettered internet access while your staff pastes confidential docs into it was maybe not the brilliant strategy we all pretended it was.",
+        "date": "2026-06-08T16:55:34.152034+00:00"
       },
       {
-        "title": "Cisco Warns Agentic AI Will Put New Pressure on Enterprise Networks",
-        "url": "https://www.techrepublic.com/article/news-cisco-ai-networking-bottleneck/",
+        "title": "Russia\u2019s Starlink Alternative Gets 2027 Launch Window",
+        "url": "https://www.techrepublic.com/article/news-russia-rassvet-starlink-alternative-2027/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Cisco executives said agentic AI could triple network traffic, creating new infrastructure and security demands for enterprises. The post Cisco Warns Agentic AI Will Put New Pressure on Enterprise Net",
-        "dwp_take": "Cisco is warning that agentic AI systems could triple network traffic, which would require enterprises to beef up their infrastructure and security measures. This matters to digital workplace leaders because they're the ones who have to actually manage these networks while supporting users, and suddenly your \"business as usual\" bandwidth planning becomes a fairy tale. Of course, Cisco warning about network strain is like a car salesman warning you that driving fast uses more gas, but they're not entirely wrong here and it's worth taking seriously.",
-        "date": "2026-06-07T10:58:53.880962+00:00"
+        "excerpt": "Russia\u2019s Rassvet satellite internet network is expected to begin commercial service in 2027 as Moscow builds a Starlink alternative. The post Russia\u2019s Starlink Alternative Gets 2027 Launch Window appe",
+        "dwp_take": "Russia is building its own satellite internet network called Rassvet to compete with Starlink, with commercial service expected by 2027. For digital workplace professionals, this matters because satellite internet reliability and global coverage directly impact remote work infrastructure, especially in regions where terrestrial broadband is spotty. Look, another government deciding they need their own space-based internet rather than rely on existing options sounds familiar, and I'm curious whether Rassvet will actually deliver better connectivity or just end up as geopolitical theater while workers still struggle with lag.",
+        "date": "2026-06-08T16:55:38.311134+00:00"
       },
       {
-        "title": "Malicious Hugging Face Models Could Trigger Remote Code Execution",
-        "url": "https://www.techrepublic.com/article/news-hugging-face-transformers-rce-flaw/",
+        "title": "South Korea\u2019s AI Push Leans on Nvidia Infrastructure",
+        "url": "https://www.techrepublic.com/article/news-nvidia-ai-deals-apac-south-korea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "A flaw in Hugging Face Transformers could allow malicious AI models to execute code, exposing credentials and highlighting AI supply chain risks. The post Malicious Hugging Face Models Could Trigger R",
-        "dwp_take": "Hugging Face, a popular AI model repository, has a vulnerability that lets bad actors hide malicious code in AI models, which then executes on your systems when you download and run them. Digital workplace teams increasingly use open source AI models for everything from chatbots to content generation, so this directly impacts your security posture and vendor risk management. Here's the thing: we spent decades teaching people not to run random executables from the internet, and now we're doing exactly that with AI models because they feel safer somehow. They really don't.",
-        "date": "2026-06-07T10:58:58.053717+00:00"
+        "excerpt": "South Korea\u2019s June 2026 Nvidia announcements show how sovereign AI infrastructure is moving from government ambition to corporate buildout, with SK, Naver, LG, Hyundai and Doosan tying cloud, memory, ",
+        "dwp_take": "South Korea's major corporations are building their AI strategies around Nvidia's infrastructure rather than pursuing truly independent local alternatives. This matters because it shows digital workplace leaders that vendor lock-in isn't just a IT procurement headache anymore, it's now a strategic dependency baked into entire national AI ecosystems. If you're planning your company's AI roadmap, remember that following the crowd into Nvidia's garden means you'll be paying their prices and playing by their rules for the next decade.",
+        "date": "2026-06-08T16:55:42.189104+00:00"
       }
     ]
   }
