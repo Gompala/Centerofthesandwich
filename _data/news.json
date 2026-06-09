@@ -1,147 +1,138 @@
 {
-  "generated": "2026-06-09T00:12:33.486713+00:00",
+  "generated": "2026-06-09T13:35:51.743635+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "OpenAI files confidentially for IPO, following Anthropic",
-        "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-        "source": "TechCrunch",
+        "title": "Rental screening startup 100 acquires fraud detection firm Cobblestone Labs",
+        "url": "https://siliconangle.com/2026/06/09/rental-screening-startup-100-acquires-fraud-detection-firm-cobblestone-labs/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-        "dwp_take": "OpenAI has filed confidentially for an IPO, joining competitor Anthropic in taking the company public route. This matters to digital workplace pros because these AI tools are already embedded in how teams work, collaborate, and get things done, so understanding the business pressures and strategic directions of the companies behind them is pretty important. Here's the thing though: going public usually means quarterly earnings pressure, and that tends to push companies toward flashier features rather than the boring stuff that actually makes workplace tools reliable and secure, which is what real workers actually need.",
-        "date": "2026-06-09T00:11:32.263745+00:00"
+        "excerpt": "Rental screening startup 100 today announced that it has acquired Cobblestone Labs Inc., a fraud detection and income verification platform built by former engineers from corporate card company Ramp B",
+        "dwp_take": "A rental screening startup called 100 just acquired Cobblestone Labs, a fraud detection and income verification platform, to beef up its AI-powered underwriting capabilities. This matters because it shows how workplace verification and screening tools are getting smarter, which affects how companies handle tenant vetting and background checks in real estate operations. Honestly, this is a reminder that fraud detection is becoming table stakes in any platform handling money or risk, so if your digital workplace tools aren't thinking about security and verification, you're already behind.",
+        "date": "2026-06-09T13:34:52.956734+00:00"
       },
       {
-        "title": "Apple plays catch-up at WWDC",
-        "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-        "source": "TechCrunch",
+        "title": "Tiger Data launches PostgreSQL extension designed for AI agents",
+        "url": "https://siliconangle.com/2026/06/09/tiger-data-launches-postgresql-extension-designed-ai-agents/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to ",
-        "dwp_take": "Apple used WWDC to showcase incremental improvements and bug fixes before rolling out their beefed-up AI Siri, basically saying they want people to think of AI as table stakes, not magic. For digital workplace folks, this matters because it shows even the biggest tech companies know that AI features without solid fundamentals just annoy people. After years of watching Apple act like their software just works, it's refreshing to see them admit that sometimes you need to fix what's actually broken before you add the shiny stuff.",
-        "date": "2026-06-09T00:11:36.482888+00:00"
+        "excerpt": "Tiger Data today introduced a managed PostgreSQL database service designed specifically for AI agents, saying conventional database architectures are poorly suited to a future in which software is inc",
+        "dwp_take": "Tiger Data launched a PostgreSQL extension purpose-built for AI agents, arguing that traditional database setups don't cut it when autonomous AI is actually running your infrastructure. For digital workplace pros, this matters because if AI agents start handling data operations, your governance, security, and integration strategies need a fundamental rethink before things get weird. Honestly, it's starting to feel like we're building the plane while the AI pilot is already in the cockpit, and I'm not sure the IT department got the memo.",
+        "date": "2026-06-09T13:34:56.862426+00:00"
       },
       {
-        "title": "Apple bets cheaper AI will woo small developers",
-        "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-        "source": "TechCrunch",
+        "title": "DTEX adds AI Risk Management to track how agents and employees use AI",
+        "url": "https://siliconangle.com/2026/06/09/dtex-adds-ai-risk-management-track-agents-employees-use-ai/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-        "dwp_take": "Apple just eliminated cloud API fees for smaller developers to lower the barrier to AI experimentation. This matters because small teams build the tools that shape how people work, and cost barriers have been keeping them out of the AI game while big companies pull ahead. Here's the thing though: free tier programs are great PR, but developers actually need reliable support and clear pathways to paid plans when they scale, not just a guilt-free trial period.",
-        "date": "2026-06-09T00:11:40.451027+00:00"
+        "excerpt": "Behavioral intelligence security company DTEX Systems Inc. today introduced an expanded AI Risk Management product that reads the intent behind how employees and autonomous artificial intelligence age",
+        "dwp_take": "DTEX launched an AI Risk Management tool that uses behavioral intelligence to monitor how employees and AI agents actually use generative AI tools, trying to catch risky behavior before it becomes a problem. This matters because most companies are scrambling to govern AI use without breaking their workflows, and security teams need visibility into what's actually happening with all these new copilots and agents running around. The honest take: monitoring intent is a nice idea, but good luck explaining to your workforce why you're analyzing the \"why\" behind their AI usage without sounding like you're reading their diary.",
+        "date": "2026-06-09T13:35:01.384511+00:00"
       },
       {
-        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-        "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-        "source": "TechCrunch",
+        "title": "Rubrik turns its platform into an AI agent and ships Agent Cloud for Claude",
+        "url": "https://siliconangle.com/2026/06/09/rubrik-brings-agent-cloud-claude-launches-rubrik-ai-automate-recovery/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-        "dwp_take": "Apple rolled out AI features that autocomplete text, suggest photo edits, and streamline workflows across Safari, Shortcuts, and Password apps. This matters because your organization's device strategy now has to account for AI capabilities that users will expect to work everywhere, whether IT blessed them or not. The real question isn't whether Apple's AI is good, it's whether your help desk is ready for the thousand tickets asking why the company's locked-down version doesn't do what their personal iPhone does at home.",
-        "date": "2026-06-09T00:11:45.142988+00:00"
+        "excerpt": "Rubrik Inc. today turned its data security platform into an autonomous agent and made its control layer for Anthropic PBC\u2019s Claude generally available, the headline items in a wave of announcements at",
+        "dwp_take": "Rubrik has converted its data security platform into an autonomous AI agent and released Agent Cloud, a control layer designed specifically for Anthropic's Claude model. This matters because as organizations deploy AI agents to handle actual work, they need security infrastructure that can operate at agent speed without becoming a bottleneck. The real question isn't whether AI agents need governance\u2014it's whether vendors can build it fast enough before someone's agent accidentally leaks a customer database on a Friday afternoon.",
+        "date": "2026-06-09T13:35:05.438165+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "These 2 iOS 27 upgrades will solve more of my daily problems than Siri AI ever will",
-        "url": "https://www.zdnet.com/article/ios-27-connectivity-upgrades/",
+        "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
+        "url": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Enhancements to foundational technologies are always welcomed - and potentially more useful - than the flashier ones.",
-        "dwp_take": "Apple released two foundational iOS 27 upgrades focused on core functionality rather than AI features. For digital workplace professionals who actually use their devices to get work done, reliable basics matter far more than the latest AI buzzword on stage. Here's the truth: a notification system that doesn't bury your calendar reminders is worth ten Siri improvements, and most teams would trade all the generative AI promises for a file system that doesn't make you want to throw your phone into the nearest lake.",
-        "date": "2026-06-09T00:11:50.140420+00:00"
+        "excerpt": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
+        "dwp_take": "Battery fires in workplaces are becoming a real problem as we load up our offices with charging devices, and ZDNet covered the actual science of why lithium-ion batteries fail and how to handle them safely. This matters because your office is probably packed with phones, laptops, and cables charging everywhere, and a battery fire spreads differently than regular fires so your fire safety plan might be outdated. Honestly, most workplace safety briefings still talk about pulling the fire alarm for everything, but if your marketing team's laptops go up in flames because someone wedged three chargers into one outlet, good luck explaining that one to insurance.",
+        "date": "2026-06-09T13:35:11.063600+00:00"
       },
       {
-        "title": "I quit Safari for Chrome, but these new MacOS 27 features could pull me back",
-        "url": "https://www.zdnet.com/article/i-quit-safari-for-chrome-but-these-new-macos-27-features-could-pull-me-back/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Safari is getting a glow-up with Apple Intelligence, and I'm all set to make it my default browser, again.",
-        "dwp_take": "Safari is adding Apple Intelligence features that apparently make it competitive again after losing users to Chrome. This matters because browser choice directly impacts your digital workplace stack, your authentication flows, your extension ecosystem, and ultimately how your team actually works every day. But here's the thing: people didn't leave Safari because it lacked features. They left because Chrome's ecosystem was deeper, faster, and more reliable for work. A glow-up doesn't fix years of habit.",
-        "date": "2026-06-09T00:11:54.250169+00:00"
-      },
-      {
-        "title": "WWDC: Did Apple make the AI grade this year?",
-        "url": "https://www.computerworld.com/article/4182558/wwdc-did-apple-make-the-ai-grade-this-year.html",
+        "title": "CIOs get temporary relief as US court blocks $100,000 H-1B fee",
+        "url": "https://www.computerworld.com/article/4182857/cios-get-temporary-relief-as-us-court-blocks-100000-h-1b-fee-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "There were several key components to emerge from Apple\u2019s developer conference Monday as the company sought to reassure users (and investors) that it has met the existential challenge represented by AI",
-        "dwp_take": "Apple used its developer conference to show it's serious about AI through Siri upgrades and embedded Apple Intelligence across its platforms, while also highlighting performance improvements and new safety features. For digital workplace pros, this matters because enterprise mobility strategies, app development roadmaps, and device management policies need to account for whatever AI capabilities Apple actually delivers versus the marketing gloss. The real question isn't whether Apple made the grade on AI, it's whether any of this stuff will actually work reliably in the environments where we're supposed to deploy and support it.",
-        "date": "2026-06-09T00:11:58.993655+00:00"
+        "excerpt": "A US federal judge has ruled that the Trump administration\u2019s $100,000 fee on new H-1B visa petitions was unlawful, giving technology companies temporary relief from a policy that threatened to raise t",
+        "dwp_take": "A federal judge blocked the Trump administration's $100,000 fee on new H-1B visa petitions, ruling it unlawful and giving tech companies temporary breathing room on hiring costs. For digital workplace pros, this matters because talent acquisition and retention strategies just got a little less expensive, at least until the next court battle plays out. Honestly, tech companies got lucky here, but don't unpack your bags yet because this ruling is about as temporary as a \"quick fix\" deployment.",
+        "date": "2026-06-09T13:35:15.658475+00:00"
+      },
+      {
+        "title": "Trump\u2019s new AI order \u2014 hallucinations aren\u2019t just for LLMs",
+        "url": "https://www.computerworld.com/article/4182531/trumps-new-ai-order-hallucinations-arent-just-for-llms.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Years ago, right-wingers coined the phrase \u201cTrump Derangement Syndrome\u201d (TDS) to describe people who hate US President Donald J. Trump. (I think it better describes the president\u2019s outlandish, truth-c",
+        "dwp_take": "Trump signed an AI executive order that the author argues is disconnected from reality and based on flawed premises about how AI actually works. Digital workplace leaders need to pay attention because executive orders can reshape compliance requirements, funding priorities, and how organizations approach AI implementation whether the underlying policy is sound or not. Here's the thing: we've spent three decades watching well-intentioned tech mandates from people who don't understand the tech create expensive compliance nightmares for actual practitioners, and this one's probably no different.",
+        "date": "2026-06-09T13:35:20.146851+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-        "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-        "source": "Wired",
+        "title": "For workers with a chronic illness, returning to the office can be the hardest part",
+        "url": "https://www.fastcompany.com/91539293/returning-to-work-after-being-sick-isnt-the-end-of-recovery-its-where-many-employees-struggle-most-return-to-work-chronic-illness?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-        "dwp_take": "OpenAI has quietly filed IPO paperwork, joining a rush of AI companies heading to public markets following Anthropic's similar move. This matters because when the tools your organization depends on go public, suddenly there are quarterly earnings pressures, activist investors, and strategic pivots that might not align with your actual workplace needs. After 30 years watching tech companies get acquired and pivoted into oblivion, I'd say enjoy the current stability of these platforms while it lasts, because publicly traded AI companies will eventually prioritize shareholders over your integration roadmap.",
-        "date": "2026-06-09T00:12:03.969014+00:00"
+        "excerpt": "The workplace has a recovery problem. Most organizations know what to do when employees get sick. There are policies for leave, benefits for treatment, and a growing awareness around burnout. But when",
+        "dwp_take": "Most organizations have figured out how to handle employees who are sick or burned out, but they completely ghost them the moment they try to come back to work. This matters because return-to-work is where people actually fail, which means you're losing recovered talent right when you need them most and creating legal liability to boot. Here's the kicker: companies spend money on wellness programs and mental health benefits, then sabotage it all by treating the return phase like flipping a light switch instead of an actual recovery process.",
+        "date": "2026-06-09T13:35:24.638712+00:00"
       },
       {
-        "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-        "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-        "source": "Wired",
+        "title": "The end of the \u2018good enough\u2019 worker",
+        "url": "https://www.fastcompany.com/91555561/the-end-of-the-good-enough-worker?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-        "dwp_take": "The UK government is funding a billion-dollar AI supercomputer as part of a push to reduce dependence on American tech infrastructure and boost domestic chip innovation. For digital workplace pros, this matters because it signals a shift toward European compute sovereignty, which could eventually reshape where organizations host their data and AI workloads. Here's the thing though: building domestic chip capacity is admirable, but it takes years to mature while US tech companies keep shipping updates every quarter, so good luck convincing your CTO to wait around.",
-        "date": "2026-06-09T00:12:08.123787+00:00"
+        "excerpt": "I watch about a thousand companies make hiring decisions in real time as the CEO of Paraform, the world\u2019s largest recruiting marketplace. The pattern I\u2019ve seen over the last 18 months is so consistent",
+        "dwp_take": "Companies are raising their hiring bar dramatically, no longer settling for average performers because AI now handles routine work that used to pad mediocre resumes. This matters to digital workplace pros because it fundamentally changes how you need to position skills, design onboarding, and manage performance for a workforce that needs to demonstrate real value from day one. The irony is that after decades of participation trophy culture, we're finally getting back to the radical idea that people should be good at their jobs, though I suspect the transition will be painful for everyone who coasted.",
+        "date": "2026-06-09T13:35:28.782303+00:00"
       },
       {
-        "title": "Has Microsoft Lost Its Mojo (Again)?",
-        "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+        "title": "Companies Keep Slashing Employees\u2019 Benefits for the Worst Reasons",
+        "url": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Microsoft\u2019s AI products aren\u2019t selling, and Github\u2019s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
-        "dwp_take": "Microsoft's AI bets aren't converting to revenue, and GitHub's having operational headaches while competitors circle. This matters because most of you are running your digital workplace on Microsoft infrastructure, so when their innovation pipeline sputters, your roadmap conversations get a lot harder. Here's the thing though: Microsoft's been declared dead before, and they've always clawed back because enterprises are too invested to leave. The real question isn't whether they've lost mojo, it's whether they'll lose your patience first.",
-        "date": "2026-06-09T00:12:12.660730+00:00"
-      },
-      {
-        "title": "The Vatican\u2019s Man Inside Anthropic",
-        "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "Pope Leo XIV may not be able to disarm AI, but he\u2019s got the attention of the industry.",
-        "dwp_take": "The Vatican has placed an official representative inside Anthropic to monitor AI development from a religious and ethical perspective. This matters because it signals that major AI companies are finally accepting external accountability from institutions beyond shareholders and regulators, which could actually improve how these systems get built. Look, having the Pope's guy in the room probably won't stop anyone from shipping questionable features, but at least someone's asking \"should we?\" before \"can we?\" and that's progress worth noting.",
-        "date": "2026-06-09T00:12:16.944037+00:00"
+        "excerpt": "Workers are getting worse health care, parental leave, and retirement benefits, showing once and for all that your job doesn\u2019t love you back.",
+        "dwp_take": "Companies are cutting employee benefits across health care, parental leave, and retirement packages, often with weak justifications that amount to little more than \"we can get away with it.\" This matters because digital workplace teams are increasingly tasked with communicating these cuts while maintaining employee engagement and retention, which is like being asked to sell ice to penguins. Here's the reality: if your org is slashing benefits to pad executive bonuses while claiming budget constraints, don't be shocked when your best people start job hunting and your employer brand turns into a punchline.",
+        "date": "2026-06-09T13:35:33.748012+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple iOS 27: Faster iPhones, New Safety Features, and More",
-        "url": "https://www.techrepublic.com/article/news-apple-ios-27-siri-ai-liquid-glass-performance/",
+        "title": "EU Unveils Tech Sovereignty Package and Chips Act 2.0",
+        "url": "https://www.techrepublic.com/article/eu-tech-sovereignty-package-chips-act-2/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple\u2019s iOS 27 update focuses on faster performance, Siri AI, Liquid Glass controls, expanded Apple Intelligence, and new family safety tools. The post Apple iOS 27: Faster iPhones, New Safety Feature",
-        "dwp_take": "Apple rolled out iOS 27 with performance improvements, AI-enhanced Siri, new safety features, and Liquid Glass controls for better device interaction. Digital workplace pros need to care because half your workforce is probably running iPhones, and faster performance plus better safety tools directly impact mobile productivity and compliance requirements. Honestly, every iOS update feels like Apple is just rearranging the furniture at this point, but if it stops your executives from losing their phones to thieves, I'll take it.",
-        "date": "2026-06-09T00:12:21.151436+00:00"
+        "excerpt": "The EU introduces its Technological Sovereignty Package, including Chips Act 2.0, to boost AI, cloud infrastructure, and semiconductor independence. The post EU Unveils Tech Sovereignty Package and Ch",
+        "dwp_take": "The EU is doubling down on reducing dependence on non-European tech by investing heavily in AI, cloud infrastructure, and semiconductor manufacturing through its new Chips Act 2.0. This matters to digital workplace pros because it signals a real shift in where enterprise infrastructure and tools will be sourced, potentially creating new vendor options and compliance requirements for organizations operating in Europe. Honestly, it's refreshing to see someone actually try to build tech muscle instead of just complaining about it, though good luck executing this at EU speed.",
+        "date": "2026-06-09T13:35:38.169927+00:00"
       },
       {
-        "title": "EU Unveils \u2018Sovereignty Package\u2019 to Break Reliance on US, Chinese Tech",
-        "url": "https://www.techrepublic.com/article/news-eu-tech-sovereignty-package-cloud-chips-emea/",
+        "title": "OpenAI Starts IPO Process With Confidential SEC Filing",
+        "url": "https://www.techrepublic.com/article/news-openai-confidential-sec-ipo-filing/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The EU\u2019s tech sovereignty package targets cloud, chips, AI infrastructure, and open source as Europe tries to reduce foreign tech dependence. The post EU Unveils \u2018Sovereignty Package\u2019 to Break Relianc",
-        "dwp_take": "The EU is pushing a tech sovereignty package to reduce European dependence on American and Chinese technology across cloud, chips, AI, and open source infrastructure. For digital workplace professionals, this means the tools and platforms you're building on could face new regulatory requirements, potential fragmentation, and shifting vendor landscapes over the next few years. Honestly, Europe building its own tech stack is like deciding to grow your own food instead of going to the supermarket, which sounds great until you realize you've got no tomatoes in January.",
-        "date": "2026-06-09T00:12:25.263296+00:00"
+        "excerpt": "OpenAI has submitted a confidential IPO filing, but the ChatGPT maker says it has not decided on timing or disclosed deal terms. The post OpenAI Starts IPO Process With Confidential SEC Filing appeare",
+        "dwp_take": "OpenAI filed confidentially with the SEC to eventually go public, though they haven't locked in timing or financial details yet. This matters because every enterprise software company will suddenly be scrambling to position their AI capabilities as strategic assets once a major AI player proves the market values them at scale. The real question isn't whether OpenAI will IPO, it's how many workplace leaders will panic-buy AI solutions they don't actually need while waiting for the bell to ring.",
+        "date": "2026-06-09T13:35:42.921627+00:00"
       },
       {
-        "title": "Meta: NSO Tried Targeting WhatsApp Users Despite Court Order",
-        "url": "https://www.techrepublic.com/article/news-whatsapp-nso-targeted-users-after-court-ban/",
+        "title": "Stop Overpaying for Adobe Acrobat: $50 PDF Editor Has AI Built In",
+        "url": "https://www.techrepublic.com/article/pdnob-pro-pdf-editor-lifetime-subscription/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Meta says WhatsApp disrupted new NSO-linked phishing attacks and is asking a court to hold the spyware firm in contempt. The post Meta: NSO Tried Targeting WhatsApp Users Despite Court Order appeared ",
-        "dwp_take": "NSO Group apparently didn't get the memo that a court order means stop, because Meta caught them trying to target WhatsApp users with phishing attacks anyway. This matters because if your organization uses WhatsApp for internal communications, you need to know that even court-ordered restrictions on spyware vendors aren't worth the paper they're printed on. At this point, NSO's legal team should just set up a permanent office in the courthouse because they're going to be there constantly.",
-        "date": "2026-06-09T00:12:29.469132+00:00"
+        "excerpt": "PDNob Pro gives IT teams and business professionals lifetime license to AI-powered PDF tools for just $49.99. The post Stop Overpaying for Adobe Acrobat: $50 PDF Editor Has AI Built In appeared first ",
+        "dwp_take": "A company called PDNob Pro is selling a lifetime PDF editing license with AI features for $50, positioning itself as a cheaper alternative to Adobe's subscription model. This matters because PDF handling is still a core workplace task, and IT leaders are under constant pressure to cut software costs without sacrificing functionality. Look, I've seen this movie before: someone undercuts Adobe on price, gains traction, then either gets acquired or quietly disappears when support costs hit reality. Do your due diligence on vendor stability before betting your document workflows on it.",
+        "date": "2026-06-09T13:35:47.216537+00:00"
       },
       {
-        "title": "Samsung Health Update Leaves Galaxy Watch Owners Waiting on Key AI Features",
-        "url": "https://www.techrepublic.com/article/news-samsung-health-watch-features/",
-        "source": "TechRepublic",
+        "title": "\u2018The United Kingdom has the talent, research excellence and ambition to help lead the next era of AI\u2019: AMD chief exec Lisa Su touts UK\u2019s AI potential as firm eyes \u00a32bn investment",
+        "url": "https://www.itpro.com/infrastructure/the-united-kingdom-has-the-talent-research-excellence-and-ambition-to-help-lead-the-next-era-of-ai-amd-chief-exec-lisa-su-touts-uks-ai-potential-as-firm-eyes-gbp2bn-investment",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Samsung\u2019s latest Health app update brings a redesigned wellness dashboard and new AI health tools, but current Galaxy Watch owners still need a compatibility list. The post Samsung Health Update Leave",
-        "dwp_take": "Samsung rolled out a shiny new Health app with AI features and a prettier dashboard, but left Galaxy Watch owners in limbo without knowing which devices actually qualify for the upgrade. This matters because enterprises deploying Samsung wearables for wellness programs are now stuck explaining to employees why their hardware won't run the new features they're hearing about. After three decades watching tech vendors launch features before figuring out compatibility, I can tell you this playbook never gets old, and neither do the support tickets.",
-        "date": "2026-06-09T00:12:33.486591+00:00"
+        "excerpt": "The deal will see a new AI supercomputer built in Cambridge and partnerships with Imperial College London and Oriole Networks",
+        "dwp_take": "AMD's Lisa Su announced a potential \u00a32bn investment in the UK to build an AI supercomputer in Cambridge and partner with Imperial College London. This matters because it signals that serious enterprise AI infrastructure is finally moving beyond hype into actual hardware and regional investment, which will reshape how organizations think about their digital workplace capabilities and data processing needs. The real question is whether UK companies will actually have access to this firepower or if it becomes another shiny tech asset that solves problems only the largest enterprises face.",
+        "date": "2026-06-09T13:35:51.743525+00:00"
       }
     ]
   }
