@@ -1,149 +1,5 @@
 [
   {
-    "title": "Uber caps employee AI spending after blowing through budget in four months",
-    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-    "dwp_take": "Uber told employees to go wild with AI tools, burned through their entire annual budget in four months, and now they're capping spending like they just got the credit card bill. This matters because it's a real-world reminder that \"move fast and break things\" doesn't work when the thing you're breaking is your budget, and it shows how quickly AI enthusiasm can outpace actual planning. The irony is delicious: a company that disrupted entire industries apparently didn't think to, you know, budget for the disruption they were creating internally.",
-    "date": "2026-06-02T20:24:00.245415+00:00"
-  },
-  {
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "dwp_take": "Microsoft released an open source framework called Adaptive Spec-driven Scoring for Evaluation and Regression Testing that lets developers test AI behavior using simple text descriptions instead of writing complex evaluation code. This matters because it could speed up how quickly teams deploy AI features to their digital workplaces, which means fewer delays between \"we built this\" and \"people can actually use it.\" Honestly, if this tool does what it claims, it might finally give us a break from the endless cycle of AI projects that sound amazing in demos but arrive at work broken and confused about basic instructions.",
-    "date": "2026-06-02T20:24:04.546961+00:00"
-  },
-  {
-    "title": "Martin Scorsese becomes the latest \u2014 and most unlikely \u2014 Hollywood voice for AI",
-    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-    "dwp_take": "Martin Scorsese is using AI tools to help with storyboarding for his films, marking an unexpected endorsement from one of cinema's most celebrated directors. For digital workplace professionals, this matters because it shows even the most traditionally minded creatives are finding practical, limited applications for AI rather than wholesale transformation. Here's the thing though: Scorsese using AI for storyboards is basically the workplace equivalent of your skeptical boss finally admitting Slack saves time. It's not revolutionary, it's just pragmatic, and honestly that's the healthiest AI adoption story we're hearing.",
-    "date": "2026-06-02T20:24:08.856726+00:00"
-  },
-  {
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-    "dwp_take": "Microsoft just dropped Scout, an AI assistant designed to integrate OpenClaw's capabilities into the Microsoft 365 ecosystem. This matters because digital workplace leaders are drowning in fragmented tools and half-baked AI features, so anything that actually ties things together gets attention. Look, I've seen Microsoft launch assistants before, and I'll believe this one moves the needle when I see actual adoption numbers instead of just impressive demo videos at Build.",
-    "date": "2026-06-02T20:24:12.730045+00:00"
-  },
-  {
-    "title": "AI Model Release Tracker: Microsoft AI's first reasoning model arrives",
-    "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
-    "dwp_take": "Microsoft released its first reasoning model, and ZDNet created a tracker to help people sort through the noise of AI model launches. For digital workplace folks, this matters because reasoning models could actually handle complex document workflows and decision-making tasks instead of just spitting out marketing copy. Here's the thing though: half the models that land with fanfare in January are forgotten by April, so until this thing proves itself in actual office environments, I'm keeping my champagne corked.",
-    "date": "2026-06-02T20:24:16.832237+00:00"
-  },
-  {
-    "title": "Build 2026: Microsoft's MDASH exits preview with 100+ specialized threat-hunting AI agents",
-    "url": "https://www.zdnet.com/article/build-2026-mdash-security-ai-agents/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft's Build 2026 security news centers on an agentic AI vulnerability system designed to find real exploitable flaws, connect them to Defender and GitHub, and help developers fix them faster.",
-    "dwp_take": "Microsoft rolled out MDASH from preview with over 100 AI agents that hunt for actual exploitable vulnerabilities and wire them directly into Defender and GitHub so developers can fix them faster. This matters because most digital workplaces are drowning in security alerts while real threats slip through the noise, and having AI that separates signal from actual risk could actually make security teams functional instead of buried. The irony is we finally have AI agents doing something genuinely useful instead of writing mediocre emails, which means security teams might finally get their afternoon back.",
-    "date": "2026-06-02T20:24:21.117100+00:00"
-  },
-  {
-    "title": "Microsoft's first reasoning model is one of 7 AIs just released at Build - what we know so far",
-    "url": "https://www.zdnet.com/article/all-the-new-ai-models-microsoft-just-launched-at-build/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft AI has fully joined the conversation with MAI-Thinking-1, alongside new coding, image, and voice models.",
-    "dwp_take": "Microsoft dropped seven new AI models at Build, including MAI-Thinking-1, their answer to reasoning-focused AI that can actually work through problems step by step instead of just pattern matching. This matters because digital workplace teams are about to get pestered by every vendor claiming their tool now has \"reasoning AI\" built in, which means separating real capability from marketing noise just got harder. After three decades watching tech cycles, I'll believe the reasoning claims when I see them actually help knowledge workers solve real problems instead of just generating longer, more confident-sounding wrong answers.",
-    "date": "2026-06-02T20:24:25.827742+00:00"
-  },
-  {
-    "title": "Work IQ is Microsoft's big bet on agent-first enterprise IT, and I have questions",
-    "url": "https://www.zdnet.com/article/work-iq-is-microsofts-big-bet-on-agent-first-enterprise-software/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft's Work IQ could make enterprise AI agents dramatically smarter, but the shift to agent-first IT brings serious questions about cost, governance, data exposure, and operational risk.",
-    "dwp_take": "Microsoft launched Work IQ, positioning AI agents as the primary interface for enterprise IT rather than humans using tools. This matters because if agent-first systems become standard, digital workplace pros need to understand how their governance, security, and cost models completely flip on their head. Honestly, I'm with ZDNet on the skepticism here: we've seen plenty of enterprise AI bets that looked revolutionary until they hit the messy reality of actual data, actual compliance, and actual budget spreadsheets.",
-    "date": "2026-06-02T20:24:30.358657+00:00"
-  },
-  {
-    "title": "What if it\u2019s us who can learn something from Gen Z about work?",
-    "url": "https://www.fastcompany.com/91549327/what-if-its-us-who-can-learn-something-from-gen-z-about-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "If there were ever a truth about generationalism, it\u2019s this: Every generation has the same complaint about the generation that came after it. Kids these days don\u2019t want to work. They want everything b",
-    "dwp_take": "Fast Company is arguing that older generations might actually have something to learn from Gen Z about work attitudes rather than the usual complaint cycle going the other way. This matters because if your digital workplace strategy is built on outdated assumptions about motivation, loyalty, and what people want from their jobs, you're going to keep missing talent and engagement opportunities. Here's the thing: Gen Z didn't invent the idea that work should have meaning and boundaries, they just had the audacity to say it out loud instead of suffering quietly like we did.",
-    "date": "2026-06-02T20:24:35.109285+00:00"
-  },
-  {
-    "title": "A guide to navigating uncertainty head-on",
-    "url": "https://www.fastcompany.com/91544407/navigating-uncertainty-head-on?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Below, Simone Stolzoff shares five key insights from his new book, How to Not Know: The Value of Uncertainty in a World That Demands Answers. Simone is a journalist. His work has been featured in The ",
-    "dwp_take": "Fast Company ran a piece on Simone Stolzoff's book about embracing uncertainty rather than fighting it. This matters because digital workplace leaders spend half their time trying to predict what remote work will look like next year, which tools will stick around, and whether AI will replace their job by Tuesday. Here's the thing: you can't control any of that, but you can control whether your team drowns in analysis paralysis or actually ships something meaningful while you wait for clarity.",
-    "date": "2026-06-02T20:24:39.960934+00:00"
-  },
-  {
-    "title": "AI has an unexpected side effect: It could make high-paying jobs less hostile to women",
-    "url": "https://www.fastcompany.com/91548317/ai-unexpected-side-effect-high-paying-jobs-women?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "The conversation about AI and work revolves mostly around jobs being destroyed or new ones emerging, around the workers benefiting and those likely to be left behind. All these debates are legitimate.",
-    "dwp_take": "Microsoft and other tech companies are discovering that AI tools might accidentally reduce workplace hostility toward women by removing some human bias from decision-making processes. This matters to digital workplace leaders because it suggests AI implementation could have unexpected benefits beyond efficiency gains, potentially improving retention and psychological safety for underrepresented groups. Of course, we should probably fix the sexism directly instead of waiting for an algorithm to do it for us, but I'll take wins wherever I find them.",
-    "date": "2026-06-02T20:24:44.328765+00:00"
-  },
-  {
-    "title": "Why smart leaders lose it during meetings",
-    "url": "https://www.fastcompany.com/91548641/why-smart-leaders-lose-it-during-meetings?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "High-pressure situations at work, like an important meeting, are often the backdrop for our most reactive professional moments. In 2025 nearly two-thirds (60%) of employees who spent more than 15 hour",
-    "dwp_take": "A new study found that 60 percent of employees stuck in more than 15 hours of meetings weekly report severe stress, and that high-pressure situations trigger reactive rather than thoughtful responses. For digital workplace leaders, this is a wake-up call that endless meetings aren't just annoying, they're actively degrading decision-making quality and psychological safety across teams. If your leadership team is spending more time in video calls than actually thinking, you've built a stress machine, not a workplace.",
-    "date": "2026-06-02T20:24:48.112269+00:00"
-  },
-  {
-    "title": "Fake Claude Code Installers Deliver Credential-Stealing Malware",
-    "url": "https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Fake Claude Code install sites are pushing malware that steals API keys, developer credentials, crypto wallets, and other sensitive data. The post Fake Claude Code Installers Deliver Credential-Steali",
-    "dwp_take": "Cybercriminals have set up fake installation sites for Claude Code that deliver malware designed to steal API keys, developer credentials, and crypto wallets from unsuspecting users. This matters because your developers and knowledge workers are exactly the targets here, and a compromised credential can turn your entire systems into an open door for attackers. Here's the thing: we've been saying for years that people will click anything if it looks official, and apparently 30 years of IT security theater hasn't changed human behavior one bit.",
-    "date": "2026-06-02T20:24:52.409399+00:00"
-  },
-  {
-    "title": "Google Patches Android Zero-Day Vulnerability in June 2026 Security Update",
-    "url": "https://www.techrepublic.com/article/news-google-june-2026-android-security-update/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google\u2019s June 2026 Android update fixes dozens of flaws, including a potentially exploited Framework vulnerability and critical system bugs. The post Google Patches Android Zero-Day Vulnerability in J",
-    "dwp_take": "Google released its June 2026 Android security update, which addresses multiple vulnerabilities including a zero-day flaw in the Android Framework that may have already been exploited. For digital workplace teams, this matters because plenty of your workforce still relies on Android devices for email, VPNs, and accessing company systems, so unpatched devices create real security risks. Here's the thing though: most organizations will probably wait three months to deploy this while their MDM team argues about testing timelines, which is exactly how breaches happen.",
-    "date": "2026-06-02T20:24:56.508118+00:00"
-  },
-  {
-    "title": "SpaceX IPO Filing Ties AI Growth to Water Access",
-    "url": "https://www.techrepublic.com/article/news-spacex-ipo-ai-data-center-water-access/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "SpaceX\u2019s amended IPO filing adds water access to the risks around its AI data center buildout, putting another physical constraint around its growth plans. The post SpaceX IPO Filing Ties AI Growth to",
-    "dwp_take": "SpaceX disclosed in its IPO filing that water availability is a material risk factor for expanding its AI data center operations. This matters because it highlights how digital infrastructure isn't just about servers and code anymore\u2014physical resources like water are now business-critical bottlenecks that affect scaling timelines and location decisions. Turns out you can't run a modern AI operation on hopes and venture capital alone, which is refreshing honesty from a company usually selling us futures that ignore earthly constraints.",
-    "date": "2026-06-02T20:25:00.605435+00:00"
-  },
-  {
-    "title": "Microsoft Teams File Outage Resolved, but IT Teams Still Need to Check Fallbacks",
-    "url": "https://www.techrepublic.com/article/news-microsoft-teams-file-outage-fallbacks/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft restored Teams and Office for the web file access after a June 1 outage, but the root cause remained unclear. IT teams should verify tenant impact and fallback paths. The post Microsoft Team",
-    "dwp_take": "Microsoft Teams went down on June 1 and knocked out file access for users, but they got things running again without ever really explaining what broke. This matters because if your entire organization depends on Teams for daily work, an unexplained outage means you have no real assurance it won't happen the same way tomorrow. Here's my take: \"root cause remains unclear\" is corporate speak for \"we have no idea,\" and that should terrify every IT leader who's been told to consolidate everything into one cloud platform.",
-    "date": "2026-06-02T20:25:04.610462+00:00"
-  },
-  {
     "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
     "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
     "source": "VentureBeat",
@@ -1240,5 +1096,149 @@
     "excerpt": "The deal will see a new AI supercomputer built in Cambridge and partnerships with Imperial College London and Oriole Networks",
     "dwp_take": "AMD's Lisa Su announced a potential \u00a32bn investment in the UK to build an AI supercomputer in Cambridge and partner with Imperial College London. This matters because it signals that serious enterprise AI infrastructure is finally moving beyond hype into actual hardware and regional investment, which will reshape how organizations think about their digital workplace capabilities and data processing needs. The real question is whether UK companies will actually have access to this firepower or if it becomes another shiny tech asset that solves problems only the largest enterprises face.",
     "date": "2026-06-09T13:35:51.743525+00:00"
+  },
+  {
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "dwp_take": "Warner Music Group bought Sureel AI, a startup that tracks when musicians' work gets used to train or generate AI content. This matters because digital workplace teams managing content, licensing, and IP are about to face a much more complicated attribution landscape as AI becomes standard tooling. Honestly, it's the music industry finally getting serious about something tech companies should have solved two years ago, so expect your legal and compliance folks to start asking uncomfortable questions about your AI workflows real soon.",
+    "date": "2026-06-10T14:39:40.333021+00:00"
+  },
+  {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "dwp_take": "Justin Ernest raised nearly half a billion dollars for startups like Anthropic and Anduril by skipping the traditional VC fund setup and tapping his existing LP network directly. For digital workplace folks, this matters because it shows how even in high finance, the old gatekeeping structures are getting bypassed by people with relationships and track records. Turns out you don't need permission from the establishment to move money around, which is either inspiring or terrifying depending on whether you're the disruptor or the disrupted.",
+    "date": "2026-06-10T14:39:50.803879+00:00"
+  },
+  {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "dwp_take": "Tech companies are starting to realize that smaller, cheaper AI models can handle many tasks just as well as the expensive ones they've been throwing money at. For digital workplace leaders, this matters because it could finally make AI tools accessible beyond the Fortune 500 club, meaning better collaboration software and smarter automation for normal-sized organizations. After years of watching enterprises spend like drunken sailors on generative AI with little ROI to show for it, watching them get pinched by costs and discover that \"good enough\" actually works is honestly the most satisfying plot twist in tech right now.",
+    "date": "2026-06-10T14:39:59.851885+00:00"
+  },
+  {
+    "title": "Intelligence layer becomes the enterprise AI control plane for enterprise AI",
+    "url": "https://siliconangle.com/2026/06/10/intelligence-layer-models-protect-enterprise-ai-investments-finopsx/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "As enterprises accelerate past AI experimentation into full-scale production, the central challenge has shifted from accessing models to managing the organizational context those models need to act re",
+    "dwp_take": "Vendors are positioning \"intelligence layers\" as the central hub for managing enterprise AI deployments, handling everything from model governance to cost control and data security. This matters because most organizations are drowning in point solutions and shadow AI projects, so having actual operational control mechanisms could finally separate the wheat from the chaff. My take: after years of \"AI will solve everything,\" we're finally talking about the unglamorous work of actually running this stuff responsibly. About time.",
+    "date": "2026-06-10T14:40:11.782317+00:00"
+  },
+  {
+    "title": "Microsoft patches record 198 Windows bugs in June update - and 3 are zero days",
+    "url": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Among the 198 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+    "dwp_take": "Microsoft dropped 198 security patches in June, including three zero-days that were already public knowledge when the update arrived. For anyone managing Windows across an organization, this is your reminder that patch day is now basically every day if you want to sleep at night. Here's the thing: if three vulnerabilities were already being exploited before Microsoft fixed them, your team's speed at deploying updates just went from \"important\" to \"do-or-die essential.\"",
+    "date": "2026-06-10T14:40:16.463597+00:00"
+  },
+  {
+    "title": "Why I\u2019m leaving Copilot for Gemini",
+    "url": "https://www.computerworld.com/article/4182537/why-im-leaving-copilot-for-gemini.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "I\u2019ve been using and writing about Microsoft Copilot since it was publicly released in 2023. I\u2019ve reviewed it, written articles about using it more effectively, explained how to curb hallucinations in ",
+    "dwp_take": "A long-time Copilot advocate is switching to Google's Gemini, citing reasons that apparently matter enough to abandon months of accumulated experience with Microsoft's tool. This signals that AI adoption in workplaces isn't settled yet, and organizations betting everything on one vendor should stay alert to defection patterns among their power users. After thirty years watching people chase the shiny object, I'll believe Gemini has staying power once I see people still writing about it favorably in 2026.",
+    "date": "2026-06-10T14:40:26.705632+00:00"
+  },
+  {
+    "title": "UK move to filter photos and messages triggers encryption worries for CISOs",
+    "url": "https://www.computerworld.com/article/4183245/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "UK Prime Minister Keir Starmer\u2019s speech on Monday insisting that tech companies create device controls to somehow block children from viewing or creating sexually explicit imagery has raised alarms am",
+    "dwp_take": "The UK government is demanding that tech companies build client-side scanning technology to detect child abuse material within three months, which has security leaders genuinely spooked about the implications for enterprise encryption. This matters because the same backdoor logic that governments use to \"protect children\" historically becomes the template for accessing corporate data, employee communications, and confidential information. Here's the thing: after 30 years in this space, I've watched governments discover that encryption is the enemy exactly once per election cycle, and every time they promise it's just for this one special reason.",
+    "date": "2026-06-10T14:40:35.816484+00:00"
+  },
+  {
+    "title": "DocLang aims to make documents readable by AI, not humans",
+    "url": "https://www.computerworld.com/article/4183206/working-group-formed-to-develop-standard-for-ai-native-docs-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "AIs struggle to understand documents designed for humans; the DocLang working group seeks to flip that imbalance with its specification for machine-readable business documents \u201cbuilt from the ground u",
+    "dwp_take": "A new working group backed by IBM, Nvidia, and Red Hat is developing DocLang, a document format specifically designed for AI systems to read rather than humans. For digital workplace professionals, this matters because most business documents today are built for human consumption, forcing AI tools to waste processing power translating them into machine-friendly formats. Personally, I'm skeptical that we need yet another format standard when we can't even get people to use existing ones consistently, but if this actually saves companies money on AI inference costs, I'll eat my keyboard.",
+    "date": "2026-06-10T14:40:48.030220+00:00"
+  },
+  {
+    "title": "The most successful one-person businesses have these things in common",
+    "url": "https://www.fastcompany.com/91556512/the-most-successful-one-person-businesses-have-these-things-in-common?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "As more Americans pursue one-person ventures, data suggests those that perform best combine strong business fundamentals with the latest technology solutions. According to the Intuit QuickBooks 2026 S",
+    "dwp_take": "Fast Company reported that successful solo entrepreneurs are combining solid business basics with modern tech tools, and one-third of American adults now plan to start a business or side hustle this year, up dramatically from the prior year. This matters to digital workplace folks because it means more distributed teams, more demand for collaboration platforms, and more people who suddenly need to figure out how to work from their kitchen without losing their minds. The real story here is that technology isn't what makes these businesses work, good fundamentals do, which is something we should remind every startup founder obsessing over their Slack integrations.",
+    "date": "2026-06-10T14:40:53.348944+00:00"
+  },
+  {
+    "title": "The hidden emotional cost of leadership",
+    "url": "https://www.fastcompany.com/91556856/the-hidden-emotional-cost-of-leadership?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Justin McLeod, the founder of Hinge and CEO at Overtone is a modern tech leader who openly acknowledges the emotional weight of building a company centered on human relationships. This is his truth ab",
+    "dwp_take": "Justin McLeod is talking publicly about the emotional toll of leading a company focused on human connection, which is refreshingly honest for a tech CEO. Digital workplace leaders need to hear this because we spend all day preaching about psychological safety and employee wellbeing while secretly drowning in our own stress. The real talk here is that you can't build authentic workplace culture if you're running on fumes, so maybe we should stop pretending leadership is a highlight reel and start actually supporting the humans doing it.",
+    "date": "2026-06-10T14:41:01.032513+00:00"
+  },
+  {
+    "title": "Success starts with getting it right the first time",
+    "url": "https://www.fastcompany.com/91556707/success-starts-with-getting-it-right-the-first-time?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Emmy Award-winning producer Halle Stanford founded 7 Crow Stories with a passion for storytelling and a mission to create meaningful series that enchant and empower audiences. Under her leadership, 7 ",
+    "dwp_take": "An Emmy-winning producer started a content company that's now selling shows to major platforms like Netflix and Apple TV+. This matters to digital workplace folks because it's a reminder that execution and quality actually trump moving fast and breaking things, which is refreshing after a decade of startup theater. Look, getting it right the first time costs more upfront but saves you from explaining failed pivots in all-hands meetings.",
+    "date": "2026-06-10T14:41:04.758448+00:00"
+  },
+  {
+    "title": "Vulnerability isn\u2019t a weakness\u2014It\u2019s a leadership advantage",
+    "url": "https://www.fastcompany.com/91556545/vulnerability-isnt-a-weakness-its-a-leadership-advantage?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Delta\u2019s Chief Sustainability Officer Amelia DeLuca focuses on environmental leadership, technology innovation, and organizational change to make Delta\u2019s operations more sustainable while supporting th",
+    "dwp_take": "Delta's Chief Sustainability Officer Amelia DeLuca is publicly embracing vulnerability as a leadership strategy, arguing it builds trust and drives better organizational outcomes. For digital workplace pros, this matters because vulnerability in leadership directly impacts psychological safety, which is where real innovation and honest communication actually happen instead of just being talked about in all-hands meetings. After three decades watching leaders, I can tell you the ones who admit they don't have all the answers usually end up with smarter teams, though it does require thick skin and genuine confidence, not the performative kind.",
+    "date": "2026-06-10T14:41:16.809773+00:00"
+  },
+  {
+    "title": "India Brings Its AI Pitch to VivaTech 2026",
+    "url": "https://www.techrepublic.com/article/news-india-vivatech-ai-pitch/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "India\u2019s VivaTech 2026 role gives its AI strategy a global stage as enterprises across APAC weigh regional AI partnerships, infrastructure control, and dependence on foreign chips and cloud platforms. ",
+    "dwp_take": "India is positioning itself as a serious player in the global AI game by taking a prominent role at VivaTech 2026, capitalizing on growing enterprise interest in developing regional AI infrastructure and reducing dependence on foreign tech giants. For digital workplace leaders, this matters because it signals real momentum behind alternative AI ecosystems that could reshape where your organization sources tools, platforms, and talent over the next few years. Honestly, it's refreshing to see someone actually building something instead of just licensing it from Redmond or Mountain View, though let's see if the infrastructure talk matches the execution.",
+    "date": "2026-06-10T14:41:21.303279+00:00"
+  },
+  {
+    "title": "Microsoft Reportedly Cuts Hundreds of Azure Jobs in China",
+    "url": "https://www.techrepublic.com/article/news-microsoft-reportedly-cuts-azure-jobs-apac-china/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft reportedly cut 200 to 400 Azure jobs in China as US and Chinese data rules tighten around cloud operations. The post Microsoft Reportedly Cuts Hundreds of Azure Jobs in China appeared first ",
+    "dwp_take": "Microsoft is pulling back its Azure operations in China by cutting 200 to 400 jobs, largely due to escalating regulatory restrictions on data handling between the US and China. This matters because it signals how seriously tech companies now take compliance and data sovereignty requirements, which directly impacts how you architect your cloud infrastructure and which vendors you can actually rely on long term. After three decades watching tech companies chase markets, I can tell you this is the reality check nobody wanted but everyone needed: build your digital workplace on assumptions about stable geopolitics and you'll be rebuilding it every few years.",
+    "date": "2026-06-10T14:41:32.706522+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s Record-Breaking Patch Tuesday Fixes Over 200 Security Flaws",
+    "url": "https://www.techrepublic.com/article/news-microsoft-june-patch-tuesday-record-breaking/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft\u2019s June Patch Tuesday fixed about 200 CVEs, including public zero-days and Critical Windows flaws tied to patching pressure. The post Microsoft\u2019s Record-Breaking Patch Tuesday Fixes Over 200 ",
+    "dwp_take": "Microsoft just patched over 200 security vulnerabilities in a single Patch Tuesday, including some nasty zero-days and critical Windows bugs that were already being actively exploited. For digital workplace teams, this is a scheduling nightmare because you've got to test and deploy 200 patches without breaking everything else your organization depends on. After 30 years in this space, I'll tell you that \"record-breaking\" patch counts aren't something to celebrate - they're a sign the security house is on fire, and someone's going to be working through the weekend.",
+    "date": "2026-06-10T14:41:36.789920+00:00"
+  },
+  {
+    "title": "Google AI Plus Price Drops to $4.99 as Storage Doubles to 400GB",
+    "url": "https://www.techrepublic.com/article/news-google-ai-plus-price-drops/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google AI Plus now costs $4.99 per month and includes 400GB of storage, making Google\u2019s lower-cost AI tier more competitive. The post Google AI Plus Price Drops to $4.99 as Storage Doubles to 400GB ap",
+    "dwp_take": "Google just cut the price of AI Plus to $4.99 and doubled storage to 400GB, making their budget AI tier a lot harder to ignore. For digital workplace leaders, this means the cost-benefit math on enterprise AI subscriptions just shifted, and you'll need to revisit your tooling strategy before your CFO asks why you're still overpaying somewhere. Honestly, this is what competition looks like when companies actually care about winning, rather than just printing margin.",
+    "date": "2026-06-10T14:41:50.105378+00:00"
   }
 ]

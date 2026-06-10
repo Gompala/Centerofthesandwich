@@ -1,138 +1,156 @@
 {
-  "generated": "2026-06-09T13:35:51.743635+00:00",
+  "generated": "2026-06-10T14:41:50.105504+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Rental screening startup 100 acquires fraud detection firm Cobblestone Labs",
-        "url": "https://siliconangle.com/2026/06/09/rental-screening-startup-100-acquires-fraud-detection-firm-cobblestone-labs/",
-        "source": "SiliconAngle",
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Rental screening startup 100 today announced that it has acquired Cobblestone Labs Inc., a fraud detection and income verification platform built by former engineers from corporate card company Ramp B",
-        "dwp_take": "A rental screening startup called 100 just acquired Cobblestone Labs, a fraud detection and income verification platform, to beef up its AI-powered underwriting capabilities. This matters because it shows how workplace verification and screening tools are getting smarter, which affects how companies handle tenant vetting and background checks in real estate operations. Honestly, this is a reminder that fraud detection is becoming table stakes in any platform handling money or risk, so if your digital workplace tools aren't thinking about security and verification, you're already behind.",
-        "date": "2026-06-09T13:34:52.956734+00:00"
+        "excerpt": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "dwp_take": "Warner Music Group bought Sureel AI, a startup that tracks when musicians' work gets used to train or generate AI content. This matters because digital workplace teams managing content, licensing, and IP are about to face a much more complicated attribution landscape as AI becomes standard tooling. Honestly, it's the music industry finally getting serious about something tech companies should have solved two years ago, so expect your legal and compliance folks to start asking uncomfortable questions about your AI workflows real soon.",
+        "date": "2026-06-10T14:39:40.333021+00:00"
       },
       {
-        "title": "Tiger Data launches PostgreSQL extension designed for AI agents",
-        "url": "https://siliconangle.com/2026/06/09/tiger-data-launches-postgresql-extension-designed-ai-agents/",
-        "source": "SiliconAngle",
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Tiger Data today introduced a managed PostgreSQL database service designed specifically for AI agents, saying conventional database architectures are poorly suited to a future in which software is inc",
-        "dwp_take": "Tiger Data launched a PostgreSQL extension purpose-built for AI agents, arguing that traditional database setups don't cut it when autonomous AI is actually running your infrastructure. For digital workplace pros, this matters because if AI agents start handling data operations, your governance, security, and integration strategies need a fundamental rethink before things get weird. Honestly, it's starting to feel like we're building the plane while the AI pilot is already in the cockpit, and I'm not sure the IT department got the memo.",
-        "date": "2026-06-09T13:34:56.862426+00:00"
+        "excerpt": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "dwp_take": "Justin Ernest raised nearly half a billion dollars for startups like Anthropic and Anduril by skipping the traditional VC fund setup and tapping his existing LP network directly. For digital workplace folks, this matters because it shows how even in high finance, the old gatekeeping structures are getting bypassed by people with relationships and track records. Turns out you don't need permission from the establishment to move money around, which is either inspiring or terrifying depending on whether you're the disruptor or the disrupted.",
+        "date": "2026-06-10T14:39:50.803879+00:00"
       },
       {
-        "title": "DTEX adds AI Risk Management to track how agents and employees use AI",
-        "url": "https://siliconangle.com/2026/06/09/dtex-adds-ai-risk-management-track-agents-employees-use-ai/",
-        "source": "SiliconAngle",
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Behavioral intelligence security company DTEX Systems Inc. today introduced an expanded AI Risk Management product that reads the intent behind how employees and autonomous artificial intelligence age",
-        "dwp_take": "DTEX launched an AI Risk Management tool that uses behavioral intelligence to monitor how employees and AI agents actually use generative AI tools, trying to catch risky behavior before it becomes a problem. This matters because most companies are scrambling to govern AI use without breaking their workflows, and security teams need visibility into what's actually happening with all these new copilots and agents running around. The honest take: monitoring intent is a nice idea, but good luck explaining to your workforce why you're analyzing the \"why\" behind their AI usage without sounding like you're reading their diary.",
-        "date": "2026-06-09T13:35:01.384511+00:00"
+        "excerpt": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+        "dwp_take": "Tech companies are starting to realize that smaller, cheaper AI models can handle many tasks just as well as the expensive ones they've been throwing money at. For digital workplace leaders, this matters because it could finally make AI tools accessible beyond the Fortune 500 club, meaning better collaboration software and smarter automation for normal-sized organizations. After years of watching enterprises spend like drunken sailors on generative AI with little ROI to show for it, watching them get pinched by costs and discover that \"good enough\" actually works is honestly the most satisfying plot twist in tech right now.",
+        "date": "2026-06-10T14:39:59.851885+00:00"
       },
       {
-        "title": "Rubrik turns its platform into an AI agent and ships Agent Cloud for Claude",
-        "url": "https://siliconangle.com/2026/06/09/rubrik-brings-agent-cloud-claude-launches-rubrik-ai-automate-recovery/",
+        "title": "Intelligence layer becomes the enterprise AI control plane for enterprise AI",
+        "url": "https://siliconangle.com/2026/06/10/intelligence-layer-models-protect-enterprise-ai-investments-finopsx/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Rubrik Inc. today turned its data security platform into an autonomous agent and made its control layer for Anthropic PBC\u2019s Claude generally available, the headline items in a wave of announcements at",
-        "dwp_take": "Rubrik has converted its data security platform into an autonomous AI agent and released Agent Cloud, a control layer designed specifically for Anthropic's Claude model. This matters because as organizations deploy AI agents to handle actual work, they need security infrastructure that can operate at agent speed without becoming a bottleneck. The real question isn't whether AI agents need governance\u2014it's whether vendors can build it fast enough before someone's agent accidentally leaks a customer database on a Friday afternoon.",
-        "date": "2026-06-09T13:35:05.438165+00:00"
+        "excerpt": "As enterprises accelerate past AI experimentation into full-scale production, the central challenge has shifted from accessing models to managing the organizational context those models need to act re",
+        "dwp_take": "Vendors are positioning \"intelligence layers\" as the central hub for managing enterprise AI deployments, handling everything from model governance to cost control and data security. This matters because most organizations are drowning in point solutions and shadow AI projects, so having actual operational control mechanisms could finally separate the wheat from the chaff. My take: after years of \"AI will solve everything,\" we're finally talking about the unglamorous work of actually running this stuff responsibly. About time.",
+        "date": "2026-06-10T14:40:11.782317+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
-        "url": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
+        "title": "Microsoft patches record 198 Windows bugs in June update - and 3 are zero days",
+        "url": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and what I keep on hand to stop them.",
-        "dwp_take": "Battery fires in workplaces are becoming a real problem as we load up our offices with charging devices, and ZDNet covered the actual science of why lithium-ion batteries fail and how to handle them safely. This matters because your office is probably packed with phones, laptops, and cables charging everywhere, and a battery fire spreads differently than regular fires so your fire safety plan might be outdated. Honestly, most workplace safety briefings still talk about pulling the fire alarm for everything, but if your marketing team's laptops go up in flames because someone wedged three chargers into one outlet, good luck explaining that one to insurance.",
-        "date": "2026-06-09T13:35:11.063600+00:00"
+        "excerpt": "Among the 198 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+        "dwp_take": "Microsoft dropped 198 security patches in June, including three zero-days that were already public knowledge when the update arrived. For anyone managing Windows across an organization, this is your reminder that patch day is now basically every day if you want to sleep at night. Here's the thing: if three vulnerabilities were already being exploited before Microsoft fixed them, your team's speed at deploying updates just went from \"important\" to \"do-or-die essential.\"",
+        "date": "2026-06-10T14:40:16.463597+00:00"
       },
       {
-        "title": "CIOs get temporary relief as US court blocks $100,000 H-1B fee",
-        "url": "https://www.computerworld.com/article/4182857/cios-get-temporary-relief-as-us-court-blocks-100000-h-1b-fee-2.html",
+        "title": "Why I\u2019m leaving Copilot for Gemini",
+        "url": "https://www.computerworld.com/article/4182537/why-im-leaving-copilot-for-gemini.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "A US federal judge has ruled that the Trump administration\u2019s $100,000 fee on new H-1B visa petitions was unlawful, giving technology companies temporary relief from a policy that threatened to raise t",
-        "dwp_take": "A federal judge blocked the Trump administration's $100,000 fee on new H-1B visa petitions, ruling it unlawful and giving tech companies temporary breathing room on hiring costs. For digital workplace pros, this matters because talent acquisition and retention strategies just got a little less expensive, at least until the next court battle plays out. Honestly, tech companies got lucky here, but don't unpack your bags yet because this ruling is about as temporary as a \"quick fix\" deployment.",
-        "date": "2026-06-09T13:35:15.658475+00:00"
+        "excerpt": "I\u2019ve been using and writing about Microsoft Copilot since it was publicly released in 2023. I\u2019ve reviewed it, written articles about using it more effectively, explained how to curb hallucinations in ",
+        "dwp_take": "A long-time Copilot advocate is switching to Google's Gemini, citing reasons that apparently matter enough to abandon months of accumulated experience with Microsoft's tool. This signals that AI adoption in workplaces isn't settled yet, and organizations betting everything on one vendor should stay alert to defection patterns among their power users. After thirty years watching people chase the shiny object, I'll believe Gemini has staying power once I see people still writing about it favorably in 2026.",
+        "date": "2026-06-10T14:40:26.705632+00:00"
       },
       {
-        "title": "Trump\u2019s new AI order \u2014 hallucinations aren\u2019t just for LLMs",
-        "url": "https://www.computerworld.com/article/4182531/trumps-new-ai-order-hallucinations-arent-just-for-llms.html",
+        "title": "UK move to filter photos and messages triggers encryption worries for CISOs",
+        "url": "https://www.computerworld.com/article/4183245/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Years ago, right-wingers coined the phrase \u201cTrump Derangement Syndrome\u201d (TDS) to describe people who hate US President Donald J. Trump. (I think it better describes the president\u2019s outlandish, truth-c",
-        "dwp_take": "Trump signed an AI executive order that the author argues is disconnected from reality and based on flawed premises about how AI actually works. Digital workplace leaders need to pay attention because executive orders can reshape compliance requirements, funding priorities, and how organizations approach AI implementation whether the underlying policy is sound or not. Here's the thing: we've spent three decades watching well-intentioned tech mandates from people who don't understand the tech create expensive compliance nightmares for actual practitioners, and this one's probably no different.",
-        "date": "2026-06-09T13:35:20.146851+00:00"
+        "excerpt": "UK Prime Minister Keir Starmer\u2019s speech on Monday insisting that tech companies create device controls to somehow block children from viewing or creating sexually explicit imagery has raised alarms am",
+        "dwp_take": "The UK government is demanding that tech companies build client-side scanning technology to detect child abuse material within three months, which has security leaders genuinely spooked about the implications for enterprise encryption. This matters because the same backdoor logic that governments use to \"protect children\" historically becomes the template for accessing corporate data, employee communications, and confidential information. Here's the thing: after 30 years in this space, I've watched governments discover that encryption is the enemy exactly once per election cycle, and every time they promise it's just for this one special reason.",
+        "date": "2026-06-10T14:40:35.816484+00:00"
+      },
+      {
+        "title": "DocLang aims to make documents readable by AI, not humans",
+        "url": "https://www.computerworld.com/article/4183206/working-group-formed-to-develop-standard-for-ai-native-docs-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "AIs struggle to understand documents designed for humans; the DocLang working group seeks to flip that imbalance with its specification for machine-readable business documents \u201cbuilt from the ground u",
+        "dwp_take": "A new working group backed by IBM, Nvidia, and Red Hat is developing DocLang, a document format specifically designed for AI systems to read rather than humans. For digital workplace professionals, this matters because most business documents today are built for human consumption, forcing AI tools to waste processing power translating them into machine-friendly formats. Personally, I'm skeptical that we need yet another format standard when we can't even get people to use existing ones consistently, but if this actually saves companies money on AI inference costs, I'll eat my keyboard.",
+        "date": "2026-06-10T14:40:48.030220+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "For workers with a chronic illness, returning to the office can be the hardest part",
-        "url": "https://www.fastcompany.com/91539293/returning-to-work-after-being-sick-isnt-the-end-of-recovery-its-where-many-employees-struggle-most-return-to-work-chronic-illness?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The most successful one-person businesses have these things in common",
+        "url": "https://www.fastcompany.com/91556512/the-most-successful-one-person-businesses-have-these-things-in-common?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The workplace has a recovery problem. Most organizations know what to do when employees get sick. There are policies for leave, benefits for treatment, and a growing awareness around burnout. But when",
-        "dwp_take": "Most organizations have figured out how to handle employees who are sick or burned out, but they completely ghost them the moment they try to come back to work. This matters because return-to-work is where people actually fail, which means you're losing recovered talent right when you need them most and creating legal liability to boot. Here's the kicker: companies spend money on wellness programs and mental health benefits, then sabotage it all by treating the return phase like flipping a light switch instead of an actual recovery process.",
-        "date": "2026-06-09T13:35:24.638712+00:00"
+        "excerpt": "As more Americans pursue one-person ventures, data suggests those that perform best combine strong business fundamentals with the latest technology solutions. According to the Intuit QuickBooks 2026 S",
+        "dwp_take": "Fast Company reported that successful solo entrepreneurs are combining solid business basics with modern tech tools, and one-third of American adults now plan to start a business or side hustle this year, up dramatically from the prior year. This matters to digital workplace folks because it means more distributed teams, more demand for collaboration platforms, and more people who suddenly need to figure out how to work from their kitchen without losing their minds. The real story here is that technology isn't what makes these businesses work, good fundamentals do, which is something we should remind every startup founder obsessing over their Slack integrations.",
+        "date": "2026-06-10T14:40:53.348944+00:00"
       },
       {
-        "title": "The end of the \u2018good enough\u2019 worker",
-        "url": "https://www.fastcompany.com/91555561/the-end-of-the-good-enough-worker?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The hidden emotional cost of leadership",
+        "url": "https://www.fastcompany.com/91556856/the-hidden-emotional-cost-of-leadership?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "I watch about a thousand companies make hiring decisions in real time as the CEO of Paraform, the world\u2019s largest recruiting marketplace. The pattern I\u2019ve seen over the last 18 months is so consistent",
-        "dwp_take": "Companies are raising their hiring bar dramatically, no longer settling for average performers because AI now handles routine work that used to pad mediocre resumes. This matters to digital workplace pros because it fundamentally changes how you need to position skills, design onboarding, and manage performance for a workforce that needs to demonstrate real value from day one. The irony is that after decades of participation trophy culture, we're finally getting back to the radical idea that people should be good at their jobs, though I suspect the transition will be painful for everyone who coasted.",
-        "date": "2026-06-09T13:35:28.782303+00:00"
+        "excerpt": "Justin McLeod, the founder of Hinge and CEO at Overtone is a modern tech leader who openly acknowledges the emotional weight of building a company centered on human relationships. This is his truth ab",
+        "dwp_take": "Justin McLeod is talking publicly about the emotional toll of leading a company focused on human connection, which is refreshingly honest for a tech CEO. Digital workplace leaders need to hear this because we spend all day preaching about psychological safety and employee wellbeing while secretly drowning in our own stress. The real talk here is that you can't build authentic workplace culture if you're running on fumes, so maybe we should stop pretending leadership is a highlight reel and start actually supporting the humans doing it.",
+        "date": "2026-06-10T14:41:01.032513+00:00"
       },
       {
-        "title": "Companies Keep Slashing Employees\u2019 Benefits for the Worst Reasons",
-        "url": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
-        "source": "Wired",
+        "title": "Success starts with getting it right the first time",
+        "url": "https://www.fastcompany.com/91556707/success-starts-with-getting-it-right-the-first-time?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Workers are getting worse health care, parental leave, and retirement benefits, showing once and for all that your job doesn\u2019t love you back.",
-        "dwp_take": "Companies are cutting employee benefits across health care, parental leave, and retirement packages, often with weak justifications that amount to little more than \"we can get away with it.\" This matters because digital workplace teams are increasingly tasked with communicating these cuts while maintaining employee engagement and retention, which is like being asked to sell ice to penguins. Here's the reality: if your org is slashing benefits to pad executive bonuses while claiming budget constraints, don't be shocked when your best people start job hunting and your employer brand turns into a punchline.",
-        "date": "2026-06-09T13:35:33.748012+00:00"
+        "excerpt": "Emmy Award-winning producer Halle Stanford founded 7 Crow Stories with a passion for storytelling and a mission to create meaningful series that enchant and empower audiences. Under her leadership, 7 ",
+        "dwp_take": "An Emmy-winning producer started a content company that's now selling shows to major platforms like Netflix and Apple TV+. This matters to digital workplace folks because it's a reminder that execution and quality actually trump moving fast and breaking things, which is refreshing after a decade of startup theater. Look, getting it right the first time costs more upfront but saves you from explaining failed pivots in all-hands meetings.",
+        "date": "2026-06-10T14:41:04.758448+00:00"
+      },
+      {
+        "title": "Vulnerability isn\u2019t a weakness\u2014It\u2019s a leadership advantage",
+        "url": "https://www.fastcompany.com/91556545/vulnerability-isnt-a-weakness-its-a-leadership-advantage?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Delta\u2019s Chief Sustainability Officer Amelia DeLuca focuses on environmental leadership, technology innovation, and organizational change to make Delta\u2019s operations more sustainable while supporting th",
+        "dwp_take": "Delta's Chief Sustainability Officer Amelia DeLuca is publicly embracing vulnerability as a leadership strategy, arguing it builds trust and drives better organizational outcomes. For digital workplace pros, this matters because vulnerability in leadership directly impacts psychological safety, which is where real innovation and honest communication actually happen instead of just being talked about in all-hands meetings. After three decades watching leaders, I can tell you the ones who admit they don't have all the answers usually end up with smarter teams, though it does require thick skin and genuine confidence, not the performative kind.",
+        "date": "2026-06-10T14:41:16.809773+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "EU Unveils Tech Sovereignty Package and Chips Act 2.0",
-        "url": "https://www.techrepublic.com/article/eu-tech-sovereignty-package-chips-act-2/",
+        "title": "India Brings Its AI Pitch to VivaTech 2026",
+        "url": "https://www.techrepublic.com/article/news-india-vivatech-ai-pitch/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The EU introduces its Technological Sovereignty Package, including Chips Act 2.0, to boost AI, cloud infrastructure, and semiconductor independence. The post EU Unveils Tech Sovereignty Package and Ch",
-        "dwp_take": "The EU is doubling down on reducing dependence on non-European tech by investing heavily in AI, cloud infrastructure, and semiconductor manufacturing through its new Chips Act 2.0. This matters to digital workplace pros because it signals a real shift in where enterprise infrastructure and tools will be sourced, potentially creating new vendor options and compliance requirements for organizations operating in Europe. Honestly, it's refreshing to see someone actually try to build tech muscle instead of just complaining about it, though good luck executing this at EU speed.",
-        "date": "2026-06-09T13:35:38.169927+00:00"
+        "excerpt": "India\u2019s VivaTech 2026 role gives its AI strategy a global stage as enterprises across APAC weigh regional AI partnerships, infrastructure control, and dependence on foreign chips and cloud platforms. ",
+        "dwp_take": "India is positioning itself as a serious player in the global AI game by taking a prominent role at VivaTech 2026, capitalizing on growing enterprise interest in developing regional AI infrastructure and reducing dependence on foreign tech giants. For digital workplace leaders, this matters because it signals real momentum behind alternative AI ecosystems that could reshape where your organization sources tools, platforms, and talent over the next few years. Honestly, it's refreshing to see someone actually building something instead of just licensing it from Redmond or Mountain View, though let's see if the infrastructure talk matches the execution.",
+        "date": "2026-06-10T14:41:21.303279+00:00"
       },
       {
-        "title": "OpenAI Starts IPO Process With Confidential SEC Filing",
-        "url": "https://www.techrepublic.com/article/news-openai-confidential-sec-ipo-filing/",
+        "title": "Microsoft Reportedly Cuts Hundreds of Azure Jobs in China",
+        "url": "https://www.techrepublic.com/article/news-microsoft-reportedly-cuts-azure-jobs-apac-china/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "OpenAI has submitted a confidential IPO filing, but the ChatGPT maker says it has not decided on timing or disclosed deal terms. The post OpenAI Starts IPO Process With Confidential SEC Filing appeare",
-        "dwp_take": "OpenAI filed confidentially with the SEC to eventually go public, though they haven't locked in timing or financial details yet. This matters because every enterprise software company will suddenly be scrambling to position their AI capabilities as strategic assets once a major AI player proves the market values them at scale. The real question isn't whether OpenAI will IPO, it's how many workplace leaders will panic-buy AI solutions they don't actually need while waiting for the bell to ring.",
-        "date": "2026-06-09T13:35:42.921627+00:00"
+        "excerpt": "Microsoft reportedly cut 200 to 400 Azure jobs in China as US and Chinese data rules tighten around cloud operations. The post Microsoft Reportedly Cuts Hundreds of Azure Jobs in China appeared first ",
+        "dwp_take": "Microsoft is pulling back its Azure operations in China by cutting 200 to 400 jobs, largely due to escalating regulatory restrictions on data handling between the US and China. This matters because it signals how seriously tech companies now take compliance and data sovereignty requirements, which directly impacts how you architect your cloud infrastructure and which vendors you can actually rely on long term. After three decades watching tech companies chase markets, I can tell you this is the reality check nobody wanted but everyone needed: build your digital workplace on assumptions about stable geopolitics and you'll be rebuilding it every few years.",
+        "date": "2026-06-10T14:41:32.706522+00:00"
       },
       {
-        "title": "Stop Overpaying for Adobe Acrobat: $50 PDF Editor Has AI Built In",
-        "url": "https://www.techrepublic.com/article/pdnob-pro-pdf-editor-lifetime-subscription/",
+        "title": "Microsoft\u2019s Record-Breaking Patch Tuesday Fixes Over 200 Security Flaws",
+        "url": "https://www.techrepublic.com/article/news-microsoft-june-patch-tuesday-record-breaking/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "PDNob Pro gives IT teams and business professionals lifetime license to AI-powered PDF tools for just $49.99. The post Stop Overpaying for Adobe Acrobat: $50 PDF Editor Has AI Built In appeared first ",
-        "dwp_take": "A company called PDNob Pro is selling a lifetime PDF editing license with AI features for $50, positioning itself as a cheaper alternative to Adobe's subscription model. This matters because PDF handling is still a core workplace task, and IT leaders are under constant pressure to cut software costs without sacrificing functionality. Look, I've seen this movie before: someone undercuts Adobe on price, gains traction, then either gets acquired or quietly disappears when support costs hit reality. Do your due diligence on vendor stability before betting your document workflows on it.",
-        "date": "2026-06-09T13:35:47.216537+00:00"
+        "excerpt": "Microsoft\u2019s June Patch Tuesday fixed about 200 CVEs, including public zero-days and Critical Windows flaws tied to patching pressure. The post Microsoft\u2019s Record-Breaking Patch Tuesday Fixes Over 200 ",
+        "dwp_take": "Microsoft just patched over 200 security vulnerabilities in a single Patch Tuesday, including some nasty zero-days and critical Windows bugs that were already being actively exploited. For digital workplace teams, this is a scheduling nightmare because you've got to test and deploy 200 patches without breaking everything else your organization depends on. After 30 years in this space, I'll tell you that \"record-breaking\" patch counts aren't something to celebrate - they're a sign the security house is on fire, and someone's going to be working through the weekend.",
+        "date": "2026-06-10T14:41:36.789920+00:00"
       },
       {
-        "title": "\u2018The United Kingdom has the talent, research excellence and ambition to help lead the next era of AI\u2019: AMD chief exec Lisa Su touts UK\u2019s AI potential as firm eyes \u00a32bn investment",
-        "url": "https://www.itpro.com/infrastructure/the-united-kingdom-has-the-talent-research-excellence-and-ambition-to-help-lead-the-next-era-of-ai-amd-chief-exec-lisa-su-touts-uks-ai-potential-as-firm-eyes-gbp2bn-investment",
-        "source": "ITPro",
+        "title": "Google AI Plus Price Drops to $4.99 as Storage Doubles to 400GB",
+        "url": "https://www.techrepublic.com/article/news-google-ai-plus-price-drops/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The deal will see a new AI supercomputer built in Cambridge and partnerships with Imperial College London and Oriole Networks",
-        "dwp_take": "AMD's Lisa Su announced a potential \u00a32bn investment in the UK to build an AI supercomputer in Cambridge and partner with Imperial College London. This matters because it signals that serious enterprise AI infrastructure is finally moving beyond hype into actual hardware and regional investment, which will reshape how organizations think about their digital workplace capabilities and data processing needs. The real question is whether UK companies will actually have access to this firepower or if it becomes another shiny tech asset that solves problems only the largest enterprises face.",
-        "date": "2026-06-09T13:35:51.743525+00:00"
+        "excerpt": "Google AI Plus now costs $4.99 per month and includes 400GB of storage, making Google\u2019s lower-cost AI tier more competitive. The post Google AI Plus Price Drops to $4.99 as Storage Doubles to 400GB ap",
+        "dwp_take": "Google just cut the price of AI Plus to $4.99 and doubled storage to 400GB, making their budget AI tier a lot harder to ignore. For digital workplace leaders, this means the cost-benefit math on enterprise AI subscriptions just shifted, and you'll need to revisit your tooling strategy before your CFO asks why you're still overpaying somewhere. Honestly, this is what competition looks like when companies actually care about winning, rather than just printing margin.",
+        "date": "2026-06-10T14:41:50.105378+00:00"
       }
     ]
   }
