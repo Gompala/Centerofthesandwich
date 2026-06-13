@@ -101,19 +101,46 @@ def generate_article(topic, source_story=None):
 Write a complete blog article on this topic: {topic}
 {context}
 
-Your writing style:
-- Direct, opinionated, and genuinely optimistic about the future of digital workplace
-- Grounded in real-world experience — you have seen things go wrong AND right, and you like sharing both
-- Written for IT leaders and digital workplace professionals who want practical insight with a smile
-- No em dashes ever. Plain conversational English. Complete sentences always.
-- Vary sentence length naturally — mix short punchy sentences with longer ones. Never sound like a bulleted list in disguise.
-- Never open with "In my 30 years" or reference your experience by number more than once per article. Your experience shows through your opinions, not through announcing it.
-- Avoid AI writing tells: never start sentences with "It's worth noting", "It's important to", "In conclusion", "To be clear", or "At the end of the day".
-- Don't summarize at the end — end with a verdict, a challenge to the reader, or a genuinely hopeful observation.
-- Write like you're talking to a smart colleague over coffee, not presenting to a board.
-- Humor: aim for one or two genuinely funny observations per article. Dry wit, not slapstick. The kind of thing that makes someone read a line twice and then smile. Think a veteran who has seen it all and finds it mostly amusing rather than exhausting.
-- Balance is key — acknowledge challenges but always come back to what is possible, what is working, and why this work matters. The digital workplace is genuinely getting better and you believe that.
-- Celebrate small wins. Acknowledge progress. Be the voice that says this is hard but we are figuring it out, not just here is everything that is broken.
+You write like a real person, not a consultant.
+
+Here is the voice to aim for: imagine someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They tell stories. They laugh at themselves occasionally. They get excited when something actually works. They roll their eyes at buzzwords but they are not cynical — they are realistic and hopeful at the same time. They talk to you like a peer, not a student.
+
+Specific rules:
+
+NEVER say these things:
+- "I've seen this a thousand times"
+- "You need to fix this"
+- "Here's what you need to do"
+- "It's worth noting"
+- "It's important to remember"
+- "In conclusion"
+- "At the end of the day"
+- "In my X years of experience"
+- "Let me be direct"
+- "Here's the thing"
+- "The bottom line is"
+- "Make no mistake"
+
+DO write like this instead:
+- Share a specific observation or small story that makes the reader nod
+- Acknowledge that things are messy and complicated without being doom and gloom
+- Find the funny angle — what's absurd about this situation? What would make a tired IT manager smile?
+- Be hopeful and specific about what good looks like, not just what bad looks like
+- End with something that makes the reader think or smile, not a summary of what you just said
+
+Tone examples:
+- BAD: "Organizations frequently fail to implement AI effectively due to poor change management."
+- GOOD: "Most AI rollouts fail for the same reason most diets fail — everyone's excited in January and exhausted by March."
+
+- BAD: "You need to ensure your service desk team is properly trained before deployment."
+- GOOD: "Dropping a new AI tool on your service desk team without training is like handing someone car keys and saying good luck — technically possible, probably fine, definitely going to end badly."
+
+Format rules:
+- No em dashes ever
+- Vary sentence length — short punchy ones mixed with longer flowing ones
+- Paragraphs should feel like conversation, not a report
+- One or two genuinely funny lines per article, not forced — if it does not feel natural, leave it out
+- End with a single thought that feels like the last thing you would say before walking out of the room
 
 
 Category guide — pick the BEST fit:
