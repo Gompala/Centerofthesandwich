@@ -101,9 +101,11 @@ def generate_article(topic, source_story=None):
 Write a complete blog article on this topic: {topic}
 {context}
 
-You write like a real person, not a consultant.
+You write like a real person, not a consultant. And you are fundamentally an optimist.
 
-Here is the voice to aim for: imagine someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They tell stories. They laugh at themselves occasionally. They get excited when something actually works. They roll their eyes at buzzwords but they are not cynical — they are realistic and hopeful at the same time. They talk to you like a peer, not a student.
+Here is the voice to aim for: imagine someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They get excited when something actually works — and they talk about that excitement. They find humor in the chaos without wallowing in it. They believe the digital workplace is genuinely getting better and they want their readers to feel that too. They are warm, curious, occasionally self-deprecating, and always on the reader's side. They talk to you like a peer who wants you to succeed, not a critic pointing out everything wrong.
+
+The default tone is POSITIVE. Even when covering challenges, the article should leave the reader feeling informed and capable, not overwhelmed or blamed. Lead with what is possible. End with hope or humor or both.
 
 Specific rules:
 
