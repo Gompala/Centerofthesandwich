@@ -1,111 +1,93 @@
 {
-  "generated": "2026-06-14T07:20:37.719105+00:00",
+  "generated": "2026-06-15T08:57:26.540036+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "As Anthropic suspends access to new models, India debates its AI future",
-        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "title": "The AI layoff wave is becoming a powder keg",
+        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
-        "dwp_take": "Anthropic has restricted access to its latest AI models in India, sparking debate about whether the country's AI ecosystem can stand on its own. For digital workplace leaders, this matters because it highlights how geopolitical and regulatory friction can suddenly disrupt the tools you depend on for productivity and automation. Look, India's got brilliant talent and ambition, but this incident is basically a reminder that outsourcing your future to foreign AI providers is like building your office on someone else's land.",
-        "date": "2026-06-14T07:19:45.435205+00:00"
+        "excerpt": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+        "dwp_take": "Tech companies are laying off thousands of workers while a tiny group of AI insiders are getting absurdly rich, creating a massive wealth and opportunity gap. For those of us managing digital workplaces, this matters because your employees are watching this play out and asking hard questions about job security, fairness, and whether their employer actually values them or just sees them as replaceable. The irony is thick enough to cut with a knife: companies are claiming they need AI to do more with less, but what they're really doing is concentrating both power and money upward while the rest of the workforce holds its breath.",
+        "date": "2026-06-15T08:56:49.484819+00:00"
       },
       {
-        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-        "dwp_take": "Amazon CEO Andy Jassy apparently flagged security concerns about Anthropic's AI models to government officials, which prompted Anthropic to restrict access to those models globally. This matters to digital workplace pros because it signals how AI vendors operate under government scrutiny and how quickly access to critical tools can get yanked based on behind-the-scenes pressure. The irony is thick here: Amazon invested heavily in Anthropic, then may have torched the deal by raising alarms, which is either corporate strategy or corporate sabotage depending on your cynicism level.",
-        "date": "2026-06-14T07:19:49.597515+00:00"
-      },
-      {
-        "title": "Mozilla Data Collective seeks to build AI\u2019s data economy around trust",
-        "url": "https://siliconangle.com/2026/06/13/mozilla-data-collective-seeks-build-ais-data-economy-around-trust/",
+        "title": "White House forces Anthropic to disable new frontier models following abrupt export ban",
+        "url": "https://siliconangle.com/2026/06/14/white-house-forces-anthropic-disable-new-frontier-models-following-abrupt-export-ban/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Generative artificial intelligence has a data problem. For years, the typical approach to building gen AI models has been to gather as much data as possible by scraping vast swaths of the internet, tr",
-        "dwp_take": "Mozilla launched a Data Collective initiative aimed at creating a more ethical approach to AI training data by prioritizing consent and compensation for data creators instead of the current \"scrape first, apologize later\" model. This matters to digital workplace pros because the data governance frameworks being built now will determine whether your organization can confidently use AI tools without legal or ethical blowback down the road. Honestly, it's refreshing to see someone say out loud that the current approach is basically digital strip-mining, though whether this actually changes anything depends entirely on whether it becomes profitable to care.",
-        "date": "2026-06-14T07:19:55.692615+00:00"
+        "excerpt": "Anthropic PBC was forced just to abruptly pull the plug on foreign access to two of its most powerful artificial intelligence models, Fable 5 and Mythos 5, just days after it launched them. The sudden",
+        "dwp_take": "The U.S. Commerce Department abruptly blocked Anthropic from offering its latest AI models internationally, forcing the company to pull Fable 5 and Mythos 6 from foreign access almost immediately after launch. This matters because it signals that AI capability controls are now a serious policy lever, which means digital workplace teams need to start planning for a fragmented global AI tooling landscape instead of the seamless international access they've gotten used to. Welcome to the era where your fancy new AI assistant works great in the US office but your London team gets the older version, which is exactly the kind of operational headache that keeps CIOs up at night.",
+        "date": "2026-06-15T08:56:54.479500+00:00"
       },
       {
-        "title": "After raising record $75B in IPO, Elon Musk\u2019s SpaceX pops 20% in trading debut",
-        "url": "https://siliconangle.com/2026/06/11/after-raising-75b-ipo-elon-musks-spacex-pop-20-trading-debut/",
+        "title": "10 best practices for optimizing generative and agentic AI costs",
+        "url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Updated with Friday\u2019s trading: Shares of Elon Musk\u2019s Space Exploration Technologies Corp. jumped 19% over their $135 asking price Friday morning after one of the most hotly anticipated initial public ",
-        "dwp_take": "SpaceX just raised 75 billion dollars in an IPO and saw its stock jump 20 percent on day one, valuing the company at 2.1 trillion. For digital workplace folks, this matters because it signals massive capital flowing into space tech and aerospace, which will inevitably reshape remote work logistics, satellite internet infrastructure, and where distributed teams can actually operate globally. Honestly, the real workplace innovation here isn't the rockets, it's that SpaceX will probably figure out how to video conference from the edge of space before most enterprises figure out how to do it from home.",
-        "date": "2026-06-14T07:19:59.900425+00:00"
+        "excerpt": "As enterprises scale initiatives, the cost of developing, deploying and operating generative artificial intelligence models rises significantly. The shift toward AI agents can further increase costs b",
+        "dwp_take": "SiliconAngle ran a piece on how to keep generative AI costs from spiraling out of control as companies scale up their AI initiatives and shift toward AI agents. This matters because most organizations are burning cash on AI projects right now with zero governance, and IT leaders need actual frameworks instead of just throwing money at the latest models. Here's the thing though: if your company needs an article to tell you that \"poor architecture\" and \"weak governance\" cost money, you've already lost the plot somewhere.",
+        "date": "2026-06-15T08:56:58.735704+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Software engineer reportedly wins religious exemption from AI use",
-        "url": "https://www.computerworld.com/article/4184617/software-engineer-reportedly-wins-religious-exemption-from-ai-use-2.html",
+        "title": "Nextcloud CEO: Open source moves from \u2018a nerdy audience\u2019 to the geopolitical stage",
+        "url": "https://www.computerworld.com/article/4184628/nextcloud-ceo-open-source-moves-from-a-nerdy-audience-to-the-geopolitical-stage.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "When Pope Leo XIV wrote about the effect that AI is having on our world in his encyclical, Magnifica Humanitas, he may not have imagined the document being referenced in an HR environment. But, accord",
-        "dwp_take": "A software engineer in North Carolina reportedly secured a religious exemption from using AI tools at work, citing papal teachings about AI's ethical risks. This matters because it signals the first real legal test of whether religious beliefs can shield workers from emerging workplace tech mandates, which could open the door to other exemption claims. Honestly, we've gone from \"sorry, I don't use email\" to \"sorry, I don't use AI\" in about thirty years, and I'm not sure HR departments are ready for this level of theological code review.",
-        "date": "2026-06-14T07:20:05.498838+00:00"
-      },
-      {
-        "title": "Microsoft president responds to students\u2019 distrust for AI",
-        "url": "https://www.computerworld.com/article/4184559/microsoft-president-responds-to-students-distrust-for-ai.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft\u2019s president, Brad Smith, has reacted to student discontent with AI, telling today\u2019s graduates that there is still a place for human creativity. Students across the US have booed speakers who",
-        "dwp_take": "Brad Smith told graduates that human creativity still matters despite AI's rise, after students recently booed several tech executives promoting AI at commencement ceremonies. This matters because digital workplace leaders need to understand that their workforce is actively skeptical of AI hype, not passively absorbing it like we assumed five years ago. Smith's reassurance is appreciated, but it rings a bit hollow when Microsoft is simultaneously pushing Copilot into every corner of Microsoft 365, whether workers asked for it or not.",
-        "date": "2026-06-14T07:20:09.586164+00:00"
+        "excerpt": "MUNICH \u2014 Amid trans-Atlantic political and trade tensions, digital sovereignty \u2014 once a relatively niche concern \u2014 has jumped to the top of the agenda for European organizations wary of their reliance",
+        "dwp_take": "Nextcloud's CEO is saying that open source software has become a geopolitical issue in Europe as organizations worry about depending too much on American tech companies. This matters to digital workplace pros because it signals a real shift in how enterprises pick their collaboration tools, moving away from the \"we'll just use what everyone uses\" mentality. Here's the thing though: Europe's suddenly discovering open source right as it becomes trendy doesn't mean the integration headaches and support gaps disappear, so buckle up.",
+        "date": "2026-06-15T08:57:04.217519+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "How to ask for and take time off without getting penalized",
-        "url": "https://www.fastcompany.com/91558755/how-to-ask-for-and-take-time-off-without-getting-penalized?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Stop waiting, feel ready: 3 lessons to unlock creativity today",
+        "url": "https://www.fastcompany.com/91554361/3-creativity-lessons-to-stop-waiting-and-to-feel-ready?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Summer is here. Even though most workplaces are not on an academic calendar, summer is still a time that many people choose to take vacations. Some of that decision is pragmatic\u2014families with school-a",
-        "dwp_take": "Fast Company ran a piece about taking summer vacation without career damage, acknowledging that many employees want time off during school breaks but worry about workplace penalties. This matters because time-off policies directly affect employee retention, burnout rates, and whether your organization actually lives up to its stated values around work-life balance. Here's the thing though: if your people need a how-to guide on taking vacation without getting punished, your culture is already broken and no policy document will fix it.",
-        "date": "2026-06-14T07:20:14.619420+00:00"
+        "excerpt": "Some of us treat creativity like a reward. Something we\u2019ll fully inhabit once a major milestone is reached or when the weekend comes around. Through years of working with leaders, I\u2019ve realized that t",
+        "dwp_take": "The article argues that people wrongly treat creativity as something to pursue later, after hitting milestones or clocking out, when they should be practicing it now as a daily habit. For digital workplace leaders, this matters because remote and hybrid teams need creative problem-solving to function, and you can't build that muscle if everyone's waiting for Friday to think differently. Here's the thing: most organizations claim they want innovation while simultaneously scheduling it into the calendar like it's a dentist appointment, which is exactly backwards.",
+        "date": "2026-06-15T08:57:08.511309+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "What\u2019s Really Inside Trump\u2019s Gold Smartphone? A Teardown Has Answers",
-        "url": "https://www.techrepublic.com/article/news-trump-t1-htc-u24-pro-ifixit-teardown/",
-        "source": "TechRepublic",
+        "title": "'Botsitting' is destroying productivity as workers spend nearly a full day each week making AI 'usable'",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/botsitting-is-destroying-productivity-as-workers-spend-nearly-a-full-day-each-week-making-ai-usable",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "iFixit\u2019s teardown suggests the Trump T1 shares major hardware similarities with HTC\u2019s U24 Pro, raising questions about its origins. The post What\u2019s Really Inside Trump\u2019s Gold Smartphone? A Teardown Ha",
-        "dwp_take": "iFixit tore down Trump's gold smartphone and found it's basically an HTC U24 Pro underneath the flashy casing, which tells you something about where the actual engineering came from. This matters because it's a good reminder that branding and hardware are two completely different things, and you can slap any name or color on a phone without changing what's actually inside. Turns out you really can put lipstick on a pig, or in this case, gold plating on someone else's phone.",
-        "date": "2026-06-14T07:20:23.211831+00:00"
+        "excerpt": "While workers are reporting productivity improvements, \u2018botsitting\u2019 means these are often negated",
+        "dwp_take": "Workers are spending roughly a full workday per week babysitting AI tools to make them actually work, according to new research highlighted in ITPro. This matters because if your workforce is burning that much time correcting, prompting, and managing AI instead of doing actual work, you've got an expensive problem that nobody budgeted for. Here's the truth: companies bought shiny AI tools without thinking about the human labor tax required to make them useful, which is basically the digital workplace version of buying a fancy car that only runs if someone pushes it.",
+        "date": "2026-06-15T08:57:14.162626+00:00"
       },
       {
-        "title": "SpaceX Goes Public: Wall Street Bets $1.77T on Elon Musk\u2019s Space Empire",
-        "url": "https://www.techrepublic.com/article/news-spacex-ipo-valuation-starlink-starship-defense/",
-        "source": "TechRepublic",
+        "title": "The AI pricing time bomb",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/the-ai-pricing-time-bomb",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "SpaceX\u2019s reported IPO would value Elon Musk\u2019s company at $1.77 trillion, reflecting investor bets on Starlink, Starship, and defense work. The post SpaceX Goes Public: Wall Street Bets $1.77T on Elon ",
-        "dwp_take": "SpaceX is reportedly heading to the public markets with a valuation of $1.77 trillion, driven by investor enthusiasm for its satellite internet, space travel, and defense contracts. For digital workplace folks, this matters because Starlink's global connectivity could reshape how distributed teams operate in remote regions where traditional broadband fails. That said, betting $1.77 trillion on a company that's still figuring out reliable rocket landings feels like workplace optimism on steroids, but hey, stranger things have funded the tools we all use.",
-        "date": "2026-06-14T07:20:27.149917+00:00"
+        "excerpt": "How should enterprises approach AI agents, and in particular, their AI budgets?",
+        "dwp_take": "Enterprises are waking up to the fact that AI agent deployments cost way more to run than initial pilots suggested, with pricing models that punish scale and usage. Digital workplace leaders need to understand these economics before they commit to AI tools, because a chatbot that seemed cheap at 100 users gets real expensive at 10,000 users, and finance will blame you for the surprise. The dirty secret nobody wants to admit at conference panels is that most companies will end up paying more for AI than they saved automating the thing in the first place.",
+        "date": "2026-06-15T08:57:18.475962+00:00"
       },
       {
-        "title": "Iran Says Elon Musk\u2019s Companies Could Become Military Targets",
-        "url": "https://www.techrepublic.com/article/news-iran-threatens-musk-assets-starlink-spacex/",
-        "source": "TechRepublic",
+        "title": "Nottingham University cyber attack: Everything we know so far as ShinyHunters claims responsibility",
+        "url": "https://www.itpro.com/security/nottingham-university-cyber-attack-everything-we-know-so-far-as-shinyhunters-claims-responsibility",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Iranian state media reportedly threatened Musk-linked assets in the Middle East, raising questions about Starlink, SpaceX, and tech infrastructure risk. The post Iran Says Elon Musk\u2019s Companies Could ",
-        "dwp_take": "Iranian state media has threatened to target Elon Musk's companies operating in the Middle East, specifically raising concerns about Starlink and SpaceX infrastructure. This matters to digital workplace leaders because Starlink has become critical infrastructure for remote work connectivity in unstable regions, and any disruption to satellite networks could strand teams relying on that connectivity. Look, we've gone from debating Zoom fatigue to worrying about whether your company's internet gets taken out by geopolitical beef between billionaires and nation states. Welcome to 2024.",
-        "date": "2026-06-14T07:20:33.516403+00:00"
+        "excerpt": "The personal data of past and present students has been accessed in the latest attack on the education sector",
+        "dwp_take": "Nottingham University fell victim to a cyber attack where the ShinyHunters group breached student records, exposing personal data of current and former students. This matters to digital workplace pros because universities are training grounds for tomorrow's workforce, and when their security fails, it signals what attackers will try on corporate networks next. Here's the thing though: if a major institution can't protect student data, imagine what's happening at companies spending less on security than they do on office snacks.",
+        "date": "2026-06-15T08:57:22.513205+00:00"
       },
       {
-        "title": "AI Rivalries, Cyberthreats, and IPO Fever Define This Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-rivalries-cyberthreats-and-ipo-fever-define-this-week-in-tech/",
-        "source": "TechRepublic",
+        "title": "MSPs grow wary over supply chain security threats",
+        "url": "https://www.itpro.com/security/msps-grow-wary-over-supply-chain-security-threats",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from June 8\u201312. The post AI Rivalries, Cyberthreats, and IPO Fever Define This Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "This week in tech saw the usual chaos: AI companies throwing elbows at each other, hackers proving once again that security is more theater than fortress, and venture capitalists throwing money at anything with \"AI\" in the pitch deck. For digital workplace pros, this means your executives are getting pitched on AI solutions daily while your actual security posture probably hasn't improved since 2019. My take: everyone's chasing shiny objects while the fundamentals like identity management and employee training remain the actual bottlenecks keeping organizations safe and functional.",
-        "date": "2026-06-14T07:20:37.718990+00:00"
+        "excerpt": "CyberSmart\u2019s 2026 MSP Survey found that more than two-in-five firms experienced a cyber incident linked to a supplier or third-party vendor over the past year",
+        "dwp_take": "More than 40% of MSPs got hit with cyber incidents coming through their supply chain over the past year, and they're rightfully nervous about it now. This matters because your digital workplace runs on a chain of vendors and integrations, and one weak link from your MSP's suppliers can compromise everything you've built. Here's the thing: we spent decades building fortresses around our networks while leaving the back door wide open to whoever our vendors let in.",
+        "date": "2026-06-15T08:57:26.539888+00:00"
       }
     ]
   }
