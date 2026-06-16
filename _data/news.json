@@ -1,93 +1,138 @@
 {
-  "generated": "2026-06-15T08:57:26.540036+00:00",
+  "generated": "2026-06-16T08:44:10.432239+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "The AI layoff wave is becoming a powder keg",
-        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+        "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-        "dwp_take": "Tech companies are laying off thousands of workers while a tiny group of AI insiders are getting absurdly rich, creating a massive wealth and opportunity gap. For those of us managing digital workplaces, this matters because your employees are watching this play out and asking hard questions about job security, fairness, and whether their employer actually values them or just sees them as replaceable. The irony is thick enough to cut with a knife: companies are claiming they need AI to do more with less, but what they're really doing is concentrating both power and money upward while the rest of the workforce holds its breath.",
-        "date": "2026-06-15T08:56:49.484819+00:00"
+        "excerpt": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts.",
+        "dwp_take": "Google CEO Sundar Pichai got booed and faced a student walkout at Stanford's graduation over the company's defense contracts involving AI, particularly its work with Israel and ICE. This matters to digital workplace professionals because it highlights how employee activism around ethical tech use is becoming impossible to ignore, even at the C-suite level during major public events. Look, when your CEO can't finish a commencement speech without protesters making headlines, your company's got a real internal culture problem that no internal comms campaign is going to fix.",
+        "date": "2026-06-16T08:43:03.183638+00:00"
       },
       {
-        "title": "White House forces Anthropic to disable new frontier models following abrupt export ban",
-        "url": "https://siliconangle.com/2026/06/14/white-house-forces-anthropic-disable-new-frontier-models-following-abrupt-export-ban/",
-        "source": "SiliconAngle",
+        "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic PBC was forced just to abruptly pull the plug on foreign access to two of its most powerful artificial intelligence models, Fable 5 and Mythos 5, just days after it launched them. The sudden",
-        "dwp_take": "The U.S. Commerce Department abruptly blocked Anthropic from offering its latest AI models internationally, forcing the company to pull Fable 5 and Mythos 6 from foreign access almost immediately after launch. This matters because it signals that AI capability controls are now a serious policy lever, which means digital workplace teams need to start planning for a fragmented global AI tooling landscape instead of the seamless international access they've gotten used to. Welcome to the era where your fancy new AI assistant works great in the US office but your London team gets the older version, which is exactly the kind of operational headache that keeps CIOs up at night.",
-        "date": "2026-06-15T08:56:54.479500+00:00"
+        "excerpt": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
+        "dwp_take": "The Trump administration pressured Anthropic to withdraw AI security models, citing national security concerns that apparently had nothing to do with actual jailbreaks. This matters because it signals that governments are willing to intervene directly in AI development decisions, which could ripple through enterprise deployments and vendor relationships. Here's the thing: if your workplace tech stack depends on tools that can be yanked by political winds, you're not managing risk, you're just hoping.",
+        "date": "2026-06-16T08:43:07.693025+00:00"
       },
       {
-        "title": "10 best practices for optimizing generative and agentic AI costs",
-        "url": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/",
-        "source": "SiliconAngle",
+        "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "As enterprises scale initiatives, the cost of developing, deploying and operating generative artificial intelligence models rises significantly. The shift toward AI agents can further increase costs b",
-        "dwp_take": "SiliconAngle ran a piece on how to keep generative AI costs from spiraling out of control as companies scale up their AI initiatives and shift toward AI agents. This matters because most organizations are burning cash on AI projects right now with zero governance, and IT leaders need actual frameworks instead of just throwing money at the latest models. Here's the thing though: if your company needs an article to tell you that \"poor architecture\" and \"weak governance\" cost money, you've already lost the plot somewhere.",
-        "date": "2026-06-15T08:56:58.735704+00:00"
+        "excerpt": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "dwp_take": "Meta is training AI on public data across Facebook, Instagram, and Threads to power new Facebook features aimed at boosting engagement and competing in the AI arms race. This matters to digital workplace pros because it signals how aggressively tech platforms are weaponizing user data and AI to capture attention, which directly impacts how employees interact with company comms on these channels. Honestly, if Meta's answer to \"how do we keep people scrolling\" is \"let's make AI smarter at showing them stuff,\" we're just automating the engagement hamster wheel at a faster speed.",
+        "date": "2026-06-16T08:43:12.538497+00:00"
+      },
+      {
+        "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+        "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the abil",
+        "dwp_take": "The US government restricted exports of Anthropic's most advanced AI models, and cybersecurity experts are pushing back hard, saying it hamstrings their ability to defend systems effectively. This matters because your IT security team might lose access to tools that actually help them catch vulnerabilities before bad actors do, which is kind of the whole point of having cybersecurity. The irony is thick here: regulators trying to protect us from AI risks may have just made our actual defenses worse, which is what happens when policy gets written by people who don't spend their days actually defending networks.",
+        "date": "2026-06-16T08:43:19.043351+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Nextcloud CEO: Open source moves from \u2018a nerdy audience\u2019 to the geopolitical stage",
-        "url": "https://www.computerworld.com/article/4184628/nextcloud-ceo-open-source-moves-from-a-nerdy-audience-to-the-geopolitical-stage.html",
+        "title": "Q&A: A look at forward-deployed engineers, AWS style",
+        "url": "https://www.computerworld.com/article/4184226/qa-a-look-at-forward-deployed-engineers-aws-style.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "MUNICH \u2014 Amid trans-Atlantic political and trade tensions, digital sovereignty \u2014 once a relatively niche concern \u2014 has jumped to the top of the agenda for European organizations wary of their reliance",
-        "dwp_take": "Nextcloud's CEO is saying that open source software has become a geopolitical issue in Europe as organizations worry about depending too much on American tech companies. This matters to digital workplace pros because it signals a real shift in how enterprises pick their collaboration tools, moving away from the \"we'll just use what everyone uses\" mentality. Here's the thing though: Europe's suddenly discovering open source right as it becomes trendy doesn't mean the integration headaches and support gaps disappear, so buckle up.",
-        "date": "2026-06-15T08:57:04.217519+00:00"
+        "excerpt": "Hot AI companies can\u2019t stop talking about forward-deployed engineers (FDEs), which are now very much in vogue. FDEs, in case you haven\u2019t heard, are hired by companies looking (hoping?) to successfully",
+        "dwp_take": "AWS and other hot AI companies are hiring forward-deployed engineers to help customers actually implement AI tools instead of letting them gather digital dust. This matters because it signals that AI deployment is hard enough that companies need specialized staff embedded with customers just to make it work. After thirty years watching software projects fail, I can tell you this is either the smartest staffing move ever or a very expensive way to admit your AI products aren't user-friendly.",
+        "date": "2026-06-16T08:43:24.932782+00:00"
+      },
+      {
+        "title": "Why Europe\u2019s demands on Apple AI put your data at risk",
+        "url": "https://www.computerworld.com/article/4185115/why-europes-demands-on-apple-ai-put-your-data-at-risk.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Europe\u2019s evangelistic approach to insisting Apple open up personal data to competing AI services is hurting Apple users in the region. More than that, it also places its entire business sector at risk",
+        "dwp_take": "Apple is being forced by European regulators to open up personal data access to competing AI services, which could expose user information to third-party vendors who may not meet Apple's security standards. For digital workplace teams managing employee devices across Europe, this creates a real headache around data governance, compliance risk, and the reliability of AI features that employees depend on daily. Here's the thing: regulators protecting privacy by demanding data sharing is like solving a fire by spraying gasoline, and someone's going to have to clean up that mess in the helpdesk queue.",
+        "date": "2026-06-16T08:43:29.259766+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Stop waiting, feel ready: 3 lessons to unlock creativity today",
-        "url": "https://www.fastcompany.com/91554361/3-creativity-lessons-to-stop-waiting-and-to-feel-ready?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The four hidden forces behind how you actually work",
+        "url": "https://www.fastcompany.com/91557328/four-hidden-forces-behind-how-you-actually-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Some of us treat creativity like a reward. Something we\u2019ll fully inhabit once a major milestone is reached or when the weekend comes around. Through years of working with leaders, I\u2019ve realized that t",
-        "dwp_take": "The article argues that people wrongly treat creativity as something to pursue later, after hitting milestones or clocking out, when they should be practicing it now as a daily habit. For digital workplace leaders, this matters because remote and hybrid teams need creative problem-solving to function, and you can't build that muscle if everyone's waiting for Friday to think differently. Here's the thing: most organizations claim they want innovation while simultaneously scheduling it into the calendar like it's a dentist appointment, which is exactly backwards.",
-        "date": "2026-06-15T08:57:08.511309+00:00"
+        "excerpt": "A few years ago during a financially uncertain time for our family, I tried to motivate my husband the same way I motivate myself: with anxiety. I\u2019d paint the worst-case scenario, hoping that fear wou",
+        "dwp_take": "Fast Company ran a piece exploring how different personality types respond to different motivational approaches, using a personal finance example to illustrate that fear-based motivation works for some people but actively backfires for others. This matters because most organizations impose one-size-fits-all productivity systems and communication styles that will inevitably demotivate a chunk of your workforce simply because they're wired differently. Here's the truth nobody wants to hear: your company's shiny new engagement initiative probably works great for anxious achievers and absolutely tanks for everyone else, which is why you keep wondering why half your people seem checked out.",
+        "date": "2026-06-16T08:43:33.948558+00:00"
+      },
+      {
+        "title": "Xbox plans layoffs, even after Microsoft CEO said company is \u2018long on gaming\u2019",
+        "url": "https://www.fastcompany.com/91559789/xbox-plans-layoffs-even-after-microsoft-ceo-said-company-is-long-on-gaming?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "In July, Xbox may be the next brand hit with major changes to its workforce. According to Bloomberg, people familiar with Xbox\u2019s strategy said that it is \u201cplanning major job cuts next month,\u201d although",
+        "dwp_take": "Microsoft is cutting Xbox jobs and marketing budgets despite CEO Satya Nadella's public statements about the company's commitment to gaming. This matters because it shows how quickly executive messaging can diverge from reality, which erodes employee trust and signals that your leadership's public statements might not reflect actual business decisions. After three decades watching tech layoffs, I've learned that when CEOs say they're \"long on\" something right before cuts hit that division, what they really mean is they're long on shareholder returns.",
+        "date": "2026-06-16T08:43:38.114709+00:00"
+      },
+      {
+        "title": "Your best employees are running a second job right now. It\u2019s called summer",
+        "url": "https://www.fastcompany.com/91557859/your-best-employees-running-second-job-right-now-called-summer?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Every June, my coaching conversations change. The leaders I work with are still talking about strategy and succession, but underneath, a second operating system is running. One client described her su",
+        "dwp_take": "Microsoft, Google, and other tech giants are seeing their star performers mentally check out and physically unavailable during summer months as childcare and family obligations pull focus away from work. This matters because digital workplace leaders are finally admitting what everyone already knew: your top talent isn't actually there in June, July, and August, and pretending they are just creates resentment and burnout. The real insight here is that companies built for rigid summer schedules are basically asking their best people to choose between their kids and their careers, which is a losing strategy for everyone.",
+        "date": "2026-06-16T08:43:42.380430+00:00"
+      },
+      {
+        "title": "Humans aren\u2019t great at identifying ADHD. But AI is",
+        "url": "https://www.fastcompany.com/91558397/humans-arent-great-at-identifying-adhd-but-ai-is?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "The barriers to getting a formal ADHD diagnosis are many: cost, time, the availability of qualified clinicians, a general lack of awareness. Plus, those with inattentive ADHD\u2014which is believed to be m",
+        "dwp_take": "AI tools are showing promise at identifying ADHD more accurately and faster than traditional clinical assessment, which matters because the existing diagnostic process is expensive, time-consuming, and filled with gatekeepers. For digital workplace leaders, this is crucial because undiagnosed ADHD directly impacts productivity, collaboration tools adoption, and retention, especially among employees who've been quietly struggling for years. Here's the thing though: an AI that spots ADHD in thirty seconds doesn't solve the actual problem if your company still has meeting schedules that would exhaust a normal person, let alone someone with attention regulation challenges.",
+        "date": "2026-06-16T08:43:52.337792+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "'Botsitting' is destroying productivity as workers spend nearly a full day each week making AI 'usable'",
-        "url": "https://www.itpro.com/technology/artificial-intelligence/botsitting-is-destroying-productivity-as-workers-spend-nearly-a-full-day-each-week-making-ai-usable",
-        "source": "ITPro",
+        "title": "Nintendo Alleged Data Breach: Threat Actor Demands $2M Ransom",
+        "url": "https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "While workers are reporting productivity improvements, \u2018botsitting\u2019 means these are often negated",
-        "dwp_take": "Workers are spending roughly a full workday per week babysitting AI tools to make them actually work, according to new research highlighted in ITPro. This matters because if your workforce is burning that much time correcting, prompting, and managing AI instead of doing actual work, you've got an expensive problem that nobody budgeted for. Here's the truth: companies bought shiny AI tools without thinking about the human labor tax required to make them useful, which is basically the digital workplace version of buying a fancy car that only runs if someone pushes it.",
-        "date": "2026-06-15T08:57:14.162626+00:00"
+        "excerpt": "Nintendo faces an alleged data extortion incident involving HR records, internal reports, and potential exposure of third-party vendors. The post Nintendo Alleged Data Breach: Threat Actor Demands $2M",
+        "dwp_take": "A threat actor claims to have breached Nintendo's systems and stolen HR records, internal reports, and vendor information while demanding two million dollars. This matters because it shows that even massive companies with serious security budgets can get hit, and when they do, employee data and supply chain details become leverage. The real kicker is that Nintendo probably won't pay, the attacker probably won't delete anything anyway, and meanwhile hundreds of employees are checking their credit reports tonight.",
+        "date": "2026-06-16T08:43:56.520093+00:00"
       },
       {
-        "title": "The AI pricing time bomb",
-        "url": "https://www.itpro.com/technology/artificial-intelligence/the-ai-pricing-time-bomb",
-        "source": "ITPro",
+        "title": "Fox to Buy Roku in $22B Deal, Adding Nearly 100M Streaming Viewers",
+        "url": "https://www.techrepublic.com/article/news-fox-roku-deal-streaming-ads/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "How should enterprises approach AI agents, and in particular, their AI budgets?",
-        "dwp_take": "Enterprises are waking up to the fact that AI agent deployments cost way more to run than initial pilots suggested, with pricing models that punish scale and usage. Digital workplace leaders need to understand these economics before they commit to AI tools, because a chatbot that seemed cheap at 100 users gets real expensive at 10,000 users, and finance will blame you for the surprise. The dirty secret nobody wants to admit at conference panels is that most companies will end up paying more for AI than they saved automating the thing in the first place.",
-        "date": "2026-06-15T08:57:18.475962+00:00"
+        "excerpt": "Fox\u2019s $22 billion Roku deal could expand its ad-supported streaming reach while giving it control of a major connected TV platform. The post Fox to Buy Roku in $22B Deal, Adding Nearly 100M Streaming ",
+        "dwp_take": "Fox is dropping $22 billion to buy Roku and grab access to nearly 100 million streaming viewers while controlling a major connected TV platform. This matters because it signals how seriously traditional media companies are taking the shift away from linear TV, which means your internal communications strategy better account for where your workforce actually consumes content. Watching Fox bet the farm on streaming is like watching someone finally fix the roof after the whole house has been flooded for five years.",
+        "date": "2026-06-16T08:44:00.527928+00:00"
       },
       {
-        "title": "Nottingham University cyber attack: Everything we know so far as ShinyHunters claims responsibility",
-        "url": "https://www.itpro.com/security/nottingham-university-cyber-attack-everything-we-know-so-far-as-shinyhunters-claims-responsibility",
-        "source": "ITPro",
+        "title": "Apple Watch Glucose Monitoring Apps: What Works Now and What Needs Your iPhone",
+        "url": "https://www.techrepublic.com/article/news-apple-watch-blood-sugar-cgm-apps-2026/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The personal data of past and present students has been accessed in the latest attack on the education sector",
-        "dwp_take": "Nottingham University fell victim to a cyber attack where the ShinyHunters group breached student records, exposing personal data of current and former students. This matters to digital workplace pros because universities are training grounds for tomorrow's workforce, and when their security fails, it signals what attackers will try on corporate networks next. Here's the thing though: if a major institution can't protect student data, imagine what's happening at companies spending less on security than they do on office snacks.",
-        "date": "2026-06-15T08:57:22.513205+00:00"
+        "excerpt": "Compare Apple Watch CGM apps for blood sugar readings, including Dexcom G7, FreeStyle Libre, and Eversense watch support. The post Apple Watch Glucose Monitoring Apps: What Works Now and What Needs Yo",
+        "dwp_take": "Apple Watch now supports multiple continuous glucose monitoring apps including Dexcom G7, FreeStyle Libre, and Eversense, though some features still require an iPhone nearby. This matters to digital workplace pros because wellness programs and employee health tracking are becoming standard workplace tech, and knowing which wearables actually deliver on their promises helps you build credible programs people will actually use. Look, if your wellness initiative is going to ask people to strap something to their wrist, it better work without requiring them to carry a phone the size of a brick in their other pocket.",
+        "date": "2026-06-16T08:44:05.387852+00:00"
       },
       {
-        "title": "MSPs grow wary over supply chain security threats",
-        "url": "https://www.itpro.com/security/msps-grow-wary-over-supply-chain-security-threats",
-        "source": "ITPro",
+        "title": "Father\u2019s Day Tech Gifts on Sale at Amazon, Best Buy, and Walmart",
+        "url": "https://www.techrepublic.com/article/news-best-fathers-day-tech-deals-2026/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "CyberSmart\u2019s 2026 MSP Survey found that more than two-in-five firms experienced a cyber incident linked to a supplier or third-party vendor over the past year",
-        "dwp_take": "More than 40% of MSPs got hit with cyber incidents coming through their supply chain over the past year, and they're rightfully nervous about it now. This matters because your digital workplace runs on a chain of vendors and integrations, and one weak link from your MSP's suppliers can compromise everything you've built. Here's the thing: we spent decades building fortresses around our networks while leaving the back door wide open to whoever our vendors let in.",
-        "date": "2026-06-15T08:57:26.539888+00:00"
+        "excerpt": "Shop curated Father\u2019s Day 2026 tech deals on headphones, wearables, tablets, earbuds, smart glasses, and more from Amazon, Best Buy, and Walmart today. The post Father\u2019s Day Tech Gifts on Sale at Amaz",
+        "dwp_take": "TechRepublic published a shopping guide for Father's Day tech deals across major retailers, highlighting discounts on headphones, wearables, tablets, and smart glasses. This matters to digital workplace pros because understanding consumer tech trends helps you anticipate what devices employees will bring into your workplace ecosystem and what support they'll expect. Honestly, if your dad gets smart glasses this Father's Day, your IT team should probably start planning for the support calls now.",
+        "date": "2026-06-16T08:44:10.432081+00:00"
       }
     ]
   }
