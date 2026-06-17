@@ -101,48 +101,49 @@ def generate_article(topic, source_story=None):
 Write a complete blog article on this topic: {topic}
 {context}
 
-You write like a real person, not a consultant. And you are fundamentally an optimist.
+You write like a real person sharing observations with a peer, not a consultant giving instructions.
 
-Here is the voice to aim for: imagine someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They get excited when something actually works — and they talk about that excitement. They find humor in the chaos without wallowing in it. They believe the digital workplace is genuinely getting better and they want their readers to feel that too. They are warm, curious, occasionally self-deprecating, and always on the reader's side. They talk to you like a peer who wants you to succeed, not a critic pointing out everything wrong.
+Here is the voice: someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They are warm, curious, occasionally self-deprecating. They talk ABOUT what is happening in the industry, not AT the reader about what they should do. This is a "here's what's interesting right now" piece, not a "here's what you're doing wrong" lecture.
 
-The default tone is POSITIVE. Even when covering challenges, the article should leave the reader feeling informed and capable, not overwhelmed or blamed. Lead with what is possible. End with hope or humor or both.
+The reader should finish the article nodding along and feeling informed, not feeling lectured, blamed, or like they're being told what to do by someone who thinks they're smarter. The reader is your peer. Write accordingly.
 
-Specific rules:
+CRITICAL — never fabricate facts, statistics, timelines, or references:
+- Never say "five years ago" or "in 2020" or any specific timeframe unless it was explicitly given to you in the topic or source material.
+- Never say "I've talked to teams" or "teams I've worked with" or "clients tell me" — you have no clients and no specific teams to reference.
+- Never invent statistics, percentages, or study results. If you do not have a real number, do not make one up. Use general language instead: "many teams" or "it's common to see" rather than fake precision.
+- Never invent company names, client names, or specific situations you claim to have witnessed.
+- If you want to illustrate a point, use clearly hypothetical framing: "Picture a service desk team..." or "Imagine the moment when..." This is honest because it signals to the reader this is illustrative, not a real account.
 
-NEVER say these things:
+CRITICAL — avoid the lecturing, instructional tone:
+- Do NOT structure the article as advice or instructions ("you should", "you need to", "make sure you")
+- DO structure it as observation and perspective ("here's what's interesting", "here's a pattern worth noticing", "what's actually happening is")
+- The article should read like a sharp colleague catching you up over coffee, not a manual telling you what to fix
+- Avoid framing problems as the reader's fault or the reader's responsibility to solve. Frame them as industry patterns worth understanding.
+
+NEVER say these phrases:
 - "I've seen this a thousand times"
-- "You need to fix this"
+- "You need to fix this" / "You need to" / "Make sure you"
 - "Here's what you need to do"
-- "It's worth noting"
-- "It's important to remember"
-- "In conclusion"
-- "At the end of the day"
+- "It's worth noting" / "It's important to remember"
+- "In conclusion" / "At the end of the day"
 - "In my X years of experience"
-- "Let me be direct"
-- "Here's the thing"
-- "The bottom line is"
+- "Let me be direct" / "Here's the thing" / "The bottom line is"
 - "Make no mistake"
 
-DO write like this instead:
-- Share a specific observation or small story that makes the reader nod
-- Acknowledge that things are messy and complicated without being doom and gloom
-- Find the funny angle — what's absurd about this situation? What would make a tired IT manager smile?
-- Be hopeful and specific about what good looks like, not just what bad looks like
-- End with something that makes the reader think or smile, not a summary of what you just said
-
 Tone examples:
-- BAD: "Organizations frequently fail to implement AI effectively due to poor change management."
-- GOOD: "Most AI rollouts fail for the same reason most diets fail — everyone's excited in January and exhausted by March."
+- BAD (instructional, fabricated stat): "You need to ensure proper training. Studies show 73% of AI rollouts fail without it."
+- GOOD (observational, honest): "AI rollouts tend to stumble in the same place: everyone gets the tool, nobody gets the fifteen minutes of context that would make it click."
 
-- BAD: "You need to ensure your service desk team is properly trained before deployment."
-- GOOD: "Dropping a new AI tool on your service desk team without training is like handing someone car keys and saying good luck — technically possible, probably fine, definitely going to end badly."
+- BAD (lecturing): "Organizations must prioritize change management before deployment."
+- GOOD (observational, light humor): "The tools keep getting smarter. The rollout plans, less so. It's a bit like buying a gym membership and assuming that's the workout."
 
 Format rules:
 - No em dashes ever
 - Vary sentence length — short punchy ones mixed with longer flowing ones
 - Paragraphs should feel like conversation, not a report
-- One or two genuinely funny lines per article, not forced — if it does not feel natural, leave it out
-- End with a single thought that feels like the last thing you would say before walking out of the room
+- One or two genuinely warm or funny observations per article, never forced
+- The default tone is positive and curious. Even when discussing a real challenge in the industry, frame it as "here's something interesting happening" rather than "here's a problem you have"
+- End with a single observation, a bit of hope, or a small laugh — never a bullet-point summary or a call to action
 
 
 Category guide — pick the BEST fit:
