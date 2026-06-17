@@ -1,156 +1,138 @@
 {
-  "generated": "2026-06-17T08:26:21.027987+00:00",
+  "generated": "2026-06-17T12:26:24.092628+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-        "dwp_take": "Plaud hit $100M in annual recurring revenue by shipping over 2 million AI notetakers into the market. For digital workplace teams, this signals that AI-assisted meeting documentation has moved from nice-to-have to table stakes, which means your organization needs a solid strategy around what gets recorded, who owns the data, and how it actually gets used. The crowded market is good news for buyers but bad news for IT teams who'll spend the next two years managing yet another tool that promises to save time but mostly just creates more transcripts nobody reads.",
-        "date": "2026-06-17T08:25:13.002242+00:00"
+        "excerpt": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+        "dwp_take": "Pinterest rolled out Ask Pinterest, an AI chatbot that lets users ask for shopping recommendations and inspiration instead of scrolling through pins. This matters because it signals how search behavior is shifting across platforms, and digital workplace teams are now figuring out how to optimize content for conversational AI rather than traditional keyword searches. Honestly, if Pinterest thinks people want to chat with an AI about throw pillows instead of endlessly scrolling, they're either brilliant or have fundamentally misunderstood why people use Pinterest in the first place.",
+        "date": "2026-06-17T12:25:20.741464+00:00"
       },
       {
-        "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
-        "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note ",
-        "dwp_take": "Robinhood's CEO laid off 10% of staff without the usual \"we're pivoting to AI\" excuse that's become Silicon Valley's favorite layoff justification. This matters because it signals that workers and investors are finally getting tired of the AI smokescreen and expecting honest communication about business decisions. Tenev's silence on AI is actually refreshing, even if the outcome is the same, because at least he's not insulting our intelligence by pretending a chatbot is the real reason people are losing their jobs.",
-        "date": "2026-06-17T08:25:17.492562+00:00"
-      },
-      {
-        "title": "Sweeping Android 17 update brings new AI capabilities and features to Pixel smartphones",
-        "url": "https://siliconangle.com/2026/06/16/sweeping-android-17-update-brings-new-ai-capabilities-features-pixel-smartphones/",
+        "title": "Ex-Cisco researchers launch Tenet Security to lock down rogue AI agents",
+        "url": "https://siliconangle.com/2026/06/17/ex-cisco-researchers-launch-tenet-security-lock-rogue-ai-agents/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Google LLC today dropped the latest version of its Android operating system for mobile devices, and it\u2019s rolling out to Pixel smartphone users first of all. It\u2019s a pretty sweeping update, introducing ",
-        "dwp_take": "Google released Android 17 with major AI features, new communication tools, and security upgrades, rolling out first to Pixel phones. Digital workplace pros need to pay attention because these updates affect how employees access corporate systems, handle sensitive data, and collaborate on mobile devices, which means IT teams better start planning compatibility testing now. Here's the thing: every time Google dumps a feature-heavy OS update on the market, someone in your organization is going to want to use it immediately, and your security team is going to have a minor heart attack.",
-        "date": "2026-06-17T08:25:22.996001+00:00"
+        "excerpt": "Former Cisco artificial intelligence security researchers have launched a new company to tackle a problem that barely existed a year ago: securing the autonomous AI agents enterprises are handing the ",
+        "dwp_take": "A group of ex-Cisco security researchers just launched Tenet Security to solve a brand new problem: stopping rogue AI agents from wrecking your enterprise systems before they go live. This matters because we're about to hand autonomous AI decision-making power over critical workflows, and nobody really knows how to stop them when they go sideways. Here's the thing though: we're building the parachute on the way down, which is how every major tech shift works, so at least someone experienced is finally paying attention.",
+        "date": "2026-06-17T12:25:25.361076+00:00"
       },
       {
-        "title": "China\u2019s DeepSeek reportedly raises $7.4B in funding at $50B+ valuation",
-        "url": "https://siliconangle.com/2026/06/16/chinas-deepseek-reportedly-raises-7-4b-funding-50b-valuation/",
+        "title": "CYGNVS launches command center for crises caused by a company\u2019s own AI",
+        "url": "https://siliconangle.com/2026/06/17/cygnvs-launches-command-center-crises-caused-companys-ai/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Chinese artificial intelligence lab DeepSeek has reportedly raised more than 50 billion yuan, or $7.4 billion, in new funding. The Information and the Wall Street Journal today cited sources as saying",
-        "dwp_take": "A Chinese AI startup called DeepSeek just raised $7.4 billion and hit a $50 billion valuation, making it China's most valuable AI company. This matters because workplace tech leaders need to pay attention to who's funding AI development outside the US, since it affects everything from tool availability to competitive positioning in the enterprise space. Honestly, if you're still treating AI as a future-state problem rather than a now-state competitive threat, you're already behind.",
-        "date": "2026-06-17T08:25:26.894445+00:00"
+        "excerpt": "Cyber resilience company CYGNVS Inc. today launched its AI Incident Command Center, a platform built to help organizations manage operational crises caused by their own artificial intelligence deploym",
+        "dwp_take": "CYGNVS just launched a platform specifically designed to handle disasters caused by your own AI systems going haywire in production. This matters because as organizations rush to deploy AI across their operations, they're realizing nobody actually has a playbook for when these systems break, hallucinate, or cause compliance nightmares. Thirty years in this space taught me that we always build the safety net after someone falls off the tightrope, and this product is basically admitting we've already let the rope get pretty frayed.",
+        "date": "2026-06-17T12:25:29.524944+00:00"
+      },
+      {
+        "title": "Databricks\u2019 new agentic coworker Genie One brings AI automation to every part of the business",
+        "url": "https://siliconangle.com/2026/06/16/databricks-new-agentic-coworker-genie-one-brings-ai-automation-every-part-business/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Big-data company Databricks Inc. is getting into the agentic artificial intelligence coworker game with the launch of a new tool called Genie One, aimed at helping business teams orchestrate workflows",
+        "dwp_take": "Databricks launched Genie One, an AI agent designed to automate workflows and orchestrate tasks across business operations, expanding beyond their earlier conversational analytics tool. Digital workplace pros need to pay attention because autonomous agents are moving from nice-to-have demos into actual work orchestration, which means your integration strategy and governance frameworks just got a lot more complicated. Look, everyone's bolting \"agentic AI\" onto their product roadmap these days, but the real question is whether Genie One actually reduces busywork or just creates a new layer of babysitting robots.",
+        "date": "2026-06-17T12:25:34.231260+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Amazon has discounted a Lenovo IdeaPad for 73% off, and it's actually worth considering",
-        "url": "https://www.zdnet.com/article/lenovo-ideapad-1i-amazon-prime-day-deal-2026/",
+        "title": "Here's a portable power bank that's actually worth its high price - especially if you travel",
+        "url": "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Over at Amazon, the Lenovo IdeaPad 1i has dropped to $300, making it one of the best laptop deals available on the platform.",
-        "dwp_take": "Amazon is selling a Lenovo IdeaPad 1i laptop for $300, down 73% from its original price. For digital workplace folks managing device budgets and remote work setups, this matters because affordable hardware that doesn't completely fall apart is genuinely hard to find. That said, before you load up your cart thinking you've cracked the code on employee devices, remember that a screaming deal on a budget laptop still gets you a budget laptop, so check those specs carefully or your IT team will be hearing about it.",
-        "date": "2026-06-17T08:25:31.257740+00:00"
+        "excerpt": "The Cuktech 15 Air is a small yet energy-dense power bank that earns a ZDNET Lab Awards badge as the fastest-charging power bank we've tested.",
+        "dwp_take": "ZDNet tested a portable power bank called the Cuktech 15 Air and found it charges faster than competitors while remaining compact enough to travel with. For remote workers and road warriors who live on video calls, a reliable power bank that actually delivers on speed matters because dead devices mean dead productivity. Look, I've seen people panic over a dying laptop during client calls for thirty years, so if this thing actually works, it's worth the price tag just for the peace of mind alone.",
+        "date": "2026-06-17T12:25:39.312117+00:00"
       },
       {
-        "title": "Android 17 is out now, with a fresh Pixel Drop for June - here's what's new",
-        "url": "https://www.zdnet.com/article/android-17-is-out-with-june-pixel-drop-whats-new/",
+        "title": "Malicious apps got into the Arch User Repository - how to protect yourself",
+        "url": "https://www.zdnet.com/article/the-arch-user-repository-was-found-to-contain-even-more-malicious-apps/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "You're getting productivity tricks, bubbles, new AI models, upgraded security, and more.",
-        "dwp_take": "Google dropped Android 17 with the June Pixel update, adding productivity features, new AI capabilities, improved security, and messaging bubbles to the mix. Digital workplace folks need to care because every OS update means potential compatibility headaches with enterprise apps, security policy changes, and user support tickets flooding in on day one. Here's the reality: another quarter, another \"revolutionary\" AI feature nobody asked for, while half your organization is still running Android 12 wondering what happened to their email app.",
-        "date": "2026-06-17T08:25:35.391176+00:00"
+        "excerpt": "For the second time in a week, the AUR was found to contain malicious applications. What can Arch Linux users do about this?",
+        "dwp_take": "Malicious apps slipped into the Arch User Repository twice in one week, giving bad actors a direct pipeline to developer machines and workstations. This matters because many tech teams run Arch or derivatives on their systems, and if your developers or IT staff got compromised through something they thought was legitimate, you've got a real problem on your hands. The AUR's openness is both its greatest strength and its Achilles heel, which means your people need to treat it like they treat sketchy USB drives at conferences: with healthy skepticism.",
+        "date": "2026-06-17T12:25:43.932300+00:00"
       },
       {
-        "title": "Microsoft says you don\u2019t need another email security tool; experts say, not so fast",
-        "url": "https://www.computerworld.com/article/4185990/microsoft-says-you-dont-need-another-email-security-tool-experts-say-not-so-fast-2.html",
+        "title": "Microsoft launches Copilot Cowork with usage-based pricing",
+        "url": "https://www.computerworld.com/article/4186190/microsoft-launches-copilot-cowork-with-usage-based-pricing.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Despite best efforts by defenders, malicious emails continue to slip through the cybersecurity cracks, leading some enterprises to implement a layered \u201cdefense in depth\u201d strategy that incorporates mul",
-        "dwp_take": "Microsoft claims their built-in email security is sufficient and that layering additional tools provides minimal benefit, but security researchers disagree and recommend a multi-layered defense approach anyway. This matters because many organizations are caught between trusting their existing Microsoft investment and the real-world evidence that determined attackers still get through single-layer defenses. Here's the thing: Microsoft has every incentive to say their tool is enough, and I've seen enough breaches to know that relying on any single vendor's promise, no matter how good their product actually is, tends to end badly.",
-        "date": "2026-06-17T08:25:40.630427+00:00"
+        "excerpt": "Microsoft has introduced usage-based billing for Copilot Cowork, which is now generally available. Microsoft unveiled Copilot Cowork in March, pitching it as an AI agent that\u2019s capable of independentl",
+        "dwp_take": "Microsoft just rolled out pay-as-you-go pricing for Copilot Cowork, their AI agent that runs tasks independently even when your machine is sleeping. This matters because it finally gives organizations a way to test autonomous AI without committing to fixed costs, which could actually make adoption realistic instead of theoretical. The real question is whether teams will trust their valuable work to an AI agent running unsupervised, or if this just becomes another expensive experiment gathering dust in procurement.",
+        "date": "2026-06-17T12:25:51.029988+00:00"
       },
       {
-        "title": "Anthropic\u2019s new privacy policy offers US consumers a way around the Fable ban",
-        "url": "https://www.computerworld.com/article/4185515/anthropics-new-privacy-policy-offers-us-consumers-a-way-around-fable-ban-2.html",
+        "title": "Z.ai pitches GLM-5.2 for long-running software engineering tasks",
+        "url": "https://www.computerworld.com/article/4186143/z-ai-pitches-glm-5-2-for-long-running-software-engineering-tasks-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Anthropic\u2019s apparent inability to identify which of its users are foreign nationals has led to some collateral damage from a US export ban on its most powerful AI models \u2014 but there is a way around it",
-        "dwp_take": "Anthropic got slapped with a US export ban on its newest AI models and can't actually tell who's foreign versus domestic, so they're letting Americans opt into a privacy policy that basically says \"trust us, we won't share your data with foreigners.\" This matters because if your organization is counting on cutting-edge AI tools for knowledge work, you're potentially looking at access restrictions, compliance headaches, and the awkward reality that AI companies haven't figured out basic identity verification. The real kicker is that Anthropic's solution amounts to asking users to pinky-swear they're American, which feels like the digital equivalent of an honor system at a bank.",
-        "date": "2026-06-17T08:25:45.151703+00:00"
+        "excerpt": "Z.ai has released GLM-5.2, an MIT-licensed open-source AI model designed for long-running software engineering tasks, as the Chinese company seeks to challenge proprietary coding models on cost and pe",
+        "dwp_take": "Z.ai dropped GLM-5.2, an open-source AI model built for extended software engineering work that apparently competes with Claude and GPT-5 while being cheaper and MIT-licensed. This matters because it signals the coding AI space is finally getting real competition beyond the usual OpenAI and Anthropic duopoly, which could actually drive innovation instead of just higher bills. If a Chinese startup can match proprietary models at a fraction of the cost, enterprise development teams need to stop autopiloting toward whatever's loudest and actually evaluate what solves their problems.",
+        "date": "2026-06-17T12:25:56.983272+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Why employers should treat domestic violence as a workplace issue",
-        "url": "https://www.fastcompany.com/91559758/why-employers-should-treat-domestic-violence-as-a-workplace-issue?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Is technical literacy the new MBA?",
+        "url": "https://www.fastcompany.com/91550835/is-technical-literacy-the-new-mba-technical-skills-mba?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "In a small West Virginia county a few years ago, Wanda (pseudonym) asked her employer for some time off to deal with a situation at home. Her employer turned her down. Not long after, Wanda\u2019s situatio",
-        "dwp_take": "Employers are increasingly recognizing that domestic violence isn't just a personal problem, it's a workplace safety and productivity issue that demands policy responses and support structures. For digital workplace professionals, this means building inclusive benefits platforms, flexible work policies, and resource access into your systems because your workforce's safety directly affects your organizational health. The hard truth is that treating domestic violence as someone else's problem is not only morally indefensible, it's bad business that costs companies money and occasionally, as in Wanda's case, puts everyone at risk.",
-        "date": "2026-06-17T08:25:49.655631+00:00"
+        "excerpt": "Traditional business degrees once guaranteed a path to leadership, but today\u2019s market increasingly rewards technical literacy over classroom credentials. The shift reflects a fundamental change in how",
+        "dwp_take": "Microsoft just published their quarterly earnings and half the analysis focused on AI productivity gains nobody can actually measure yet. The shift from \"did you go to a good school\" to \"can you actually work in modern software systems\" matters because it finally aligns hiring with reality instead of pedigree. Here's the thing though: technical literacy without judgment and communication skills is just expensive trouble waiting to happen, so let's not overcorrect and hire people who can code but can't explain why anyone should care.",
+        "date": "2026-06-17T12:26:01.324769+00:00"
       },
       {
-        "title": "Robinhood lays off 10% of staff to flatten its organizational structure",
-        "url": "https://www.fastcompany.com/91560615/robinhood-lays-off-10-of-staff-to-flatten-its-organizational-structure?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "In a Securities and Exchange Commission (SEC) filing on Tuesday, Robinhood said it would cut 10% of its full-time workforce of 2,900 and close a \u201csmall number\u201d of open roles. The Menlo Park, Californi",
-        "dwp_take": "Robinhood is cutting 10% of its workforce while eliminating middle management layers to reduce costs and bureaucracy. This matters because it's the latest example of companies betting that flatter hierarchies improve decision-making and agility, which puts pressure on digital workplace tools to handle broader spans of control. The irony is that executives always claim they're cutting bloat, but somehow the tools budget survives intact every time.",
-        "date": "2026-06-17T08:25:53.928397+00:00"
-      },
-      {
-        "title": "The power of personal branding",
-        "url": "https://www.fastcompany.com/91546948/the-power-of-personal-branding-personal-branding?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "When I published The Most Powerful Woman in the Room Is You in 2019, I thought I was launching a book. I didn\u2019t realize it at the time, but what I was actually building was a brand. In my first meetin",
-        "dwp_take": "A Fast Company piece explores how the author accidentally built a personal brand while launching a book in 2019, starting with a snap decision on red and pink color palettes. For digital workplace folks, this matters because personal branding directly impacts how you're perceived internally, your career trajectory, and whether people actually remember who you are beyond your job title. Here's the thing though: most people overthink personal branding like it's rocket science when really it's just being consistently yourself across platforms and actually showing up.",
-        "date": "2026-06-17T08:25:57.770457+00:00"
-      },
-      {
-        "title": "\u2018Pretty Crazy\u2019 Token Usage Is Testing Bosses\u2019 Bet on AI",
-        "url": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+        "title": "Meta CTO Andrew Bosworth Admits the Company\u2019s AI Reorg Was \u2018Atrocious\u2019",
+        "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of \u201ctokenomics.\u201d",
-        "dwp_take": "Companies are discovering that AI models consume way more tokens (basically the building blocks of AI processing) than expected, creating serious budget headaches and forcing IT leaders to rethink their AI strategies. This matters because digital workplace leaders are getting pressure to deploy AI everywhere, but the actual costs of running these systems at scale are turning out to be a lot messier than the vendor pitch decks suggested. After three decades in this space, I can tell you this is just the latest reminder that technology adoption always looks cheaper on a spreadsheet than it does in reality, and someone's going to have some awkward conversations with finance.",
-        "date": "2026-06-17T08:26:02.894326+00:00"
+        "excerpt": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+        "dwp_take": "Meta's CTO admitted in an internal memo that his company botched a recent AI reorganization and is now promising employees stability, communication, and perks to fix morale. This matters because when a company of Meta's scale struggles with organizational chaos and employee trust, it signals that even tech giants can bungle change management, giving digital workplace leaders a cautionary tale worth studying. Here's the thing though: no amount of returned ping pong tables will fix the underlying problem that nobody actually told people what was happening during the reorganization in the first place.",
+        "date": "2026-06-17T12:26:06.759588+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Infinite Campus: Salesforce Breach Exposed 137,000 Staff Records",
-        "url": "https://www.techrepublic.com/article/news-infinite-campus-salesforce-breach-school-staff-data/",
+        "title": "Best Prime Day Tech Deals: Apple, Bose, Garmin, and More",
+        "url": "https://www.techrepublic.com/article/news-best-early-amazon-prime-day-tech-deals-2026/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Infinite Campus says a Salesforce breach exposed data tied to 137,000 school staff accounts, raising phishing and SaaS security concerns. The post Infinite Campus: Salesforce Breach Exposed 137,000 St",
-        "dwp_take": "A Salesforce vulnerability exposed personal data for 137,000 school employees through Infinite Campus, a widely used student information system. This matters because schools are increasingly relying on cloud platforms to manage sensitive employee and student data, and breaches like this one expose the real security gaps between vendors and the institutions trusting them. Here's the thing: if your organization thinks \"we use Salesforce so we're secure\" you're already behind, because security is a chain and Infinite Campus just proved the links are weaker than advertised.",
-        "date": "2026-06-17T08:26:07.491277+00:00"
+        "excerpt": "Shop early Amazon Prime Day tech deals on earbuds, mice, routers, doorbells, headphones, smartwatches, Android phones, and fitness watches. The post Best Prime Day Tech Deals: Apple, Bose, Garmin, and",
+        "dwp_take": "Amazon Prime Day is offering discounts on consumer tech like earbuds, smartwatches, and networking equipment. Digital workplace pros often refresh personal devices during these sales, which matters because what people use at home increasingly bleeds into work environments, especially with hybrid setups. Honestly, if your organization's security posture depends on employees NOT buying cheap routers from Prime Day deals, you've already lost the battle.",
+        "date": "2026-06-17T12:26:10.681420+00:00"
       },
       {
-        "title": "Nvidia Eyes $20B Debt Sale as AI Cash Flow Soars",
-        "url": "https://www.techrepublic.com/article/news-nvidia-debt-sale/",
+        "title": "Salesforce Makes $3.6B Play for AI Customer Service",
+        "url": "https://www.techrepublic.com/article/news-salesforce-acquires-fin-agentforce-ai-agents/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nvidia\u2019s planned debt sale could top $20 billion, giving enterprise buyers another look at its cash flow, debt profile, and AI financing plans. The post Nvidia Eyes $20B Debt Sale as AI Cash Flow Soar",
-        "dwp_take": "Nvidia is planning a massive $20 billion debt sale, capitalizing on strong AI-driven cash flows to raise capital for growth and shareholder returns. This matters to digital workplace professionals because it signals where the big money is flowing, which determines what technologies get funded, what gets shelved, and ultimately what tools your organization will be pressured to adopt in the next few years. If you're not already getting questions about generative AI implementation in your workplace strategy, buckle up because this kind of cash burn by Nvidia tells you those questions are coming whether you're ready or not.",
-        "date": "2026-06-17T08:26:12.098686+00:00"
+        "excerpt": "Salesforce will buy Fin, formerly Intercom, for about $3.6 billion to expand Agentforce with AI customer service agents and support automation. The post Salesforce Makes $3.6B Play for AI Customer Ser",
+        "dwp_take": "Salesforce just dropped 3.6 billion dollars to buy Fin, the AI customer service platform formerly known as Intercom, to beef up its Agentforce offering with smarter automation and AI agents. This matters because every digital workplace is now figuring out how AI customer service fits into their employee tools and workflows, and Salesforce just signaled this is table stakes for enterprise platforms. Honestly, at that price tag Fin better not just be replacing helpful humans with chatbots that make customers angrier than they were before calling in.",
+        "date": "2026-06-17T12:26:14.907207+00:00"
       },
       {
-        "title": "SpaceX to Acquire Cursor in $60B Stock Deal, Deepening Elon Musk\u2019s AI Empire",
-        "url": "https://www.techrepublic.com/article/news-spacex-cursor-acquisition/",
+        "title": "ShinyHunters Claims Council of Europe HR Data, Threatens Leak",
+        "url": "https://www.techrepublic.com/article/news-shinyhunters-council-europe-data-theft-claim-emea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "SpaceX will buy Cursor parent Anysphere in a $60B all-stock deal, giving Elon Musk\u2019s company a major AI coding asset days after its IPO. The post SpaceX to Acquire Cursor in $60B Stock Deal, Deepening",
-        "dwp_take": "SpaceX just dropped $60 billion in stock to buy Anysphere, the company behind Cursor, an AI coding tool that's been gaining real traction with developers. For digital workplace folks, this matters because AI-assisted coding is moving from nice-to-have to table-stakes, and when a rocket company with unlimited resources decides this is worth massive capital, your enterprise tooling strategy needs updating. Elon's basically saying \"I'm betting the farm on AI developers\" right after an IPO, which is either visionary or a sign he's betting on every shiny thing that moves these days, honestly.",
-        "date": "2026-06-17T08:26:16.689340+00:00"
+        "excerpt": "ShinyHunters claims it stole 297GB of data from the Council of Europe, including payroll and medical records, but the organization has not confirmed a breach. The post ShinyHunters Claims Council of E",
+        "dwp_take": "A hacking group called ShinyHunters claims they've stolen nearly 300 gigabytes of HR data from the Council of Europe, including payroll and medical records, though the organization hasn't confirmed anything yet. This matters because if true, it's a textbook example of why your employee data governance and access controls need to be airtight, not aspirational. The Council of Europe dealing with this is like a fire safety inspector's house catching fire, except the fire might involve your entire workforce's personal information.",
+        "date": "2026-06-17T12:26:20.064026+00:00"
       },
       {
-        "title": "Apple Watch Blood Sugar Tracking: Latest Timeline, Patents, and Challenges",
-        "url": "https://www.techrepublic.com/article/news-apple-watch-blood-sugar-tracking-timeline-patents/",
+        "title": "Meta\u2019s New Facebook \u2018AI Mode\u2019 Pulls From Groups, Reels, and Posts",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-mode-facebook-search-public-posts/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple Watch blood sugar tracking remains unconfirmed. Here's the latest on the timeline, patents, technical challenges, and what Apple Watch can do now. The post Apple Watch Blood Sugar Tracking: Late",
-        "dwp_take": "Apple is still working on blood sugar tracking for the Apple Watch, but it's not ready yet and faces real technical hurdles that keep pushing the timeline back. For digital workplace leaders, this matters because wearable health data will eventually become part of how we track employee wellness programs, and you need to understand what's actually possible versus what's vaporware. Honestly, after years of patents and promises, I'll believe Apple's glucose monitoring when I'm wearing it, not when I'm reading about it.",
-        "date": "2026-06-17T08:26:21.027885+00:00"
+        "excerpt": "Meta AI Mode brings AI-generated answers to Facebook search using public posts, raising questions about reliability and source visibility. The post Meta\u2019s New Facebook \u2018AI Mode\u2019 Pulls From Groups, Ree",
+        "dwp_take": "Meta's rolling out an AI Mode on Facebook search that generates answers by pulling from public posts, groups, and reels without always showing where the information came from. For anyone managing internal communications or employee engagement platforms, this is a cautionary tale about what happens when you let AI summarize user-generated content without proper attribution or fact-checking. I give it six months before someone's relying on this for actual business decisions and wondering why their quarterly projections are based on a reel from 2019.",
+        "date": "2026-06-17T12:26:24.092465+00:00"
       }
     ]
   }
