@@ -1,138 +1,156 @@
 {
-  "generated": "2026-06-17T12:26:24.092628+00:00",
+  "generated": "2026-06-18T08:05:06.630269+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
-        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+        "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+        "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-        "dwp_take": "Pinterest rolled out Ask Pinterest, an AI chatbot that lets users ask for shopping recommendations and inspiration instead of scrolling through pins. This matters because it signals how search behavior is shifting across platforms, and digital workplace teams are now figuring out how to optimize content for conversational AI rather than traditional keyword searches. Honestly, if Pinterest thinks people want to chat with an AI about throw pillows instead of endlessly scrolling, they're either brilliant or have fundamentally misunderstood why people use Pinterest in the first place.",
-        "date": "2026-06-17T12:25:20.741464+00:00"
+        "excerpt": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its",
+        "dwp_take": "Enterprises spent money on AI tools without measuring results, then got shocked when the bills arrived and nobody could prove the investment was working. This matters because digital workplace leaders are under pressure to justify every software dollar while executives still treat AI like a shiny toy, creating a credibility gap that's going to haunt procurement conversations for years. The real story here is that tokenmaxxing is just the latest example of tech solving for activity instead of outcomes, which is exactly how you end up with expensive Slack instances nobody actually uses.",
+        "date": "2026-06-18T08:03:55.014088+00:00"
       },
       {
-        "title": "Ex-Cisco researchers launch Tenet Security to lock down rogue AI agents",
-        "url": "https://siliconangle.com/2026/06/17/ex-cisco-researchers-launch-tenet-security-lock-rogue-ai-agents/",
-        "source": "SiliconAngle",
+        "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
+        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Former Cisco artificial intelligence security researchers have launched a new company to tackle a problem that barely existed a year ago: securing the autonomous AI agents enterprises are handing the ",
-        "dwp_take": "A group of ex-Cisco security researchers just launched Tenet Security to solve a brand new problem: stopping rogue AI agents from wrecking your enterprise systems before they go live. This matters because we're about to hand autonomous AI decision-making power over critical workflows, and nobody really knows how to stop them when they go sideways. Here's the thing though: we're building the parachute on the way down, which is how every major tech shift works, so at least someone experienced is finally paying attention.",
-        "date": "2026-06-17T12:25:25.361076+00:00"
+        "excerpt": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight \u2014 a fear the Anthropic blackout just made real.",
+        "dwp_take": "World leaders are worried the U.S. could suddenly cut off access to American AI systems, and the recent Anthropic outage proved this isn't paranoia. For digital workplace pros, this matters because your organization's AI tools, workflows, and maybe your entire productivity stack could vanish if geopolitical tensions spike or regulations shift. Here's the reality: betting your workplace operations on American AI without a backup plan is like building your office in a rented building with no lease, which is exactly what half the Fortune 500 just did anyway.",
+        "date": "2026-06-18T08:03:59.752063+00:00"
       },
       {
-        "title": "CYGNVS launches command center for crises caused by a company\u2019s own AI",
-        "url": "https://siliconangle.com/2026/06/17/cygnvs-launches-command-center-crises-caused-companys-ai/",
-        "source": "SiliconAngle",
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Cyber resilience company CYGNVS Inc. today launched its AI Incident Command Center, a platform built to help organizations manage operational crises caused by their own artificial intelligence deploym",
-        "dwp_take": "CYGNVS just launched a platform specifically designed to handle disasters caused by your own AI systems going haywire in production. This matters because as organizations rush to deploy AI across their operations, they're realizing nobody actually has a playbook for when these systems break, hallucinate, or cause compliance nightmares. Thirty years in this space taught me that we always build the safety net after someone falls off the tightrope, and this product is basically admitting we've already let the rope get pretty frayed.",
-        "date": "2026-06-17T12:25:29.524944+00:00"
+        "excerpt": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+        "dwp_take": "Anthropic, the AI startup behind Claude, joined Frontier, a coalition that funds carbon removal technology, bringing the coalition's pledges to $915 million. This matters because digital workplace leaders are increasingly expected to understand their organization's AI carbon footprint and sustainability commitments, making this a signal worth watching. Still, it's worth noting that pledging money to carbon removal is easier than actually reducing emissions in the first place, but at least someone's thinking about the problem while the rest of us argue about whether Slack uses too much bandwidth.",
+        "date": "2026-06-18T08:04:04.183724+00:00"
       },
       {
-        "title": "Databricks\u2019 new agentic coworker Genie One brings AI automation to every part of the business",
-        "url": "https://siliconangle.com/2026/06/16/databricks-new-agentic-coworker-genie-one-brings-ai-automation-every-part-business/",
-        "source": "SiliconAngle",
+        "title": "Social media\u2019s next evolution: user-controlled algorithms",
+        "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Big-data company Databricks Inc. is getting into the agentic artificial intelligence coworker game with the launch of a new tool called Genie One, aimed at helping business teams orchestrate workflows",
-        "dwp_take": "Databricks launched Genie One, an AI agent designed to automate workflows and orchestrate tasks across business operations, expanding beyond their earlier conversational analytics tool. Digital workplace pros need to pay attention because autonomous agents are moving from nice-to-have demos into actual work orchestration, which means your integration strategy and governance frameworks just got a lot more complicated. Look, everyone's bolting \"agentic AI\" onto their product roadmap these days, but the real question is whether Genie One actually reduces busywork or just creates a new layer of babysitting robots.",
-        "date": "2026-06-17T12:25:34.231260+00:00"
+        "excerpt": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+        "dwp_take": "Meta platforms are finally letting users tweak their own algorithmic feeds instead of just accepting whatever the black box decides to show them. This matters because digital workplace pros have spent years trying to get employees to engage with internal social tools that feel like the algorithmic wild west, so user control could actually make people want to use these platforms instead of treating them like corporate punishment. About time someone asked users what they wanted instead of just optimizing for engagement metrics and wondering why people are mad all the time.",
+        "date": "2026-06-18T08:04:08.583041+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Here's a portable power bank that's actually worth its high price - especially if you travel",
-        "url": "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/",
+        "title": "Does your phone charge as fast as advertised? I measured the latest iPhone, Samsung, OnePlus",
+        "url": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "The Cuktech 15 Air is a small yet energy-dense power bank that earns a ZDNET Lab Awards badge as the fastest-charging power bank we've tested.",
-        "dwp_take": "ZDNet tested a portable power bank called the Cuktech 15 Air and found it charges faster than competitors while remaining compact enough to travel with. For remote workers and road warriors who live on video calls, a reliable power bank that actually delivers on speed matters because dead devices mean dead productivity. Look, I've seen people panic over a dying laptop during client calls for thirty years, so if this thing actually works, it's worth the price tag just for the peace of mind alone.",
-        "date": "2026-06-17T12:25:39.312117+00:00"
+        "excerpt": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
+        "dwp_take": "A tech reviewer put flagship phones from Apple, Samsung, and OnePlus through real-world charging tests and found the actual speeds don't match the marketing promises. This matters to digital workplace folks because half your workforce is probably running their entire work life off a phone battery, and if your team is burning through juice before lunch, productivity takes a hit. Here's the truth: phone makers have been gaming the charging speed conversation for years, and honestly, it's time they just told us how long it actually takes to go from dead to usable instead of throwing around megawatts like they're comparing shoe sizes.",
+        "date": "2026-06-18T08:04:13.428023+00:00"
       },
       {
-        "title": "Malicious apps got into the Arch User Repository - how to protect yourself",
-        "url": "https://www.zdnet.com/article/the-arch-user-repository-was-found-to-contain-even-more-malicious-apps/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "For the second time in a week, the AUR was found to contain malicious applications. What can Arch Linux users do about this?",
-        "dwp_take": "Malicious apps slipped into the Arch User Repository twice in one week, giving bad actors a direct pipeline to developer machines and workstations. This matters because many tech teams run Arch or derivatives on their systems, and if your developers or IT staff got compromised through something they thought was legitimate, you've got a real problem on your hands. The AUR's openness is both its greatest strength and its Achilles heel, which means your people need to treat it like they treat sketchy USB drives at conferences: with healthy skepticism.",
-        "date": "2026-06-17T12:25:43.932300+00:00"
-      },
-      {
-        "title": "Microsoft launches Copilot Cowork with usage-based pricing",
-        "url": "https://www.computerworld.com/article/4186190/microsoft-launches-copilot-cowork-with-usage-based-pricing.html",
+        "title": "How companies are racing to solve the AI token problem",
+        "url": "https://www.computerworld.com/article/4185848/how-companies-are-racing-to-solve-the-ai-token-problem.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Microsoft has introduced usage-based billing for Copilot Cowork, which is now generally available. Microsoft unveiled Copilot Cowork in March, pitching it as an AI agent that\u2019s capable of independentl",
-        "dwp_take": "Microsoft just rolled out pay-as-you-go pricing for Copilot Cowork, their AI agent that runs tasks independently even when your machine is sleeping. This matters because it finally gives organizations a way to test autonomous AI without committing to fixed costs, which could actually make adoption realistic instead of theoretical. The real question is whether teams will trust their valuable work to an AI agent running unsupervised, or if this just becomes another expensive experiment gathering dust in procurement.",
-        "date": "2026-06-17T12:25:51.029988+00:00"
+        "excerpt": "Because generative AI (genAI) tools and services have become so ubiquitous (and popular), the costs of using them are going through the roof \u2014 leading to an insatiable appetite for tokens. Tokens repr",
+        "dwp_take": "Companies are scrambling to manage exploding AI costs as token consumption skyrockets across their organizations. This matters because digital workplace leaders now have to make real decisions about which AI tools get budget priority, how to govern AI spending, and whether employees are using these tools efficiently or just chatting with chatbots for fun. It's basically the cloud cost management problem all over again, except this time everyone's panicking because they greenlit AI everywhere without thinking about what it would actually cost.",
+        "date": "2026-06-18T08:04:19.057447+00:00"
       },
       {
-        "title": "Z.ai pitches GLM-5.2 for long-running software engineering tasks",
-        "url": "https://www.computerworld.com/article/4186143/z-ai-pitches-glm-5-2-for-long-running-software-engineering-tasks-2.html",
+        "title": "Judge signals AI recruitment tool vendors like Workday may not escape liability for discrimination",
+        "url": "https://www.computerworld.com/article/4186560/judge-signals-ai-recruitment-tool-vendors-like-workday-may-not-escape-liability-for-discrimination-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Z.ai has released GLM-5.2, an MIT-licensed open-source AI model designed for long-running software engineering tasks, as the Chinese company seeks to challenge proprietary coding models on cost and pe",
-        "dwp_take": "Z.ai dropped GLM-5.2, an open-source AI model built for extended software engineering work that apparently competes with Claude and GPT-5 while being cheaper and MIT-licensed. This matters because it signals the coding AI space is finally getting real competition beyond the usual OpenAI and Anthropic duopoly, which could actually drive innovation instead of just higher bills. If a Chinese startup can match proprietary models at a fraction of the cost, enterprise development teams need to stop autopiloting toward whatever's loudest and actually evaluate what solves their problems.",
-        "date": "2026-06-17T12:25:56.983272+00:00"
+        "excerpt": "A federal judge has rebuffed Workday\u2019s claim that it cannot be held liable under California anti-discrimination laws when its tools are used to screen (and potentially reject) job candidates in other ",
+        "dwp_take": "A federal judge is saying Workday can't hide behind state boundaries to dodge discrimination liability when its AI recruitment tools screen out job candidates. This matters because vendors have been banking on legal gray areas to avoid responsibility for biased algorithms, but this ruling suggests they're now on the hook regardless of where their clients operate. After thirty years watching tech companies promise they'll \"self-regulate,\" I'm genuinely shocked a judge is actually making them sweat a little.",
+        "date": "2026-06-18T08:04:23.946931+00:00"
+      },
+      {
+        "title": "Anthropic Fable dispute suggests \u2018export\u2019 no longer means what it used to",
+        "url": "https://www.computerworld.com/article/4186538/anthropic-fable-dispute-suggests-export-no-longer-means-what-it-used-to-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "For generations, technology export controls referred to the transfer of source code to other countries. But that no longer works, as the latest Anthropic fight with the US Commerce Department makes cl",
+        "dwp_take": "Anthropic got told by the US Commerce Department to block foreign nationals from accessing its AI models, regardless of where they are, which fundamentally changes what \"export controls\" actually mean in the AI era. This matters because it signals that regulators now view access to running AI systems the same way they view physical technology transfers, which has massive implications for how global teams can collaborate on digital workplace tools. After thirty years watching tech policy, I can tell you that when bureaucrats stop caring about whether code leaves the building and start caring about who can use it while in the building, everybody's compliance spreadsheets just got a lot longer and messier.",
+        "date": "2026-06-18T08:04:28.507609+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Is technical literacy the new MBA?",
-        "url": "https://www.fastcompany.com/91550835/is-technical-literacy-the-new-mba-technical-skills-mba?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The competitive advantage AI can\u2019t automate",
+        "url": "https://www.fastcompany.com/91557432/the-competitive-advantage-ai-cant-automate?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Traditional business degrees once guaranteed a path to leadership, but today\u2019s market increasingly rewards technical literacy over classroom credentials. The shift reflects a fundamental change in how",
-        "dwp_take": "Microsoft just published their quarterly earnings and half the analysis focused on AI productivity gains nobody can actually measure yet. The shift from \"did you go to a good school\" to \"can you actually work in modern software systems\" matters because it finally aligns hiring with reality instead of pedigree. Here's the thing though: technical literacy without judgment and communication skills is just expensive trouble waiting to happen, so let's not overcorrect and hire people who can code but can't explain why anyone should care.",
-        "date": "2026-06-17T12:26:01.324769+00:00"
+        "excerpt": "Anthropic recently posted a job opening for a Head of GTM Narrative. Not a content lead. Not a brand director. A go-to-market narrative strategist. The company that has spent years building some of th",
+        "dwp_take": "Anthropic hired a Head of GTM Narrative role, betting that storytelling and strategic messaging are the competitive advantage that AI can't replicate. This matters because it signals to digital workplace leaders that while automation handles repetitive work, human narrative strategy and authentic communication are becoming more valuable, not less. After thirty years watching technology trends, I can tell you the irony is delicious: the AI company figured out that what separates winners from losers is still the thing that's hardest to code.",
+        "date": "2026-06-18T08:04:32.872873+00:00"
       },
       {
-        "title": "Meta CTO Andrew Bosworth Admits the Company\u2019s AI Reorg Was \u2018Atrocious\u2019",
-        "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+        "title": "Workers are judging companies for their silence on LGBTQ+ issues",
+        "url": "https://www.fastcompany.com/91561209/workers-are-judging-companies-for-their-silence-on-lgbtq-issues?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "The sustained attacks on diversity, equity, and inclusion programs have left corporate America hesitant to speak out forcefully on LGBTQ+ issues\u2014and that silence has not gone unnoticed. Companies that",
+        "dwp_take": "Companies are pulling back from public LGBTQ+ advocacy and dropping out of inclusion rankings, mostly because the political environment got hostile toward DEI initiatives. This matters because your workforce is watching, and silence reads as a choice to digital natives who expect their employers to stand for something beyond quarterly earnings. Here's the thing: you can't build trust by standing nowhere, and employees remember which companies went quiet when it got uncomfortable.",
+        "date": "2026-06-18T08:04:36.951940+00:00"
+      },
+      {
+        "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy",
+        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-        "dwp_take": "Meta's CTO admitted in an internal memo that his company botched a recent AI reorganization and is now promising employees stability, communication, and perks to fix morale. This matters because when a company of Meta's scale struggles with organizational chaos and employee trust, it signals that even tech giants can bungle change management, giving digital workplace leaders a cautionary tale worth studying. Here's the thing though: no amount of returned ping pong tables will fix the underlying problem that nobody actually told people what was happening during the reorganization in the first place.",
-        "date": "2026-06-17T12:26:06.759588+00:00"
+        "excerpt": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom\u2019s access to Claude Mythos over claims of alleged ties to China.",
+        "dwp_take": "Anthropic pulled Claude Mythos offline and revoked SK Telecom's access after White House pressure over alleged Chinese connections. This matters to digital workplace pros because it shows how geopolitical tensions are now directly interfering with which enterprise AI tools you can actually use, adding another layer of compliance complexity on top of everything else you're already managing. The irony is delicious: we spent years worried about AI vendors locking us in, and now governments are doing it for us.",
+        "date": "2026-06-18T08:04:45.366336+00:00"
+      },
+      {
+        "title": "Operating a Humanoid With Your Body Is a Hot Job in China\u2019s Hardware Capital",
+        "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+        "dwp_take": "Workers in Shenzhen are remotely operating humanoid robots through VR rigs, essentially becoming the robot's nervous system from a distance. This matters because it's the most literal interpretation yet of \"hybrid work\" and raises real questions about job design, worker fatigue, and what we're actually building these tools for in the digital workplace. Look, if we're going to spend billions on automation, the irony of creating exhausting new jobs that require someone to strap on a VR headset and become a robot all day is pretty rich.",
+        "date": "2026-06-18T08:04:49.677563+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Best Prime Day Tech Deals: Apple, Bose, Garmin, and More",
-        "url": "https://www.techrepublic.com/article/news-best-early-amazon-prime-day-tech-deals-2026/",
+        "title": "IBM Report: Most EMEA Executives Don\u2019t Fully Understand Their AI Dependencies",
+        "url": "https://www.techrepublic.com/article/news-ibm-emea-ai-dependencies-sovereignty-risk/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Shop early Amazon Prime Day tech deals on earbuds, mice, routers, doorbells, headphones, smartwatches, Android phones, and fitness watches. The post Best Prime Day Tech Deals: Apple, Bose, Garmin, and",
-        "dwp_take": "Amazon Prime Day is offering discounts on consumer tech like earbuds, smartwatches, and networking equipment. Digital workplace pros often refresh personal devices during these sales, which matters because what people use at home increasingly bleeds into work environments, especially with hybrid setups. Honestly, if your organization's security posture depends on employees NOT buying cheap routers from Prime Day deals, you've already lost the battle.",
-        "date": "2026-06-17T12:26:10.681420+00:00"
+        "excerpt": "IBM research finds many EMEA executives lack visibility into AI dependencies, raising risks around cost, outages, vendor lock-in, and sovereignty. The post IBM Report: Most EMEA Executives Don\u2019t Fully",
+        "dwp_take": "A new IBM report shows that most European, Middle Eastern, and African executives can't actually see where their AI systems depend on specific vendors or technologies, which creates real risks around costs, service failures, and data sovereignty. This matters because digital workplace leaders are increasingly building AI into their operations without understanding the underlying infrastructure, which means they could get blindsided by outages, unexpected bills, or regulatory problems. Here's the thing: after thirty years in this space, I've seen this movie before with cloud migration, and it never ends well when leadership doesn't know what they actually own.",
+        "date": "2026-06-18T08:04:54.018466+00:00"
       },
       {
-        "title": "Salesforce Makes $3.6B Play for AI Customer Service",
-        "url": "https://www.techrepublic.com/article/news-salesforce-acquires-fin-agentforce-ai-agents/",
+        "title": "Modernizing Meeting Spaces: How Agentic Control and Intelligent Framing Redefine Hybrid Work",
+        "url": "https://www.techrepublic.com/article/news-neat-infocomm-ai-meeting-rooms/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Salesforce will buy Fin, formerly Intercom, for about $3.6 billion to expand Agentforce with AI customer service agents and support automation. The post Salesforce Makes $3.6B Play for AI Customer Ser",
-        "dwp_take": "Salesforce just dropped 3.6 billion dollars to buy Fin, the AI customer service platform formerly known as Intercom, to beef up its Agentforce offering with smarter automation and AI agents. This matters because every digital workplace is now figuring out how AI customer service fits into their employee tools and workflows, and Salesforce just signaled this is table stakes for enterprise platforms. Honestly, at that price tag Fin better not just be replacing helpful humans with chatbots that make customers angrier than they were before calling in.",
-        "date": "2026-06-17T12:26:14.907207+00:00"
+        "excerpt": "Neat is using agentic AI, intelligent framing, and flexible room modes to turn passive video endpoints into \u201cthinking spaces,\u201d giving IT a blueprint to modernize meeting rooms for hybrid work. The pos",
+        "dwp_take": "Neat is pushing AI-powered meeting room technology that automatically adjusts cameras, lighting, and room settings based on who's participating and how they're working together. For IT leaders managing hybrid spaces, this matters because it promises to eliminate the painful reality of people hunched over laptops while sitting in rooms with perfectly good cameras nobody knows how to use. Look, if we need AI to figure out which direction the camera should point, we've probably overcomplicated the whole thing, but I'll take functional over fancy any day.",
+        "date": "2026-06-18T08:04:58.086742+00:00"
       },
       {
-        "title": "ShinyHunters Claims Council of Europe HR Data, Threatens Leak",
-        "url": "https://www.techrepublic.com/article/news-shinyhunters-council-europe-data-theft-claim-emea/",
+        "title": "105K Chrome Installs Linked to Adware and Fake Google Traffic",
+        "url": "https://www.techrepublic.com/article/news-chrome-extensions-fake-traffic-user-data/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "ShinyHunters claims it stole 297GB of data from the Council of Europe, including payroll and medical records, but the organization has not confirmed a breach. The post ShinyHunters Claims Council of E",
-        "dwp_take": "A hacking group called ShinyHunters claims they've stolen nearly 300 gigabytes of HR data from the Council of Europe, including payroll and medical records, though the organization hasn't confirmed anything yet. This matters because if true, it's a textbook example of why your employee data governance and access controls need to be airtight, not aspirational. The Council of Europe dealing with this is like a fire safety inspector's house catching fire, except the fire might involve your entire workforce's personal information.",
-        "date": "2026-06-17T12:26:20.064026+00:00"
+        "excerpt": "Socket researchers linked 152 Chrome wallpaper extensions to hidden data logging, fake Google search traffic, and ad monetization. The post 105K Chrome Installs Linked to Adware and Fake Google Traffi",
+        "dwp_take": "Socket researchers discovered that 152 Chrome wallpaper extensions with over 105,000 combined installs were secretly logging user data, generating fake Google search traffic, and monetizing ads without user knowledge. This matters because your workforce is installing these things thinking they're harmless customization tools while actually giving bad actors access to browsing habits and search patterns. Here's the thing: we spend all this time implementing security policies and then someone installs a pretty sunset wallpaper and torches the whole operation.",
+        "date": "2026-06-18T08:05:02.229056+00:00"
       },
       {
-        "title": "Meta\u2019s New Facebook \u2018AI Mode\u2019 Pulls From Groups, Reels, and Posts",
-        "url": "https://www.techrepublic.com/article/news-meta-ai-mode-facebook-search-public-posts/",
+        "title": "Apple to Merge Private Mail Domains for Sign In and Hide My Email",
+        "url": "https://www.techrepublic.com/article/news-apple-private-icloud-email-domain/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Meta AI Mode brings AI-generated answers to Facebook search using public posts, raising questions about reliability and source visibility. The post Meta\u2019s New Facebook \u2018AI Mode\u2019 Pulls From Groups, Ree",
-        "dwp_take": "Meta's rolling out an AI Mode on Facebook search that generates answers by pulling from public posts, groups, and reels without always showing where the information came from. For anyone managing internal communications or employee engagement platforms, this is a cautionary tale about what happens when you let AI summarize user-generated content without proper attribution or fact-checking. I give it six months before someone's relying on this for actual business decisions and wondering why their quarterly projections are based on a reel from 2019.",
-        "date": "2026-06-17T12:26:24.092465+00:00"
+        "excerpt": "Apple will move new Sign in with Apple and Hide My Email relay addresses to private.icloud.com, requiring developer updates. The post Apple to Merge Private Mail Domains for Sign In and Hide My Email ",
+        "dwp_take": "Apple is consolidating its email relay services under the private.icloud.com domain, which means developers need to update their authentication integrations to keep things working smoothly. For digital workplace pros managing SSO systems and identity infrastructure, this matters because poorly planned migrations can create authentication headaches across your entire user base if you're not on top of it. Here's the thing though: Apple keeps making these backend shifts without enough warning, and someone in your org is going to miss the deadline and suddenly wonder why login is broken at 4 PM on a Friday.",
+        "date": "2026-06-18T08:05:06.630171+00:00"
       }
     ]
   }
