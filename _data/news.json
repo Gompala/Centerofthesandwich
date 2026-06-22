@@ -1,138 +1,92 @@
 {
-  "generated": "2026-06-21T07:30:38.779897+00:00",
+  "generated": "2026-06-22T08:54:34.152252+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
-        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
-        "dwp_take": "Signal's president Meredith Whittaker is reminding people that AI chatbots are statistical prediction machines, not thinking entities with your best interests in mind. This matters because workplace adoption of AI tools is exploding, and if employees anthropomorphize these systems, they'll make poor decisions about what information to share and how much to trust the recommendations. After thirty years watching technology hype cycles, I'll say this: the companies selling you AI friendship bracelets are counting on you forgetting this basic fact, so bookmark her comments for when your boss insists the chatbot \"just gets it.\"",
-        "date": "2026-06-21T07:29:35.322059+00:00"
+        "excerpt": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "dwp_take": "The Trump administration is apparently turning up the heat on Anthropic, the AI company behind Claude, prompting questions about what triggered the enforcement action and what it signals for the broader AI landscape. This matters to digital workplace folks because AI tools are rapidly becoming core infrastructure for knowledge work, and regulatory uncertainty creates real risks for companies betting on these platforms for productivity gains. Here's the thing though: every time government gets aggressive with one AI vendor, it usually just reshuffles the deck rather than slowing innovation, so don't expect your employees to stop pestering IT about AI access anytime soon.",
+        "date": "2026-06-22T08:53:51.646888+00:00"
       },
       {
-        "title": "AI, user data and the asymmetry of understanding",
-        "url": "https://siliconangle.com/2026/06/20/ai-user-data-asymmetry-understanding/",
+        "title": "Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker",
+        "url": "https://siliconangle.com/2026/06/19/trump-kneecaps-anthropic-spacex-bags-cursor-databricks-debuts-ai-agent-coworker/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Every time users belatedly discover that an artificial intelligence feature has been drawing on their data in ways they did not fully grasp, the reaction is often an instinctive sense of violation \u2013 o",
-        "dwp_take": "SiliconAngle reports that companies keep getting caught using employee data for AI training without clear consent, sparking privacy violations and trust breakdowns. This matters because digital workplace leaders are literally the ones deploying these tools to their workforce, which means they're sitting between angry employees and vendors who buried the data practices in terms nobody reads. The real problem isn't the AI, it's that we still haven't figured out how to have honest conversations about what we're trading away, and pretending everyone understands the fine print won't make it true.",
-        "date": "2026-06-21T07:29:40.576561+00:00"
+        "excerpt": "Databricks may keep refusing to go public, but this week it wasn\u2019t shy about proclaiming its intentions to be a central player in artificial intelligence. At its annual Data + AI conference in San Fra",
+        "dwp_take": "Databricks is positioning AI agents as the next enterprise system of record, essentially arguing these autonomous tools should become central to how companies operate. This matters because if AI agents actually deliver on the promise, they could fundamentally reshape how we think about digital workplace architecture and employee workflows. That said, I've heard \"this will revolutionize everything\" about fifteen different technologies over three decades, so I'll believe it when I see actual adoption numbers that aren't from the vendor's own case studies.",
+        "date": "2026-06-22T08:53:56.461112+00:00"
       },
       {
-        "title": "Agentic AI\u2019s challenge is getting agents to act like a team, not a crowd",
-        "url": "https://siliconangle.com/2026/06/20/agentic-ais-challenge-getting-agents-act-like-team-not-crowd/",
+        "title": "Recovery speed becomes the new mandate in cyber resilience strategy",
+        "url": "https://siliconangle.com/2026/06/19/cyber-resilience-strategy-turns-storage-active-defense-pureaccelerate/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Adding more artificial intelligence agents to the workflow doesn\u2019t make an enterprise smarter. In fact, it can make operations harder to manage. The problem is not the capabilities of individual agent",
-        "dwp_take": "Companies are discovering that throwing multiple AI agents at a problem doesn't automatically make things better, and coordinating them is actually harder than building them in the first place. This matters because digital workplace leaders are about to spend a lot of money on agent-based AI systems, and if those agents can't play nice together, you've just built an expensive mess that's harder to manage than the manual process you replaced. After three decades in this space, I can tell you this is just the same coordination problem we've been wrestling with since the first enterprise software integration, except now the things that won't talk to each other are hallucinating.",
-        "date": "2026-06-21T07:29:45.037983+00:00"
-      },
-      {
-        "title": "Elastic reportedly acquires site reliability engineering startup Deductive AI",
-        "url": "https://siliconangle.com/2026/06/19/elastic-reportedly-acquires-site-reliability-engineering-startup-deductive-ai/",
-        "source": "SiliconAngle",
-        "category": "ai-at-work",
-        "excerpt": "Elastic NV has reportedly acquired Deductive AI Inc., a startup with a platform that helps enterprises fix errors in their technology infrastructure. TechCrunch on Thursday cited a source as saying th",
-        "dwp_take": "Elastic picked up Deductive AI for up to $85 million, roughly doubling the startup's previous valuation, to add AI-powered error detection and fixing capabilities to their infrastructure monitoring platform. This matters because SRE teams are drowning in alerts and manual troubleshooting, so automation that actually catches problems before they cascade is genuinely useful. Elastic is basically admitting their existing tools need AI smarts or they'll get left behind, which is fair, though let's see if the integration doesn't just create another bloated feature nobody uses.",
-        "date": "2026-06-21T07:29:49.294207+00:00"
+        "excerpt": "Cyberattacks are no longer just an information technology problem; they\u2019ve become a board-level business continuity crisis, forcing enterprises to rethink cyber resilience strategy from the storage la",
+        "dwp_take": "Enterprises are shifting from \"prevent attacks\" thinking to \"recover fast\" thinking, making backup speed and resilience a board-level priority instead of leaving it to IT to sort out quietly. This matters because when your digital workplace goes down, recovery time directly impacts revenue, customer trust, and employee productivity, so it's no longer a technical afterthought. After 30 years watching IT get blamed for everything while working with shoestring budgets, I'm genuinely pleased to see executives finally understanding that a good backup strategy is worth more than all the prevention tools combined.",
+        "date": "2026-06-22T08:54:01.011542+00:00"
       }
     ],
-    "tools-tech": [
-      {
-        "title": "Microsoft broke some OLE automations with latest Windows update",
-        "url": "https://www.computerworld.com/article/4187274/microsoft-broke-some-ole-automations-with-latest-windows-update.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft Office users may find that some of their applications are failing to open when called on by third-party applications. It\u2019s an issue that has emerged after the latest round of Microsoft updat",
-        "dwp_take": "Microsoft's latest Windows update broke OLE automation connections, which means Office apps like Word and Excel won't launch properly when called from third-party software like Zotero or dental practice management tools. This matters because most enterprises have workflows built on these automation bridges, so users suddenly can't access critical documents from their specialized business apps. After three decades watching Microsoft updates, I can tell you this is the kind of \"surprise\" that makes IT teams love their jobs even less than they already do.",
-        "date": "2026-06-21T07:29:54.821042+00:00"
-      },
-      {
-        "title": "OpenAI adds spend controls and usage analytics to ChatGPT Enterprise",
-        "url": "https://www.computerworld.com/article/4187257/openai-adds-spend-controls-and-usage-analytics-to-chatgpt-enterprise-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "OpenAI has introduced spend controls and enhanced usage analytics for ChatGPT Enterprise to enable organizations to monitor AI adoption, track consumption across teams, and set budgets for AI usage. B",
-        "dwp_take": "OpenAI just added budget controls and usage dashboards to ChatGPT Enterprise so companies can finally see who's burning through their AI tokens and set spending limits across teams. For digital workplace leaders, this is the table stakes stuff you need if you're going to deploy AI tools responsibly and explain to your CFO why you're spending money on this thing. The catch that made me laugh: you can now watch your money disappear in real time and know exactly which department is responsible, but you still won't know if any of it actually matters to your bottom line.",
-        "date": "2026-06-21T07:30:00.224147+00:00"
-      },
-      {
-        "title": "Q&A: Temporal aims to be the reliability backbone for an agentic AI economy",
-        "url": "https://www.computerworld.com/article/4185211/qa-temporal-aims-to-be-the-reliability-backbone-for-an-agentic-ai-economy.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "As AI shifts from output-generating large language models (LLMs) to armies of agents taking actions on their own, there is a growing threat that failures could affect system reliability. Temporal, a B",
-        "dwp_take": "Temporal is pitching itself as the reliability safety net for autonomous AI agents that operate independently rather than just generating text. This matters because digital workplaces are about to deploy these agents into production systems, and when they fail (not if), you need something that can pick up exactly where things broke without losing data or creating chaos. I'd believe it when I see it, but honestly, someone needs to solve the \"my AI agent went rogue and deleted the wrong folder\" problem before we all start relying on these things.",
-        "date": "2026-06-21T07:30:04.698867+00:00"
-      },
-      {
-        "title": "How to bring the best Android 17 features to any Android phone today",
-        "url": "https://www.computerworld.com/article/4185864/android-17-features-any-phone.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Google\u2019s latest and greatest Android version is officially now out in the world and available \u2014 but if you\u2019re using any phone other than a Pixel, that doesn\u2019t mean much for you just yet. The reason wh",
-        "dwp_take": "Google released Android 17 this week, but most non-Pixel phones won't get it anytime soon because manufacturers have to customize and roll out updates on their own schedules. This matters to digital workplace pros because your organization's mobile device fleet will be fragmented across OS versions for months, creating security patches headaches and support complexity. After three decades watching this cycle repeat, I can tell you that \"latest and greatest\" means precisely nothing to 90 percent of users until their phone maker decides it does, which is why IT teams should stop waiting and start planning for extended heterogeneity.",
-        "date": "2026-06-21T07:30:09.232242+00:00"
-      }
-    ],
+    "tools-tech": [],
     "digital-culture": [
       {
-        "title": "More fathers are becoming the primary caregiver",
-        "url": "https://www.fastcompany.com/91561919/more-fathers-are-becoming-the-primary-caregiver?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Free lunch! The oldest retention strategy is also one of the most effective",
+        "url": "https://www.fastcompany.com/91554370/free-lunch-oldest-retention-strategy-is-also-one-of-the-most-effective?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Al said goodbye to his daughters every night before he drove to work. He\u2019d hand off childcare to his wife when she returned home from work and start his commute during dinnertime. Al, a Connecticut-ba",
-        "dwp_take": "More fathers are taking on primary caregiving responsibilities while their partners work traditional schedules, forcing creative arrangements like night shifts to make it all work. This matters because digital workplace leaders need to stop assuming the traditional nuclear family still exists and build flexibility into every policy, tool, and meeting time. The fact that Al needed to work nights just to be present for his kids shouldn't require a pseudonym in 2024, and it's a wake-up call that our workplace cultures haven't actually caught up to real life.",
-        "date": "2026-06-21T07:30:13.776170+00:00"
+        "excerpt": "Years ago when I was a professor, I brought a cohort of executive strategic design MBA students to Florence, Italy, to study the Renaissance as a living laboratory for business innovation. We visited ",
+        "dwp_take": "A Fast Company piece argues that free lunch remains one of the most effective employee retention strategies, drawing parallels to Renaissance workshops where communal meals and spaces fostered creativity and connection. For digital workplace professionals, this is a reminder that retention isn't solved by ping-pong tables and Slack integrations, it's solved by genuine human interaction and the simple act of people eating together. After thirty years watching companies throw money at software solutions while their teams sit isolated, I can tell you the studio director greeting people at the door beats most HR tech budgets combined.",
+        "date": "2026-06-22T08:54:07.646319+00:00"
       },
       {
-        "title": "5 counterintuitive tips for working more effectively",
-        "url": "https://www.fastcompany.com/91560809/5-counterintuitive-tips-working-more-effectively?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Why most U.S. workers are checked out and bosses are the last to know",
+        "url": "https://www.fastcompany.com/91561332/us-workers-checked-out-bosses-psychological-safety?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Below, Melissa Swift shares five key insights from her new book, Effective: How to Do Great Work in a Fast-Changing World. [Photo: Wiley] Melissa is the founder and CEO of the consulting firm Anthrome",
-        "dwp_take": "Melissa Swift, a veteran consultant with stints at every major consulting firm, published five counterintuitive tips for effective work in a fast-changing world. Digital workplace leaders need to understand these insights because most teams are still operating on outdated productivity assumptions that actively hurt performance. Here's the thing though: if you need a consultant to tell you the obvious isn't working, you've probably been ignoring your own people's feedback for way too long.",
-        "date": "2026-06-21T07:30:18.274068+00:00"
+        "excerpt": "Michael Scott, the hapless regional manager at the center of the American version of \u201cThe Office\u201d played by Steve Carell, believed he was the world\u2019s best boss. He even had the mug to prove it. Meanwh",
+        "dwp_take": "A new study confirms what we already knew: most American workers are disengaged, and their managers have no clue it's happening. This matters because digital workplace leaders are often the ones tasked with fixing engagement through tools and platforms, when the real problem is sitting in the corner office ignoring the warning signs. The irony is that companies spend millions on collaboration software to solve a people problem that starts with bad management, which is like buying a fancy espresso machine to fix a broken kitchen.",
+        "date": "2026-06-22T08:54:11.680084+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Ditch the Cloud: 5 Best Self-Hosted Photo Video-Gallery Options",
-        "url": "https://www.techrepublic.com/article/top-5-self-hosted-photo-storage-options/",
+        "title": "Apple Reportedly Preparing Second-Generation iPhone Air for Spring 2027",
+        "url": "https://www.techrepublic.com/article/news-apple-next-iphone-air-spring-2027/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Looking to store your media privately? Explore five top self-hosted photo and video gallery solutions for full control and customization. The post Ditch the Cloud: 5 Best Self-Hosted Photo Video-Galle",
-        "dwp_take": "TechRepublic rounded up five self-hosted alternatives to cloud-based photo and video storage, giving organizations options to keep their media completely on premises with full control over data. For digital workplace teams dealing with sensitive content, compliance requirements, or just philosophically opposed to vendor lock-in, knowing what self-hosted tools actually work matters a lot. Here's the thing though: self-hosted sounds great until someone has to patch the server at midnight, so make sure you've got the IT bandwidth before you ditch the cloud entirely.",
-        "date": "2026-06-21T07:30:26.650054+00:00"
+        "excerpt": "Apple\u2019s next iPhone Air could arrive in spring 2027 with camera and battery upgrades as the company shifts toward staggered iPhone launches. The post Apple Reportedly Preparing Second-Generation iPhon",
+        "dwp_take": "Apple is planning a second-generation iPhone Air for spring 2027 with improved cameras and battery life, continuing its strategy of spreading out iPhone releases throughout the year instead of one big annual drop. For digital workplace teams, this matters because staggered device releases mean employees will be cycling through phone upgrades at different times, which impacts your mobile device management strategy and support load. Here's the reality though: most organizations won't see these phones in employee hands for another three years, so maybe let's focus on actually supporting the iPhones people are using today instead of planning for fictional ones.",
+        "date": "2026-06-22T08:54:21.010583+00:00"
       },
       {
-        "title": "Apple Patches Beats Studio Buds Flaw That Could Enable Wiretapping",
-        "url": "https://www.techrepublic.com/article/news-apple-patches-beats-studio-buds-bluetooth-flaw/",
+        "title": "The Complete Guide to Gantt Charts: Examples & How to Use One",
+        "url": "https://www.techrepublic.com/article/gantt-chart/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple patched a Beats Studio Buds Bluetooth flaw that could let nearby attackers listen through the microphone during pairing. The post Apple Patches Beats Studio Buds Flaw That Could Enable Wiretappi",
-        "dwp_take": "Apple fixed a Bluetooth vulnerability in Beats Studio Buds that allowed attackers within range to eavesdrop through the microphone during the pairing process. This matters because plenty of knowledge workers use these buds for calls and video meetings, meaning sensitive conversations could have been intercepted by someone nearby. The real kicker is that this flaw existed during the most vulnerable moment, pairing, when people are least thinking about security and most focused on just getting the darn things to connect.",
-        "date": "2026-06-21T07:30:30.514473+00:00"
+        "excerpt": "Learn how to manage projects by using a Gantt chart, and which industries and project types it would benefit most. Discover the history and key features with our guide. The post The Complete Guide to ",
+        "dwp_take": "TechRepublic published a comprehensive guide on Gantt charts covering their history, key features, practical examples, and which industries benefit most from using them. This matters to digital workplace folks because project visibility is foundational to collaboration, and Gantt charts remain one of the most effective ways to keep distributed teams aligned on timelines and dependencies. Honestly, if your organization still isn't using Gantt charts by now, you're probably also still printing emails, and we need to talk.",
+        "date": "2026-06-22T08:54:24.943886+00:00"
       },
       {
-        "title": "Apple to Work With Intel on US Chip Production, Trump Says",
-        "url": "https://www.techrepublic.com/article/news-apple-intel-us-chip-production-trump/",
-        "source": "TechRepublic",
+        "title": "MSP 3.0: Managed services enter a new era",
+        "url": "https://www.itpro.com/business/business-strategy/msp-3-0-managed-services-enter-a-new-era",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Trump says Apple will work with Intel on US chip production, a potential foundry win that could shift Apple\u2019s supply chain options and US chip strategy. The post Apple to Work With Intel on US Chip Pr",
-        "dwp_take": "Apple and Intel are apparently teaming up on US chip manufacturing, according to Trump's announcement, which could reshape where and how Apple sources its processors. For digital workplace folks, this matters because supply chain stability directly impacts everything from hardware refresh cycles to device availability for your workforce. Honestly, I'll believe this partnership sticks when I see chips actually rolling off US production lines, because tech executives say a lot of things that sound good until quarterly earnings show up.",
-        "date": "2026-06-21T07:30:34.697416+00:00"
+        "excerpt": "Automation, AI, and growing compliance demands are forcing MSPs to rethink their role, moving beyond traditional IT support towards a more strategic advisory model.",
+        "dwp_take": "Managed service providers are being pushed to evolve from basic IT support into strategic advisors, driven by automation, AI adoption, and tightening compliance requirements. This shift matters because your digital workplace infrastructure depends on MSPs who actually understand your business strategy instead of just fixing broken printers. Here's the thing though: half the MSPs out there will rebrand themselves as \"strategic partners\" without changing a single process, so don't fall for the marketing. Kick the tires and ask what they've actually automated in the last year.",
+        "date": "2026-06-22T08:54:29.709157+00:00"
       },
       {
-        "title": "Microsoft Project vs Smartsheet: Best Choice for 2026",
-        "url": "https://www.techrepublic.com/article/microsoft-project-vs-smartsheet/",
-        "source": "TechRepublic",
+        "title": "Legacy kit behind vast majority of cyber attacks on utilities",
+        "url": "https://www.itpro.com/security/legacy-kit-behind-vast-majority-of-cyber-attacks-on-utilities",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Is Microsoft Project similar to Smartsheet? Use our guide to compare the main differences in features and pricing between Microsoft Project and Smartsheet. The post Microsoft Project vs Smartsheet: Be",
-        "dwp_take": "TechRepublic published a comparison guide between Microsoft Project and Smartsheet to help people choose between the two project management tools. Digital workplace pros need to understand these distinctions because picking the wrong tool wastes budget, fragments workflows, and confuses teams who are already drowning in too many apps. Honestly, the real answer is usually \"whatever your enterprise already uses,\" but I appreciate TechRepublic trying to inject some rationality into a decision that's more often made in a budget meeting than based on actual feature needs.",
-        "date": "2026-06-21T07:30:38.779785+00:00"
+        "excerpt": "With equipment and software poorly suited to withstand modern cyber threats, organizations need to do more to identify unmanaged or vulnerable systems",
+        "dwp_take": "Utility companies are getting hammered by cyberattacks because they're still running ancient infrastructure that was never designed for today's threat landscape. This matters to digital workplace folks because it's a brutal reminder that your shiny new collaboration platform means nothing if the foundational systems keeping the lights on are held together with duct tape and prayers. The real kicker is that nobody wants to spend money replacing systems that technically still work, right up until the moment they don't and you're explaining to angry customers why their power went out.",
+        "date": "2026-06-22T08:54:34.152137+00:00"
       }
     ]
   }
