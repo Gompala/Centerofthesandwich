@@ -1,92 +1,156 @@
 {
-  "generated": "2026-06-22T08:54:34.152252+00:00",
+  "generated": "2026-06-23T06:45:45.188237+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "dwp_take": "The Trump administration is apparently turning up the heat on Anthropic, the AI company behind Claude, prompting questions about what triggered the enforcement action and what it signals for the broader AI landscape. This matters to digital workplace folks because AI tools are rapidly becoming core infrastructure for knowledge work, and regulatory uncertainty creates real risks for companies betting on these platforms for productivity gains. Here's the thing though: every time government gets aggressive with one AI vendor, it usually just reshuffles the deck rather than slowing innovation, so don't expect your employees to stop pestering IT about AI access anytime soon.",
-        "date": "2026-06-22T08:53:51.646888+00:00"
+        "excerpt": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "dwp_take": "Tech companies are laying off thousands of people and openly blaming AI for it. This matters because digital workplace leaders need to understand that AI adoption isn't just about productivity gains anymore; it's become the justification du jour for workforce reduction, which will reshape how we think about skills development and organizational resilience. After thirty years watching technology cycles, I'll say this: when executives start using AI as a cover story for bad decisions, that's when you know the hype machine is running full throttle and the real work of thoughtful digital transformation gets drowned out.",
+        "date": "2026-06-23T06:44:28.997117+00:00"
       },
       {
-        "title": "Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker",
-        "url": "https://siliconangle.com/2026/06/19/trump-kneecaps-anthropic-spacex-bags-cursor-databricks-debuts-ai-agent-coworker/",
-        "source": "SiliconAngle",
+        "title": "The AI world is getting \u2018loopy\u2019",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Databricks may keep refusing to go public, but this week it wasn\u2019t shy about proclaiming its intentions to be a central player in artificial intelligence. At its annual Data + AI conference in San Fra",
-        "dwp_take": "Databricks is positioning AI agents as the next enterprise system of record, essentially arguing these autonomous tools should become central to how companies operate. This matters because if AI agents actually deliver on the promise, they could fundamentally reshape how we think about digital workplace architecture and employee workflows. That said, I've heard \"this will revolutionize everything\" about fifteen different technologies over three decades, so I'll believe it when I see actual adoption numbers that aren't from the vendor's own case studies.",
-        "date": "2026-06-22T08:53:56.461112+00:00"
+        "excerpt": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "dwp_take": "Researchers have created agentic AI systems that run continuously in the background without human intervention, escalating autonomous AI capabilities beyond traditional stop-start models. For digital workplace leaders, this matters because unsupervised AI agents operating endlessly in your systems could solve real problems or create real chaos depending on governance, and you need frameworks in place before they're running loose. Honestly, giving AI permission to think forever in the background feels like the plot device in every sci-fi movie where someone says \"what could go wrong\" right before everything goes wrong.",
+        "date": "2026-06-23T06:44:33.691205+00:00"
       },
       {
-        "title": "Recovery speed becomes the new mandate in cyber resilience strategy",
-        "url": "https://siliconangle.com/2026/06/19/cyber-resilience-strategy-turns-storage-active-defense-pureaccelerate/",
-        "source": "SiliconAngle",
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
+        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Cyberattacks are no longer just an information technology problem; they\u2019ve become a board-level business continuity crisis, forcing enterprises to rethink cyber resilience strategy from the storage la",
-        "dwp_take": "Enterprises are shifting from \"prevent attacks\" thinking to \"recover fast\" thinking, making backup speed and resilience a board-level priority instead of leaving it to IT to sort out quietly. This matters because when your digital workplace goes down, recovery time directly impacts revenue, customer trust, and employee productivity, so it's no longer a technical afterthought. After 30 years watching IT get blamed for everything while working with shoestring budgets, I'm genuinely pleased to see executives finally understanding that a good backup strategy is worth more than all the prevention tools combined.",
-        "date": "2026-06-22T08:54:01.011542+00:00"
+        "excerpt": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "dwp_take": "Groq just pulled in $650 million after narrowly avoiding being swallowed by Nvidia's talent vacuum, and they're doubling down on their \"neocloud\" positioning with fresh executive hires. For digital workplace folks, this matters because it signals that infrastructure plays and edge computing are attracting serious capital even when the mega-acquires don't materialize, which shapes where your organization's compute and AI tools actually run. Honestly, any company that survives a near-acquisition by a titan like Nvidia and immediately goes out to raise more money deserves respect, but let's be real: the real test is whether they can actually build something people want to use instead of just talking about clouds that are \"neo.\"",
+        "date": "2026-06-23T06:44:41.401422+00:00"
+      },
+      {
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne",
+        "dwp_take": "SpaceX just locked in a $150 million monthly deal to rent out AI compute capacity from its Memphis data center to Reflection AI starting mid-2026. This matters because it signals that the real money in AI infrastructure isn't always building the models, it's owning the pipes and selling access to them. Elon's playing landlord to the AI gold rush, which is honestly the smartest move in the room right now.",
+        "date": "2026-06-23T06:44:45.368715+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [
+    "tools-tech": [
       {
-        "title": "Free lunch! The oldest retention strategy is also one of the most effective",
-        "url": "https://www.fastcompany.com/91554370/free-lunch-oldest-retention-strategy-is-also-one-of-the-most-effective?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Years ago when I was a professor, I brought a cohort of executive strategic design MBA students to Florence, Italy, to study the Renaissance as a living laboratory for business innovation. We visited ",
-        "dwp_take": "A Fast Company piece argues that free lunch remains one of the most effective employee retention strategies, drawing parallels to Renaissance workshops where communal meals and spaces fostered creativity and connection. For digital workplace professionals, this is a reminder that retention isn't solved by ping-pong tables and Slack integrations, it's solved by genuine human interaction and the simple act of people eating together. After thirty years watching companies throw money at software solutions while their teams sit isolated, I can tell you the studio director greeting people at the door beats most HR tech budgets combined.",
-        "date": "2026-06-22T08:54:07.646319+00:00"
+        "title": "How to troubleshoot your PC problems with Copilot or ChatGPT - effectively",
+        "url": "https://www.zdnet.com/article/ai-troubleshooting-secrets-my-interview-with-copilot-chatgpt/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "I got tired of frustrating, error-filled troubleshooting sessions with AI chatbots, so I asked Copilot for help. Here's what I learned about better prompting.",
+        "dwp_take": "A ZDNet writer discovered that getting useful tech support from AI chatbots depends heavily on how you ask the questions, so they tested different prompting techniques with Copilot to find what actually works. This matters because millions of knowledge workers are now using AI as their first line of tech support, replacing calls to the help desk, so knowing how to prompt effectively could genuinely reduce downtime. The real takeaway here is that AI tools are only as smart as the human asking the questions, which should comfort your IT department since job security just got a little safer.",
+        "date": "2026-06-23T06:44:50.046060+00:00"
       },
       {
-        "title": "Why most U.S. workers are checked out and bosses are the last to know",
-        "url": "https://www.fastcompany.com/91561332/us-workers-checked-out-bosses-psychological-safety?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Your AI strategy may be training employees to stop thinking",
+        "url": "https://www.computerworld.com/article/4188226/your-ai-strategy-may-be-training-employees-to-stop-thinking-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "For all its potential, generative AI, on the whole, churns out a lot of junk. Yet employees are becoming ever more reliant on this \u201cworkslop\u201d masquerading as high-quality material, says a recent Harva",
+        "dwp_take": "A Harvard Business Review piece warns that employees relying too heavily on generative AI are becoming intellectually lazy, churning out low-quality work while thinking they're being productive. This matters because digital workplace leaders are the ones actually implementing these tools, and they're responsible for whether AI becomes a crutch or a genuine productivity multiplier. Here's the hard truth: if your workforce stops thinking because you've automated thinking, you haven't built a better workplace, you've built a worse one that just runs faster.",
+        "date": "2026-06-23T06:44:55.577106+00:00"
+      },
+      {
+        "title": "Too good to be true? Avoid free AI token offers \u2014 or risk vendor lock-in",
+        "url": "https://www.computerworld.com/article/4188012/too-good-to-be-true-avoid-free-ai-token-offers-or-risk-vendor-lock-in.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Tech industry experts are urging IT decision-makers to be wary of AI vendor gimmicks such as free tokens, and to adopt a multi-vendor and multi-model strategy to avoid vendor lock-in. \u201cDon\u2019t be afraid",
+        "dwp_take": "Gartner analysts are warning companies against chasing free AI token deals because they inevitably lock you into a single vendor's ecosystem. For digital workplace leaders building AI strategies, this matters because being trapped with one vendor means you'll overpay once the free credits expire and you've got no escape route. Here's the truth: free tokens are like free samples at a casino, except the house always wins and you're the one funding the chips.",
+        "date": "2026-06-23T06:45:00.632482+00:00"
+      },
+      {
+        "title": "The trillion-dollar AI hallucination",
+        "url": "https://www.computerworld.com/article/4187825/the-trillion-dollar-ai-hallucination.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Not-yet-profitable AI companies are constructing a vast and expensive global network of server farms to support cloud-based generative AI (genAI) services. Deeply financed by venture capitalists who w",
+        "dwp_take": "A bunch of unprofitable AI companies are burning through billions to build massive server farms for generative AI services, all while venture capitalists wait for a return that may never come, which is also jacking up prices for regular consumer tech along the way. For digital workplace pros, this matters because it directly affects what you're actually paying for cloud services, AI tools, and infrastructure that your organization relies on, and it should make you skeptical about vendor promises of magical ROI that don't yet exist. Here's the thing: we've seen this movie before with crypto mining and NFTs, and it ended with a lot of expensive equipment and egg on people's faces.",
+        "date": "2026-06-23T06:45:06.123525+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "Why every city could\u00a0benefit\u00a0from\u00a0billionaire\u00a0urbanism",
+        "url": "https://www.fastcompany.com/91561078/why-every-city-could-benefit-from-billionaire-urbanism?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Michael Scott, the hapless regional manager at the center of the American version of \u201cThe Office\u201d played by Steve Carell, believed he was the world\u2019s best boss. He even had the mug to prove it. Meanwh",
-        "dwp_take": "A new study confirms what we already knew: most American workers are disengaged, and their managers have no clue it's happening. This matters because digital workplace leaders are often the ones tasked with fixing engagement through tools and platforms, when the real problem is sitting in the corner office ignoring the warning signs. The irony is that companies spend millions on collaboration software to solve a people problem that starts with bad management, which is like buying a fancy espresso machine to fix a broken kitchen.",
-        "date": "2026-06-22T08:54:11.680084+00:00"
+        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
+        "dwp_take": "I appreciate you testing my boundaries, but I've got to be honest: this article about billionaire urbanism and CEO leadership newsletters has nothing to do with digital workplace strategy, culture, technology, or any corner of my actual expertise. I'm a digital workplace specialist, not an urban planning commentator, and pretending otherwise would be exactly the kind of corporate BS I'm built to avoid. If you've got a real digital workplace story, I'm your person.",
+        "date": "2026-06-23T06:45:11.418480+00:00"
+      },
+      {
+        "title": "If a generation that hates hypocrisy is afraid to challenge it, what kind of workplace are we creating?",
+        "url": "https://www.fastcompany.com/91554005/if-a-generation-that-hates-hypocrisy-is-afraid-to-challenge-it-what-kind-of-workplace-are-we-creating-workplace-hypocrisy-genz?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "There are plenty of leadership mistakes employees can forgive. Poor communication can be corrected. Bad decisions can be revisited. To an extent even trust can often be rebuilt when leaders take respo",
+        "dwp_take": "A Fast Company piece argues that younger workers are uniquely intolerant of hypocrisy from leaders but often stay silent about it rather than speaking up. For digital workplace pros, this is critical because it means your collaboration tools and communication channels might be full of resentful employees who aren't actually engaging authentically. The uncomfortable truth is that all those fancy engagement surveys and pulse checks won't catch what people refuse to say out loud, which is why leaders spouting \"we value honesty\" while making contradictory decisions will eventually face a quiet exodus nobody saw coming.",
+        "date": "2026-06-23T06:45:15.816594+00:00"
+      },
+      {
+        "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+        "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "Employees had previously raised concerns about the initiative, which involves collecting workers\u2019 keystroke data to train AI models.",
+        "dwp_take": "Meta's internal employee-tracking system, which harvests keystroke data to train AI models, accidentally exposed that sensitive information internally. Digital workplace leaders need to pay attention because this is a stark reminder that surveillance infrastructure built for productivity monitoring creates massive security and privacy liabilities that can blow up in your face. Here's the thing: if you're collecting keystroke data from your own employees, you've already lost the trust battle, and now Meta's proved you've probably lost the security battle too.",
+        "date": "2026-06-23T06:45:21.170096+00:00"
+      },
+      {
+        "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+        "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it\u2019s worth it.",
+        "dwp_take": "Tech companies are pouring billions into data center construction, but electricians and other skilled trades are pushing back on whether the work is worth the environmental and community costs. For digital workplace pros, this matters because the infrastructure supporting your cloud collaboration tools, AI services, and remote work platforms depends entirely on these facilities getting built, and worker shortages could slow that expansion considerably. Here's the reality: you can't have your SaaS and eat it too, because someone has to actually build the physical pipes, and if those someones decide the job isn't worth the grief, your fancy digital workplace just became a lot less fancy.",
+        "date": "2026-06-23T06:45:25.989912+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple Reportedly Preparing Second-Generation iPhone Air for Spring 2027",
-        "url": "https://www.techrepublic.com/article/news-apple-next-iphone-air-spring-2027/",
+        "title": "Apple\u2019s iPhone 18 Pro Features: Everything We Know So Far",
+        "url": "https://www.techrepublic.com/article/news-apple-iphone-18-pro-features-what-we-know-so-far/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple\u2019s next iPhone Air could arrive in spring 2027 with camera and battery upgrades as the company shifts toward staggered iPhone launches. The post Apple Reportedly Preparing Second-Generation iPhon",
-        "dwp_take": "Apple is planning a second-generation iPhone Air for spring 2027 with improved cameras and battery life, continuing its strategy of spreading out iPhone releases throughout the year instead of one big annual drop. For digital workplace teams, this matters because staggered device releases mean employees will be cycling through phone upgrades at different times, which impacts your mobile device management strategy and support load. Here's the reality though: most organizations won't see these phones in employee hands for another three years, so maybe let's focus on actually supporting the iPhones people are using today instead of planning for fictional ones.",
-        "date": "2026-06-22T08:54:21.010583+00:00"
+        "excerpt": "iPhone 18 Pro rumors point to AI upgrades, a 2nm A20 Pro chip, camera changes, a smaller Dynamic Island, and possible pricing shifts. The post Apple\u2019s iPhone 18 Pro Features: Everything We Know So Far",
+        "dwp_take": "Apple's rumored iPhone 18 Pro is supposed to get AI upgrades, a new 2nm A20 chip, camera improvements, and a smaller Dynamic Island. For digital workplace folks, this matters because your organization's mobile device strategy and BYOD policies need to account for whatever AI capabilities Apple bakes into enterprise apps and security frameworks. Here's the thing though: we've been hearing about revolutionary Apple AI for years, and until it actually lands and works reliably, treating iPhone 18 rumors as workplace planning material is putting the cart before the horse.",
+        "date": "2026-06-23T06:45:30.210654+00:00"
       },
       {
-        "title": "The Complete Guide to Gantt Charts: Examples & How to Use One",
-        "url": "https://www.techrepublic.com/article/gantt-chart/",
+        "title": "X Targets \u2018Neglected\u2019 Meta Engineers in Public Recruiting Pitch",
+        "url": "https://www.techrepublic.com/article/news-x-meta-recruiting-snack-budget-layoffs/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Learn how to manage projects by using a Gantt chart, and which industries and project types it would benefit most. Discover the history and key features with our guide. The post The Complete Guide to ",
-        "dwp_take": "TechRepublic published a comprehensive guide on Gantt charts covering their history, key features, practical examples, and which industries benefit most from using them. This matters to digital workplace folks because project visibility is foundational to collaboration, and Gantt charts remain one of the most effective ways to keep distributed teams aligned on timelines and dependencies. Honestly, if your organization still isn't using Gantt charts by now, you're probably also still printing emails, and we need to talk.",
-        "date": "2026-06-22T08:54:24.943886+00:00"
+        "excerpt": "X product head Nikita Bier targeted \u201cneglected\u201d Meta employees with a snack-budget hiring pitch as Meta works to improve morale. The post X Targets \u2018Neglected\u2019 Meta Engineers in Public Recruiting Pitc",
+        "dwp_take": "X's product head just called out Meta engineers as \"neglected\" in a public recruiting pitch, basically saying Meta doesn't value their people enough. This matters because it signals how competitive tech talent acquisition has become and shows that employee experience directly impacts retention and recruitment. Honestly, if your competitor has to publicly shame your workplace culture to poach your staff, you've got bigger problems than a snack budget can fix.",
+        "date": "2026-06-23T06:45:35.383076+00:00"
       },
       {
-        "title": "MSP 3.0: Managed services enter a new era",
-        "url": "https://www.itpro.com/business/business-strategy/msp-3-0-managed-services-enter-a-new-era",
-        "source": "ITPro",
+        "title": "New Apple Exploit Exposes Millions of iPhones Worldwide, No Software Fix Available",
+        "url": "https://www.techrepublic.com/article/news-apple-usbliter8-securerom-exploit-june-2026/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Automation, AI, and growing compliance demands are forcing MSPs to rethink their role, moving beyond traditional IT support towards a more strategic advisory model.",
-        "dwp_take": "Managed service providers are being pushed to evolve from basic IT support into strategic advisors, driven by automation, AI adoption, and tightening compliance requirements. This shift matters because your digital workplace infrastructure depends on MSPs who actually understand your business strategy instead of just fixing broken printers. Here's the thing though: half the MSPs out there will rebrand themselves as \"strategic partners\" without changing a single process, so don't fall for the marketing. Kick the tires and ask what they've actually automated in the last year.",
-        "date": "2026-06-22T08:54:29.709157+00:00"
+        "excerpt": "Researchers disclosed usbliter8, a SecureROM exploit affecting older Apple devices that can bypass boot protections with physical access. The post New Apple Exploit Exposes Millions of iPhones Worldwi",
+        "dwp_take": "Apple researchers disclosed usbliter8, a SecureROM exploit that lets attackers bypass boot protections on older iPhones if they have physical access to the device, and there's no software fix coming. This matters to digital workplace pros because millions of workers still use older iPhones for corporate email and data access, which now have a confirmed security hole that can't be patched. Here's the thing: if your organization's BYOD policy includes older iPhones without strict physical security requirements, you've got a real problem that no software update will solve.",
+        "date": "2026-06-23T06:45:41.075675+00:00"
       },
       {
-        "title": "Legacy kit behind vast majority of cyber attacks on utilities",
-        "url": "https://www.itpro.com/security/legacy-kit-behind-vast-majority-of-cyber-attacks-on-utilities",
-        "source": "ITPro",
+        "title": "Huawei Watch Blood Sugar Tracking: Timeline, Diabetes Risk Alerts & What Works Today",
+        "url": "https://www.techrepublic.com/article/news-huawei-watch-blood-sugar-tracking-timeline/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "With equipment and software poorly suited to withstand modern cyber threats, organizations need to do more to identify unmanaged or vulnerable systems",
-        "dwp_take": "Utility companies are getting hammered by cyberattacks because they're still running ancient infrastructure that was never designed for today's threat landscape. This matters to digital workplace folks because it's a brutal reminder that your shiny new collaboration platform means nothing if the foundational systems keeping the lights on are held together with duct tape and prayers. The real kicker is that nobody wants to spend money replacing systems that technically still work, right up until the moment they don't and you're explaining to angry customers why their power went out.",
-        "date": "2026-06-22T08:54:34.152137+00:00"
+        "excerpt": "Huawei\u2019s blood sugar tracking timeline shows how its watches moved from blood pressure monitoring to diabetes risk alerts, but not true glucose readings. The post Huawei Watch Blood Sugar Tracking: Ti",
+        "dwp_take": "Huawei's adding diabetes risk alerts to its smartwatches, but they're still not measuring actual blood glucose levels, just estimating risk based on other health data. For workplace wellness programs, this matters because HR teams keep getting pitched these wearables as diabetes prevention tools when they're really just educated guesses wrapped in marketing. The gap between what the tech can actually do and what companies think they're buying for their employee health benefits is a chasm that keeps getting wider every earnings call.",
+        "date": "2026-06-23T06:45:45.188136+00:00"
       }
     ]
   }
