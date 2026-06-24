@@ -1,156 +1,129 @@
 {
-  "generated": "2026-06-24T06:42:55.788563+00:00",
+  "generated": "2026-06-24T12:27:54.677460+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
-        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-        "dwp_take": "MoEngage just picked up technology that deploys individual AI agents for each customer through an all-cash acquisition. This matters because it signals that personalization at scale is shifting from clever algorithms to distributed AI doing one-to-one work, which changes how we think about customer engagement platforms and internal comms tools. Honestly, I've seen plenty of \"one AI per person\" pitches before, and the real test will be whether this actually reduces marketing noise or just creates a million tiny annoying bots.",
-        "date": "2026-06-24T06:41:45.021957+00:00"
-      },
-      {
-        "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
-        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
-        "dwp_take": "Anthropic just released Claude Tag, an AI bot for Slack that learns your company's specific context, knowledge, and workflows as it processes your messages. This matters because digital workplace leaders need to understand that these tools aren't just about doing tasks faster\u2014they're about creating detailed profiles of how your organization actually works, which raises real questions about data governance and vendor lock-in. The honest truth is that every message Claude ingests becomes its training ground, so before you celebrate the productivity gains, you should probably have a serious chat with your security and legal teams about what you're actually trading away.",
-        "date": "2026-06-24T06:41:49.519174+00:00"
-      },
-      {
-        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
-        "dwp_take": "Fika Jobs just scored 4 million dollars to build an AI-powered video hiring platform that lets algorithms conduct initial interviews instead of actual humans. For digital workplace folks, this matters because if this scales, it could reshape how companies onboard talent and whether remote hiring becomes even more automated and impersonal. Look, AI doing first-pass screening isn't new, but turning it into a TikTok-style experience feels like we're one step closer to hiring people based on their best angles and lip-sync abilities rather than actual competence.",
-        "date": "2026-06-24T06:41:53.618593+00:00"
-      },
-      {
-        "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
-        "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
+        "title": "Upbound open-sources Modelplane to optimize inference clusters",
+        "url": "https://siliconangle.com/2026/06/23/upbound-open-sources-modelplane-optimize-inference-clusters/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Anthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee. It\u2019s called Claude Tag, and it\u2019s designed to work across entire org",
-        "dwp_take": "Anthropic released Claude Tag, an AI assistant that operates directly within Slack as a kind of virtual team member that can help multiple employees across projects. This matters because digital workplace leaders are now looking at AI not as a separate tool but as something embedded into the collaboration platforms where people already spend their time. Honestly, this is the move everyone's been waiting for, but let's see if organizations can resist the urge to replace humans with it before they've even figured out what it's supposed to do.",
-        "date": "2026-06-24T06:41:58.829659+00:00"
+        "excerpt": "Upbound Inc. today released Modelplane, a new open-source tool for managing artificial intelligence inference clusters. San Francisco-based Upbound is backed by $69 million from Alphabet Inc.\u2019s GV fun",
+        "dwp_take": "Upbound released Modelplane, an open-source tool designed to manage AI inference clusters more efficiently, built on their existing Crossplane infrastructure management platform. For digital workplace leaders deploying AI tools across distributed teams, this means better control over the computational resources running those models without getting locked into vendor solutions. Whether this actually solves the real problem of getting AI infrastructure out of the hands of engineers and into something business teams can understand remains to be seen, but at least it's open source, which is a good sign.",
+        "date": "2026-06-24T12:26:55.886901+00:00"
+      },
+      {
+        "title": "Nvidia bets on agentic AI to turbocharge biotech discovery",
+        "url": "https://siliconangle.com/2026/06/23/nvidia-bets-agentic-ai-turbocharge-biotech-discovery/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Artificial intelligence played a prominent role at this week\u2019s Bio International Convention in San Diego, the largest biotech event with vendors spanning the full ecosystem of companies in this indust",
+        "dwp_take": "Nvidia is pushing agentic AI, agents that can autonomously complete complex tasks, as the next big thing for biotech research and discovery. For digital workplace folks, this matters because autonomous AI agents will fundamentally change how knowledge work gets done, forcing us to rethink everything from workflows to skill requirements to oversight structures. That said, I'll believe it when I see enterprise adoption actually move beyond the hype cycle and solve real problems without requiring a team of prompt engineers babysitting the bots.",
+        "date": "2026-06-24T12:26:59.827667+00:00"
+      },
+      {
+        "title": "Orderful nabs $35M to streamline supply chain data management",
+        "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Orderful Inc., a startup using artificial intelligence to make supply chains more efficient, today announced that it has raised $35 million in funding. The Series C round was led by Koch Disruptive Te",
+        "dwp_take": "Orderful just scored $35 million in Series C funding to help retailers and suppliers swap data without losing their minds in the process. For digital workplace pros, this matters because supply chain chaos directly impacts internal systems, collaboration tools, and how your employees actually get work done when vendors can't send a clean PO to save their lives. Look, after 30 years I've seen plenty of startups promise to fix broken data flows, and some actually do it, so we'll see if Orderful is the real deal or just another well-funded band aid.",
+        "date": "2026-06-24T12:27:04.030225+00:00"
+      },
+      {
+        "title": "Snyk launches Evo Agentic Development Security to police AI coding agents",
+        "url": "https://siliconangle.com/2026/06/23/snyk-launches-evo-agentic-development-security-police-ai-coding-agents/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Cybersecurity company Snyk Ltd. today launched Evo Agentic Development Security, a new layer of its artificial intelligence security platform built to police the autonomous coding agents that increasi",
+        "dwp_take": "Snyk built a new security layer called Evo ADS that watches over AI coding agents as they autonomously write enterprise software with minimal human involvement. This matters because enterprises are letting machines write code but nobody's really policing what those machines pull in or how they do it, which is a security nightmare waiting to happen. Finally someone's tackling the obvious problem: we've handed the keys to the robot, and now we need a security guard to watch the robot.",
+        "date": "2026-06-24T12:27:07.817995+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I replaced Google Search with DuckDuckGo and Perplexity - my results were noticeably better",
-        "url": "https://www.zdnet.com/article/i-replaced-google-search-with-duckduckgo-and-perplexity/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "With Google now a cesspool of AI-generated answers, here's how to work smarter: DuckDuckGo and Perplexity are the best one-two punch in search today.",
-        "dwp_take": "A tech writer ditched Google Search for DuckDuckGo and Perplexity, finding the results cleaner and more reliable as Google's search results get clogged with AI garbage. This matters because your workforce increasingly depends on search to find information, complete tasks, and make decisions, so a degraded search experience directly impacts productivity and information quality. Look, I've watched tool transitions for three decades, and when Google starts losing people over quality issues, that's significant, though good luck getting your IT department to approve a new search tool without three months of security reviews.",
-        "date": "2026-06-24T06:42:03.403860+00:00"
-      },
-      {
-        "title": "Meta pauses employee monitoring program after data protections fail",
-        "url": "https://www.computerworld.com/article/4188640/meta-pauses-employee-monitoring-program-after-data-protections-fail-2.html",
+        "title": "What do the IPOs for SpaceX, OpenAI and Anthropic mean for Microsoft?",
+        "url": "https://www.computerworld.com/article/4187992/what-do-the-ipos-for-spacex-openai-and-anthropic-mean-for-microsoft.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "An extensive program at Meta to gather a wide range of data from employees to train its AI model has been frozen after employees reportedly broke through its guardrails and accessed restricted data, a",
-        "dwp_take": "Meta shut down an employee monitoring program designed to feed AI training data after workers repeatedly bypassed security controls meant to keep them out of restricted information. For digital workplace leaders, this is a textbook reminder that surveillance infrastructure requires rock-solid security architecture or it becomes liability theater. You can't build trust by watching your employees, and you definitely can't build it by doing so badly that they prove your systems don't work.",
-        "date": "2026-06-24T06:42:08.073288+00:00"
+        "excerpt": "The AI IPO tsunami on the stock market has only recently gotten under way, with SpaceX\u2019s more-than-$2 trillion IPO likely to be followed in several months by OpenAI\u2019s and Anthropic\u2019s IPOs \u2014 each of wh",
+        "dwp_take": "SpaceX, OpenAI, and Anthropic are heading to IPO with valuations around $1-2 trillion each, creating direct competition for Microsoft in AI markets. This matters because it signals where enterprise AI investment is flowing and whether Microsoft's current AI partnerships actually lock in long-term advantage or just buy time. Honestly, if these three actually deliver on their hype at scale, Microsoft's \"we own the AI future\" narrative gets a lot harder to defend, and CIOs will finally have real alternatives instead of just Azure bundling.",
+        "date": "2026-06-24T12:27:13.696948+00:00"
       },
       {
-        "title": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
-        "url": "https://www.computerworld.com/article/4188535/robots-will-replace-700000-delivery-workers-warns-head-of-e-commerce-giant.html",
+        "title": "Entry-level AI workers now need \u2018senior-level\u2019 skills, PwC says",
+        "url": "https://www.computerworld.com/article/4188067/entry-level-ai-workers-now-need-senior-level-skills-pwc-says.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "China\u2019s e-commerce giant JD.com is preparing for a future where packages are delivered by robots instead of people. The company\u2019s founder and chairman, Richard Liu, expects robots will \u201csooner or late",
-        "dwp_take": "JD.com's founder says robots will eventually replace the company's 700,000 delivery workers, though he's expressed concern about their futures. This matters because it signals how seriously major employers view automation in logistics, and it raises real questions about how organizations plan for workforce transitions rather than just implementing technology. The irony is thick here: a leader simultaneously saying \"robots are inevitable\" and \"I don't want people jobless\" without actually committing to retraining programs shows exactly why workers should be skeptical when tech executives wring their hands about displacement.",
-        "date": "2026-06-24T06:42:13.553934+00:00"
+        "excerpt": "AI has created a tough job environment for entry-level workers and things aren\u2019t getting better anytime soon \u2014 even those with AI capabilities now need \u201csenior-level\u201d skills to land a job. \u201cAI-exposed",
+        "dwp_take": "PwC's research shows that entry-level AI jobs now demand senior-level skills like judgment and leadership, making it seven times harder for newcomers to break in. This matters because digital workplace teams are struggling to build sustainable talent pipelines when there's no actual entry point anymore. It's the classic consulting move: create a problem, then charge clients six figures to hire expensive seniors to fix the shortage they helped create.",
+        "date": "2026-06-24T12:27:18.033945+00:00"
       },
       {
-        "title": "Caught in the iCloud: Apple trial set in the UK",
-        "url": "https://www.computerworld.com/article/4188378/caught-in-the-icloud-apple-trial-set-in-the-uk.html",
+        "title": "Trump vs. Anthropic: The AI wars are heating up",
+        "url": "https://www.computerworld.com/article/4187893/trump-vs-anthropic-the-ai-wars-are-heating-up.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Forty million UK iCloud users could be owed up to $100 (\u00a377) each after a $3.9 billion (\u00a33 billion) class action lawsuit against Apple was cleared for trial \u2014 and the company\u2019s problems may be just ge",
-        "dwp_take": "Apple is facing a UK class action lawsuit on behalf of 40 million iCloud users over alleged breaches of competition law, with potential damages hitting $3.9 billion. For digital workplace folks, this matters because it signals how regulators are increasingly willing to crack down on big tech's data practices and closed ecosystems, which directly affects how enterprises negotiate with these vendors. Here's the thing: when Apple loses cases like this, they don't suddenly become more open or user-friendly. They just get more expensive and more defensive, which is exactly the opposite of what your workplace needs.",
-        "date": "2026-06-24T06:42:17.657960+00:00"
+        "excerpt": "The US government decision to force Anthropic to close down its latest and greatest AI models, Fable 5 and Mythos 5, was only the next step in a burgeoning battle between AI providers and ignorant pol",
+        "dwp_take": "The Trump administration has forced Anthropic to shut down its latest AI models, Fable 5 and Mythos 5, escalating tensions between government regulators and AI companies. This matters because your enterprise is caught in the crossfire: if the government starts dictating which AI tools you can and cannot use, your digital workplace strategy gets a lot messier and less predictable. Here's the thing though: calling politicians \"ignorant\" doesn't help anybody, and neither does the breathless hype about AI being scary. We need actual guardrails, not theater.",
+        "date": "2026-06-24T12:27:22.102440+00:00"
+      },
+      {
+        "title": "\u2018Agentic AI\u2019 PCs? Not much new here, say analysts",
+        "url": "https://www.computerworld.com/article/4186938/agentic-ai-pcs-not-much-new-here-say-analysts.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Nvidia and Microsoft this month touted the reinvention of computers with a new class of \u201cagentic AI PCs\u201d that will \u201creinvent the way PCs work.\u201d That\u2019s how Nvidia CEO Jensen Huang described the compute",
+        "dwp_take": "Nvidia and Microsoft are pushing \"agentic AI PCs\" as revolutionary machines that will fundamentally change how computers work, with Nvidia introducing its new N1X chip designed specifically for this purpose. This matters because if these systems actually deliver on autonomous task handling, they could reshape how knowledge workers interact with their tools, potentially reducing grunt work and changing job functions. That said, we've heard \"revolutionary PC reinvention\" pitches before, and until these agents actually do something useful without breaking your workflow, it's mostly marketing noise dressed up in silicon.",
+        "date": "2026-06-24T12:27:26.403611+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Gloria Steinem talks parental leave, women in leadership, and saving democracy",
-        "url": "https://www.fastcompany.com/91563725/gloria-steinem-talks-parental-leave-women-in-leadership-and-saving-democracy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Liquid Death founder Mike Cessario shares his playbook for breaking through",
+        "url": "https://www.fastcompany.com/91562196/liquid-death-founder-mike-cessario-shares-his-playbook-for-breaking-through?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Gloria Steinem is ensconced in a plush red armchair in her living room. On her right is Louise McDonald Herne, a Mohawk Bear Clan Mother, dressed in white linen with burgundy and purple ribbons. On he",
-        "dwp_take": "Gloria Steinem sat down with Indigenous women leaders to discuss parental leave, women in leadership, and democracy. Digital workplace professionals should care because these conversations directly shape workplace culture, retention policies, and who actually gets to lead in our organizations. Here's the thing though: we can read all the think pieces we want, but until companies stop treating parental leave like a charity and start treating it like basic infrastructure, nothing changes.",
-        "date": "2026-06-24T06:42:22.076366+00:00"
-      },
-      {
-        "title": "Meta hits pause on tracking employee keystrokes to train AI after internal leak",
-        "url": "https://www.fastcompany.com/91563851/meta-hits-pause-on-tracking-employee-keystrokes-to-train-ai-after-internal-leak?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Just two months after Meta announced plans to track employee keystrokes and mouse movements to train its AI models, the company said it would pause the program after an alleged internal leak. Accordin",
-        "dwp_take": "Meta announced it would pause a keystroke tracking program designed to feed AI training data after internal systems exposed employee private conversations and performance data. This matters because it's a textbook case of why surveillance initiatives need ironclad security architecture before deployment, not after you've already scared everyone. The real kicker is that Meta, of all companies, had to learn the hard way that employees won't volunteer their keystrokes for AI training if you can't even keep the data from leaking across your own network.",
-        "date": "2026-06-24T06:42:26.089092+00:00"
-      },
-      {
-        "title": "Feeling like you\u2019re not enough can lead to burnout. These mindset shifts can prevent that",
-        "url": "https://www.fastcompany.com/91562515/feeling-like-youre-not-enough-can-lead-to-burnout-these-mindset-shifts-can-prevent-that?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Recently, I\u2019ve had several conversations with high performers that follow a strikingly similar pattern. On paper, these people are the epitome of success: impressive titles, complex portfolios, and a ",
-        "dwp_take": "Fast Company ran a piece about high performers battling imposter syndrome and inadequacy feelings that drive them toward burnout. This matters because digital workplace leaders are managing increasingly distributed, isolated teams where you can't see when your best people are quietly drowning in self-doubt. Here's the thing though: no mindset shift solves a broken workload, and if your top performers feel like they're not enough, you might have a system problem masquerading as a psychology problem.",
-        "date": "2026-06-24T06:42:30.099450+00:00"
-      },
-      {
-        "title": "\u2018The Big Short\u2019 investor issues a dire warning about Nvidia. Here\u2019s why he believes an \u2018aggressive fall\u2019 is coming, and how businesses can avoid the same fate",
-        "url": "https://www.fastcompany.com/91552611/nvidia-the-big-short-michael-burry?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Michael Burry, the investor whose controversial bet against the housing market was made famous in The Big Short, is continuing his campaign against another, perhaps even frothier target: Nvidia. Here\u2019",
-        "dwp_take": "Michael Burry is warning that Nvidia's stock is overvalued and headed for a significant correction, arguing the AI hype has gotten ahead of reality. Digital workplace leaders need to pay attention because many are making infrastructure and tool investments based on AI promises that might not deliver ROI if the bubble pops. After decades watching companies chase shiny tech trends, I'd say use Burry's warning as a reality check: vet your AI vendors hard and don't bet your budget on speculative tech just because everyone else is.",
-        "date": "2026-06-24T06:42:35.945320+00:00"
+        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
+        "dwp_take": "Mike Cessario, founder of Liquid Death (the canned water brand with the skull logo), shared his leadership approach in Fast Company's Modern CEO newsletter, focusing on breaking through in a crowded market. Digital workplace leaders should care because his strategies around authentic branding and cutting through noise apply directly to internal communications and company culture. Here's the thing though: if your internal messaging needs a skull and edgy marketing to get employees engaged, you've probably got bigger problems than a branding issue.",
+        "date": "2026-06-24T12:27:31.623579+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Tata Electronics Leak Exposes 200,000 Files, Including Apple and Tesla Documents",
-        "url": "https://www.techrepublic.com/article/news-apac-india-tata-electronics-data-leak/",
+        "title": "Samsung Galaxy Watch Glucose Monitoring Apps: The Good, the Bad, and the Limitations",
+        "url": "https://www.techrepublic.com/article/news-best-samsung-watch-cgm-apps/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Tata Electronics is investigating a cyber incident after leaked files reportedly included manufacturing documents for Apple and Tesla. The post Tata Electronics Leak Exposes 200,000 Files, Including A",
-        "dwp_take": "A Tata Electronics breach exposed 200,000 files containing sensitive manufacturing documents for major clients including Apple and Tesla. This matters because it shows that even massive suppliers to the world's biggest tech companies can't keep confidential data locked down, which means your organization's sensitive files are probably sitting in someone else's system with similar vulnerabilities. If you're still thinking your data is safe just because you hired an enterprise vendor, it's time to wake up and audit exactly where your information actually lives.",
-        "date": "2026-06-24T06:42:40.308817+00:00"
+        "excerpt": "Compare the best Samsung Watch CGM apps and Wear OS tools for blood sugar readings, including Dexcom G6, Gluroo, and xDrip+. The post Samsung Galaxy Watch Glucose Monitoring Apps: The Good, the Bad, a",
+        "dwp_take": "Samsung Galaxy Watch now supports multiple continuous glucose monitoring apps, giving users real-time blood sugar data right on their wrist through options like Dexcom G6, Gluroo, and xDrip+. This matters because workplace wellness programs are getting serious about chronic disease management, and wearables that deliver clinical-grade health data during the workday can actually reduce absenteeism and boost productivity. That said, most of these apps still have accuracy gaps and battery drain issues that'll frustrate users faster than a failed Teams meeting, so don't expect them to replace actual medical devices anytime soon.",
+        "date": "2026-06-24T12:27:41.025270+00:00"
       },
       {
-        "title": "Coupang\u2019s $409M Fine Shows the Real Cost of Weak AI Governance",
-        "url": "https://www.techrepublic.com/article/news-coupang-fine-ai-governance-board-risk/",
+        "title": "Meta Invests $900M in Fintech Startup CRED, Taps Founder to Lead WhatsApp",
+        "url": "https://www.techrepublic.com/article/news-meta-cred-kunal-shah-whatsapp-fintech-apac-india/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Recent AI and data security actions show why AI governance now belongs with boards, not just IT teams managing tools and access. The post Coupang\u2019s $409M Fine Shows the Real Cost of Weak AI Governance",
-        "dwp_take": "Coupang got hit with a $409 million fine because their AI governance was basically a suggestion rather than a strategy. This matters because it proves that when your organization treats AI like just another tool that IT can handle in their spare time, regulators will absolutely make it your board's problem instead. After 30 years watching workplace tech, I can tell you that fining a company nearly half a billion dollars is a pretty expensive way to learn that governance belongs at the executive table, not buried in some IT ticketing system.",
-        "date": "2026-06-24T06:42:44.489014+00:00"
+        "excerpt": "Meta\u2019s $900 million CRED investment puts fintech founder Kunal Shah in charge of WhatsApp as the app pushes deeper into commerce and payments. The post Meta Invests $900M in Fintech Startup CRED, Taps",
+        "dwp_take": "Meta just dropped 900 million dollars on fintech startup CRED and installed its founder, Kunal Shah, to run WhatsApp, signaling a serious pivot toward payments and commerce within the messaging platform. For digital workplace folks, this matters because WhatsApp is where billions of your users already live, and adding payment rails directly into that space could fundamentally reshape how internal communications and employee financial services work in global companies. Honestly, it's a smart play by Meta, though I'd be watching how this lands with regulators who are already skeptical of the company's ambitions in financial services.",
+        "date": "2026-06-24T12:27:45.530739+00:00"
       },
       {
-        "title": "AI Goes Hollywood: Google, A24 Strike $75M AI Deal for Filmmaking Tools",
-        "url": "https://www.techrepublic.com/article/news-google-a24-ai-filmmaking-deepmind-investment/",
+        "title": "Oracle Cuts 21,000 Jobs as It Rebuilds Around AI",
+        "url": "https://www.techrepublic.com/article/news-oracle-cuts-21000-jobs-rebuilds-around-ai/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google is investing about $75 million in A24 through a partnership with DeepMind to develop AI tools for filmmaking and distribution. The post AI Goes Hollywood: Google, A24 Strike $75M AI Deal for Fi",
-        "dwp_take": "Google and DeepMind are throwing $75 million at A24 to build AI tools for film production and distribution, basically betting that generative AI can speed up how movies get made and pushed to audiences. This matters to digital workplace folks because creative tools powered by AI are about to reshape how teams collaborate on content, which means your design, video, and creative departments need to start thinking about AI integration now or risk falling behind competitors who do. The real question isn't whether this works for Hollywood, it's whether your organization is ready for the creative chaos that happens when AI actually becomes useful at something people care about.",
-        "date": "2026-06-24T06:42:51.530070+00:00"
+        "excerpt": "Oracle cut about 21,000 jobs in fiscal 2026 as it restructures around AI and cloud infrastructure, raising questions for enterprise buyers. The post Oracle Cuts 21,000 Jobs as It Rebuilds Around AI ap",
+        "dwp_take": "Oracle is laying off 21,000 employees while pivoting its business toward AI and cloud services, essentially betting the farm that this restructuring positions them better for the future. This matters because Oracle is a major enterprise software vendor that thousands of organizations rely on, so leadership upheaval and strategic shifts directly affect support quality, product roadmaps, and your vendor relationships. Here's the thing though: every tech company claims they're restructuring \"around AI\" these days, but Oracle's actually got real cloud and database chops, so this might actually stick unlike some of the performative pivots we've seen elsewhere.",
+        "date": "2026-06-24T12:27:50.184253+00:00"
       },
       {
-        "title": "Windows 11 26H2 Is Coming: Microsoft Shares New Details",
-        "url": "https://www.techrepublic.com/article/news-windows-11-26h2-enablement-package-update/",
+        "title": "Apple\u2019s iOS 27 Beta 2: New Siri, RCS, and Wallet Changes Arrive",
+        "url": "https://www.techrepublic.com/article/news-ios-27-beta-2-write-with-siri-rcs-upgrades/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft confirmed Windows 11 26H2 will use an enablement package, giving IT teams a faster upgrade path and support reset for supported PCs. The post Windows 11 26H2 Is Coming: Microsoft Shares New ",
-        "dwp_take": "Microsoft is rolling out Windows 11 26H2 using an enablement package model, which basically means a faster, lighter update instead of a full OS reinstall. For digital workplace pros, this matters because it cuts deployment time and reduces the chance of things breaking during upgrades, which means fewer panicked calls to your help desk. After years of watching Microsoft fumble Windows updates, I'll believe the \"faster and smoother\" pitch when I see it actually working in production environments.",
-        "date": "2026-06-24T06:42:55.788447+00:00"
+        "excerpt": "iOS 27 beta 2 adds Write with Siri, RCS replies, Wallet updates, and Home fixes, giving IT teams more to test before launch. The post Apple\u2019s iOS 27 Beta 2: New Siri, RCS, and Wallet Changes Arrive ap",
+        "dwp_take": "Apple released iOS 27 beta 2 with updates to Siri voice capabilities, RCS messaging support, Wallet features, and Home app improvements that IT teams need to test before public launch. This matters because every iOS update means your organization's mobile device management policies, security protocols, and user support workflows might need adjusting, and beta testing windows are where you catch compatibility issues before they become everyone's problem. The real question is whether your IT team has the bandwidth to actually test this stuff properly, or if you'll be like most places and just pray it doesn't break anything critical when it goes live.",
+        "date": "2026-06-24T12:27:54.677355+00:00"
       }
     ]
   }
