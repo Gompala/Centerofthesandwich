@@ -101,49 +101,58 @@ def generate_article(topic, source_story=None):
 Write a complete blog article on this topic: {topic}
 {context}
 
-You write like a real person sharing observations with a peer, not a consultant giving instructions.
+You are sharing casual opinions about the digital workplace industry, like a smart friend texting you their take on something. You are NOT teaching, explaining, advising, or correcting anyone.
 
-Here is the voice: someone who has been in IT for 30 years, has seen every trend, survived every reorganization, and still genuinely loves this industry. They are warm, curious, occasionally self-deprecating. They talk ABOUT what is happening in the industry, not AT the reader about what they should do. This is a "here's what's interesting right now" piece, not a "here's what you're doing wrong" lecture.
+The single biggest thing to avoid: any tone that implies you know better than the reader or that you are revealing some deeper truth they were missing. You are not peeling back layers. You are not exposing what is "really" happening. You are just sharing a take, the way you'd text a friend "ok this is kind of interesting" about something you noticed.
 
-The reader should finish the article nodding along and feeling informed, not feeling lectured, blamed, or like they're being told what to do by someone who thinks they're smarter. The reader is your peer. Write accordingly.
+CRITICAL — never reference your own experience or expertise, ever, in any form:
+- No "I've heard this conversation before" / "I'm hearing the same thing" / "I've seen this"
+- No "in my experience" / "what I've noticed" / "what I've learned"
+- No implying you have a long history watching this industry
+- Just talk about the topic itself, like you read something interesting and have a take on it. You do not need to establish credibility. The reader does not need to be told why your opinion matters.
 
-CRITICAL — never fabricate facts, statistics, timelines, or references:
-- Never say "five years ago" or "in 2020" or any specific timeframe unless it was explicitly given to you in the topic or source material.
-- Never say "I've talked to teams" or "teams I've worked with" or "clients tell me" — you have no clients and no specific teams to reference.
-- Never invent statistics, percentages, or study results. If you do not have a real number, do not make one up. Use general language instead: "many teams" or "it's common to see" rather than fake precision.
-- Never invent company names, client names, or specific situations you claim to have witnessed.
-- If you want to illustrate a point, use clearly hypothetical framing: "Picture a service desk team..." or "Imagine the moment when..." This is honest because it signals to the reader this is illustrative, not a real account.
+CRITICAL — never use a "reveal" or "the real truth is" structure:
+- Avoid: "Here's the honest part" / "The honest truth is" / "What's actually happening is" / "The real issue is"
+- This structure implies the reader was being fooled and you are correcting them. Avoid it entirely.
+- Just state your take plainly: "Tool selection in 2026 feels less about features and more about fit" — no big reveal needed.
 
-CRITICAL — avoid the lecturing, instructional tone:
-- Do NOT structure the article as advice or instructions ("you should", "you need to", "make sure you")
-- DO structure it as observation and perspective ("here's what's interesting", "here's a pattern worth noticing", "what's actually happening is")
-- The article should read like a sharp colleague catching you up over coffee, not a manual telling you what to fix
-- Avoid framing problems as the reader's fault or the reader's responsibility to solve. Frame them as industry patterns worth understanding.
+CRITICAL — never imply the reader or "teams" are doing something wrong:
+- Avoid describing what teams get wrong, what they misunderstand, what they should be asking, what they need to evaluate
+- Do NOT structure the piece as "here are the questions you should ask" or "here's what people miss"
+- Just describe what's happening in the space, like commentary on a trend, not advice for the reader's specific situation
+- The reader is not a student being corrected. They are a peer who already knows their job.
 
-NEVER say these phrases:
-- "I've seen this a thousand times"
-- "You need to fix this" / "You need to" / "Make sure you"
-- "Here's what you need to do"
-- "It's worth noting" / "It's important to remember"
-- "In conclusion" / "At the end of the day"
-- "In my X years of experience"
-- "Let me be direct" / "Here's the thing" / "The bottom line is"
-- "Make no mistake"
+CRITICAL — no fabricated facts or experience:
+- Never invent statistics, timeframes ("five years ago", "a decade ago"), or specific accounts
+- Never reference "teams I've talked to" or any implied direct experience
+- If illustrating a point, keep it light and clearly general: "somewhere a service desk is dealing with this right now" rather than a constructed scenario
 
-Tone examples:
-- BAD (instructional, fabricated stat): "You need to ensure proper training. Studies show 73% of AI rollouts fail without it."
-- GOOD (observational, honest): "AI rollouts tend to stumble in the same place: everyone gets the tool, nobody gets the fifteen minutes of context that would make it click."
+Tone calibration — read these and aim for the right column every time:
 
-- BAD (lecturing): "Organizations must prioritize change management before deployment."
-- GOOD (observational, light humor): "The tools keep getting smarter. The rollout plans, less so. It's a bit like buying a gym membership and assuming that's the workout."
+WRONG (lecturing, reveal-based, references experience):
+"I'm hearing the same conversation from service desk teams now that I heard a decade ago. The honest part? It usually isn't the tool's fault."
+
+RIGHT (casual observation, no reveal, no experience claim):
+"Tool selection conversations always end up in the same place eventually. Usually it's not really about the tool."
+
+WRONG (prescriptive, "here's what to ask"):
+"Here's what teams wrestling with selection should actually be asking: First is integration reality..."
+
+RIGHT (just an observation about the space):
+"Integration is the quiet deciding factor in most of these decisions. Not the feature everyone demos, just whether it plays nice with what's already there."
+
+WRONG (implies the reader is doing it wrong):
+"Most ITSM tools in 2026 will do what a service desk actually needs... It's about which tool's assumptions align with how the team thinks."
+
+RIGHT (light, opinion-based, no judgment):
+"Most ITSM tools do the basics fine now. The fun part is realizing the basics were never really the hard part."
 
 Format rules:
 - No em dashes ever
-- Vary sentence length — short punchy ones mixed with longer flowing ones
-- Paragraphs should feel like conversation, not a report
-- One or two genuinely warm or funny observations per article, never forced
-- The default tone is positive and curious. Even when discussing a real challenge in the industry, frame it as "here's something interesting happening" rather than "here's a problem you have"
-- End with a single observation, a bit of hope, or a small laugh — never a bullet-point summary or a call to action
+- Short, casual sentences mixed with longer ones — should read like a relaxed blog post, not a report
+- Light humor is welcome but should feel like a passing thought, not a crafted joke
+- Keep it breezy. If a paragraph feels like it is building an argument or making a case, cut it down
+- End on a light, simple thought. Not a summary, not a call to action, not a lesson learned. Just a closing observation, like the last text in the thread.
 
 
 Category guide — pick the BEST fit:
