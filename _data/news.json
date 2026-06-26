@@ -1,120 +1,156 @@
 {
-  "generated": "2026-06-25T06:44:09.743538+00:00",
+  "generated": "2026-06-26T06:51:41.466297+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Europe is pushing back on Washington\u2019s chip war",
-        "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+        "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Ac",
-        "dwp_take": "Europe is resisting US export restrictions on semiconductor manufacturing equipment, arguing that blocking sales of decade-old chip tools to China is economically counterproductive and technically obsolete as a control measure. For digital workplace professionals, this matters because semiconductor supply chain instability directly impacts hardware availability, cloud infrastructure costs, and ultimately the tools and systems your organization depends on. Here's the thing: if Washington and Brussels can't get on the same page about what actually constitutes advanced technology, we're all going to be stuck explaining procurement delays to executives for years.",
-        "date": "2026-06-25T06:43:20.548956+00:00"
+        "excerpt": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "dwp_take": "Anthropic's Claude is gaining real traction with paying customers despite OpenAI's massive head start and brand dominance in the AI space. For digital workplace pros, this matters because it signals that the AI tool landscape won't be a winner-take-all situation, meaning your organization will need to evaluate multiple options rather than just default to whatever everyone else uses. The irony is that Claude's steady climb might actually be because it's less flashy and more reliable than ChatGPT, which tells you something important about what sophisticated users actually want from their tools.",
+        "date": "2026-06-26T06:50:38.556069+00:00"
       },
       {
-        "title": "AI researchers continue to leave Google for its rivals",
-        "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+        "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-        "dwp_take": "Google is losing its AI talent pipeline to competitors like Anthropic, with senior researchers like Adler and Pritzel walking out the door. For digital workplace leaders, this signals that compensation, prestige, and even ping-pong tables aren't enough to keep your best people if they feel constrained or undervalued. Google built its talent moat on \"we have the smartest people,\" so watching that narrative crack is the corporate equivalent of finding out your secret sauce is just ketchup.",
-        "date": "2026-06-25T06:43:24.697893+00:00"
+        "excerpt": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+        "dwp_take": "Databricks' ex-AI chief launched a startup claiming their new approach could slash AI's energy consumption by a factor of 1,000. This matters because digital workplace leaders are already sweating the power costs and carbon footprint of running AI tools at scale, so a genuine efficiency breakthrough would be game-changing for their infrastructure budgets. That said, \"could\" and \"shows for the first time\" are doing a lot of heavy lifting in that headline, and we've heard efficiency promises before, so let's see the actual numbers before the champagne comes out.",
+        "date": "2026-06-26T06:50:42.758087+00:00"
       },
       {
-        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-        "dwp_take": "Companies are discovering that employees are burning through AI token budgets on trivial tasks instead of high-value work, forcing them to implement spending controls and usage policies. This matters because it reveals a fundamental problem with how organizations are rolling out AI tools: they're not thinking through governance, training, or actual use cases before handing out access. The irony is thick here. We spent decades teaching people that cloud storage is unlimited, then act shocked when they treat AI tokens the same way.",
-        "date": "2026-06-25T06:43:29.262185+00:00"
+        "excerpt": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+        "dwp_take": "Netris just scored a $15 million Series A from Andreessen Horowitz to speed up how fast neocloud operators can get their infrastructure live. This matters because digital workplace folks increasingly depend on reliable, fast-deploying cloud infrastructure to support remote work and hybrid setups, and any tool that reduces deployment friction helps your organization move faster. Honestly, the fact that we're still throwing serious money at \"getting infrastructure live faster\" suggests someone's been doing this the hard way for too long, but hey, if it works it works.",
+        "date": "2026-06-26T06:50:46.717562+00:00"
       },
       {
-        "title": "Ornn raises $33M to help companies buy and sell AI compute as a commodity like oil",
-        "url": "https://siliconangle.com/2026/06/24/ornn-raises-33m-help-companies-buy-sell-ai-compute-commodity-like-oil/",
-        "source": "SiliconAngle",
+        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Artificial intelligence startup Ornn AI Inc. made a big splash today as it raised $33 million in seed funding from Andreessen Horowitz\u2019s crypto-focused fund and others to build out a marketplace for c",
-        "dwp_take": "Ornn AI just raised $33 million to create a marketplace where companies can buy and sell AI compute power like a commodity. For digital workplace folks, this matters because it could eventually make AI tools cheaper and more accessible, which means better tools and fewer excuses from IT about why you can't have nice things. That said, I've seen plenty of \"democratize the infrastructure\" plays come and go, so let's wait and see if this actually changes pricing or just creates another middleman layer.",
-        "date": "2026-06-25T06:43:33.571519+00:00"
+        "excerpt": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+        "dwp_take": "Amazon is committing another 13 billion dollars to AI infrastructure in India as part of a broader tech industry scramble to build out computing capacity in the region. For digital workplace leaders, this matters because it signals where enterprise AI services and cloud capabilities will actually be available and affordable over the next few years, which directly affects your tech stack decisions and vendor negotiations. Honestly, watching tech giants fight over India's market is like watching a chess match played with billion dollar bills, except the real winner will be companies smart enough to actually adopt this stuff before the infrastructure gold rush ends.",
+        "date": "2026-06-26T06:50:51.245376+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "12 rules of agentic AI for successful enterprise transformation",
-        "url": "https://www.zdnet.com/article/12-rules-of-agentic-ai/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Most AI pilots focus on capability and speed - and skip the hard work of earning trust from the business.",
-        "dwp_take": "ZDNet published a piece about 12 rules for deploying agentic AI in enterprises, highlighting that most AI pilots chase speed and capability while neglecting the trust-building work that actually matters. This matters because digital workplace leaders are the ones caught between IT's AI excitement and end users' legitimate skepticism, so understanding trust mechanics beats understanding another AI framework. Here's the thing: I've watched 30 years of tech rollouts, and the pattern never changes. You can have the fanciest AI agent in the world, but if your employees don't trust it with their actual work, you've built an expensive paperweight.",
-        "date": "2026-06-25T06:43:38.306819+00:00"
-      },
-      {
-        "title": "Anthropic\u2019s Claude Tag aims to turn workplace AI from a personal assistant into a teammate",
-        "url": "https://www.computerworld.com/article/4189055/anthropics-claude-tag-aims-to-turn-workplace-ai-from-a-personal-assistant-into-a-teammate.html",
+        "title": "Researchers cast new doubt on Microsoft\u2019s quantum computing advance",
+        "url": "https://www.computerworld.com/article/4189622/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Claude Tag is Anthropic\u2019s latest attempt at getting Claude out of your DMs and into your team\u2019s Slack channels. AI assistants are increasingly showing up in the workplace to perform research, coding, ",
-        "dwp_take": "Anthropic just rolled out Claude Tag, a feature designed to move Claude from one-on-one chats into shared team spaces like Slack where the work actually happens. This matters because right now most workplace AI lives in silos, meaning each person gets their own answers and nobody benefits from what others discovered. Honestly, this is overdue, but let's see if teams actually use it or if it just becomes another bot cluttering the channel while everyone ignores it.",
-        "date": "2026-06-25T06:43:43.539024+00:00"
+        "excerpt": "Microsoft\u2019s controversial claim that its Majorana chip program will make possible a scalable quantum computer by 2029 has been thrown into new doubt by a scientific paper that questions whether the co",
+        "dwp_take": "Microsoft claimed its Majorana chip could deliver scalable quantum computing by 2029, but new research from the University of St Andrews suggests the company may have misinterpreted its own experimental data. For digital workplace teams banking on quantum-powered solutions for encryption, analytics, or next-gen collaboration tools, this matters because timelines just got a lot fuzzier and vendor promises need harder scrutiny. After three decades watching tech companies overpromise and underdeliver, I can tell you this is exactly why you should nod politely when vendors show you their roadmaps, then build your strategy assuming they'll arrive two years later than promised.",
+        "date": "2026-06-26T06:50:57.067596+00:00"
+      },
+      {
+        "title": "Apple raises hardware prices; AI gets the blame",
+        "url": "https://www.computerworld.com/article/4189546/apple-raises-hardware-prices-ai-is-to-blame.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Apple\u2019s threatened product pricing hike arrived Thursday with steep increases landing across all its products (except the iPhone) \u2014 and rapidly accelerating RAM prices are to blame. Apple CEO Tim Cook",
+        "dwp_take": "Apple jacked up prices on Macs, iPads, and other hardware across the board this week, citing rapidly rising RAM costs as the culprit. This matters to digital workplace pros because these devices are workplace staples, and IT budgets just got tighter when refresh cycles come around. Here's the thing though: blaming RAM prices feels like a convenient excuse when Apple's margins are already legendary. If your organization standardizes on Apple, time to have some uncomfortable conversations with finance about those hardware refresh timelines.",
+        "date": "2026-06-26T06:51:01.171744+00:00"
+      },
+      {
+        "title": "New Linux Foundation project aims to bring DNS-style trust to AI agents",
+        "url": "https://www.computerworld.com/article/4189369/new-linux-foundation-project-aims-to-bring-dns-style-trust-to-ai-agents-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "As enterprises deploy increasing numbers of AI agents across applications and organizations, the Linux Foundation on Wednesday announced plans to launch a new Agent Name Service framework designed to ",
+        "dwp_take": "The Linux Foundation is building a DNS-like naming system to verify AI agent identity, ownership, and permissions as businesses deploy more of these autonomous systems. This matters because digital workplace leaders are already struggling to govern AI tools, and without identity verification and trust mechanisms, you're basically handing your organization's data to digital wildcards. Honestly, it's about time someone tackled this, because right now most companies deploying AI agents have about as much visibility into what they're doing as a driver has with their eyes closed.",
+        "date": "2026-06-26T06:51:05.238777+00:00"
+      },
+      {
+        "title": "How France\u2019s education ministry built an open-source file-share platform for 400K users",
+        "url": "https://www.computerworld.com/article/4187951/how-frances-education-ministry-built-an-open-source-file-share-platform-for-400k-users.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "As France seeks to reduce its dependence on non-European technology suppliers across the public sector, open-source software is playing an increasingly prominent role. Among the projects that reflect ",
+        "dwp_take": "France's education ministry built Nuage, an open-source file-sharing platform serving 400,000 users, as part of a broader push to reduce reliance on non-European tech vendors in the public sector. This matters because it shows governments can actually build secure, scalable collaboration tools without handing data over to US cloud giants, which has real implications for how enterprises think about vendor lock-in and digital sovereignty. The fact that they pulled this off successfully proves that open-source isn't just idealistic talk anymore, it's a practical alternative that works at enterprise scale.",
+        "date": "2026-06-26T06:51:09.188532+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Why the world\u2019s ultra-rich are suddenly fleeing these major countries",
-        "url": "https://www.fastcompany.com/91552976/why-worlds-ultra-rich-suddenly-fleeing-major-countries?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Pride Month Reminder: LGBTQ+ Employees Aren\u2019t All the Same",
+        "url": "https://www.fastcompany.com/91564372/pride-month-reminder-lgbtq-employees-arent-all-the-same?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Entrepreneurs are famously driven by a love of what they do, and a determination to make their efforts in business flourish for themselves, their employees, and clients. Still, at times additional mot",
-        "dwp_take": "I appreciate the setup, but I've got to be straight with you: this article isn't really about digital workplaces at all. It's about wealth migration and tax policy, which is pretty far outside my wheelhouse as a workplace tech expert. I could force a connection about remote work enabling relocation, but that would be me making stuff up just to fill the space. Better to say this one's just not my lane and suggest you find coverage from someone who actually covers international finance and immigration policy.",
-        "date": "2026-06-25T06:43:47.743391+00:00"
+        "excerpt": "\u201cI Love Gay People\u201d I once had a coworker I\u2019m going to call Maggie. And Maggie loved gay people. I know that, because she explicitly told me when she learned I was gay, probably six months into workin",
+        "dwp_take": "A Fast Company piece reminds us that LGBTQ+ employees aren't a monolith and that performative allyship from coworkers who declare their love for \"gay people\" in general while knowing nothing about you personally misses the point entirely. For digital workplace pros, this matters because inclusive workplace culture means treating actual humans as individuals, not checking a box by posting a rainbow logo once a year and calling it progress. The real work is harder than a Pride Month declaration, and honestly, if your allyship requires an announcement, you're probably doing it wrong.",
+        "date": "2026-06-26T06:51:13.616828+00:00"
       },
       {
-        "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-        "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-        "source": "Wired",
+        "title": "\u2018I can\u2019t even keep up\u2019: The long-term harms of tech overload at work\u2014and how to avoid them",
+        "url": "https://www.fastcompany.com/91565206/i-cant-even-keep-up-the-long-term-harms-of-tech-overload-at-work-and-how-to-avoid-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-        "dwp_take": "Qualcomm just dropped nearly four billion dollars to acquire Modular, a startup that builds compiler software for AI chips. This matters because the tools companies use to run AI on their hardware directly impact how fast your workplace AI tools actually perform, from search to content generation to analytics. Here's the thing though: another AI startup gets swallowed by a mega-corp and suddenly all those promises about \"open innovation\" start sounding hollow. Let's see if Qualcomm actually ships what Modular promised or if this becomes vaporware with better funding.",
-        "date": "2026-06-25T06:43:54.032641+00:00"
+        "excerpt": "Right now, I have 628 unread emails in my work inbox. That\u2019s in addition to seven unread Signal messages, a few unopened Telegrams, dozens of texts coming in (both personal and professional), and a wh",
+        "dwp_take": "Workers are drowning in notification hell across fragmented tools and platforms, creating genuine cognitive overload that tanks productivity and mental health. This matters because digital workplace leaders keep adding more tools instead of consolidating, then act surprised when people burn out and nothing actually gets done. The real solution isn't another productivity app or wellness workshop\u2014it's having the hard conversation with executives about whether you actually need seven communication channels, or whether you're just creating fiefdoms for different departments.",
+        "date": "2026-06-26T06:51:17.454237+00:00"
+      },
+      {
+        "title": "Meta reverses decision to reassign employees to AI training roles",
+        "url": "https://www.fastcompany.com/91565257/meta-reverses-decision-to-reassign-employees-to-ai-training-roles?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Meta is reversing its decision to reassign 7,000 employees to different AI-focused units, like the Applied AI (AAI) task force, to help train the company\u2019s models, one month after those plans were ann",
+        "dwp_take": "Meta backed away from forcing 7,000 employees into AI training roles after announcing the plan just a month earlier, now letting people opt in voluntarily instead. This matters because it shows even tech giants can't just shuffle workforces around without pushback, and it signals that mandatory digital transformation initiatives are riskier than leaders think. Apparently someone at Meta realized that conscripting your workforce into retraining programs tends to create more problems than it solves, which is a lesson plenty of other companies are about to learn the hard way.",
+        "date": "2026-06-26T06:51:21.802758+00:00"
+      },
+      {
+        "title": "The most transformational investment in fragile nations isn\u2019t what you think",
+        "url": "https://www.fastcompany.com/91556319/the-most-transformational-investment-in-fragile-states-isnt-what-you-think-early-childhood-investment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "In an era of shrinking aid budgets and multiplying conflicts, every dollar spent on humanitarian aid must work harder than ever. As the Ebola crisis shows, aid cuts can bring disaster, but the questio",
+        "dwp_take": "I appreciate the setup, but I need to be straight with you: this article about humanitarian aid and Ebola isn't actually about digital workplaces at all. It's about development economics and global health spending. I can't write credibly as a DWP expert on this topic because it's completely outside my lane. If you've got a digital workplace article you'd like me to tackle, I'm your person.",
+        "date": "2026-06-26T06:51:25.608351+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Zoom, Salesforce, Dialpad, and Others Bet Big on Agentic AI for CX",
-        "url": "https://www.techrepublic.com/article/news-agentic-ai-cx-contact-center-ccw/",
+        "title": "YouTube Exits Teen Addiction Lawsuit as Meta, TikTok, Snapchat Head to Trial",
+        "url": "https://www.techrepublic.com/article/news-google-youtube-addiction-lawsuit-settlement/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "CCW showed agentic AI moving deeper into CX platforms. Here\u2019s what IT leaders should know about governance, data, workforce planning, and rollout. The post Zoom, Salesforce, Dialpad, and Others Bet Bi",
-        "dwp_take": "Zoom, Salesforce, Dialpad and other major platforms are embedding agentic AI agents directly into customer experience tools to automate support workflows. This matters because IT leaders now need to think seriously about governance frameworks, data security, and how their support teams will actually work alongside these autonomous systems. The funny part is we're about to discover which companies built solid foundations for this and which ones are about to learn expensive lessons about deploying AI without a real plan.",
-        "date": "2026-06-25T06:43:58.029053+00:00"
+        "excerpt": "Google settled YouTube claims brought by a Florida teen, leaving Meta, TikTok, and Snap to face a July trial over social media addiction. The post YouTube Exits Teen Addiction Lawsuit as Meta, TikTok,",
+        "dwp_take": "Google's YouTube settled a lawsuit from a Florida teen claiming social media addiction while Meta, TikTok, and Snapchat are heading to trial in July over similar claims. This matters because digital workplace leaders are increasingly responsible for managing employee wellness around social platforms, and these cases will set legal precedent for what companies must disclose about addictive design features. YouTube basically paid to avoid discovery of their internal documents, which tells you everything you need to know about how confident tech companies feel defending their engagement algorithms in court.",
+        "date": "2026-06-26T06:51:29.839249+00:00"
       },
       {
-        "title": "Healthcare Vendor Xsolis Reports Breach Affecting 1.4M People",
-        "url": "https://www.techrepublic.com/article/news-xsolis-healthcare-data-breach/",
+        "title": "Samsung Reportedly Starts OLED Panel Production for Apple\u2019s First Foldable iPhone",
+        "url": "https://www.techrepublic.com/article/news-samsung-apple-foldable-iphone-oled-display-production/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Xsolis confirmed a healthcare data breach affecting nearly 1.4 million people after a phishing attack exposed health and identity data. The post Healthcare Vendor Xsolis Reports Breach Affecting 1.4M ",
-        "dwp_take": "A healthcare vendor called Xsolis got hit by a phishing attack that exposed health and identity data for 1.4 million people. This matters because if your organization uses Xsolis or similar healthcare platforms, you're probably fielding breach notification emails right now and dealing with mandatory disclosure requirements across multiple states. The real kicker is that phishing still works in 2024, which means your security awareness training isn't landing as hard as you thought it was.",
-        "date": "2026-06-25T06:44:01.829241+00:00"
+        "excerpt": "Apple reportedly cleared Samsung Display to make OLED panels for its first foldable iPhone, with hinge issues still shaping launch timing. The post Samsung Reportedly Starts OLED Panel Production for ",
+        "dwp_take": "Samsung has started making OLED screens for Apple's upcoming foldable iPhone, though hinge reliability concerns are still delaying the actual launch. This matters because foldable devices will eventually reshape how we think about mobile workplace tools, screen real estate, and remote work setups. Here's the thing though: Apple's obsession with getting the hinge perfect is telling, and honestly, it's the right call because there's nothing worse than your thousand-dollar work device folding wrong at a client meeting.",
+        "date": "2026-06-26T06:51:33.804203+00:00"
       },
       {
-        "title": "Apple\u2019s \u00a33B iCloud Lawsuit Could Affect 40M UK Users",
-        "url": "https://www.techrepublic.com/article/news-emea-uk-apple-icloud-lawsuit-2028-trial/",
+        "title": "Microsoft\u2019s July Windows 11 Update Focuses on Fixing Everyday PC Frustrations",
+        "url": "https://www.techrepublic.com/article/news-windows-11-july-update-practical-fixes/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple lost a bid to narrow a UK iCloud lawsuit from Which?, keeping a \u00a33 billion competition claim on track for an October 2028 trial. The post Apple\u2019s \u00a33B iCloud Lawsuit Could Affect 40M UK Users app",
-        "dwp_take": "Apple failed to get a UK court to dismiss a \u00a33 billion lawsuit from consumer group Which?, meaning the case will proceed to trial in October 2028 with potential implications for 40 million UK iCloud users. This matters to digital workplace pros because it's a bellwether for how regulators are scrutinizing cloud storage practices around data, pricing, and consumer choice. Honestly, when your legal team can't kill a case at summary judgment, you're probably looking at years of discovery that'll make your compliance team's hair turn white.",
-        "date": "2026-06-25T06:44:05.941422+00:00"
+        "excerpt": "Microsoft\u2019s July Windows 11 update adds practical fixes for update pausing, recovery, Bluetooth, Widgets, File Explorer, and more. The post Microsoft\u2019s July Windows 11 Update Focuses on Fixing Everyda",
+        "dwp_take": "Microsoft dropped a July Windows 11 update that tackles real user complaints like update pausing, Bluetooth connectivity, File Explorer glitches, and Widgets issues. This matters because every hour your workforce spends wrestling with Bluetooth or waiting for updates is an hour they're not doing actual work, which tanks productivity faster than a poorly configured Sharepoint instance. Finally, someone at Microsoft remembered that users don't want flashy features, they want their computers to stop being annoying.",
+        "date": "2026-06-26T06:51:37.554460+00:00"
       },
       {
-        "title": "LastPass Confirms Vendor Breach Exposed Customer Contact, Support Data",
-        "url": "https://www.techrepublic.com/article/news-lastpass-klue-oauth-token-salesforce-data-exposure/",
+        "title": "Denmark Ordered to Pay $12M Over Huawei Equipment Removal",
+        "url": "https://www.techrepublic.com/article/news-denmark-tdc-net-huawei-fiber-gear-removal-emea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "LastPass said customer contact and support data were exposed after attackers used stolen Klue OAuth tokens to access its Salesforce environment and CRM records. The post LastPass Confirms Vendor Breac",
-        "dwp_take": "LastPass confirmed that attackers used stolen OAuth tokens to break into their Salesforce environment and grab customer contact and support data from their CRM. This matters because most of your workforce is probably using LastPass for password management, which means your people's information just got compromised along with thousands of others. Here's the thing: if a password manager gets breached through their own vendor's security theater, it's a reminder that no tool is a magic bullet and you still need proper access controls and monitoring.",
-        "date": "2026-06-25T06:44:09.743451+00:00"
+        "excerpt": "A Danish court ordered the state to compensate TDC NET after the removal of Huawei fiber-network equipment, raising questions about telecom security costs. The post Denmark Ordered to Pay $12M Over Hu",
+        "dwp_take": "Denmark got ordered to pay TDC NET twelve million dollars after forcing them to rip out Huawei equipment from their fiber network due to security concerns. This matters because it shows the real financial consequences when governments make security decisions that shift costs to private telecom operators, and it's a heads-up that your infrastructure decisions could end up in court. Turns out geopolitical security theater has a surprisingly expensive ticket price when you actually have to pay for the show.",
+        "date": "2026-06-26T06:51:41.466189+00:00"
       }
     ]
   }
