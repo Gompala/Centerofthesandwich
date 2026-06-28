@@ -1,140 +1,5 @@
 [
   {
-    "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
-    "dwp_take": "The U.S. government has spent three decades trying to restrict exports of encryption and security software, and it basically hasn't worked, yet they're apparently trying the same playbook with Anthropic's new Mythos cybersecurity model. This matters because digital workplace security depends on actual security tools reaching the right hands, and watching governments chase the same failed strategy while real threats move at lightspeed is like watching your IT team patch Windows 95 vulnerabilities. Here's the thing: if you're building workplace security strategy around hoping export controls will somehow magically work this time around, you're already behind.",
-    "date": "2026-06-20T06:57:55.735138+00:00"
-  },
-  {
-    "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-    "dwp_take": "The US government forced Anthropic to pull two AI models citing national security risks after researchers found guardrail bypasses, though similar vulnerabilities apparently exist in competitor models too. For digital workplace professionals, this matters because it highlights the messy reality of AI governance at scale, where regulatory decisions can look inconsistent and may drive adoption decisions more than actual security differences. Honestly, banning a product while leaving functionally equivalent alternatives on the market is a masterclass in generating sympathy for the banned company, and Anthropic's PR team is probably uncorking champagne right now.",
-    "date": "2026-06-20T06:57:59.857158+00:00"
-  },
-  {
-    "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-    "dwp_take": "The US government forced Anthropic to withdraw its Fable 5 and Mythos 5 AI models over national security concerns after researchers discovered guardrail bypasses, though similar vulnerabilities exist in competing models. Digital workplace leaders need to pay attention because this regulatory whack-a-mole directly affects which AI tools they can legally deploy for internal use and what guardrails they can trust. Here's the thing: if the government is banning models for security gaps that appear in other models too, we're heading toward a regulatory framework that's either going to be spectacularly uneven or so restrictive that actually using AI becomes legally fraught.",
-    "date": "2026-06-20T06:58:04.140789+00:00"
-  },
-  {
-    "title": "Mississippi Department of Revenue balances cloud modernization with security-first AI adoption",
-    "url": "https://siliconangle.com/2026/06/20/government-ai-adoption-pureaccelerate/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Public sector organizations are increasingly rethinking how they manage critical infrastructure as demands for always-on digital services and greater operational efficiency continue to grow. As govern",
-    "dwp_take": "Mississippi's Department of Revenue moved their infrastructure to the cloud while carefully vetting AI tools to avoid security breaches and maintain public trust. This matters because government digital teams everywhere are trying to modernize without creating vulnerabilities or losing citizen confidence, which is harder than it sounds. The real story here is that \"measured\" approach to AI adoption, which is code for \"we're not throwing everything at ChatGPT and hoping for the best,\" and honestly that's the most refreshing government tech decision I've heard all year.",
-    "date": "2026-06-20T06:58:09.976450+00:00"
-  },
-  {
-    "title": "Solving an ARD problem in AI: Agentic Resource Discovery",
-    "url": "https://www.computerworld.com/article/4187307/solving-an-ard-problem-in-ai-agentic-resource-discovery-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Enterprises implementing agentic AI face a challenge: Which tools should they allow their agents to use, where can they be found, and how can they be used safely? A new protocol, Agentic Resource Disc",
-    "dwp_take": "A new protocol called Agentic Resource Discovery is being developed by major tech companies to help AI agents figure out which tools they can safely access and use across enterprise systems. This matters because digital workplace professionals are going to be managing these AI agents, and right now it's like handing someone the keys to your filing cabinets without a map. If ARD actually standardizes this stuff, it could save teams from the chaos of ad-hoc agent permissions, though I'll believe the standardization part when I see it actually work across competing vendors.",
-    "date": "2026-06-20T06:58:15.765154+00:00"
-  },
-  {
-    "title": "US should take 50% stake in major AI firms, says Bernie Sanders",
-    "url": "https://www.computerworld.com/article/4187301/us-should-take-50-stake-in-major-ai-firms-says-bernie-sanders.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "With the market capitalization of AI companies soaring, US Senator Bernie Sanders is looking to give the American people a piece of the action. The veteran senator for Vermont has introduced the Ameri",
-    "dwp_take": "Bernie Sanders wants the US government to own half of America's biggest AI companies through a new sovereign wealth fund. This matters to digital workplace pros because AI is already reshaping how we work, collaborate, and automate tasks, so whoever controls these tools controls your workplace future. Look, I've seen a lot of wild policy proposals in three decades, but getting Congress to agree on anything involving AI and public ownership might take longer than actually developing AGI.",
-    "date": "2026-06-20T06:58:19.866295+00:00"
-  },
-  {
-    "title": "OpenAI gets the attention it needs from AI researcher Noam Shazeer",
-    "url": "https://www.computerworld.com/article/4187293/openai-gets-the-attention-it-needs-from-ai-researcher-noam-shazeer.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "An IT executive changing jobs usually attracts little attention outside a narrow group of people, but Noam Shazeer\u2019s move from Google to OpenAI is as momentous as any high-value soccer transfer. He an",
-    "dwp_take": "Noam Shazeer, a prominent AI researcher, left Google to join OpenAI, signaling continued brain drain from Big Tech to the AI startup world. For digital workplace leaders, this matters because it shows where serious AI talent sees the future happening and what that means for their own organization's ability to compete for skilled people. The real story here is that Google's massive resources apparently can't keep brilliant people from heading for the door when they think the more interesting work is happening elsewhere, which should worry every large organization trying to hold onto their best people.",
-    "date": "2026-06-20T06:58:24.103920+00:00"
-  },
-  {
-    "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
-    "url": "https://www.computerworld.com/article/4187282/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Google, Microsoft, OpenAI, and others want to help enterprises demonstrate that their AI applications are behaving themselves through the creation of a new foundation. The Appia Foundation will, it ex",
-    "dwp_take": "Google and Microsoft are joining forces with OpenAI to create the Appia Foundation, which will develop specifications to help companies prove their AI systems are trustworthy and behaving properly. This matters because digital workplace leaders are getting hammered by executives demanding AI governance frameworks, and having actual standards to point to beats making something up on the fly. The real question is whether this foundation will produce anything useful or just become another standards body where everyone nods solemnly before shipping AI systems that still hallucinate in production.",
-    "date": "2026-06-20T06:58:28.078295+00:00"
-  },
-  {
-    "title": "15 must-read business books by black authors that will help you thrive professionally",
-    "url": "https://www.fastcompany.com/91561972/15-must-read-business-books-by-black-authors-that-will-help-you-thrive-professionally-best-books-business-black-authors?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "If you\u2019re serious about your career, then chances are you\u2019re constantly on the hunt for resources to help you prosper at work. The most successful leaders are readers, and it\u2019s a no-brainer that books",
-    "dwp_take": "Fast Company rounded up fifteen business books written by Black authors to help professionals advance their careers. This matters because the digital workplace runs on ideas and perspectives, and if your reading list looks like everyone else's, you're missing crucial insights that could actually change how you lead and work. Here's the thing: most people don't read at all, so if you're actually going to read something, it might as well be from voices that have been historically overlooked in the business section.",
-    "date": "2026-06-20T06:58:33.206935+00:00"
-  },
-  {
-    "title": "How to take a vacation as a solopreneur",
-    "url": "https://www.fastcompany.com/91558712/how-take-vacation-solopreneur?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "When I worked a corporate job, I had unlimited PTO. And I easily took 6+ weeks of time off every year. I have kids and followed their school schedule, taking time off for spring break and Christmas (f",
-    "dwp_take": "A solopreneur who had unlimited PTO at a corporate job is discovering that taking the same amount of vacation time now requires serious planning instead of just blocking calendar time. This matters because plenty of digital workplace folks are considering the leap to independent work and need realistic expectations about how their relationship with time off will actually change. The real lesson here isn't about vacation days though, it's that solopreneurs trade flexibility for chaos, and that's not always a fair swap.",
-    "date": "2026-06-20T06:58:37.432206+00:00"
-  },
-  {
-    "title": "The marketing funnel is dead. Here\u2019s what replaced it",
-    "url": "https://www.fastcompany.com/91551491/the-marketing-funnel-is-dead-heres-what-replaced-it-marketing-leadership?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "The funnel is dead. Not evolving. Not disrupted. Dead. For decades, the Awareness-Consideration-Decision model anchored every marketing strategy deck. It worked because vendors controlled the informat",
-    "dwp_take": "Fast Company is declaring the traditional marketing funnel obsolete because AI has shifted buyer behavior so dramatically that prospects now arrive at vendor doors already informed and ready to decide. For those of us building digital workplace strategies, this matters because it completely upends how we think about internal communication, knowledge management, and change adoption. Here's the real talk: if your digital workplace still operates like a funnel designed to feed information slowly to employees, you're already behind, and no amount of new software is going to fix that fundamental approach problem.",
-    "date": "2026-06-20T06:58:41.459073+00:00"
-  },
-  {
-    "title": "Android 17 Is Live on Pixel, but Samsung and Other Android Users Still Have to Wait",
-    "url": "https://www.techrepublic.com/article/news-android-17-pixel-rollout/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Android 17 is rolling out to supported Pixel devices first, while non-Pixel users and IT teams face separate OEM timelines, beta programs, and app-testing considerations. The post Android 17 Is Live o",
-    "dwp_take": "Google's releasing Android 17 to Pixel phones first while everyone else, including Samsung users, gets left waiting for their OEM's separate rollout schedule. This matters because IT teams managing mixed Android environments now face the usual fragmentation nightmare: different devices on different OS versions, different security patches, different capabilities, all at the same time. After three decades watching this play out, I can tell you that \"we'll get to your devices eventually\" is IT speak for \"good luck managing this mess for the next six months.\"",
-    "date": "2026-06-20T06:58:49.072788+00:00"
-  },
-  {
-    "title": "As the World Claims Tech Sovereignty, Where Does Australia Stand?",
-    "url": "https://www.techrepublic.com/article/data-tech-sovereignty-australia-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Australian enterprises remain dependent on foreign technology infrastructure, while major economies treat that dependency as a strategic liability. The post As the World Claims Tech Sovereignty, Where",
-    "dwp_take": "Australia's tech infrastructure is basically a rented apartment in someone else's building, while other major economies are busy buying real estate and installing locks on the doors. This matters because your digital workplace strategy gets wobbly when you're hostage to geopolitical tensions and foreign policy decisions you can't control. The real kicker is that Australian companies will keep paying premiums for workarounds while other nations build competitive advantages through homegrown tech stacks, which is like watching everyone else's digital workplace evolve while yours stays on life support.",
-    "date": "2026-06-20T06:58:53.048055+00:00"
-  },
-  {
-    "title": "The 5 Best Online C Programming Courses for 2026",
-    "url": "https://www.techrepublic.com/article/best-c-programming-courses/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Learning to program in C on an online platform can provide structured learning and a certification to show along with your resume. The post The 5 Best Online C Programming Courses for 2026 appeared fi",
-    "dwp_take": "TechRepublic rounded up five online C programming courses for people looking to build coding skills in 2026. This matters to digital workplace pros because technical literacy is increasingly table stakes for anyone working in tech environments, and C remains foundational knowledge that separates serious developers from button-clickers. That said, if you're already drowning in Slack notifications and back-to-back Teams calls, finding time for coursework is the real challenge here, not picking between platforms.",
-    "date": "2026-06-20T06:58:57.220350+00:00"
-  },
-  {
-    "title": "24B Records Exposed in Massive Leak of Emails, Passwords, and Login Data",
-    "url": "https://www.techrepublic.com/article/news-24-billion-credential-records-exposed-database/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Cybernews researchers found an exposed database with 24 billion credential records, raising fresh risks from password reuse and credential stuffing. The post 24B Records Exposed in Massive Leak of Ema",
-    "dwp_take": "A database containing 24 billion credential records got exposed, giving bad actors a massive collection of emails, passwords, and login data to work with. This matters because every workplace using any of those compromised credentials just became a potential entry point for attackers, and most of them probably are. If your organization's security strategy still relies on hoping people use unique passwords, congratulations, you're about to have a very expensive incident response meeting.",
-    "date": "2026-06-20T06:59:02.165586+00:00"
-  },
-  {
     "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
     "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "source": "TechCrunch",
@@ -1141,5 +1006,149 @@
     "excerpt": "Leonardo\u2019s SignalTrace adds wireless device detection to ALPR systems, raising new questions about roadside surveillance, privacy, and security. The post New License Plate Reader Tech Could Track Phon",
     "dwp_take": "License plate readers can now detect and track nearby phones, AirTags, and smartwatches through new wireless detection technology from Leonardo. This matters to digital workplace pros because your company's mobile device management and employee privacy policies just got a whole lot more complicated. If your organization's devices are getting tracked at every traffic light, you're going to need some serious conversations with legal and security teams about what \"mobile device management\" actually means now.",
     "date": "2026-06-27T06:27:28.387630+00:00"
+  },
+  {
+    "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude.",
+    "dwp_take": "A founder with cancer used Claude AI to synthesize his medical data, wearables, and health records to better understand his condition and treatment options. This matters because it shows how generative AI can process complex personal data in ways traditional tools can't, pointing to real applications beyond hype in healthcare and personal knowledge management. That said, let's be clear: Claude is a useful research partner, not a doctor, and anyone fighting serious illness needs actual medical professionals in the room first.",
+    "date": "2026-06-28T06:59:06.389014+00:00"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "dwp_take": "Asian AI startups are building their own large language models with capabilities matching Anthropic's offerings, effectively bypassing U.S. export restrictions. This matters because digital workplace tool selection is about to get a lot more complicated, with viable alternatives suddenly emerging outside traditional supply chains. Here's the thing: American companies spent decades lecturing the world about open markets, then got surprised when competitors actually showed up to compete. That'll teach us.",
+    "date": "2026-06-28T06:59:14.435605+00:00"
+  },
+  {
+    "title": "Forget AGI. The real prize is enterprise AGI",
+    "url": "https://siliconangle.com/2026/06/27/forget-agi-prize-enterprise-agi/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "We believe much of the artificial intelligence industry is chasing the wrong prize. Frontier model vendors such as Anthropic PBC and OpenAI Group PBC, they may have shifted their commercial focus towa",
+    "dwp_take": "Enterprise AI vendors are starting to argue that the real money is in building AI systems tailored specifically for business problems rather than chasing the dream of general-purpose artificial intelligence. This matters because digital workplace leaders are tired of hearing about theoretical breakthroughs and actually need tools that solve real problems like knowledge management and employee support without requiring a PhD to implement. After three decades in this space, I'll say what everyone's thinking: the emperor's new clothes crowd finally figured out that companies want solutions, not science projects.",
+    "date": "2026-06-28T06:59:19.394156+00:00"
+  },
+  {
+    "title": "OpenAI introduces GPT-5.6 to challenge Claude Mythos 5",
+    "url": "https://siliconangle.com/2026/06/26/openai-introduces-gpt-5-6-challenge-claude-mythos-5/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI Group PBC today introduced GPT-5.6, a new series of large language models that it says can outperform Claude Mythos 5 across certain coding tasks. The most advanced algorithm in the lineup is k",
+    "dwp_take": "OpenAI dropped GPT-5.6, a new lineup of AI models with three tiers (Sol, Terra, and Luna) that supposedly beat Claude Mythos 5 on coding tasks. For digital workplace folks, this means yet another round of \"which AI tool should we actually standardize on\" conversations with leadership and IT security teams. Honestly, the real challenge isn't the models anymore, it's getting organizations to stop piloting seventeen different AI tools and actually commit to a coherent strategy.",
+    "date": "2026-06-28T06:59:23.495990+00:00"
+  },
+  {
+    "title": "Best Buy's gaming deals are still live after Prime Day - Nintendo Switch, PS5, and more",
+    "url": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026-still-live/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Best Buy's competing Prime Day 2026 gaming deals will run through Sunday with massive savings on Alienware, Nintendo Switch, and Lenovo tech.",
+    "dwp_take": "Best Buy extended their gaming deals through Sunday to compete with Amazon Prime Day, offering discounts on Nintendo Switch, PS5, and various tech brands like Alienware and Lenovo. This matters to digital workplace pros because it's a reminder that retail competition drives better pricing on the hardware we actually use for work and life, and extended sales windows give us time to make smarter purchasing decisions instead of panic buying. Honestly, the real winner here is anyone who ignored the artificial urgency of Prime Day and waited for this extension, which proves that FOMO is a terrible strategy in tech purchasing.",
+    "date": "2026-06-28T06:59:28.541078+00:00"
+  },
+  {
+    "title": "Microsoft adds new skills \u2014 and more oversight \u2014 for Copilot in Excel",
+    "url": "https://www.computerworld.com/article/4189977/microsoft-adds-new-skills-and-more-oversight-for-copilot-in-excel.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft is continuing its push to bring generative AI (genAI) into Excel, with new Microsoft 365 Copilot skills designed to automate common processes and a \u201cplan\u201d mode to provide more control over C",
+    "dwp_take": "Microsoft is rolling out new Copilot capabilities in Excel, including automation features and a \"plan\" mode that lets users review what the AI intends to do before it does it. This matters because financial data is where people actually care if the AI gets things wrong, and giving users visibility into AI reasoning before execution is the responsible way to deploy these tools at scale. About time Microsoft realized that \"trust us\" doesn't work in spreadsheets where one hallucination can tank a quarterly forecast.",
+    "date": "2026-06-28T06:59:33.840501+00:00"
+  },
+  {
+    "title": "Microsoft is turning Windows 11 into an AI operating system",
+    "url": "https://www.computerworld.com/article/4189045/microsoft-is-turning-windows-11-into-an-ai-operating-system.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "For years, Microsoft has hyped Windows 11 cas an OS with AI, and the company is finally putting the building blocks in place for that transformation. Microsoft execs shared examples of how the company",
+    "dwp_take": "Microsoft is embedding AI capabilities directly into Windows 11's core functions, moving beyond surface-level features to create an operating system that actually learns and responds to natural language commands. This matters because digital workplace teams will soon need to manage AI-driven OS behaviors, security implications, and training needs alongside traditional device management. After years of hearing \"AI is coming to Windows,\" Microsoft is finally showing real work here, though I'd wait to see if this actually improves people's workdays or just gives us another thing to troubleshoot at 4pm on Friday.",
+    "date": "2026-06-28T06:59:38.017383+00:00"
+  },
+  {
+    "title": "AI vendors fund non-profit to help workers adapt to AI era",
+    "url": "https://www.computerworld.com/article/4189900/ai-vendors-fund-non-profit-to-help-workers-adapt-to-ai-era.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "AI is here, and we must help workers adapt: That\u2019s the response of a new non-profit organization to the ongoing debate about whether AI will destroy jobs and cause catastrophe or take the economy to n",
+    "dwp_take": "A group of AI vendors just launched a non-profit called Raise Us to help workers adapt to AI technology, positioning it as a nonpartisan effort involving governors, employers, and training organizations. Digital workplace leaders need to pay attention because workforce readiness around AI is becoming a competitive advantage, and this signals that upskilling isn't optional anymore. Here's my take: it's nice that vendors are funding adaptation efforts, but let's see if they're equally willing to fund programs when those workers discover their jobs are actually being eliminated rather than just transformed.",
+    "date": "2026-06-28T06:59:42.132034+00:00"
+  },
+  {
+    "title": "The office doesn\u2019t fix loneliness at work",
+    "url": "https://www.fastcompany.com/91564001/the-office-doesnt-fix-loneliness-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "People often see the return-to-office debate in black-and-white: In-person work fosters connection, while remote work breaks it down. In 2025, 37% of companies required office attendance, up from 17% ",
+    "dwp_take": "A new Fast Company piece challenges the assumption that forcing people back to the office automatically solves loneliness and disconnection at work. This matters because companies are betting billions on RTO mandates based on this belief, when the real issue might be something entirely different like broken team dynamics or poor management. Here's the truth: you can pack people shoulder-to-shoulder in an open office and they'll still feel isolated if nobody's actually talking to them or giving them meaningful work to do.",
+    "date": "2026-06-28T06:59:46.692266+00:00"
+  },
+  {
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "dwp_take": "The Trump administration green-lighted Anthropic to distribute its cutting-edge Mythos AI model to a handful of vetted American organizations and federal agencies. This matters because digital workplace teams are about to see AI capabilities deployed in real environments where governance, security, and integration challenges will surface fast. My take: selective access to advanced AI is smart risk management, but someone's going to complain that their organization didn't make the list, and honestly, they might have a point.",
+    "date": "2026-06-28T06:59:51.953489+00:00"
+  },
+  {
+    "title": "How People in China Keep Outsmarting Anthropic\u2019s Geolocation Restrictions",
+    "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
+    "dwp_take": "Anthropic is trying to block Claude access in China through geolocation checks, but users keep finding workarounds using proxies and fake accounts to get around it. This matters to digital workplace pros because it shows that content restrictions based on location are basically theater, and any security strategy relying on geofencing alone is already broken. After three decades watching this cycle repeat, I can tell you that determined users will always find a way through, so if you're building workplace tools with regional controls, you better have something more sophisticated in your back pocket.",
+    "date": "2026-06-28T06:59:56.337382+00:00"
+  },
+  {
+    "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
+    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "dwp_take": "OpenAI delayed releasing GPT-5.6 after White House pressure, following Anthropic pulling its own advanced models offline weeks earlier. This matters because digital workplace leaders are watching AI governance happen in real time, which means every chatbot rollout and knowledge management system you're considering now comes with regulatory uncertainty attached. Here's the thing: if the government can hit pause on your vendor's latest model, your \"AI-powered transformation\" strategy needs a backup plan that doesn't disappear overnight.",
+    "date": "2026-06-28T07:00:00.721385+00:00"
+  },
+  {
+    "title": "Apple\u2019s MacBook Ultra Is Coming: Everything We Know So Far",
+    "url": "https://www.techrepublic.com/article/news-apple-macbook-ultra-rumors-oled-touchscreen/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple\u2019s rumored MacBook Ultra could bring OLED, touch support, new silicon, and a higher-end laptop tier, but timing remains uncertain. The post Apple\u2019s MacBook Ultra Is Coming: Everything We Know So ",
+    "dwp_take": "Apple is supposedly developing a MacBook Ultra with OLED screens, touch support, and new chips, though nobody knows when it'll actually ship. For workplace tech buyers, this matters because enterprise Mac fleets depend on predictable upgrade cycles, and vaporware announcements create budget headaches and adoption delays. Honestly, I've been hearing about revolutionary Apple laptop tiers for years now, so I'll believe the MacBook Ultra exists when I can actually order one instead of just reading the rumor mill's greatest hits.",
+    "date": "2026-06-28T07:00:05.600156+00:00"
+  },
+  {
+    "title": "Apple Raises Prices on Macs, iPads as Data Centers Drive Memory Shortage",
+    "url": "https://www.techrepublic.com/article/news-apple-price-hikes-june-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple raised prices on Macs, iPads, and other devices as AI data center demand drives up memory chip costs across consumer electronics. The post Apple Raises Prices on Macs, iPads as Data Centers Driv",
+    "dwp_take": "Apple hiked prices on Macs and iPads because AI data centers are hoovering up memory chips, making them scarcer and more expensive across the board. This matters to digital workplace folks because your device refresh budgets just got tighter, and you'll be explaining to leadership why that MacBook Air costs more than it did last quarter. Here's the real kicker: we're paying more for regular computers because everyone's frantically building AI infrastructure that most organizations still don't have a clue how to use.",
+    "date": "2026-06-28T07:00:09.529164+00:00"
+  },
+  {
+    "title": "Microsoft Edge Collections Removed in Version 149, Limiting Recovery Options",
+    "url": "https://www.techrepublic.com/article/news-microsoft-edge-collections-removed/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft Edge 149 removed Collections, leaving recovery options dependent on Favorites migration, exports, or Bing Saves access. The post Microsoft Edge Collections Removed in Version 149, Limiting R",
+    "dwp_take": "Microsoft killed off Edge Collections in version 149, forcing users back to the clunky Favorites system or hoping their Bing Saves stayed intact. This matters because Collections was actually useful for research workflows and content curation, and now your team loses a productivity feature with no graceful transition path. Microsoft's approach here feels like watching someone remove the cup holders from your car and suggesting you just hold your coffee, which tells you everything you need to know about how they think about user workflows.",
+    "date": "2026-06-28T07:00:13.766010+00:00"
+  },
+  {
+    "title": "Chinese AI Models Challenge OpenAI and Anthropic on Cost and Enterprise Risk",
+    "url": "https://www.techrepublic.com/article/news-chinese-ai-models-cost-risk/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Chinese AI models are undercutting OpenAI and Anthropic on price, but enterprise adoption depends on security, compliance, and data-governance trade-offs. The post Chinese AI Models Challenge OpenAI a",
+    "dwp_take": "Chinese AI providers are offering cheaper alternatives to OpenAI and Anthropic, which is forcing the incumbents to justify their pricing. For workplace tech leaders, this means your AI strategy just got more complicated because you now have to weigh cost savings against compliance risk and data sovereignty concerns. Here's the thing: cheap is only cheap until your company ends up on the wrong side of a data breach or regulatory fine, so don't let your CFO's spreadsheet do your security thinking for you.",
+    "date": "2026-06-28T07:00:17.896313+00:00"
   }
 ]
