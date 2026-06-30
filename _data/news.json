@@ -1,82 +1,156 @@
 {
-  "generated": "2026-06-29T07:26:34.307834+00:00",
+  "generated": "2026-06-30T06:53:40.813469+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d",
-        "dwp_take": "Ford brought back experienced engineers after discovering their AI-driven design process couldn't actually deliver a viable vehicle without human expertise. This matters because it's a real-world reminder that digital workplace tools, including AI, work best alongside experienced people, not instead of them. After three decades watching tech solve problems, I can tell you this headline should read \"Ford Remembers How Products Actually Get Made\" because no algorithm has ever replaced judgment, and apparently that's still a lesson Silicon Valley needs to keep learning.",
-        "date": "2026-06-29T07:25:58.865658+00:00"
+        "excerpt": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+        "dwp_take": "Base44, a Wix-owned coding platform, is building its own AI model instead of relying on third-party options like OpenAI. This matters because it signals a shift in how workplace tools are architected: companies are betting that owning their AI stack beats depending on external providers who could change pricing, access, or terms overnight. The irony is thick though, because every startup claiming AI defensibility is basically saying \"our moat is that we trained on the same internet you did, but we did it in our garage.\"",
+        "date": "2026-06-30T06:52:33.029016+00:00"
       },
       {
-        "title": "Don\u2019t surrender data control in pursuit of intelligence",
-        "url": "https://siliconangle.com/2026/06/28/dont-surrender-data-control-pursuit-intelligence/",
-        "source": "SiliconAngle",
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "With organizations reorganizing themselves to put artificial intelligence at the center, we\u2019ve seen a shift from information being valuable to being a means of achieving intelligence, which is far mor",
-        "dwp_take": "Organizations are increasingly handing over control of their data to AI and cloud vendors while chasing the promise of intelligence gains. For digital workplace pros, this matters because uncontrolled data sprawl creates security risks, compliance headaches, and vendor lock-in that nobody wants to untangle later. Here's the truth: you can have intelligent systems and keep your data safe, but it requires actual governance instead of just signing contracts and hoping for the best.",
-        "date": "2026-06-29T07:26:03.340429+00:00"
+        "excerpt": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "dwp_take": "Anthropic cut a deal with California's government to provide Claude AI at a 50 percent discount, which apparently has Washington upset with the company. This matters because it shows how AI tools are becoming infrastructure decisions for large organizations, and whoever controls the pricing and access controls the adoption strategy. The real story here isn't about discounts or politics\u2014it's that government picked Claude over ChatGPT, which means your org needs to stop assuming OpenAI wins every room and actually evaluate what tool fits your actual work.",
+        "date": "2026-06-30T06:52:37.381811+00:00"
       },
       {
-        "title": "Geopolitical tension highlights the need for risk intelligence",
-        "url": "https://siliconangle.com/2026/06/28/geopolitical-tension-highlights-need-risk-intelligence/",
-        "source": "SiliconAngle",
+        "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Within hours of the first U.S.-Israel strikes against Iran in February 2026, hacktivists went to work launching massive distributed denial-of-service attacks. Both pro- and anti-Iranian groups targete",
-        "dwp_take": "Geopolitical conflicts are now triggering coordinated cyberattacks within hours, with hacktivists targeting critical infrastructure across multiple sectors including telecoms, energy, and government systems. Digital workplace pros need to understand that your organization's security posture isn't just an IT checkbox anymore, it's a business continuity issue that can crater operations faster than a bad all-hands meeting. The real kicker is that most companies still treat geopolitical risk like weather forecasting, assuming it won't happen to them until it does.",
-        "date": "2026-06-29T07:26:07.490063+00:00"
+        "excerpt": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "dwp_take": "South Korea's Samsung and SK Hynix are dropping over $550 billion to build new memory fabrication plants, basically betting the farm that AI demand for RAM and chips won't cool down anytime soon. For those of us managing digital workplaces, this matters because it directly affects the cost and availability of the infrastructure running your collaboration tools, cloud services, and employee devices over the next five years. Honestly, watching chip companies throw half a trillion dollars at a problem is refreshing compared to the usual \"we'll figure it out later\" approach most enterprise IT takes.",
+        "date": "2026-06-30T06:52:42.280174+00:00"
       },
       {
-        "title": "Unconventional AI debuts oscillator-based Un-0 model series",
-        "url": "https://siliconangle.com/2026/06/26/unconventional-ai-debuts-oscillator-based-un-0-model-series/",
+        "title": "Omen AI raises $31M to help data centers avoid costly downtime with continuous liquid coolant monitoring",
+        "url": "https://siliconangle.com/2026/06/29/omen-ai-raises-31m-help-data-centers-avoid-costly-downtime-continuous-liquid-coolant-monitoring/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Unconventional AI Inc. has developed an artificial intelligence architecture that could improve the power efficiency of image generation models. The technology is the basis of a new neural network ser",
-        "dwp_take": "Unconventional AI just dropped a new neural network series called Un-1 that's supposed to run image generation models way more efficiently than current approaches. For those of us building digital workplace tools, this matters because lighter AI models mean faster performance and lower infrastructure costs when we're trying to embed AI into collaboration platforms without melting our servers. Honestly though, we'll believe the efficiency gains when we see them in production, not in a press release.",
-        "date": "2026-06-29T07:26:11.648701+00:00"
+        "excerpt": "Data center coolant monitoring startup Omen AI Inc. is trying to fix one of the most pressing yet little-known challenges in the artificial intelligence industry after raising $31 million in Series A ",
+        "dwp_take": "Omen AI just raised 31 million dollars to monitor cooling systems in data centers so they don't overheat and go down unexpectedly. This matters because every minute your company's cloud services, AI tools, or collaboration platforms are offline costs real money and disrupts work for thousands of employees. Look, we've all blamed \"server issues\" for slow Teams performance, but the unglamorous truth is someone's liquid cooling system probably just burped.",
+        "date": "2026-06-30T06:52:47.355576+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [],
+    "tools-tech": [
+      {
+        "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
+        "url": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
+        "dwp_take": "Google, Microsoft, and Mozilla all bolted AI features onto their browsers to keep you from jumping ship to whatever comes next. For digital workplace teams managing security, compliance, and employee productivity, this matters because you need to understand what data these AI tools are collecting and where it's going, especially in regulated industries. Honestly, most organizations should probably disable these features anyway and let their actual enterprise AI tools do the heavy lifting instead of crossing fingers that consumer browsers won't accidentally leak confidential client information to training datasets.",
+        "date": "2026-06-30T06:52:52.080023+00:00"
+      },
+      {
+        "title": "Disappointed with AI, Ford moves to re-hire 350 former workers",
+        "url": "https://www.computerworld.com/article/4190728/ford-disappointed-with-ai-re-hires-veterans.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Ford has rehired approximately 350 experienced engineers after the company\u2019s investment in AI and automated quality control systems failed to meet expectations, according to Bloomberg. In short, the t",
+        "dwp_take": "Ford spent big on AI quality control systems, found they couldn't actually catch manufacturing defects, and now they're bringing back 350 experienced engineers they'd let go. This matters because it's a real-world reminder that AI doesn't replace human judgment in complex problem-solving, especially when quality and safety are on the line. After three decades watching tech solutions get oversold, I can tell you this movie has a predictable ending: turns out experienced people still know things that algorithms don't.",
+        "date": "2026-06-30T06:52:57.296309+00:00"
+      },
+      {
+        "title": "Apple\u2019s memory problem is your problem, too",
+        "url": "https://www.computerworld.com/article/4190611/apples-memory-problem-is-your-problem-too.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Apple\u2019s ongoing problems with RAM shortages and higher prices won\u2019t be solved anytime soon, because rapidly accelerating demand for high-end AI memory is devouring the consumer electronics industry. G",
+        "dwp_take": "Apple is facing severe RAM shortages and price hikes due to explosive demand for high-end AI memory, with the squeeze hitting smaller tech companies like GoPro particularly hard. For digital workplace pros, this means your device refresh cycles are about to get longer and more expensive, which directly impacts budget planning and user experience initiatives. Here's the thing: you're about to have a really good excuse for why you can't upgrade everyone's laptops next year, so at least there's that.",
+        "date": "2026-06-30T06:53:01.225984+00:00"
+      },
+      {
+        "title": "Italian watchdog probes Microsoft as M365 price change looms",
+        "url": "https://www.computerworld.com/article/4190570/italian-watchdog-probes-microsoft-as-m365-price-change-looms.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Italy\u2019s competition watchdog has opened an investigation into Microsoft over concerns it may not have clearly informed consumers about the integration of Copilot and Designer into Microsoft 365 subscr",
+        "dwp_take": "Italy's competition watchdog is investigating Microsoft for allegedly burying the details about Copilot integration, price hikes, and automatic plan upgrades in Microsoft 365 subscriptions. This matters because it's a real test of whether vendors can quietly slip price increases past enterprise customers or if regulators will finally hold them accountable for the fine print games. After three decades, I can tell you that Microsoft's playbook of \"surprise, your subscription just got more expensive and fancier\" is as old as software licensing itself, so watching a regulator actually push back is genuinely refreshing.",
+        "date": "2026-06-30T06:53:06.801602+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "New data: AI makes work easier. And lonelier",
+        "url": "https://www.fastcompany.com/91557241/ai-is-making-work-better-it-may-also-be-making-people-even-lonelier-ai-work-mental-health-loneliness?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Still in its infancy, artificial intelligence is delivering even greater benefits than many organizations ever hoped for. According to new global research from Workday, 62% of employees who use AI say",
+        "dwp_take": "A Workday study found that employees using AI report less burnout, higher productivity, and more confidence, but the headline warns that AI adoption is making workplaces lonelier. This matters because digital workplace leaders can't just celebrate the efficiency gains and ignore the human cost of replacing collaboration with automation. Here's the thing: you can boost productivity all day long, but a burned-out team that never talks to each other is just a quiet version of the problem you started with.",
+        "date": "2026-06-30T06:53:11.598254+00:00"
+      },
+      {
+        "title": "Exclusive: Inside Amazon\u2019s brutal AI-centric app-ification of HR",
+        "url": "https://www.fastcompany.com/91565321/amazon-is-taking-human-out-of-hr-ai-chatbot-app-aza?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "At an Amazon warehouse in Northeast Ohio, Laura works the night shift, operating an order picker that puts her 40 feet in the air. \u201cI\u2019m a treasure hunter,\u201d she says. \u201cI use a forklift to go find stuff",
+        "dwp_take": "Amazon is replacing human judgment in HR decisions with AI systems that workers say are arbitrary and inflexible, particularly affecting warehouse staff who face sudden terminations based on algorithmic performance metrics. This matters because it signals how far companies will push automation into people operations, potentially creating a template that other large employers might copy. The irony is thick: a company brilliant at optimizing logistics is apparently treating its own workforce like inventory to be minimized rather than people who deserve transparency about the systems judging them.",
+        "date": "2026-06-30T06:53:16.200665+00:00"
+      },
+      {
+        "title": "\u2018Suppressed talents\u2019: How the workplace is still failing neurodivergent workers",
+        "url": "https://www.fastcompany.com/91561963/suppressed-talents-how-the-workplace-is-still-failing-neurodivergent-workers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Companies have spent the past few years making louder commitments to neurodiverse hiring, and there\u2019s plenty to applaud. Many of the major Fortune 500 employers have built programs to follow through o",
+        "dwp_take": "Companies are hiring neurodivergent workers through specialized programs, but the article suggests most aren't actually supporting them well once they're in the door. This matters because hiring someone is only half the battle; without proper workplace design, management training, and flexibility, you're just checking a diversity box while crushing the very people you recruited. The irony is thick: we've gotten good at finding neurodivergent talent, but most organizations still run offices designed for neurotypical brains, which is like buying a sports car and only driving it in parking lots.",
+        "date": "2026-06-30T06:53:20.581460+00:00"
+      },
+      {
+        "title": "4 tasks that solopreneurs can hand over to AI",
+        "url": "https://www.fastcompany.com/91565989/4-tasks-solopreneurs-can-hand-over-to-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Right now, I have (checks computer) more than a dozen scheduled tasks that AI handles for me. Plus, countless other saved instructions to run repeatable processes on the fly. Most AI advice focuses on",
+        "dwp_take": "A solopreneur figured out that AI works best for handling repetitive, scheduled tasks rather than the flashy stuff everyone talks about like content creation. This matters because most of us are drowning in admin work that nobody celebrates but everyone resents, and the article suggests AI can actually buy back time for real work. The irony is that while enterprise companies spend millions on AI transformation programs, a solo operator with a spreadsheet and some prompt templates might actually get the better deal.",
+        "date": "2026-06-30T06:53:24.551704+00:00"
+      }
+    ],
     "industry-news": [
       {
-        "title": "AI Upgrades, Security Breaches, and Industry Shakeups Define the Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-upgrades-security-breaches-and-industry-shakeups-define-the-week-in-tech-2/",
+        "title": "Best Smartwatch for Blood Sugar Tracking: Apple Watch, Galaxy Watch, or Pixel Watch?",
+        "url": "https://www.techrepublic.com/article/news-best-smartwatch-blood-sugar-tracking/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from June 22\u201326. The post AI Upgrades, Security Breaches, and Industry Shakeups Define the Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "Another week where AI upgrades and security breaches are apparently competing for top billing like they're on some kind of twisted tech reality show. This matters because your workplace tools are getting smarter while simultaneously proving they're about as secure as a screen door on a submarine, which means IT teams need to actually think about what they're adopting instead of just chasing the shiny new thing. Here's the real talk: you can have all the AI features in the world, but if bad actors are walking through your front door, your productivity gains mean nothing.",
-        "date": "2026-06-29T07:26:19.847659+00:00"
+        "excerpt": "Compare the Apple Watch, Samsung Galaxy Watch, and Pixel Watch for blood sugar tracking, CGM alerts, health trends, battery life, and safety tools. The post Best Smartwatch for Blood Sugar Tracking: A",
+        "dwp_take": "Three tech companies are now offering smartwatches with continuous glucose monitoring capabilities, letting you track blood sugar directly from your wrist. For digital workplace leaders thinking about employee wellness programs, this represents a real shift in how personal health data gets integrated into devices people already wear at work. Here's the thing though: before you get excited about workplace wellness dashboards, remember that health data is personal, and the last thing your team needs is Big Tech deciding their insulin levels are \"engagement metrics.\"",
+        "date": "2026-06-30T06:53:28.666620+00:00"
       },
       {
-        "title": "Microsoft Extends Windows 10 Security Updates to 2027",
-        "url": "https://www.techrepublic.com/article/news-microsoft-windows-10-security-updates-2027/",
+        "title": "Google Restocks $3 ChromeOS Flex USB Kit Following Early Sellout",
+        "url": "https://www.techrepublic.com/article/news-google-restocks-chromeos-flex-usb-kit-after-early-sellout/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft extended Windows 10 security updates for personal devices through Oct. 12, 2027, giving users more time to upgrade. The post Microsoft Extends Windows 10 Security Updates to 2027 appeared fi",
-        "dwp_take": "Microsoft just kicked the Windows 10 retirement date down the road to October 2027, which means millions of people can keep using it on their personal devices without losing security patches. This matters because workplace IT teams have been sweating bullets trying to manage the chaos of mass Windows 11 migrations, and this extension gives them breathing room to plan upgrades more strategically instead of dealing with a panic-driven stampede. Honestly, this feels like Microsoft finally admitting that forcing everyone onto Windows 11 at once was about as realistic as getting your entire company to adopt a new collaboration tool in thirty days.",
-        "date": "2026-06-29T07:26:24.523522+00:00"
+        "excerpt": "Google and Back Market\u2019s $3 ChromeOS Flex USB Kit helps older PCs avoid e-waste, but availability remains limited after early demand. The post Google Restocks $3 ChromeOS Flex USB Kit Following Early ",
+        "dwp_take": "Google's restocking a three dollar USB stick that lets you run ChromeOS on old hardware, and it's selling out faster than free donuts at a staff meeting. This matters because it's a legitimate way to extend device lifecycles and reduce e-waste instead of dumping old PCs, which actually impacts your organization's sustainability costs and headcount management. The real story here is that people want cheap solutions that work, which should tell every enterprise software vendor something important about their pricing strategy.",
+        "date": "2026-06-30T06:53:32.871403+00:00"
       },
       {
-        "title": "AWS says cloud market gatekeeper designation risks \u2018deterring European investment and innovation\u2019 as EU regulators plot competition crackdown",
-        "url": "https://www.itpro.com/business/policy-and-legislation/aws-says-cloud-market-gatekeeper-designation-risks-deterring-european-investment-and-innovation-as-eu-regulators-plot-competition-crackdown",
-        "source": "ITPro",
+        "title": "Microsoft\u2019s Biggest Hardware Releases of 2026 So Far: Surface Laptop, Surface Pro, and More",
+        "url": "https://www.techrepublic.com/article/news-microsoft-hardware-releases-2026/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Gatekeeper designation under the legislation would force AWS and Microsoft to make concessions",
-        "dwp_take": "AWS is pushing back against the EU's plan to designate them as a \"gatekeeper\" under new competition rules that would require major concessions to smaller competitors. For digital workplace pros, this matters because AWS and Microsoft cloud services underpin most enterprise infrastructure, and regulatory requirements could mean new compliance headaches, service changes, or pricing shifts you'll need to manage. Here's the thing: AWS framing this as a threat to innovation while simultaneously fighting transparency requirements is peak tech industry logic, like complaining a speed limit kills the joy of driving.",
-        "date": "2026-06-29T07:26:29.661879+00:00"
+        "excerpt": "Microsoft\u2019s biggest hardware releases of 2026 include new Surface Laptop and Surface Pro business models, lower-cost Surface configurations, and Project Solara. The post Microsoft\u2019s Biggest Hardware R",
+        "dwp_take": "Microsoft released updated Surface Laptop and Surface Pro models in 2026, along with more affordable Surface options and Project Solara. This matters because the devices your workforce uses directly impact productivity, security, and total cost of ownership, so staying current on what's coming helps IT leaders plan budgets and refresh cycles properly. The lower-cost configurations are interesting, though I'd want to see the actual specs before anyone gets excited that affordability somehow magically appeared at Microsoft.",
+        "date": "2026-06-30T06:53:37.034190+00:00"
       },
       {
-        "title": "Nationwide targets private cloud gains with VMware Cloud Foundation deal",
-        "url": "https://www.itpro.com/cloud/private-cloud/nationwide-targets-private-cloud-platform-gains-with-vmware-cloud-foundation-deal",
-        "source": "ITPro",
+        "title": "Android Phones Warned 11.4M People Before Venezuelan Earthquakes",
+        "url": "https://www.techrepublic.com/article/news-android-earthquake-alerts-venezuela/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The expanded collaboration will establish a unified private cloud platform for the high street lender",
-        "dwp_take": "Nationwide Building Society signed a deal to build a unified private cloud platform using VMware Cloud Foundation, aiming to modernize their infrastructure and reduce vendor sprawl. This matters because financial services organizations still run vast legacy systems, and consolidating cloud infrastructure is one of the few ways they can actually move faster without blowing up their operations. That said, I've seen \"unified platforms\" promised before, and Nationwide's success will depend entirely on whether they treat this as a technical project or finally admit it's actually a change management nightmare.",
-        "date": "2026-06-29T07:26:34.307731+00:00"
+        "excerpt": "Google says Android Earthquake Alerts warned millions in Venezuela before powerful quakes, showing how phones can support early warnings. The post Android Phones Warned 11.4M People Before Venezuelan ",
+        "dwp_take": "Google's Android Earthquake Alerts system sent warnings to 11.4 million people in Venezuela ahead of recent seismic activity, demonstrating that smartphones can function as effective emergency notification channels. For digital workplace professionals, this proves that mobile devices deployed across organizations can become critical infrastructure for safety and crisis communication when properly configured. It's a good reminder that sometimes the most sophisticated workplace technology isn't about productivity apps or engagement dashboards, but about whether your people actually get the message when it matters.",
+        "date": "2026-06-30T06:53:40.813362+00:00"
       }
     ]
   }
