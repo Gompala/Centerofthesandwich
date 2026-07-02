@@ -1,122 +1,5 @@
 [
   {
-    "title": "Upbound open-sources Modelplane to optimize inference clusters",
-    "url": "https://siliconangle.com/2026/06/23/upbound-open-sources-modelplane-optimize-inference-clusters/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Upbound Inc. today released Modelplane, a new open-source tool for managing artificial intelligence inference clusters. San Francisco-based Upbound is backed by $69 million from Alphabet Inc.\u2019s GV fun",
-    "dwp_take": "Upbound released Modelplane, an open-source tool designed to manage AI inference clusters more efficiently, built on their existing Crossplane infrastructure management platform. For digital workplace leaders deploying AI tools across distributed teams, this means better control over the computational resources running those models without getting locked into vendor solutions. Whether this actually solves the real problem of getting AI infrastructure out of the hands of engineers and into something business teams can understand remains to be seen, but at least it's open source, which is a good sign.",
-    "date": "2026-06-24T12:26:55.886901+00:00"
-  },
-  {
-    "title": "Nvidia bets on agentic AI to turbocharge biotech discovery",
-    "url": "https://siliconangle.com/2026/06/23/nvidia-bets-agentic-ai-turbocharge-biotech-discovery/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Artificial intelligence played a prominent role at this week\u2019s Bio International Convention in San Diego, the largest biotech event with vendors spanning the full ecosystem of companies in this indust",
-    "dwp_take": "Nvidia is pushing agentic AI, agents that can autonomously complete complex tasks, as the next big thing for biotech research and discovery. For digital workplace folks, this matters because autonomous AI agents will fundamentally change how knowledge work gets done, forcing us to rethink everything from workflows to skill requirements to oversight structures. That said, I'll believe it when I see enterprise adoption actually move beyond the hype cycle and solve real problems without requiring a team of prompt engineers babysitting the bots.",
-    "date": "2026-06-24T12:26:59.827667+00:00"
-  },
-  {
-    "title": "Orderful nabs $35M to streamline supply chain data management",
-    "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Orderful Inc., a startup using artificial intelligence to make supply chains more efficient, today announced that it has raised $35 million in funding. The Series C round was led by Koch Disruptive Te",
-    "dwp_take": "Orderful just scored $35 million in Series C funding to help retailers and suppliers swap data without losing their minds in the process. For digital workplace pros, this matters because supply chain chaos directly impacts internal systems, collaboration tools, and how your employees actually get work done when vendors can't send a clean PO to save their lives. Look, after 30 years I've seen plenty of startups promise to fix broken data flows, and some actually do it, so we'll see if Orderful is the real deal or just another well-funded band aid.",
-    "date": "2026-06-24T12:27:04.030225+00:00"
-  },
-  {
-    "title": "Snyk launches Evo Agentic Development Security to police AI coding agents",
-    "url": "https://siliconangle.com/2026/06/23/snyk-launches-evo-agentic-development-security-police-ai-coding-agents/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Cybersecurity company Snyk Ltd. today launched Evo Agentic Development Security, a new layer of its artificial intelligence security platform built to police the autonomous coding agents that increasi",
-    "dwp_take": "Snyk built a new security layer called Evo ADS that watches over AI coding agents as they autonomously write enterprise software with minimal human involvement. This matters because enterprises are letting machines write code but nobody's really policing what those machines pull in or how they do it, which is a security nightmare waiting to happen. Finally someone's tackling the obvious problem: we've handed the keys to the robot, and now we need a security guard to watch the robot.",
-    "date": "2026-06-24T12:27:07.817995+00:00"
-  },
-  {
-    "title": "What do the IPOs for SpaceX, OpenAI and Anthropic mean for Microsoft?",
-    "url": "https://www.computerworld.com/article/4187992/what-do-the-ipos-for-spacex-openai-and-anthropic-mean-for-microsoft.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The AI IPO tsunami on the stock market has only recently gotten under way, with SpaceX\u2019s more-than-$2 trillion IPO likely to be followed in several months by OpenAI\u2019s and Anthropic\u2019s IPOs \u2014 each of wh",
-    "dwp_take": "SpaceX, OpenAI, and Anthropic are heading to IPO with valuations around $1-2 trillion each, creating direct competition for Microsoft in AI markets. This matters because it signals where enterprise AI investment is flowing and whether Microsoft's current AI partnerships actually lock in long-term advantage or just buy time. Honestly, if these three actually deliver on their hype at scale, Microsoft's \"we own the AI future\" narrative gets a lot harder to defend, and CIOs will finally have real alternatives instead of just Azure bundling.",
-    "date": "2026-06-24T12:27:13.696948+00:00"
-  },
-  {
-    "title": "Entry-level AI workers now need \u2018senior-level\u2019 skills, PwC says",
-    "url": "https://www.computerworld.com/article/4188067/entry-level-ai-workers-now-need-senior-level-skills-pwc-says.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "AI has created a tough job environment for entry-level workers and things aren\u2019t getting better anytime soon \u2014 even those with AI capabilities now need \u201csenior-level\u201d skills to land a job. \u201cAI-exposed",
-    "dwp_take": "PwC's research shows that entry-level AI jobs now demand senior-level skills like judgment and leadership, making it seven times harder for newcomers to break in. This matters because digital workplace teams are struggling to build sustainable talent pipelines when there's no actual entry point anymore. It's the classic consulting move: create a problem, then charge clients six figures to hire expensive seniors to fix the shortage they helped create.",
-    "date": "2026-06-24T12:27:18.033945+00:00"
-  },
-  {
-    "title": "Trump vs. Anthropic: The AI wars are heating up",
-    "url": "https://www.computerworld.com/article/4187893/trump-vs-anthropic-the-ai-wars-are-heating-up.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The US government decision to force Anthropic to close down its latest and greatest AI models, Fable 5 and Mythos 5, was only the next step in a burgeoning battle between AI providers and ignorant pol",
-    "dwp_take": "The Trump administration has forced Anthropic to shut down its latest AI models, Fable 5 and Mythos 5, escalating tensions between government regulators and AI companies. This matters because your enterprise is caught in the crossfire: if the government starts dictating which AI tools you can and cannot use, your digital workplace strategy gets a lot messier and less predictable. Here's the thing though: calling politicians \"ignorant\" doesn't help anybody, and neither does the breathless hype about AI being scary. We need actual guardrails, not theater.",
-    "date": "2026-06-24T12:27:22.102440+00:00"
-  },
-  {
-    "title": "\u2018Agentic AI\u2019 PCs? Not much new here, say analysts",
-    "url": "https://www.computerworld.com/article/4186938/agentic-ai-pcs-not-much-new-here-say-analysts.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Nvidia and Microsoft this month touted the reinvention of computers with a new class of \u201cagentic AI PCs\u201d that will \u201creinvent the way PCs work.\u201d That\u2019s how Nvidia CEO Jensen Huang described the compute",
-    "dwp_take": "Nvidia and Microsoft are pushing \"agentic AI PCs\" as revolutionary machines that will fundamentally change how computers work, with Nvidia introducing its new N1X chip designed specifically for this purpose. This matters because if these systems actually deliver on autonomous task handling, they could reshape how knowledge workers interact with their tools, potentially reducing grunt work and changing job functions. That said, we've heard \"revolutionary PC reinvention\" pitches before, and until these agents actually do something useful without breaking your workflow, it's mostly marketing noise dressed up in silicon.",
-    "date": "2026-06-24T12:27:26.403611+00:00"
-  },
-  {
-    "title": "Liquid Death founder Mike Cessario shares his playbook for breaking through",
-    "url": "https://www.fastcompany.com/91562196/liquid-death-founder-mike-cessario-shares-his-playbook-for-breaking-through?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-    "dwp_take": "Mike Cessario, founder of Liquid Death (the canned water brand with the skull logo), shared his leadership approach in Fast Company's Modern CEO newsletter, focusing on breaking through in a crowded market. Digital workplace leaders should care because his strategies around authentic branding and cutting through noise apply directly to internal communications and company culture. Here's the thing though: if your internal messaging needs a skull and edgy marketing to get employees engaged, you've probably got bigger problems than a branding issue.",
-    "date": "2026-06-24T12:27:31.623579+00:00"
-  },
-  {
-    "title": "Samsung Galaxy Watch Glucose Monitoring Apps: The Good, the Bad, and the Limitations",
-    "url": "https://www.techrepublic.com/article/news-best-samsung-watch-cgm-apps/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Compare the best Samsung Watch CGM apps and Wear OS tools for blood sugar readings, including Dexcom G6, Gluroo, and xDrip+. The post Samsung Galaxy Watch Glucose Monitoring Apps: The Good, the Bad, a",
-    "dwp_take": "Samsung Galaxy Watch now supports multiple continuous glucose monitoring apps, giving users real-time blood sugar data right on their wrist through options like Dexcom G6, Gluroo, and xDrip+. This matters because workplace wellness programs are getting serious about chronic disease management, and wearables that deliver clinical-grade health data during the workday can actually reduce absenteeism and boost productivity. That said, most of these apps still have accuracy gaps and battery drain issues that'll frustrate users faster than a failed Teams meeting, so don't expect them to replace actual medical devices anytime soon.",
-    "date": "2026-06-24T12:27:41.025270+00:00"
-  },
-  {
-    "title": "Meta Invests $900M in Fintech Startup CRED, Taps Founder to Lead WhatsApp",
-    "url": "https://www.techrepublic.com/article/news-meta-cred-kunal-shah-whatsapp-fintech-apac-india/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta\u2019s $900 million CRED investment puts fintech founder Kunal Shah in charge of WhatsApp as the app pushes deeper into commerce and payments. The post Meta Invests $900M in Fintech Startup CRED, Taps",
-    "dwp_take": "Meta just dropped 900 million dollars on fintech startup CRED and installed its founder, Kunal Shah, to run WhatsApp, signaling a serious pivot toward payments and commerce within the messaging platform. For digital workplace folks, this matters because WhatsApp is where billions of your users already live, and adding payment rails directly into that space could fundamentally reshape how internal communications and employee financial services work in global companies. Honestly, it's a smart play by Meta, though I'd be watching how this lands with regulators who are already skeptical of the company's ambitions in financial services.",
-    "date": "2026-06-24T12:27:45.530739+00:00"
-  },
-  {
-    "title": "Oracle Cuts 21,000 Jobs as It Rebuilds Around AI",
-    "url": "https://www.techrepublic.com/article/news-oracle-cuts-21000-jobs-rebuilds-around-ai/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Oracle cut about 21,000 jobs in fiscal 2026 as it restructures around AI and cloud infrastructure, raising questions for enterprise buyers. The post Oracle Cuts 21,000 Jobs as It Rebuilds Around AI ap",
-    "dwp_take": "Oracle is laying off 21,000 employees while pivoting its business toward AI and cloud services, essentially betting the farm that this restructuring positions them better for the future. This matters because Oracle is a major enterprise software vendor that thousands of organizations rely on, so leadership upheaval and strategic shifts directly affect support quality, product roadmaps, and your vendor relationships. Here's the thing though: every tech company claims they're restructuring \"around AI\" these days, but Oracle's actually got real cloud and database chops, so this might actually stick unlike some of the performative pivots we've seen elsewhere.",
-    "date": "2026-06-24T12:27:50.184253+00:00"
-  },
-  {
-    "title": "Apple\u2019s iOS 27 Beta 2: New Siri, RCS, and Wallet Changes Arrive",
-    "url": "https://www.techrepublic.com/article/news-ios-27-beta-2-write-with-siri-rcs-upgrades/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "iOS 27 beta 2 adds Write with Siri, RCS replies, Wallet updates, and Home fixes, giving IT teams more to test before launch. The post Apple\u2019s iOS 27 Beta 2: New Siri, RCS, and Wallet Changes Arrive ap",
-    "dwp_take": "Apple released iOS 27 beta 2 with updates to Siri voice capabilities, RCS messaging support, Wallet features, and Home app improvements that IT teams need to test before public launch. This matters because every iOS update means your organization's mobile device management policies, security protocols, and user support workflows might need adjusting, and beta testing windows are where you catch compatibility issues before they become everyone's problem. The real question is whether your IT team has the bandwidth to actually test this stuff properly, or if you'll be like most places and just pray it doesn't break anything critical when it goes live.",
-    "date": "2026-06-24T12:27:54.677355+00:00"
-  },
-  {
     "title": "Europe is pushing back on Washington\u2019s chip war",
     "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
     "source": "TechCrunch",
@@ -1015,5 +898,113 @@
     "excerpt": "Firmus Technologies plans a 360MW Nvidia-powered AI data center in Batam, Indonesia, as APAC demand for AI compute capacity grows. The post Firmus Plans 360MW Nvidia AI Data Center in Indonesia appear",
     "dwp_take": "Firmus Technologies is building a massive 360MW AI data center in Indonesia powered by Nvidia hardware to meet exploding regional demand for AI computing resources. This matters because every organization scrambling to build AI capabilities needs reliable, accessible compute infrastructure, and regional data centers mean lower latency and better compliance for APAC companies tired of depending on US-based resources. The real question is whether Firmus can actually deliver on schedule and budget, because I've seen plenty of data center announcements that looked great in PowerPoint and turned into expensive nightmares.",
     "date": "2026-07-01T07:08:43.123984+00:00"
+  },
+  {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+    "dwp_take": "An Indian entrepreneur named Bhavin Turakhia is personally investing thirty million dollars into Neo, a startup aimed at competing with Microsoft Office and Google Workspace by building AI into the core of the product. This matters because it signals that someone with real skin in the game thinks there's genuine dissatisfaction with how the incumbents are integrating AI into productivity tools, which means enterprise customers should expect real alternatives sooner rather than later. The funny part is that taking on Microsoft Office is like challenging a Goliath that's been perfecting the same product since 1990, but at least this guy isn't pretending to disrupt anything with a blockchain.",
+    "date": "2026-07-02T06:35:39.875966+00:00"
+  },
+  {
+    "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "dwp_take": "Cloudflare is forcing AI companies to differentiate their crawlers for search versus AI training, or face getting blocked from thousands of publisher sites starting mid-September. This matters because it signals publishers are finally gaining some leverage in the AI arms race, which could force better negotiations around content usage instead of silent scraping. Honestly, it's refreshing to see someone throw a wrench in the \"move fast and break things\" playbook, though I'd bet half these AI outfits will just build smarter obfuscation tools by Labor Day.",
+    "date": "2026-07-02T06:35:43.866031+00:00"
+  },
+  {
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "dwp_take": "Venice AI just hit unicorn status with a $65 million Series A round while already pulling in over $70 million in annualized revenue, which is genuinely rare. For digital workplace leaders, this matters because privacy-first AI is becoming a real market force, not just a nice-to-have talking point, which means your vendors will increasingly need to prove they're actually protecting employee data instead of just claiming they are. The irony here is that a profitable company raising massive venture capital proves the market finally understands that you can't build trust at scale by treating privacy as an afterthought.",
+    "date": "2026-07-02T06:35:48.469051+00:00"
+  },
+  {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou",
+    "dwp_take": "Meta is building a cloud infrastructure business to monetize its excess AI computing capacity, essentially becoming a compute vendor competing directly with AWS, Google Cloud, and Azure. For digital workplace leaders, this matters because it could reshape how organizations access AI tools and capabilities, potentially offering new pricing models and alternatives to the current cloud oligopoly. Honestly, watching Meta try to become a serious enterprise infrastructure player is like watching a teenager suddenly claim they're going to open a restaurant. They might have the kitchen, but can they actually serve the customers?",
+    "date": "2026-07-02T06:35:53.086564+00:00"
+  },
+  {
+    "title": "Microsoft struggles to address AI notetaker governance nightmare",
+    "url": "https://www.computerworld.com/article/4191798/microsoft-struggles-to-address-ai-notetaker-governance-nightmare.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft this week tried to address the growing challenges surrounding notetaker bots in meetings by giving IT better control over them. Microsoft\u2019s announcement said that users of Microsoft Teams wi",
+    "dwp_take": "Microsoft is rolling out new governance controls for Teams meeting bots so IT departments can block non-Microsoft recording tools even when meeting organizers have allowed open participation. This matters because organizations are drowning in unauthorized meeting recordings and compliance nightmares, and IT teams desperately need a way to enforce security policies without micromanaging every meeting. The real question is whether Microsoft is solving the problem or just protecting its own bot market share while making IT administrators feel like they have control they don't actually have.",
+    "date": "2026-07-02T06:35:58.071509+00:00"
+  },
+  {
+    "title": "Apple signals that the new attack surface is time itself",
+    "url": "https://www.computerworld.com/article/4191659/apple-signals-that-the-new-attack-surface-is-time-itself.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The nature of security threats is changing. AI hasn\u2019t just driven up energy prices and consumer electronics costs, it\u2019s also ushering in a new era of AI-augmented cyberattacks, one where the time betw",
+    "dwp_take": "Apple is pushing out security updates faster because the window between when hackers discover a vulnerability and when they exploit it is collapsing thanks to AI-powered attacks. This matters to digital workplace pros because your organization's patching cycles, update policies, and security posture are about to feel a lot more urgent. Turns out the real threat wasn't skynet taking over, it was just that bad actors got faster and we're all going to be updating our stuff like we're chasing a moving target.",
+    "date": "2026-07-02T06:36:02.118359+00:00"
+  },
+  {
+    "title": "Europe looks to fight any forced shutdown of AI",
+    "url": "https://www.computerworld.com/article/4191696/europe-against-the-forced-shutdown-of-ai.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "It was one of the biggest tech headlines in June: Amid the race leading up to the initial public offerings (IPOs) of artificial intelligence (AI) giants, the United States used its \u201cblocking card\u201d to ",
+    "dwp_take": "Europe is pushing back against the idea that any single country can unilaterally shut down or restrict access to AI systems, responding to the U.S. blocking non-citizens from using Anthropic's advanced models on national security grounds. This matters because digital workplace professionals depend on consistent, globally accessible AI tools to do their jobs, and geopolitical restrictions create fragmentation that makes collaboration across borders a nightmare. Honestly, we're heading toward a future where companies might need to maintain three different AI toolsets depending on which continent their workers are sitting in, which is about as efficient as maintaining separate internet protocols for each time zone.",
+    "date": "2026-07-02T06:36:06.815827+00:00"
+  },
+  {
+    "title": "US reverses export restrictions on Anthropic\u2019s Fable 5, Mythos 5 AI models",
+    "url": "https://www.computerworld.com/article/4191565/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The US government has reversed export restrictions on Anthropic\u2019s frontier AI models Fable 5 and Mythos 5, allowing the company to resume global access after nearly three weeks of disruption triggered",
+    "dwp_take": "The US government lifted export restrictions on Anthropic's Fable 5 and Mythos 5 AI models after a three-week freeze, letting the company resume global distribution. For digital workplace teams, this matters because AI tools are increasingly central to productivity infrastructure, and supply chain disruptions like this highlight how geopolitical decisions can suddenly impact your tech roadmap. Three weeks of uncertainty over advanced AI feels like a good reminder that betting your entire workplace strategy on any single vendor or model is still a high-wire act, no matter how smart the AI claims to be.",
+    "date": "2026-07-02T06:36:12.255454+00:00"
+  },
+  {
+    "title": "Aflac Data Breach: Over 4M Customers in Japan May Be at Risk",
+    "url": "https://www.techrepublic.com/article/news-aflac-japan-data-breach-insurance-records/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Aflac says a data breach in Japan may affect 4.38 million customers and agents, exposing personal, policy, and some banking information. The post Aflac Data Breach: Over 4M Customers in Japan May Be a",
+    "dwp_take": "Aflac disclosed that a data breach in Japan compromised personal information, policy details, and banking data for over 4.3 million customers and agents. Digital workplace leaders need to pay attention because this shows how quickly a single security failure can scale across millions of users, making data governance and access controls non-negotiable in any connected workplace. If a major insurer can't keep customer banking details safe, maybe it's time we all stopped trusting that \"secure\" shared drive full of spreadsheets with passwords in the filename.",
+    "date": "2026-07-02T06:36:21.121291+00:00"
+  },
+  {
+    "title": "Microsoft Uncovers Widespread Hotel Phishing Campaign in Japan",
+    "url": "https://www.techrepublic.com/article/news-microsoft-hotel-phishing-apac-japan/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft and Trend Micro found hotel phishing attacks using fake guest complaints and photo links to target staff in Japan. The post Microsoft Uncovers Widespread Hotel Phishing Campaign in Japan app",
+    "dwp_take": "Microsoft and Trend Micro discovered a phishing campaign targeting hotel employees in Japan using fake guest complaints and suspicious photo links. This matters because hospitality workers often lack security training and have access to guest data, payment systems, and room keys, making them attractive targets for attackers. Hotels are basically golden gooses for cybercriminals, so if your organization does business travel or has any connection to hospitality, you need to be running security awareness training that actually sticks, not just annual checkbox exercises.",
+    "date": "2026-07-02T06:36:24.825991+00:00"
+  },
+  {
+    "title": "Apple Leak Drama Grows After iPhone 18 Pro Videos Disappear",
+    "url": "https://www.techrepublic.com/article/news-apple-iphone-18-pro-leak-tata-breach/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Alleged iPhone 18 Pro drop-test videos vanished from X after a Tata Electronics breach exposed Apple supplier files and internal documents. The post Apple Leak Drama Grows After iPhone 18 Pro Videos D",
+    "dwp_take": "Apple's alleged iPhone 18 Pro videos were pulled from X following a security breach at supplier Tata Electronics that exposed internal documents and files. This matters to digital workplace pros because it's a textbook case of how supply chain vulnerabilities cascade into public relations nightmares and document control failures. If a company can't keep its own product videos off the internet after a breach, it's probably not managing employee access and data classification any better than it manages its PR strategy.",
+    "date": "2026-07-02T06:36:28.750782+00:00"
+  },
+  {
+    "title": "NASA Launches Daring Robotic Rescue Mission to Save Falling Swift Telescope",
+    "url": "https://www.techrepublic.com/article/news-nasa-swift-boost-robot-rescue-mission/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "NASA is preparing a robotic rescue mission to boost the falling Swift telescope, test satellite servicing, and avoid a costly observatory replacement. The post NASA Launches Daring Robotic Rescue Miss",
+    "dwp_take": "NASA is sending a robotic spacecraft to push the Swift telescope back into higher orbit before it burns up in the atmosphere, effectively extending the observatory's life and testing new satellite repair capabilities. This matters to digital workplace folks because it's a practical example of how remote operations, AI-assisted robotics, and real-time problem solving are becoming mission-critical across industries, not just space agencies. Honestly, if NASA can troubleshoot a satellite from millions of miles away, maybe your IT department can finally fix the printer without a three-week ticket queue.",
+    "date": "2026-07-02T06:36:32.985679+00:00"
   }
 ]
