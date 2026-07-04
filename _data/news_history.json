@@ -1,149 +1,5 @@
 [
   {
-    "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "dwp_take": "Anthropic's Claude is gaining real traction with paying customers despite OpenAI's massive head start and brand dominance in the AI space. For digital workplace pros, this matters because it signals that the AI tool landscape won't be a winner-take-all situation, meaning your organization will need to evaluate multiple options rather than just default to whatever everyone else uses. The irony is that Claude's steady climb might actually be because it's less flashy and more reliable than ChatGPT, which tells you something important about what sophisticated users actually want from their tools.",
-    "date": "2026-06-26T06:50:38.556069+00:00"
-  },
-  {
-    "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "dwp_take": "Databricks' ex-AI chief launched a startup claiming their new approach could slash AI's energy consumption by a factor of 1,000. This matters because digital workplace leaders are already sweating the power costs and carbon footprint of running AI tools at scale, so a genuine efficiency breakthrough would be game-changing for their infrastructure budgets. That said, \"could\" and \"shows for the first time\" are doing a lot of heavy lifting in that headline, and we've heard efficiency promises before, so let's see the actual numbers before the champagne comes out.",
-    "date": "2026-06-26T06:50:42.758087+00:00"
-  },
-  {
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "dwp_take": "Netris just scored a $15 million Series A from Andreessen Horowitz to speed up how fast neocloud operators can get their infrastructure live. This matters because digital workplace folks increasingly depend on reliable, fast-deploying cloud infrastructure to support remote work and hybrid setups, and any tool that reduces deployment friction helps your organization move faster. Honestly, the fact that we're still throwing serious money at \"getting infrastructure live faster\" suggests someone's been doing this the hard way for too long, but hey, if it works it works.",
-    "date": "2026-06-26T06:50:46.717562+00:00"
-  },
-  {
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-    "dwp_take": "Amazon is committing another 13 billion dollars to AI infrastructure in India as part of a broader tech industry scramble to build out computing capacity in the region. For digital workplace leaders, this matters because it signals where enterprise AI services and cloud capabilities will actually be available and affordable over the next few years, which directly affects your tech stack decisions and vendor negotiations. Honestly, watching tech giants fight over India's market is like watching a chess match played with billion dollar bills, except the real winner will be companies smart enough to actually adopt this stuff before the infrastructure gold rush ends.",
-    "date": "2026-06-26T06:50:51.245376+00:00"
-  },
-  {
-    "title": "Researchers cast new doubt on Microsoft\u2019s quantum computing advance",
-    "url": "https://www.computerworld.com/article/4189622/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft\u2019s controversial claim that its Majorana chip program will make possible a scalable quantum computer by 2029 has been thrown into new doubt by a scientific paper that questions whether the co",
-    "dwp_take": "Microsoft claimed its Majorana chip could deliver scalable quantum computing by 2029, but new research from the University of St Andrews suggests the company may have misinterpreted its own experimental data. For digital workplace teams banking on quantum-powered solutions for encryption, analytics, or next-gen collaboration tools, this matters because timelines just got a lot fuzzier and vendor promises need harder scrutiny. After three decades watching tech companies overpromise and underdeliver, I can tell you this is exactly why you should nod politely when vendors show you their roadmaps, then build your strategy assuming they'll arrive two years later than promised.",
-    "date": "2026-06-26T06:50:57.067596+00:00"
-  },
-  {
-    "title": "Apple raises hardware prices; AI gets the blame",
-    "url": "https://www.computerworld.com/article/4189546/apple-raises-hardware-prices-ai-is-to-blame.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Apple\u2019s threatened product pricing hike arrived Thursday with steep increases landing across all its products (except the iPhone) \u2014 and rapidly accelerating RAM prices are to blame. Apple CEO Tim Cook",
-    "dwp_take": "Apple jacked up prices on Macs, iPads, and other hardware across the board this week, citing rapidly rising RAM costs as the culprit. This matters to digital workplace pros because these devices are workplace staples, and IT budgets just got tighter when refresh cycles come around. Here's the thing though: blaming RAM prices feels like a convenient excuse when Apple's margins are already legendary. If your organization standardizes on Apple, time to have some uncomfortable conversations with finance about those hardware refresh timelines.",
-    "date": "2026-06-26T06:51:01.171744+00:00"
-  },
-  {
-    "title": "New Linux Foundation project aims to bring DNS-style trust to AI agents",
-    "url": "https://www.computerworld.com/article/4189369/new-linux-foundation-project-aims-to-bring-dns-style-trust-to-ai-agents-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "As enterprises deploy increasing numbers of AI agents across applications and organizations, the Linux Foundation on Wednesday announced plans to launch a new Agent Name Service framework designed to ",
-    "dwp_take": "The Linux Foundation is building a DNS-like naming system to verify AI agent identity, ownership, and permissions as businesses deploy more of these autonomous systems. This matters because digital workplace leaders are already struggling to govern AI tools, and without identity verification and trust mechanisms, you're basically handing your organization's data to digital wildcards. Honestly, it's about time someone tackled this, because right now most companies deploying AI agents have about as much visibility into what they're doing as a driver has with their eyes closed.",
-    "date": "2026-06-26T06:51:05.238777+00:00"
-  },
-  {
-    "title": "How France\u2019s education ministry built an open-source file-share platform for 400K users",
-    "url": "https://www.computerworld.com/article/4187951/how-frances-education-ministry-built-an-open-source-file-share-platform-for-400k-users.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "As France seeks to reduce its dependence on non-European technology suppliers across the public sector, open-source software is playing an increasingly prominent role. Among the projects that reflect ",
-    "dwp_take": "France's education ministry built Nuage, an open-source file-sharing platform serving 400,000 users, as part of a broader push to reduce reliance on non-European tech vendors in the public sector. This matters because it shows governments can actually build secure, scalable collaboration tools without handing data over to US cloud giants, which has real implications for how enterprises think about vendor lock-in and digital sovereignty. The fact that they pulled this off successfully proves that open-source isn't just idealistic talk anymore, it's a practical alternative that works at enterprise scale.",
-    "date": "2026-06-26T06:51:09.188532+00:00"
-  },
-  {
-    "title": "Pride Month Reminder: LGBTQ+ Employees Aren\u2019t All the Same",
-    "url": "https://www.fastcompany.com/91564372/pride-month-reminder-lgbtq-employees-arent-all-the-same?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "\u201cI Love Gay People\u201d I once had a coworker I\u2019m going to call Maggie. And Maggie loved gay people. I know that, because she explicitly told me when she learned I was gay, probably six months into workin",
-    "dwp_take": "A Fast Company piece reminds us that LGBTQ+ employees aren't a monolith and that performative allyship from coworkers who declare their love for \"gay people\" in general while knowing nothing about you personally misses the point entirely. For digital workplace pros, this matters because inclusive workplace culture means treating actual humans as individuals, not checking a box by posting a rainbow logo once a year and calling it progress. The real work is harder than a Pride Month declaration, and honestly, if your allyship requires an announcement, you're probably doing it wrong.",
-    "date": "2026-06-26T06:51:13.616828+00:00"
-  },
-  {
-    "title": "\u2018I can\u2019t even keep up\u2019: The long-term harms of tech overload at work\u2014and how to avoid them",
-    "url": "https://www.fastcompany.com/91565206/i-cant-even-keep-up-the-long-term-harms-of-tech-overload-at-work-and-how-to-avoid-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Right now, I have 628 unread emails in my work inbox. That\u2019s in addition to seven unread Signal messages, a few unopened Telegrams, dozens of texts coming in (both personal and professional), and a wh",
-    "dwp_take": "Workers are drowning in notification hell across fragmented tools and platforms, creating genuine cognitive overload that tanks productivity and mental health. This matters because digital workplace leaders keep adding more tools instead of consolidating, then act surprised when people burn out and nothing actually gets done. The real solution isn't another productivity app or wellness workshop\u2014it's having the hard conversation with executives about whether you actually need seven communication channels, or whether you're just creating fiefdoms for different departments.",
-    "date": "2026-06-26T06:51:17.454237+00:00"
-  },
-  {
-    "title": "Meta reverses decision to reassign employees to AI training roles",
-    "url": "https://www.fastcompany.com/91565257/meta-reverses-decision-to-reassign-employees-to-ai-training-roles?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Meta is reversing its decision to reassign 7,000 employees to different AI-focused units, like the Applied AI (AAI) task force, to help train the company\u2019s models, one month after those plans were ann",
-    "dwp_take": "Meta backed away from forcing 7,000 employees into AI training roles after announcing the plan just a month earlier, now letting people opt in voluntarily instead. This matters because it shows even tech giants can't just shuffle workforces around without pushback, and it signals that mandatory digital transformation initiatives are riskier than leaders think. Apparently someone at Meta realized that conscripting your workforce into retraining programs tends to create more problems than it solves, which is a lesson plenty of other companies are about to learn the hard way.",
-    "date": "2026-06-26T06:51:21.802758+00:00"
-  },
-  {
-    "title": "The most transformational investment in fragile nations isn\u2019t what you think",
-    "url": "https://www.fastcompany.com/91556319/the-most-transformational-investment-in-fragile-states-isnt-what-you-think-early-childhood-investment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In an era of shrinking aid budgets and multiplying conflicts, every dollar spent on humanitarian aid must work harder than ever. As the Ebola crisis shows, aid cuts can bring disaster, but the questio",
-    "dwp_take": "I appreciate the setup, but I need to be straight with you: this article about humanitarian aid and Ebola isn't actually about digital workplaces at all. It's about development economics and global health spending. I can't write credibly as a DWP expert on this topic because it's completely outside my lane. If you've got a digital workplace article you'd like me to tackle, I'm your person.",
-    "date": "2026-06-26T06:51:25.608351+00:00"
-  },
-  {
-    "title": "YouTube Exits Teen Addiction Lawsuit as Meta, TikTok, Snapchat Head to Trial",
-    "url": "https://www.techrepublic.com/article/news-google-youtube-addiction-lawsuit-settlement/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google settled YouTube claims brought by a Florida teen, leaving Meta, TikTok, and Snap to face a July trial over social media addiction. The post YouTube Exits Teen Addiction Lawsuit as Meta, TikTok,",
-    "dwp_take": "Google's YouTube settled a lawsuit from a Florida teen claiming social media addiction while Meta, TikTok, and Snapchat are heading to trial in July over similar claims. This matters because digital workplace leaders are increasingly responsible for managing employee wellness around social platforms, and these cases will set legal precedent for what companies must disclose about addictive design features. YouTube basically paid to avoid discovery of their internal documents, which tells you everything you need to know about how confident tech companies feel defending their engagement algorithms in court.",
-    "date": "2026-06-26T06:51:29.839249+00:00"
-  },
-  {
-    "title": "Samsung Reportedly Starts OLED Panel Production for Apple\u2019s First Foldable iPhone",
-    "url": "https://www.techrepublic.com/article/news-samsung-apple-foldable-iphone-oled-display-production/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple reportedly cleared Samsung Display to make OLED panels for its first foldable iPhone, with hinge issues still shaping launch timing. The post Samsung Reportedly Starts OLED Panel Production for ",
-    "dwp_take": "Samsung has started making OLED screens for Apple's upcoming foldable iPhone, though hinge reliability concerns are still delaying the actual launch. This matters because foldable devices will eventually reshape how we think about mobile workplace tools, screen real estate, and remote work setups. Here's the thing though: Apple's obsession with getting the hinge perfect is telling, and honestly, it's the right call because there's nothing worse than your thousand-dollar work device folding wrong at a client meeting.",
-    "date": "2026-06-26T06:51:33.804203+00:00"
-  },
-  {
-    "title": "Microsoft\u2019s July Windows 11 Update Focuses on Fixing Everyday PC Frustrations",
-    "url": "https://www.techrepublic.com/article/news-windows-11-july-update-practical-fixes/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft\u2019s July Windows 11 update adds practical fixes for update pausing, recovery, Bluetooth, Widgets, File Explorer, and more. The post Microsoft\u2019s July Windows 11 Update Focuses on Fixing Everyda",
-    "dwp_take": "Microsoft dropped a July Windows 11 update that tackles real user complaints like update pausing, Bluetooth connectivity, File Explorer glitches, and Widgets issues. This matters because every hour your workforce spends wrestling with Bluetooth or waiting for updates is an hour they're not doing actual work, which tanks productivity faster than a poorly configured Sharepoint instance. Finally, someone at Microsoft remembered that users don't want flashy features, they want their computers to stop being annoying.",
-    "date": "2026-06-26T06:51:37.554460+00:00"
-  },
-  {
-    "title": "Denmark Ordered to Pay $12M Over Huawei Equipment Removal",
-    "url": "https://www.techrepublic.com/article/news-denmark-tdc-net-huawei-fiber-gear-removal-emea/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "A Danish court ordered the state to compensate TDC NET after the removal of Huawei fiber-network equipment, raising questions about telecom security costs. The post Denmark Ordered to Pay $12M Over Hu",
-    "dwp_take": "Denmark got ordered to pay TDC NET twelve million dollars after forcing them to rip out Huawei equipment from their fiber network due to security concerns. This matters because it shows the real financial consequences when governments make security decisions that shift costs to private telecom operators, and it's a heads-up that your infrastructure decisions could end up in court. Turns out geopolitical security theater has a surprisingly expensive ticket price when you actually have to pay for the show.",
-    "date": "2026-06-26T06:51:41.466189+00:00"
-  },
-  {
     "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
     "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "source": "TechCrunch",
@@ -1042,5 +898,149 @@
     "excerpt": "Google released a Chrome update addressing 382 security bugs, including sandbox-escape risks. Users and IT teams should update quickly. The post New Chrome Update Fixes 382 Security Bugs Across Deskto",
     "dwp_take": "Google just patched 382 security holes in Chrome, including some nasty sandbox-escape vulnerabilities that could let attackers break out of the browser's safety container. For digital workplace pros, this means your entire user base is vulnerable until they update, and you'll be fielding calls from paranoid security teams demanding proof of deployment. Three hundred and eighty-two bugs fixed is impressive in a weird way, but it also makes you wonder what Google's QA process looked like before this build went out.",
     "date": "2026-07-03T06:27:22.681638+00:00"
+  },
+  {
+    "title": "The only AI glossary you\u2019ll need this year",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "dwp_take": "TechCrunch published a glossary to help people decode the explosion of AI terminology flooding the tech world right now. Digital workplace pros need this because you're going to be fielding questions from executives, employees, and vendors who are throwing around terms like \"prompt engineering\" and \"retrieval augmented generation\" without actually understanding them. Honestly, having a solid glossary bookmarked is the difference between nodding confidently in meetings and getting caught pretending you know what anyone is talking about.",
+    "date": "2026-07-04T06:14:18.575613+00:00"
+  },
+  {
+    "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "dwp_take": "TechCrunch rounded up alternative browsers trying to dent Chrome and Safari's market dominance. For digital workplace folks, this matters because your browser choice directly impacts security, performance, and compatibility with your enterprise apps and collaboration tools. Look, if you're still defaulting to Chrome because IT said so in 2015, you're probably missing out on real improvements in privacy and speed that could actually make your workday less painful.",
+    "date": "2026-07-04T06:14:22.232683+00:00"
+  },
+  {
+    "title": "AI data center builder Crusoe reportedly raising $3B at $30B valuation",
+    "url": "https://siliconangle.com/2026/07/03/ai-data-center-builder-crusoe-reportedly-raising-3b-30b-valuation/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Data center builder Crusoe Inc. is reportedly in talks to raise a $3 billion funding round. Bloomberg on Thursday cited sources as saying that the deal could value the company at $30 billion. That\u2019s a",
+    "dwp_take": "Crusoe Energy, an AI data center company, is raising $3 billion at a $30 billion valuation, tripling its worth in a year. This matters because digital workplace infrastructure is increasingly dependent on AI compute capacity, and massive capital flowing into data centers signals where corporate tech spending is heading next. Look, when a company triples in value faster than your inbox fills up, someone's betting big on the infrastructure powering all those \"AI-powered\" tools your boss won't stop talking about.",
+    "date": "2026-07-04T06:14:27.036089+00:00"
+  },
+  {
+    "title": "Meta to release new AI model with advanced coding capabilities \u2018soon\u2019",
+    "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company\u2019s chief AI officer, wrote on X today that the update wil",
+    "dwp_take": "Meta is dropping a new version of its Muse Spark AI model with better coding chops, supposedly competitive with OpenAI's GPT-5.5, though the actual release date remains mysteriously vague. For digital workplace pros, this matters because better coding AI means your organization will need to think harder about where automation ends and human judgment begins, especially in knowledge work. The fact that Meta's chief AI officer announced this on X instead of in an actual press release tells you everything you need to know about how chaotic the AI hype cycle has become.",
+    "date": "2026-07-04T06:14:31.373318+00:00"
+  },
+  {
+    "title": "Meta reuses old RAM in new servers with custom bridge chip",
+    "url": "https://www.computerworld.com/article/4192829/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "With the cost of new RAM soaring, Meta has found a thrifty way to reuse older memory in newer servers. The performance of about 40% of Meta\u2019s millions of servers is limited by a lack of memory, the co",
+    "dwp_take": "Meta designed a custom bridge chip to reuse older RAM modules in newer servers instead of replacing them outright, solving a cost problem created by skyrocketing memory prices. For digital workplace teams managing infrastructure costs and sustainability, this matters because it shows how even massive tech companies are feeling the pinch on hardware budgets and finding creative solutions. Here's the thing: Meta basically admitted that 40 percent of their servers are memory-constrained, which is a fancy way of saying \"we've been buying servers that aren't quite right for the job\" - but hey, at least they're being honest about it and fixing the problem cheaply.",
+    "date": "2026-07-04T06:14:37.266518+00:00"
+  },
+  {
+    "title": "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
+    "url": "https://www.computerworld.com/article/4192802/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Adobe will now issue security patches for its products twice as often to deal with the increasing pace of software vulnerability discovery and exploitation. This follows Oracle\u2019s decision to increase ",
+    "dwp_take": "Adobe is adding a second Patch Tuesday on the fourth of each month to release security fixes faster, following Oracle's lead in moving to monthly patches. For digital workplace pros managing Adobe deployments across their organizations, this means twice as many update cycles to plan, test, and roll out without falling behind on security. The good news is that more frequent patches mean fewer vulnerabilities sitting around waiting to be exploited, which beats the alternative of quarterly updates by a country mile.",
+    "date": "2026-07-04T06:14:41.641206+00:00"
+  },
+  {
+    "title": "Meta\u2019s AI chief says new Muse Spark update will sharpen coding, agentic AI",
+    "url": "https://www.computerworld.com/article/4192733/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Meta is set to launch a new Muse Spark model with stronger coding and agentic capabilities, as Chief AI Officer Alexandr Wang touted the update as a step toward closing the gap with rival AI platforms",
+    "dwp_take": "Meta is rolling out a new Muse Spark update designed to improve coding and AI agent functionality to better compete with other leading AI platforms. For digital workplace professionals, this matters because coding assistance and autonomous AI agents are becoming core productivity tools, and better performance means fewer workarounds and less time spent correcting AI outputs. Honestly, it's refreshing to see Meta focus on actually making their tools work better instead of just announcing them, though we'll believe it when we see it deployed in real enterprise environments.",
+    "date": "2026-07-04T06:14:45.539369+00:00"
+  },
+  {
+    "title": "Jamf exec: The exploit isn\u2019t what gives attackers away",
+    "url": "https://www.computerworld.com/article/4192336/jamf-exec-the-exploit-isnt-what-gives-attackers-away.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Jamf this week unveiled Beacon, a threat-hunting service that aims to provide dedicated, proactive detection and analysis of Mac threats. The new security tool relies on Jamf\u2019s Mac telemetry, which eq",
+    "dwp_take": "Jamf launched Beacon, a new threat-hunting service designed to detect Mac-specific attacks through advanced telemetry and behavioral analysis rather than just looking for known exploits. For digital workplace pros managing Apple environments, this matters because most security tools still focus on Windows, leaving Mac fleets vulnerable and under-monitored. Finally, someone's building security tools for the platform we all swore wouldn't need them.",
+    "date": "2026-07-04T06:14:49.249552+00:00"
+  },
+  {
+    "title": "The career edge that no algorithm can take from you",
+    "url": "https://www.fastcompany.com/91568851/the-career-edge-that-no-algorithm-can-take-from-you?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "The narrative around artificial intelligence and work has followed a predictable arc: AI takes over tasks, humans lose jobs, and companies save money. It made intuitive sense. It also turns out to be ",
+    "dwp_take": "Here's my response:\n\nBig tech companies are scaling back their aggressive AI spending after realizing the efficiency gains aren't materializing as promised, and it turns out you can't just automate your way to a better business. This matters because digital workplace leaders have been under intense pressure to justify every tool purchase and every process redesign through an AI lens, when maybe the real work was just better communication and sensible workflows all along. After thirty years watching technology trends cycle through, I'm honestly relieved to see some humility returning. The best career insurance isn't learning to code or chase the latest algorithm, it's becoming someone people actually want to work with.",
+    "date": "2026-07-04T06:14:54.434031+00:00"
+  },
+  {
+    "title": "Panic isn\u2019t an AI strategy",
+    "url": "https://www.fastcompany.com/91568695/panic-isnt-an-ai-strategy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Most AI \u201cstrategy\u201d right now isn\u2019t strategy at all. It\u2019s a leadership response to panic. The suffocating, staring-at-the-ceiling-at-2am kind of panic that sets in when your board\u2019s watching, your ROI ",
+    "dwp_take": "Most companies are treating AI adoption as a panic-driven scramble rather than an actual strategic plan, according to new research showing executives are under intense pressure to deploy something, anything, fast. This matters because digital workplace leaders will inherit the mess when half-baked AI implementations collide with real user needs and actual workflows. Here's the thing: your board didn't care about email management until it became a buzzword either, and we all remember how that went.",
+    "date": "2026-07-04T06:14:58.413072+00:00"
+  },
+  {
+    "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
+    "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
+    "dwp_take": "Companies are now hiring chief productivity officers instead of traditional HR directors, betting that a tech and outcomes-focused role will better connect people strategy with business results. This matters because it signals how digital workplace tech is reshaping what leadership looks like, and whether your HR support comes from someone who gets systems thinking or just compliance boxes. Honestly, if your new CPO spends their first month trying to squeeze another 3 percent out of knowledge workers via monitoring software instead of fixing broken Slack workflows, you'll know this was just HR with a fancier title.",
+    "date": "2026-07-04T06:15:03.312229+00:00"
+  },
+  {
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
+    "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+    "dwp_take": "Cursor, the AI code editor, is getting bought by SpaceX and wants to keep offering models from competitors like OpenAI and Anthropic instead of locking users into Elon's ecosystem. This matters because it signals whether acquired tools will stay genuinely useful or become walled gardens, which affects what developers can actually rely on long term. Honestly, I'll believe \"we're staying neutral\" when I see it actually happen, because nothing says \"open platform\" quite like being owned by the guy who names his companies after memes.",
+    "date": "2026-07-04T06:15:07.852560+00:00"
+  },
+  {
+    "title": "AI Agents Are Creating a New Enterprise Security Gap",
+    "url": "https://www.techrepublic.com/article/news-ai-agents-enterprise-security-gap/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Five independent security disclosures in a single week point to the same gap: AI agent permissions, not AI agent capabilities, are the problem enterprises haven't solved. The post AI Agents Are Creati",
+    "dwp_take": "AI agents got loose with way too many permissions across five different security breaches in one week, proving the real problem isn't what these things can do but what we're letting them do. This matters because if your AI agents have blanket access to systems and data, you're basically handing hackers a skeleton key wrapped in machine learning language. After three decades watching enterprise security failures, I can tell you this is the same mistake we made with service accounts back in the 2000s, except now the account logs are written in a language nobody fully understands.",
+    "date": "2026-07-04T06:15:12.312912+00:00"
+  },
+  {
+    "title": "Google Loses Final EU Appeal Over \u20ac4.1B Android Fine",
+    "url": "https://www.techrepublic.com/article/news-google-eu-android-appeal-emea/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google lost its final EU appeal over a \u20ac4.1B Android fine, prompting renewed scrutiny of app defaults, search dominance, and rivals' access. The post Google Loses Final EU Appeal Over \u20ac4.1B Android Fi",
+    "dwp_take": "Google exhausted its last legal option to overturn a 4.1 billion euro fine for anticompetitive Android practices, meaning the company now has to pay up and change how it handles app defaults and search dominance in Europe. This matters because it signals regulators worldwide are serious about controlling how big tech companies lock users into their ecosystems, which directly affects the tools and integrations your organization depends on. The real takeaway is that if you've built your digital workplace strategy assuming Google's default dominance is permanent, you might want to start hedging your bets with alternative search and collaboration tools.",
+    "date": "2026-07-04T06:15:16.622246+00:00"
+  },
+  {
+    "title": "5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of AI Images",
+    "url": "https://www.techrepublic.com/article/news-google-nano-banana-2-lite-ai-image-generation/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google\u2019s Nano Banana 2 Lite shows how faster, cheaper AI image generation could reshape creative workflows and business tools. The post 5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of",
+    "dwp_take": "Google released Nano Banana 2 Lite, a faster and cheaper AI image generation tool that signals a shift toward more accessible generative AI for everyday workflows. Digital workplace folks need to pay attention because this means image generation could soon become as standard in your content creation pipeline as spell check, which changes how teams collaborate and produce assets. Honestly, if the barrier to entry keeps dropping, companies will finally stop using those terrible stock photos from 2007, which is worth the price of admission alone.",
+    "date": "2026-07-04T06:15:20.606147+00:00"
+  },
+  {
+    "title": "AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech",
+    "url": "https://www.techrepublic.com/article/ai-oversight-security-flaws-and-industry-shifts-define-this-week-in-tech/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "See what you missed in Daily Tech Insider from June 29\u2013July 2. The post AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech appeared first on TechRepublic.",
+    "dwp_take": "This week's tech news covered AI governance questions, security vulnerabilities, and broader industry changes across the sector. Digital workplace pros need to pay attention because AI tools are landing in your collaboration platforms faster than your IT policies can keep up, and security gaps mean your organization's data is the prize in someone else's game. Here's the thing: every industry shift starts as a whisper in tech news before it becomes your Monday morning crisis, so staying informed beats being surprised.",
+    "date": "2026-07-04T06:15:24.747545+00:00"
   }
 ]
