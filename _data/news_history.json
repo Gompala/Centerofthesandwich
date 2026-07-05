@@ -1,149 +1,5 @@
 [
   {
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-    "dwp_take": "The Trump administration has cleared Anthropic's Mythos 5 AI model for use across more than 100 US companies and government agencies, including access for non-US employees. This matters because it signals AI export controls are loosening and will reshape how organizations think about where their AI processing happens and who can access it. After years of watching enterprises tie themselves in compliance knots over data residency, somebody's about to learn the hard way that \"authorized\" and \"actually compliant with your existing contracts\" are two very different things.",
-    "date": "2026-06-27T06:26:23.595866+00:00"
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
-    "dwp_take": "OpenAI pumped the brakes on rolling out GPT-5.6 after a government request, though they're grumbling that this shouldn't become standard practice. Digital workplace leaders need to pay attention because AI deployment delays directly impact productivity plans, and we're entering murky territory around government influence on enterprise tools. Here's the thing though: OpenAI's complaint rings a bit hollow when they're simultaneously building closer ties with intelligence agencies, so workplace pros should probably stop assuming their favorite AI tool will be available when they need it.",
-    "date": "2026-06-27T06:26:27.646108+00:00"
-  },
-  {
-    "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "dwp_take": "The article argues we've moved past the early stage where individual AI companies matter more than the technology's actual impact on society and politics. This matters to digital workplace pros because the tools we're implementing in our organizations now have real consequences for how work gets done, who gets heard, and what information people see daily. Here's the thing: most companies are still picking between vendors like it's a taste test, when they should be asking harder questions about what these tools actually do to their culture and decision-making.",
-    "date": "2026-06-27T06:26:31.835003+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
-    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with ",
-    "dwp_take": "OpenAI is developing a custom AI inference chip called Jalape\u00f1o with Broadcom to reduce reliance on Nvidia's dominance in the AI chip market. This matters to digital workplace pros because the tools powering your collaboration platforms, search, and generative AI features will increasingly run on diverse hardware, which could mean better performance, lower costs, and less supply chain fragility. Honestly, watching Big Tech finally break up with Nvidia feels like watching someone leave a bad relationship - it took longer than it should have, but at least it's happening.",
-    "date": "2026-06-27T06:26:35.762525+00:00"
-  },
-  {
-    "title": "US tells OpenAI to restrict access to its most powerful AI model",
-    "url": "https://www.computerworld.com/article/4190083/us-tells-openai-to-restrict-access-to-its-most-powerful-ai-model.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "US authorities are getting decidedly twitchy about frontier AI models. Just a couple of weeks after ordering Anthropic to prevent foreign companies from getting hold of its latest release, Mythos/Fabl",
-    "dwp_take": "The Trump administration is pressuring OpenAI to delay releasing GPT-5.6 to the general public, citing national security concerns. This matters to digital workplace folks because enterprise AI tools are becoming strategically important, and government restrictions will reshape which AI capabilities actually make it to your organization's tech stack. After two decades watching tech adoption cycles, I can tell you that nothing kills innovation momentum quite like government telling companies to sit on their hands, so expect a lot of creative \"workarounds\" and whispered access deals in the months ahead.",
-    "date": "2026-06-27T06:26:41.160751+00:00"
-  },
-  {
-    "title": "AI agents are coming to China\u2019s workplaces too",
-    "url": "https://www.computerworld.com/article/4190075/ai-agents-are-coming-to-chinas-workplaces-too.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Chinese tech giant Tencent is set to launch an AI assistant inside WeCom, its Slack-like collaboration tool for enterprises. The new tool, Dayuan, is built on the latest large language models from Chi",
-    "dwp_take": "Tencent is launching Dayuan, an AI assistant within WeCom, its enterprise collaboration platform, powered by DeepSeek's latest language models. This matters because the global AI workplace race just got real competition from China, and digital workplace leaders can't ignore how quickly these tools are embedding themselves into the collaboration platforms people actually use every day. The irony is thick here: we're still figuring out what to do with our AI assistants while the market's already moving to the next version.",
-    "date": "2026-06-27T06:26:45.173558+00:00"
-  },
-  {
-    "title": "EU: Microsoft, Amazon cloud services could be classified as gatekeepers",
-    "url": "https://www.computerworld.com/article/4190069/eu-microsoft-and-amazons-cloud-services-should-probably-be-classified-as-gatekeepers.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Following a seven-month investigation, the European Commission has reached a preliminary decision that Amazon\u2019s and Microsoft\u2019s cloud platforms \u2014 AWS and Azure, respectively \u2014 should be classified as ",
-    "dwp_take": "The European Commission concluded after months of investigating that AWS and Azure should be classified as gatekeepers under the EU's Digital Markets Act, which restricts the market dominance of tech giants. This matters because it could force Microsoft and Amazon to change how they operate their cloud platforms, affecting everything from pricing to data portability for the enterprise customers relying on them. Finally, someone's telling the big dogs to play fair, though I'd bet money both companies have already budgeted for the lawyers this will require.",
-    "date": "2026-06-27T06:26:49.155743+00:00"
-  },
-  {
-    "title": "Cyberattacks pose a \u2018threat to life\u2019 in Australia",
-    "url": "https://www.computerworld.com/article/4190056/cyberattacks-pose-a-threat-to-life-in-australia-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Australia\u2019s Security Intelligence Organization (ASIO) has uncovered an attack on a critical infrastructure operator\u2019s network. State-sponsored actors had compromised the network and were preparing to ",
-    "dwp_take": "Australia's spy agency discovered state-sponsored hackers had infiltrated a critical infrastructure operator's systems and were actively preparing sabotage operations. This matters to digital workplace pros because securing enterprise networks isn't just about protecting data anymore, it's about ensuring essential services don't go dark and potentially harm people. Turns out the scariest part of your job isn't defending against ransomware for financial data, it's that your workplace network might be connected to something that keeps hospitals running or power flowing.",
-    "date": "2026-06-27T06:26:53.055407+00:00"
-  },
-  {
-    "title": "Apple just closed its first unionized store. What does that mean for its workers?",
-    "url": "https://www.fastcompany.com/91564676/apple-just-closed-its-first-unionized-store-what-does-that-mean-for-its-workers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In 2022, an Apple Store outside of Baltimore became the first in the U.S. to unionize, fueled by worker frustrations over how they were treated during the pandemic. Two years later, they won a contrac",
-    "dwp_take": "Apple closed its first unionized store in Baltimore after workers organized around pandemic-era treatment issues and won contract protections in 2022. This matters to digital workplace pros because it shows that even premium brands face real retention and culture problems when workers feel undervalued, and unionization becomes the outlet. Here's the thing: you can't Slack your way out of fundamental respect issues, and Apple just learned that the hard way.",
-    "date": "2026-06-27T06:27:00.584447+00:00"
-  },
-  {
-    "title": "JPMorgan fired an employee over a $642 deli platter. Now it owes him $4.25 million",
-    "url": "https://www.fastcompany.com/91557125/j-p-morgan-fired-employee-over-642-deli-platter-now-owes-4-25-million?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "It took nearly two decades for Brent Ryan Bodner to build his career at JPMorgan. It took a deli platter to end it.In 2024, Bodner was fired from the bank after charging a $642.50 food order to his em",
-    "dwp_take": "JPMorgan fired a longtime employee over a $642.50 catering charge he claimed was business-related while the bank insisted it was personal, and now they owe him $4.25 million in a legal settlement. This matters because it's a brutal reminder that inconsistent expense policies, poor documentation, and disproportionate disciplinary responses create legal liability that costs way more than the original dispute. The real lesson here isn't about the platter, it's that HR and finance teams need clear, consistently applied rules or they'll end up funding someone's retirement by accident.",
-    "date": "2026-06-27T06:27:04.819125+00:00"
-  },
-  {
-    "title": "Why menopause is employers\u2019 $1.8 billion blind spot\u2014and what leaders can do about it",
-    "url": "https://www.fastcompany.com/91549811/why-menopause-is-employers-1-8-billion-blind-spot-and-what-leaders-can-do-about-it-women-workplace-menopause-leadership?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "As companies work to build more inclusive, high-performing workplaces, one major workforce issue is still hiding in plain sight: menopause. Around 1 billion women globally are currently in perimenopau",
-    "dwp_take": "Companies are finally waking up to the fact that menopause affects productivity and retention, with an estimated 1.8 billion dollar impact on workplaces that ignore it. Digital workplace pros need to understand this because it directly affects how we design tools, policies, and support systems for a huge chunk of the workforce. After 30 years in this space, I'll say it straight: if your workplace strategy doesn't account for menopause, you're not actually building for inclusion, you're just performing it.",
-    "date": "2026-06-27T06:27:08.676994+00:00"
-  },
-  {
-    "title": "The Big Freeze: Why teams seize up under pressure (and how to avoid it)",
-    "url": "https://www.fastcompany.com/91556538/the-big-freeze-why-teams-stop-acting-when-theyre-under-pressure-leadership-workpace-motivation?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Across organizations, leaders are asking teams to move faster, adapt sooner, and make decisions with less certainty. Yet many are seeing the opposite: hesitation, silence, delayed decisions, and cauti",
-    "dwp_take": "Fast Company's arguing that when organizations demand speed without building the conditions for it, teams actually slow down and freeze up instead of accelerating. This matters because digital workplace leaders often inherit this mess and have to figure out why their fancy new collaboration tools aren't solving what's actually a culture and confidence problem. The irony is that slapping another app on people probably makes the Big Freeze worse, not better.",
-    "date": "2026-06-27T06:27:12.307413+00:00"
-  },
-  {
-    "title": "Apple Overhauls Chip Roadmap, Ditches M6 Pro and Max for M7 Generation",
-    "url": "https://www.techrepublic.com/article/news-apple-m6-m7-ai-mac-roadmap/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple may skip the high-end M6 chips and shift premium Macs to AI-focused M7 processors, making the upgrade decision tougher for power users. The post Apple Overhauls Chip Roadmap, Ditches M6 Pro and ",
-    "dwp_take": "Apple is jumping from M5 chips straight to M7 for its premium MacBook Pro and Mac Studio lines, skipping the M6 Pro and Max generation entirely. This matters because it means your enterprise Mac refresh cycles just got messier, and you'll have a longer window of older hardware circulating before the next generation lands. Honestly, this is fine for most office workers, but your creative teams are going to be very cranky about the wait, and your budget forecast just became someone else's problem.",
-    "date": "2026-06-27T06:27:16.654452+00:00"
-  },
-  {
-    "title": "Hackers Claim French Employment Leak Exposes Over 1M Records, Health Data",
-    "url": "https://www.techrepublic.com/article/news-akaolife-data-claim-emea-france/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Hackers claim 1M+ records tied to French employment apps were exposed, including HR files, health data, worker details, and plaintext passwords. The post Hackers Claim French Employment Leak Exposes O",
-    "dwp_take": "A hacker group claims to have stolen over a million records from French employment apps, including HR files, health data, and passwords stored in plaintext. This matters to digital workplace professionals because it's a brutal reminder that employee data security isn't optional and that basic practices like password hashing aren't suggestions. If your company is still storing passwords in plaintext in 2024, you deserve whatever happens next.",
-    "date": "2026-06-27T06:27:20.073894+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s New Custom Chip: 5 Things You Should Know",
-    "url": "https://www.techrepublic.com/article/news-openai-jalapeno-ai-inference-chip/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "OpenAI\u2019s Jalape\u00f1o chip signals a deeper push into AI infrastructure, but cost savings and independence from Nvidia still depend on scale. The post OpenAI\u2019s New Custom Chip: 5 Things You Should Know ap",
-    "dwp_take": "OpenAI is building its own AI chips called Jalape\u00f1o to reduce reliance on Nvidia and cut costs, though whether it actually works depends on hitting serious scale. This matters because if OpenAI pulls it off, it changes the economics of AI deployment that enterprises are counting on to justify their AI budgets. Honestly, watch this space, but remember that every big tech company has tried to out-engineer their suppliers and not all of them succeeded, so don't bet the farm on cheaper AI just yet.",
-    "date": "2026-06-27T06:27:24.290756+00:00"
-  },
-  {
-    "title": "New License Plate Reader Tech Could Track Phones, AirPods, and Smartwatches",
-    "url": "https://www.techrepublic.com/article/news-leonardo-signaltrace-alpr-device-tracking/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Leonardo\u2019s SignalTrace adds wireless device detection to ALPR systems, raising new questions about roadside surveillance, privacy, and security. The post New License Plate Reader Tech Could Track Phon",
-    "dwp_take": "License plate readers can now detect and track nearby phones, AirTags, and smartwatches through new wireless detection technology from Leonardo. This matters to digital workplace pros because your company's mobile device management and employee privacy policies just got a whole lot more complicated. If your organization's devices are getting tracked at every traffic light, you're going to need some serious conversations with legal and security teams about what \"mobile device management\" actually means now.",
-    "date": "2026-06-27T06:27:28.387630+00:00"
-  },
-  {
     "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "source": "TechCrunch",
@@ -1042,5 +898,104 @@
     "excerpt": "See what you missed in Daily Tech Insider from June 29\u2013July 2. The post AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech appeared first on TechRepublic.",
     "dwp_take": "This week's tech news covered AI governance questions, security vulnerabilities, and broader industry changes across the sector. Digital workplace pros need to pay attention because AI tools are landing in your collaboration platforms faster than your IT policies can keep up, and security gaps mean your organization's data is the prize in someone else's game. Here's the thing: every industry shift starts as a whisper in tech news before it becomes your Monday morning crisis, so staying informed beats being surprised.",
     "date": "2026-07-04T06:15:24.747545+00:00"
+  },
+  {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "dwp_take": "Google just dropped a commercial imagining the Declaration of Independence written with Workspace tools instead of quill pens. It's a clever marketing play that positions collaboration software as essential to humanity's greatest moments. Look, I appreciate the creative audacity, but let's be honest: the Founding Fathers would probably still argue for three weeks, delete each other's edits, and end up with a document nobody actually read.",
+    "date": "2026-07-05T06:35:35.353956+00:00"
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "dwp_take": "Midjourney is demanding that Hollywood studios disclose their own AI usage as part of a legal battle over alleged unauthorized training data. This matters because it sets a precedent for transparency around generative AI practices, which will directly impact how organizations handle their own internal AI tools and compliance obligations. The irony here is delicious: an AI company basically saying \"show us yours\" to the studios suing them, which is exactly the kind of transparency workplace tech leaders should be demanding from their vendors anyway.",
+    "date": "2026-07-05T06:35:39.127324+00:00"
+  },
+  {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "dwp_take": "Alibaba has prohibited its workforce from using Anthropic's Claude Code tool, citing security and risk concerns. This matters because it signals that even AI-forward tech companies are getting serious about controlling which generative AI tools touch their internal systems, which should prompt other organizations to audit their own AI policies instead of just letting people install whatever they want. The irony is thick: a company literally built on helping businesses go digital is now slamming the brakes on one specific digital tool, which tells you everything you need to know about how quickly boardrooms are shifting from \"AI yes\" to \"AI yes, but not that one.\"",
+    "date": "2026-07-05T06:35:43.934257+00:00"
+  },
+  {
+    "title": "Luxonis raises $14M to develop the vision layer for intelligent automation",
+    "url": "https://siliconangle.com/2026/07/03/luxonis-raises-14m-develop-vision-layer-intelligent-automation/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Denver-based Luxonis Holding Corp. announced Thursday it raised $14 million in early-stage funding to transform industrial automation with cameras and machine vision, providing a perception layer for ",
+    "dwp_take": "Luxonis just grabbed $14 million to build vision systems that let robots actually see what they're doing instead of just bumbling around like a Roomba in a dark room. For digital workplace folks, this matters because smarter automation means workflow processes that can adapt to real conditions instead of failing when someone leaves a chair in the wrong place. Here's the thing: we've been talking about intelligent automation for years, but vision systems that work are the unglamorous infrastructure that actually makes it happen, so boring but important.",
+    "date": "2026-07-05T06:35:48.361411+00:00"
+  },
+  {
+    "title": "Jamf exec: The exploit isn\u2019t what gives attackers away",
+    "url": "https://www.computerworld.com/article/4192336/jamf-exec-the-exploit-isnt-what-gives-attackers-away.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Jamf this week unveiled Beacon, a threat-hunting service that aims to provide dedicated, proactive detection and analysis of Mac threats. The new security tool relies on Jamf\u2019s Mac telemetry, which eq",
+    "dwp_take": "Jamf launched Beacon, a new threat-hunting service designed to spot Mac threats through deep telemetry and behavioral analysis rather than waiting for exploit signatures to show up. This matters because most digital workplaces now run mixed Apple ecosystems, and traditional security tools often miss Mac-specific attacks that leave behavioral breadcrumbs. Finally, someone's saying the quiet part out loud: catching the attacker's weird activity beats playing whack-a-mole with exploit variants.",
+    "date": "2026-07-05T06:35:53.494958+00:00"
+  },
+  {
+    "title": "Microsoft 365 Copilot: Office meets genAI and agents",
+    "url": "https://www.computerworld.com/article/1629974/m365-copilot-microsofts-generative-ai-tool-explained.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "First launched in November 2023, Microsoft 365 Copilot brings a range of generative AI (genAI) features to Microsoft Office productivity apps, such as Word, Outlook, Teams, and Excel. With capabilitie",
+    "dwp_take": "Microsoft bundled generative AI features into its Office suite as a paid add-on, promising everything from meeting summaries to data analysis across Word, Outlook, Teams, and Excel. Digital workplace leaders need to understand this because Copilot adoption directly impacts how teams work, what skills matter, and whether your Microsoft investment justifies another subscription layer. After eighteen months of \"underwhelming\" performance, the real question isn't whether AI in Office is coming, it's whether your organization is ready to pay extra for features that might actually work this time.",
+    "date": "2026-07-05T06:35:57.368616+00:00"
+  },
+  {
+    "title": "Working through menopause symptoms? Try these tips",
+    "url": "https://www.fastcompany.com/91566765/working-through-menopause-symptoms-try-these-tips?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "More than half of women say they\u2019re \u201cnot prepared at all\u201d for perimenopause or menopause\u2014yet most are already feeling the effects at work. According to recent data from InHerSight, a careers platform ",
+    "dwp_take": "Fast Company ran a piece about how most women aren't prepared for menopause symptoms hitting them at work, with three quarters experiencing regular disruption from brain fog, exhaustion, and hot flashes. This matters because digital workplace folks need to understand that employee wellness isn't just about yoga classes and mental health days, it's about designing work environments and policies that actually account for biological reality. Here's the thing though: we've known about this for decades, so if your company is still treating menopause like it's some surprise medical condition instead of a normal life event that needs real accommodation, you're just playing catch-up while your talented people suffer.",
+    "date": "2026-07-05T06:36:01.882605+00:00"
+  },
+  {
+    "title": "5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of AI Images",
+    "url": "https://www.techrepublic.com/article/news-google-nano-banana-2-lite-ai-image-generation/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google\u2019s Nano Banana 2 Lite shows how faster, cheaper AI image generation could reshape creative workflows and business tools. The post 5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of",
+    "dwp_take": "Google released Nano Banana 2 Lite, a lighter AI image generation model that trades some quality for speed and cost efficiency. This matters because digital workplace teams are constantly hunting for tools that don't require a PhD in prompt engineering or a second mortgage to run. Look, if we can finally get AI image tools that work fast enough to not make people take a coffee break every time they click generate, adoption rates might actually move beyond the early adopters and their demos.",
+    "date": "2026-07-05T06:36:08.172521+00:00"
+  },
+  {
+    "title": "Meta Could Sell AI Compute Capacity as Infrastructure Costs Rise",
+    "url": "https://www.techrepublic.com/article/news-meta-ai-compute-cloud-business/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Meta is reportedly exploring a cloud business to sell excess AI compute, potentially offsetting data center costs and challenging neocloud providers. The post Meta Could Sell AI Compute Capacity as In",
+    "dwp_take": "Meta is looking to monetize its excess AI computing power by selling cloud capacity to other companies, essentially turning itself into a cloud infrastructure provider to help offset massive data center expenses. This matters to digital workplace pros because it could reshape how organizations source AI services and computing power, potentially giving them cheaper alternatives to traditional cloud providers. Honestly, it's a smart pivot for Meta, but I'd wait to see if they can actually deliver reliable infrastructure before moving your critical workloads there, because we all remember how their last few product launches went.",
+    "date": "2026-07-05T06:36:12.153344+00:00"
+  },
+  {
+    "title": "Why a Windows Hello PIN Beats a Password for Enterprise Security",
+    "url": "https://www.techrepublic.com/article/news-windows-hello-pin-security/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "As phishing campaigns, AI-driven identity attacks, and Windows migration planning raise authentication stakes, IT teams should recheck how Windows Hello PIN security works. The post Why a Windows Hell",
+    "dwp_take": "Windows Hello PIN authentication is getting a fresh look as an alternative to traditional passwords because it's resistant to phishing and AI-powered attacks that target weaker credential methods. For digital workplace pros managing security and user experience simultaneously, this matters because it's one of the few security upgrades that doesn't require users to memorize yet another impossible string of characters. Honestly, if we can finally kill the password, I'm here for it, though getting your entire organization to actually use Windows Hello will be the real battle.",
+    "date": "2026-07-05T06:36:18.237960+00:00"
+  },
+  {
+    "title": "Cyber experts issue alert after two ransomware groups team up on \u2018unprecedented\u2019 threat campaign",
+    "url": "https://www.itpro.com/security/ransomware/cyber-experts-issue-alert-after-two-ransomware-groups-team-up-on-unprecedented-threat-campaign",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "The tie-up includes a new model of industrialized ransomware deployment that significantly lowers the barrier to entry for cyber crime",
+    "dwp_take": "Two major ransomware groups are collaborating on a coordinated attack campaign using an industrialized model that makes ransomware easier for criminals to deploy. This matters because your digital workplace infrastructure is now a target for both organized cybercriminals and low-skill opportunists, meaning your security posture needs to assume everyone's coming at you. The good news is this isn't actually new behavior, just better marketed, so if you've been lazy about your backups and access controls you're about to find out why your IT team won't stop nagging you about them.",
+    "date": "2026-07-05T06:36:22.754079+00:00"
   }
 ]

@@ -1,156 +1,111 @@
 {
-  "generated": "2026-07-04T06:15:24.747642+00:00",
+  "generated": "2026-07-05T06:36:22.754175+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "The only AI glossary you\u2019ll need this year",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "dwp_take": "TechCrunch published a glossary to help people decode the explosion of AI terminology flooding the tech world right now. Digital workplace pros need this because you're going to be fielding questions from executives, employees, and vendors who are throwing around terms like \"prompt engineering\" and \"retrieval augmented generation\" without actually understanding them. Honestly, having a solid glossary bookmarked is the difference between nodding confidently in meetings and getting caught pretending you know what anyone is talking about.",
-        "date": "2026-07-04T06:14:18.575613+00:00"
+        "excerpt": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "dwp_take": "Google just dropped a commercial imagining the Declaration of Independence written with Workspace tools instead of quill pens. It's a clever marketing play that positions collaboration software as essential to humanity's greatest moments. Look, I appreciate the creative audacity, but let's be honest: the Founding Fathers would probably still argue for three weeks, delete each other's edits, and end up with a document nobody actually read.",
+        "date": "2026-07-05T06:35:35.353956+00:00"
       },
       {
-        "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-        "dwp_take": "TechCrunch rounded up alternative browsers trying to dent Chrome and Safari's market dominance. For digital workplace folks, this matters because your browser choice directly impacts security, performance, and compatibility with your enterprise apps and collaboration tools. Look, if you're still defaulting to Chrome because IT said so in 2015, you're probably missing out on real improvements in privacy and speed that could actually make your workday less painful.",
-        "date": "2026-07-04T06:14:22.232683+00:00"
+        "excerpt": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "dwp_take": "Midjourney is demanding that Hollywood studios disclose their own AI usage as part of a legal battle over alleged unauthorized training data. This matters because it sets a precedent for transparency around generative AI practices, which will directly impact how organizations handle their own internal AI tools and compliance obligations. The irony here is delicious: an AI company basically saying \"show us yours\" to the studios suing them, which is exactly the kind of transparency workplace tech leaders should be demanding from their vendors anyway.",
+        "date": "2026-07-05T06:35:39.127324+00:00"
       },
       {
-        "title": "AI data center builder Crusoe reportedly raising $3B at $30B valuation",
-        "url": "https://siliconangle.com/2026/07/03/ai-data-center-builder-crusoe-reportedly-raising-3b-30b-valuation/",
-        "source": "SiliconAngle",
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Data center builder Crusoe Inc. is reportedly in talks to raise a $3 billion funding round. Bloomberg on Thursday cited sources as saying that the deal could value the company at $30 billion. That\u2019s a",
-        "dwp_take": "Crusoe Energy, an AI data center company, is raising $3 billion at a $30 billion valuation, tripling its worth in a year. This matters because digital workplace infrastructure is increasingly dependent on AI compute capacity, and massive capital flowing into data centers signals where corporate tech spending is heading next. Look, when a company triples in value faster than your inbox fills up, someone's betting big on the infrastructure powering all those \"AI-powered\" tools your boss won't stop talking about.",
-        "date": "2026-07-04T06:14:27.036089+00:00"
+        "excerpt": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "dwp_take": "Alibaba has prohibited its workforce from using Anthropic's Claude Code tool, citing security and risk concerns. This matters because it signals that even AI-forward tech companies are getting serious about controlling which generative AI tools touch their internal systems, which should prompt other organizations to audit their own AI policies instead of just letting people install whatever they want. The irony is thick: a company literally built on helping businesses go digital is now slamming the brakes on one specific digital tool, which tells you everything you need to know about how quickly boardrooms are shifting from \"AI yes\" to \"AI yes, but not that one.\"",
+        "date": "2026-07-05T06:35:43.934257+00:00"
       },
       {
-        "title": "Meta to release new AI model with advanced coding capabilities \u2018soon\u2019",
-        "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+        "title": "Luxonis raises $14M to develop the vision layer for intelligent automation",
+        "url": "https://siliconangle.com/2026/07/03/luxonis-raises-14m-develop-vision-layer-intelligent-automation/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company\u2019s chief AI officer, wrote on X today that the update wil",
-        "dwp_take": "Meta is dropping a new version of its Muse Spark AI model with better coding chops, supposedly competitive with OpenAI's GPT-5.5, though the actual release date remains mysteriously vague. For digital workplace pros, this matters because better coding AI means your organization will need to think harder about where automation ends and human judgment begins, especially in knowledge work. The fact that Meta's chief AI officer announced this on X instead of in an actual press release tells you everything you need to know about how chaotic the AI hype cycle has become.",
-        "date": "2026-07-04T06:14:31.373318+00:00"
+        "excerpt": "Denver-based Luxonis Holding Corp. announced Thursday it raised $14 million in early-stage funding to transform industrial automation with cameras and machine vision, providing a perception layer for ",
+        "dwp_take": "Luxonis just grabbed $14 million to build vision systems that let robots actually see what they're doing instead of just bumbling around like a Roomba in a dark room. For digital workplace folks, this matters because smarter automation means workflow processes that can adapt to real conditions instead of failing when someone leaves a chair in the wrong place. Here's the thing: we've been talking about intelligent automation for years, but vision systems that work are the unglamorous infrastructure that actually makes it happen, so boring but important.",
+        "date": "2026-07-05T06:35:48.361411+00:00"
       }
     ],
     "tools-tech": [
-      {
-        "title": "Meta reuses old RAM in new servers with custom bridge chip",
-        "url": "https://www.computerworld.com/article/4192829/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "With the cost of new RAM soaring, Meta has found a thrifty way to reuse older memory in newer servers. The performance of about 40% of Meta\u2019s millions of servers is limited by a lack of memory, the co",
-        "dwp_take": "Meta designed a custom bridge chip to reuse older RAM modules in newer servers instead of replacing them outright, solving a cost problem created by skyrocketing memory prices. For digital workplace teams managing infrastructure costs and sustainability, this matters because it shows how even massive tech companies are feeling the pinch on hardware budgets and finding creative solutions. Here's the thing: Meta basically admitted that 40 percent of their servers are memory-constrained, which is a fancy way of saying \"we've been buying servers that aren't quite right for the job\" - but hey, at least they're being honest about it and fixing the problem cheaply.",
-        "date": "2026-07-04T06:14:37.266518+00:00"
-      },
-      {
-        "title": "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
-        "url": "https://www.computerworld.com/article/4192802/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Adobe will now issue security patches for its products twice as often to deal with the increasing pace of software vulnerability discovery and exploitation. This follows Oracle\u2019s decision to increase ",
-        "dwp_take": "Adobe is adding a second Patch Tuesday on the fourth of each month to release security fixes faster, following Oracle's lead in moving to monthly patches. For digital workplace pros managing Adobe deployments across their organizations, this means twice as many update cycles to plan, test, and roll out without falling behind on security. The good news is that more frequent patches mean fewer vulnerabilities sitting around waiting to be exploited, which beats the alternative of quarterly updates by a country mile.",
-        "date": "2026-07-04T06:14:41.641206+00:00"
-      },
-      {
-        "title": "Meta\u2019s AI chief says new Muse Spark update will sharpen coding, agentic AI",
-        "url": "https://www.computerworld.com/article/4192733/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Meta is set to launch a new Muse Spark model with stronger coding and agentic capabilities, as Chief AI Officer Alexandr Wang touted the update as a step toward closing the gap with rival AI platforms",
-        "dwp_take": "Meta is rolling out a new Muse Spark update designed to improve coding and AI agent functionality to better compete with other leading AI platforms. For digital workplace professionals, this matters because coding assistance and autonomous AI agents are becoming core productivity tools, and better performance means fewer workarounds and less time spent correcting AI outputs. Honestly, it's refreshing to see Meta focus on actually making their tools work better instead of just announcing them, though we'll believe it when we see it deployed in real enterprise environments.",
-        "date": "2026-07-04T06:14:45.539369+00:00"
-      },
       {
         "title": "Jamf exec: The exploit isn\u2019t what gives attackers away",
         "url": "https://www.computerworld.com/article/4192336/jamf-exec-the-exploit-isnt-what-gives-attackers-away.html",
         "source": "Computerworld",
         "category": "tools-tech",
         "excerpt": "Jamf this week unveiled Beacon, a threat-hunting service that aims to provide dedicated, proactive detection and analysis of Mac threats. The new security tool relies on Jamf\u2019s Mac telemetry, which eq",
-        "dwp_take": "Jamf launched Beacon, a new threat-hunting service designed to detect Mac-specific attacks through advanced telemetry and behavioral analysis rather than just looking for known exploits. For digital workplace pros managing Apple environments, this matters because most security tools still focus on Windows, leaving Mac fleets vulnerable and under-monitored. Finally, someone's building security tools for the platform we all swore wouldn't need them.",
-        "date": "2026-07-04T06:14:49.249552+00:00"
+        "dwp_take": "Jamf launched Beacon, a new threat-hunting service designed to spot Mac threats through deep telemetry and behavioral analysis rather than waiting for exploit signatures to show up. This matters because most digital workplaces now run mixed Apple ecosystems, and traditional security tools often miss Mac-specific attacks that leave behavioral breadcrumbs. Finally, someone's saying the quiet part out loud: catching the attacker's weird activity beats playing whack-a-mole with exploit variants.",
+        "date": "2026-07-05T06:35:53.494958+00:00"
+      },
+      {
+        "title": "Microsoft 365 Copilot: Office meets genAI and agents",
+        "url": "https://www.computerworld.com/article/1629974/m365-copilot-microsofts-generative-ai-tool-explained.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "First launched in November 2023, Microsoft 365 Copilot brings a range of generative AI (genAI) features to Microsoft Office productivity apps, such as Word, Outlook, Teams, and Excel. With capabilitie",
+        "dwp_take": "Microsoft bundled generative AI features into its Office suite as a paid add-on, promising everything from meeting summaries to data analysis across Word, Outlook, Teams, and Excel. Digital workplace leaders need to understand this because Copilot adoption directly impacts how teams work, what skills matter, and whether your Microsoft investment justifies another subscription layer. After eighteen months of \"underwhelming\" performance, the real question isn't whether AI in Office is coming, it's whether your organization is ready to pay extra for features that might actually work this time.",
+        "date": "2026-07-05T06:35:57.368616+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "The career edge that no algorithm can take from you",
-        "url": "https://www.fastcompany.com/91568851/the-career-edge-that-no-algorithm-can-take-from-you?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Working through menopause symptoms? Try these tips",
+        "url": "https://www.fastcompany.com/91566765/working-through-menopause-symptoms-try-these-tips?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The narrative around artificial intelligence and work has followed a predictable arc: AI takes over tasks, humans lose jobs, and companies save money. It made intuitive sense. It also turns out to be ",
-        "dwp_take": "Here's my response:\n\nBig tech companies are scaling back their aggressive AI spending after realizing the efficiency gains aren't materializing as promised, and it turns out you can't just automate your way to a better business. This matters because digital workplace leaders have been under intense pressure to justify every tool purchase and every process redesign through an AI lens, when maybe the real work was just better communication and sensible workflows all along. After thirty years watching technology trends cycle through, I'm honestly relieved to see some humility returning. The best career insurance isn't learning to code or chase the latest algorithm, it's becoming someone people actually want to work with.",
-        "date": "2026-07-04T06:14:54.434031+00:00"
-      },
-      {
-        "title": "Panic isn\u2019t an AI strategy",
-        "url": "https://www.fastcompany.com/91568695/panic-isnt-an-ai-strategy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Most AI \u201cstrategy\u201d right now isn\u2019t strategy at all. It\u2019s a leadership response to panic. The suffocating, staring-at-the-ceiling-at-2am kind of panic that sets in when your board\u2019s watching, your ROI ",
-        "dwp_take": "Most companies are treating AI adoption as a panic-driven scramble rather than an actual strategic plan, according to new research showing executives are under intense pressure to deploy something, anything, fast. This matters because digital workplace leaders will inherit the mess when half-baked AI implementations collide with real user needs and actual workflows. Here's the thing: your board didn't care about email management until it became a buzzword either, and we all remember how that went.",
-        "date": "2026-07-04T06:14:58.413072+00:00"
-      },
-      {
-        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
-        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "category": "digital-culture",
-        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
-        "dwp_take": "Companies are now hiring chief productivity officers instead of traditional HR directors, betting that a tech and outcomes-focused role will better connect people strategy with business results. This matters because it signals how digital workplace tech is reshaping what leadership looks like, and whether your HR support comes from someone who gets systems thinking or just compliance boxes. Honestly, if your new CPO spends their first month trying to squeeze another 3 percent out of knowledge workers via monitoring software instead of fixing broken Slack workflows, you'll know this was just HR with a fancier title.",
-        "date": "2026-07-04T06:15:03.312229+00:00"
-      },
-      {
-        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
-        "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-        "dwp_take": "Cursor, the AI code editor, is getting bought by SpaceX and wants to keep offering models from competitors like OpenAI and Anthropic instead of locking users into Elon's ecosystem. This matters because it signals whether acquired tools will stay genuinely useful or become walled gardens, which affects what developers can actually rely on long term. Honestly, I'll believe \"we're staying neutral\" when I see it actually happen, because nothing says \"open platform\" quite like being owned by the guy who names his companies after memes.",
-        "date": "2026-07-04T06:15:07.852560+00:00"
+        "excerpt": "More than half of women say they\u2019re \u201cnot prepared at all\u201d for perimenopause or menopause\u2014yet most are already feeling the effects at work. According to recent data from InHerSight, a careers platform ",
+        "dwp_take": "Fast Company ran a piece about how most women aren't prepared for menopause symptoms hitting them at work, with three quarters experiencing regular disruption from brain fog, exhaustion, and hot flashes. This matters because digital workplace folks need to understand that employee wellness isn't just about yoga classes and mental health days, it's about designing work environments and policies that actually account for biological reality. Here's the thing though: we've known about this for decades, so if your company is still treating menopause like it's some surprise medical condition instead of a normal life event that needs real accommodation, you're just playing catch-up while your talented people suffer.",
+        "date": "2026-07-05T06:36:01.882605+00:00"
       }
     ],
     "industry-news": [
-      {
-        "title": "AI Agents Are Creating a New Enterprise Security Gap",
-        "url": "https://www.techrepublic.com/article/news-ai-agents-enterprise-security-gap/",
-        "source": "TechRepublic",
-        "category": "industry-news",
-        "excerpt": "Five independent security disclosures in a single week point to the same gap: AI agent permissions, not AI agent capabilities, are the problem enterprises haven't solved. The post AI Agents Are Creati",
-        "dwp_take": "AI agents got loose with way too many permissions across five different security breaches in one week, proving the real problem isn't what these things can do but what we're letting them do. This matters because if your AI agents have blanket access to systems and data, you're basically handing hackers a skeleton key wrapped in machine learning language. After three decades watching enterprise security failures, I can tell you this is the same mistake we made with service accounts back in the 2000s, except now the account logs are written in a language nobody fully understands.",
-        "date": "2026-07-04T06:15:12.312912+00:00"
-      },
-      {
-        "title": "Google Loses Final EU Appeal Over \u20ac4.1B Android Fine",
-        "url": "https://www.techrepublic.com/article/news-google-eu-android-appeal-emea/",
-        "source": "TechRepublic",
-        "category": "industry-news",
-        "excerpt": "Google lost its final EU appeal over a \u20ac4.1B Android fine, prompting renewed scrutiny of app defaults, search dominance, and rivals' access. The post Google Loses Final EU Appeal Over \u20ac4.1B Android Fi",
-        "dwp_take": "Google exhausted its last legal option to overturn a 4.1 billion euro fine for anticompetitive Android practices, meaning the company now has to pay up and change how it handles app defaults and search dominance in Europe. This matters because it signals regulators worldwide are serious about controlling how big tech companies lock users into their ecosystems, which directly affects the tools and integrations your organization depends on. The real takeaway is that if you've built your digital workplace strategy assuming Google's default dominance is permanent, you might want to start hedging your bets with alternative search and collaboration tools.",
-        "date": "2026-07-04T06:15:16.622246+00:00"
-      },
       {
         "title": "5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of AI Images",
         "url": "https://www.techrepublic.com/article/news-google-nano-banana-2-lite-ai-image-generation/",
         "source": "TechRepublic",
         "category": "industry-news",
         "excerpt": "Google\u2019s Nano Banana 2 Lite shows how faster, cheaper AI image generation could reshape creative workflows and business tools. The post 5 Things Google\u2019s Nano Banana 2 Lite Reveals About the Future of",
-        "dwp_take": "Google released Nano Banana 2 Lite, a faster and cheaper AI image generation tool that signals a shift toward more accessible generative AI for everyday workflows. Digital workplace folks need to pay attention because this means image generation could soon become as standard in your content creation pipeline as spell check, which changes how teams collaborate and produce assets. Honestly, if the barrier to entry keeps dropping, companies will finally stop using those terrible stock photos from 2007, which is worth the price of admission alone.",
-        "date": "2026-07-04T06:15:20.606147+00:00"
+        "dwp_take": "Google released Nano Banana 2 Lite, a lighter AI image generation model that trades some quality for speed and cost efficiency. This matters because digital workplace teams are constantly hunting for tools that don't require a PhD in prompt engineering or a second mortgage to run. Look, if we can finally get AI image tools that work fast enough to not make people take a coffee break every time they click generate, adoption rates might actually move beyond the early adopters and their demos.",
+        "date": "2026-07-05T06:36:08.172521+00:00"
       },
       {
-        "title": "AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-oversight-security-flaws-and-industry-shifts-define-this-week-in-tech/",
+        "title": "Meta Could Sell AI Compute Capacity as Infrastructure Costs Rise",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-compute-cloud-business/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from June 29\u2013July 2. The post AI Oversight, Security Flaws, and Industry Shifts Define This Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "This week's tech news covered AI governance questions, security vulnerabilities, and broader industry changes across the sector. Digital workplace pros need to pay attention because AI tools are landing in your collaboration platforms faster than your IT policies can keep up, and security gaps mean your organization's data is the prize in someone else's game. Here's the thing: every industry shift starts as a whisper in tech news before it becomes your Monday morning crisis, so staying informed beats being surprised.",
-        "date": "2026-07-04T06:15:24.747545+00:00"
+        "excerpt": "Meta is reportedly exploring a cloud business to sell excess AI compute, potentially offsetting data center costs and challenging neocloud providers. The post Meta Could Sell AI Compute Capacity as In",
+        "dwp_take": "Meta is looking to monetize its excess AI computing power by selling cloud capacity to other companies, essentially turning itself into a cloud infrastructure provider to help offset massive data center expenses. This matters to digital workplace pros because it could reshape how organizations source AI services and computing power, potentially giving them cheaper alternatives to traditional cloud providers. Honestly, it's a smart pivot for Meta, but I'd wait to see if they can actually deliver reliable infrastructure before moving your critical workloads there, because we all remember how their last few product launches went.",
+        "date": "2026-07-05T06:36:12.153344+00:00"
+      },
+      {
+        "title": "Why a Windows Hello PIN Beats a Password for Enterprise Security",
+        "url": "https://www.techrepublic.com/article/news-windows-hello-pin-security/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "As phishing campaigns, AI-driven identity attacks, and Windows migration planning raise authentication stakes, IT teams should recheck how Windows Hello PIN security works. The post Why a Windows Hell",
+        "dwp_take": "Windows Hello PIN authentication is getting a fresh look as an alternative to traditional passwords because it's resistant to phishing and AI-powered attacks that target weaker credential methods. For digital workplace pros managing security and user experience simultaneously, this matters because it's one of the few security upgrades that doesn't require users to memorize yet another impossible string of characters. Honestly, if we can finally kill the password, I'm here for it, though getting your entire organization to actually use Windows Hello will be the real battle.",
+        "date": "2026-07-05T06:36:18.237960+00:00"
+      },
+      {
+        "title": "Cyber experts issue alert after two ransomware groups team up on \u2018unprecedented\u2019 threat campaign",
+        "url": "https://www.itpro.com/security/ransomware/cyber-experts-issue-alert-after-two-ransomware-groups-team-up-on-unprecedented-threat-campaign",
+        "source": "ITPro",
+        "category": "industry-news",
+        "excerpt": "The tie-up includes a new model of industrialized ransomware deployment that significantly lowers the barrier to entry for cyber crime",
+        "dwp_take": "Two major ransomware groups are collaborating on a coordinated attack campaign using an industrialized model that makes ransomware easier for criminals to deploy. This matters because your digital workplace infrastructure is now a target for both organized cybercriminals and low-skill opportunists, meaning your security posture needs to assume everyone's coming at you. The good news is this isn't actually new behavior, just better marketed, so if you've been lazy about your backups and access controls you're about to find out why your IT team won't stop nagging you about them.",
+        "date": "2026-07-05T06:36:22.754079+00:00"
       }
     ]
   }
