@@ -1,74 +1,47 @@
 {
-  "generated": "2026-07-06T02:24:51.134224+00:00",
+  "generated": "2026-07-06T07:06:32.373656+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Alex Karp, frontier models and the real fight for Enterprise AI",
-        "url": "https://siliconangle.com/2026/07/05/alex-karp-frontier-models-real-fight-enterprise-ai/",
-        "source": "SiliconAngle",
+        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+        "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+        "source": "VentureBeat",
         "category": "ai-at-work",
-        "excerpt": "Palantir Technologies Inc. Chief Executive Alex Karp\u2019s recent broadside against the frontier model vendors put a knife to the throat of the central enterprise artificial intelligence debate. Karp\u2019s ar",
-        "dwp_take": "Alex Karp from Palantir is publicly arguing that big frontier AI model companies like OpenAI and Anthropic are essentially trying to extract proprietary knowledge from enterprises to build their own competitive advantages. This matters because digital workplace leaders are caught in the middle of this fight, trying to figure out which AI tools to adopt without accidentally becoming unpaid training data for someone else's moat. Karp's got a point about data risk, but let's be honest, companies were already trading their secrets for convenience long before AI showed up; this is just the same old song with a newer villain.",
-        "date": "2026-07-06T02:24:16.556976+00:00"
-      },
-      {
-        "title": "OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud",
-        "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
-        "source": "SiliconAngle",
-        "category": "ai-at-work",
-        "excerpt": "OpenAI reportedly has floated giving the U.S. government a 5% stake in the company, perhaps the start of a series of such stakes in other AI companies as well. This no doubt has traditional anti-indus",
-        "dwp_take": "OpenAI is reportedly offering the U.S. government a 5% stake in the company as part of what could become a broader government investment strategy in AI firms. This matters to digital workplace leaders because it signals regulatory uncertainty and potential government influence over the AI tools your organization might adopt or depend on. Honestly, watching tech companies court government stakes while claiming to be disruptive is like watching a teenager beg their parents to co-sign a loan for their \"independent business venture.\"",
-        "date": "2026-07-06T02:24:20.265561+00:00"
-      },
-      {
-        "title": "SoftBank unveils plans to enter the US neocloud business with SB Neo",
-        "url": "https://siliconangle.com/2026/07/02/softbank-unveils-plans-enter-u-s-neocloud-business-sb-neo/",
-        "source": "SiliconAngle",
-        "category": "ai-at-work",
-        "excerpt": "Japanese technology conglomerate Softbank Group Corp. and its telecommunications subsidiary SoftBank Corp. are planning to launch a new neocloud business in the U.S. that will rent access to artificia",
-        "dwp_take": "SoftBank is launching SB Neo to rent AI chip access to US businesses that need serious computing power. For digital workplace folks, this matters because AI infrastructure costs directly impact whether your organization can actually afford to roll out those AI tools everyone keeps hyping in meetings. Here's the thing: another player in the chip rental space is great for competition, but until these services get genuinely affordable and simple to integrate, most midmarket companies will still be stuck waiting on the sidelines.",
-        "date": "2026-07-06T02:24:25.419199+00:00"
+        "excerpt": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
+        "dwp_take": "Nous Research dropped NousCoder-14B, an open-source coding model trained in four days on 48 Nvidia chips that claims to match larger proprietary systems. This matters because it shows open-source AI coding tools are getting genuinely competitive with Claude and others, which means your organization has real alternatives to vendor lock-in. That said, four days of training on enterprise-grade hardware isn't exactly something you can replicate in your own basement, so \"open-source\" still requires meaningful resources to actually use.",
+        "date": "2026-07-06T07:06:15.739704+00:00"
       }
     ],
     "tools-tech": [],
     "digital-culture": [
       {
-        "title": "Stop asking employees to adopt AI",
-        "url": "https://www.fastcompany.com/91568873/stop-asking-employees-to-adopt-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Why AI is burning women out",
+        "url": "https://www.fastcompany.com/91568961/why-ai-is-burning-women-out?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Organizations are facing an urgent change management challenge. Leaders are convinced that artificial intelligence will transform their business, yet the people needed to carry that transformation for",
-        "dwp_take": "McKinsey found that employees are already using generative AI far more than their bosses think, but leaders are still pushing forced adoption programs like they're handing out gym memberships nobody asked for. This matters because digital workplace pros are about to waste budget and credibility on change management theater when the real problem is leadership visibility and trust, not adoption resistance. Here's the thing: your workforce isn't broken. Your measurement system is. Stop counting adoption metrics and start actually asking people what they're doing and why it works.",
-        "date": "2026-07-06T02:24:33.022619+00:00"
+        "excerpt": "Women spend twice as many hours per week as men on childcare and household work combined, and it starts before the alarm stops buzzing. A typical morning for me looks like waking the kids, discovering",
+        "dwp_take": "A new report shows women are shouldering disproportionate domestic labor loads while also being expected to adopt AI tools that promise efficiency but often just pile on more tasks. This matters because digital workplace leaders keep selling collaboration tools and automation as universal solutions without acknowledging that \"saving time\" doesn't help when you're already drowning in invisible work. Here's the truth: giving someone who manages a household, three kids, and a full-time job an AI assistant is like giving a drowning person a faster swimming stroke.",
+        "date": "2026-07-06T07:06:22.610274+00:00"
+      },
+      {
+        "title": "Working through menopause symptoms? Try these tips",
+        "url": "https://www.fastcompany.com/91566765/working-through-menopause-symptoms-try-these-tips?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "More than half of women say they\u2019re \u201cnot prepared at all\u201d for perimenopause or menopause\u2014yet most are already feeling the effects at work. According to recent data from InHerSight, a careers platform ",
+        "dwp_take": "Fast Company ran a piece highlighting that most working women feel unprepared for menopause despite three quarters experiencing symptoms that regularly impact their job performance. This matters because digital workplace leaders need to understand that a huge chunk of their workforce is dealing with a biological reality that nobody trained them for, yet they're still expected to show up and perform. The irony is thick: we've got wellness apps for everything, but somehow \"your brain is foggy because your hormones are doing backflips\" still doesn't make it into most company health conversations.",
+        "date": "2026-07-06T07:06:26.792023+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Agentic AI 'breaks the traditional SaaS seat licensing model' \u2013 now it\u2019s up to vendors to ditch 'legacy dashboards' and build with agents in mind",
-        "url": "https://www.itpro.com/software/agentic-ai-breaks-the-traditional-saas-seat-licensing-model-now-its-up-to-vendors-to-ditch-legacy-dashboards-and-build-with-agents-in-mind",
+        "title": "The Logitech Signature Comfort Plus Combo MK880 is a keyboard and mouse set that takes the edge off \u2013 offering a softer way of working at home or in the office",
+        "url": "https://www.itpro.com/hardware/desktops/the-logitech-signature-comfort-plus-combo-mk880-is-a-keyboard-and-mouse-set-that-takes-the-edge-off-offering-a-softer-way-of-working-at-home-or-in-the-office",
         "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Incumbent software vendors will need to work harder than ever to compete with agile, AI-focused disruptors",
-        "dwp_take": "Agentic AI is fundamentally changing how software gets priced and used, moving away from the traditional per-user licensing model that's been the cash cow for SaaS vendors for twenty years. This matters because digital workplace leaders need to understand that their budget models, procurement strategies, and vendor negotiations are about to get turned inside out by AI agents that do work without needing a human \"seat.\" The irony is that vendors built these legacy dashboards for humans to click on, and now they're scrambling to figure out how to charge for software that works while nobody's watching.",
-        "date": "2026-07-06T02:24:41.865038+00:00"
-      },
-      {
-        "title": "The Balance Phone helped me reclaim my attention span \u2013 but I would rather have a better handset than the Samsung A16",
-        "url": "https://www.itpro.com/hardware/mobile-phones/the-balance-phone-helped-me-claim-back-my-attention-span-but-i-would-rather-have-a-better-handset-than-the-samsung-a16",
-        "source": "ITPro",
-        "category": "industry-news",
-        "excerpt": "Blocks on social media, streaming, and infinite scrolling through a stylish user interface that sits on top of Android",
-        "dwp_take": "Someone built a software layer on top of Android that blocks social media and streaming apps to help users focus, and apparently it works, but the reviewer would prefer Samsung just made a better phone instead. This matters because it highlights the gap between what employees actually need (devices that don't destroy their productivity) and what manufacturers keep shipping them. Here's the thing though: if Samsung won't build focus into their phones as a standard feature, a third-party solution beats nothing, even if it feels like we're asking someone to invent a cup holder because car makers refuse to include one.",
-        "date": "2026-07-06T02:24:46.236216+00:00"
-      },
-      {
-        "title": "Zoom exec on making sure we lead the change we want to see",
-        "url": "https://www.itpro.com/business/leadership/zoom-exec-on-making-sure-we-lead-the-change-we-want-to-see",
-        "source": "ITPro",
-        "category": "industry-news",
-        "excerpt": "\u201cSome people think diversity is the responsibility of people and HR teams. And it's not.\u201d",
-        "dwp_take": "Zoom's leadership is making noise about diversity being a company-wide responsibility rather than dumping it on HR to solve alone. This matters because digital workplace leaders actually control the tools, policies, and cultural norms that either enable or block inclusive work environments, so they can't punt this to HR and call it done. Honestly, it's refreshing to hear a tech exec acknowledge that diversity isn't a checkbox or a department\u2014it's baked into how you actually design and run the workplace.",
-        "date": "2026-07-06T02:24:50.383823+00:00"
+        "excerpt": "With a laser focus on ergonomics and comfort, this plug-and-play keyboard and mouse set means there's no need to choose between work or pleasure",
+        "dwp_take": "With a laser focus on ergonomics and comfort, this plug-and-play keyboard and mouse set means there's no need to choose between work or pleasure",
+        "date": "2026-07-06T07:06:31.498086+00:00"
       }
     ]
   }
