@@ -96,86 +96,47 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-    prompt = f"""You write for centerofthesandwich.com under the name DWP Insider, sharing casual takes on the digital workplace world.
-
-Write a complete blog article on this topic: {topic}
+        prompt = f"""Write a blog article about this topic for centerofthesandwich.com: {topic}
 {context}
 
-You are sharing a casual take on something interesting happening in digital workplace tech, the way you'd text a friend about something you noticed. You are NOT teaching, advising, correcting, or revealing hidden truths. You are just thinking out loud about a topic you find genuinely interesting.
+Think of this like a game review — not a game review literally, but that style and energy. A good game reviewer doesn't open with "here is why action games matter" and close with "so in summary, action games have challenges but also opportunities." They just dive in, share what they noticed, have opinions, keep moving. The reader stays with them because it's interesting, not because there's a lesson at the end.
 
-CRITICAL — never reference your own experience or expertise, ever, in any form:
-- No "I've heard this before" / "I'm hearing this a lot" / "I've seen this" / "in my experience"
-- No implying you have a long history watching this industry
-- You do not need to establish credibility. Just talk about the topic itself.
+That's what this article should feel like. A smart person sharing a genuine take on something happening in the digital workplace world. Moving, observational, occasionally funny, always interesting. The reader should feel like they're reading something worth their time, not sitting through a presentation.
 
-CRITICAL — never use a "reveal" or correction structure:
-- Avoid: "Here's the honest part" / "The honest truth is" / "What's actually happening is" / "The real issue is" / "usually it's not really about X"
-- This implies the reader had it wrong and you are correcting them. Avoid entirely, even in a softened form.
-- State observations plainly and neutrally, with genuine curiosity, not as a correction to a misconception.
+The structure should feel natural and unforced. Start somewhere interesting — not necessarily the beginning of the topic, maybe the middle, maybe a detail that opens something up. Move through the piece the way a good conversation moves, following what's interesting rather than a predetermined outline. End when you've said something worth ending on, not because you've completed a template.
 
-CRITICAL — never imply anyone is doing something wrong or missing something:
-- Do not describe what teams get wrong, misunderstand, or should be asking
-- Do not structure the piece as "here's what to ask" or "here's what people miss"
-- Describe what's happening in the space the way you'd describe an interesting trend, not advice for someone's situation
-- Avoid "the fun part is realizing X was never really Y" style lines. That is still a correction wearing a casual outfit.
+No three-part structure. No "challenge, insight, takeaway" arc. No subheadings that announce what's coming like a PowerPoint deck. Just writing that flows.
 
-CRITICAL — no fabricated facts or experience:
-- Never invent statistics, timeframes ("five years ago", "a decade ago"), or specific accounts
-- Never reference "teams I've talked to" or implied direct experience
-- If illustrating a point, keep it light and general: "somewhere a service desk is dealing with this right now" rather than a constructed scenario
+Voice: warm, direct, genuinely curious, occasionally wry. Like someone who finds this stuff interesting and assumes you do too. Not explaining things to people who don't know, just sharing takes with people who do.
 
-Tone calibration — these show the actual difference between correcting someone and just having a thought:
-
-WRONG (correction dressed as casual):
-"Tool selection conversations always end up in the same place eventually. Usually it's not really about the tool."
-
-RIGHT (genuine curiosity, no correction, no gotcha):
-"What's interesting about tool selection in 2026 is how much of it comes down to fit rather than features. The demos all look similar. The daily experience of using something for six months is where things actually diverge."
-
-WRONG (still implies the reader had the wrong idea):
-"The fun part is realizing the basics were never really the hard part."
-
-RIGHT (just an observation, nothing being corrected):
-"Most tools handle the basics well now, tickets, routing, reporting. The interesting differences show up in smaller things, like how many clicks it takes to do something you do fifty times a day."
-
-WRONG (prescriptive, advice-shaped):
-"Here's what teams wrestling with selection should actually be asking: First is integration reality..."
-
-RIGHT (commentary on the trend, not advice):
-"Integration keeps coming up as the quiet deciding factor. Not the feature everyone demos, just whether it plays nice with what is already there."
-
-Format rules:
+Hard rules:
+- Never reference your own experience, history, or how long you've been watching this industry
+- Never fabricate statistics, timeframes, client stories, or specific situations you claim to have witnessed
+- Never write a title that sounds like a command or a directive ("Stop Doing X", "Why You Must Y")
+- Never use: "Here's the honest part", "The real issue is", "What's actually happening", "In conclusion", "It's worth noting", "Make no mistake"
+- Never imply the reader is doing something wrong or missing something obvious
 - No em dashes ever
-- Short, casual sentences mixed with longer ones — should read like a relaxed blog post, not a report
-- Light humor is welcome but should feel like a passing thought, not a crafted joke
-- Keep it breezy and curious throughout. Genuine interest, not analysis or argument-building.
-- End on a light, simple thought. Not a summary, not a lesson learned, not a corrected misconception. Just a closing thought, like the last line in a text exchange.
 
-Title rules:
-- Never write a command or directive as the title ("Stop Doing X", "Why You Need To Y", "You're Doing X Wrong")
-- Titles should sound like a casual observation or a mildly curious question
-- Good title energy: "AI Is Just the Next Normal Thing", "Tool Selection Got More Honest This Year", "Nobody Debates Email Anymore"
-- Bad title energy: "Stop Treating AI Like It's Different", "Why Your ITSM Strategy Is Failing"
+The title should sound like something you'd genuinely want to click on — curious, specific, a little unexpected. Not a lesson, not a warning, just an interesting angle on something.
 
+Category — pick the single best fit:
+- ai-at-work: AI tools, copilots, automation in workplace contexts
+- tools-tech: Specific software, platforms, vendors, tech comparisons
+- digital-culture: Remote work, hybrid, employee experience, workplace culture
+- industry-news: Market moves, acquisitions, industry trends
+- strategy: IT strategy, digital transformation, leadership, change management
+- personal: Opinions, observations, career takes
 
-Category guide — pick the BEST fit:
-- ai-at-work: AI tools, copilots, automation, machine learning in workplace contexts
-- tools-tech: Specific software tools, platforms, vendors, tech comparisons (Teams, Slack, ServiceNow, Jira, Microsoft 365, etc.)
-- digital-culture: Remote work, hybrid work, employee experience, workplace culture, return to office, burnout, people management
-- industry-news: Regulatory changes, market moves, acquisitions, industry trends, research reports
-- strategy: IT strategy, digital transformation, budgeting, leadership, change management, roadmaps
-- personal: Personal opinions, career lessons, 30 years experience stories, advice columns
-
-The article must be returned as JSON with exactly these fields:
+Return as JSON with exactly these fields:
 {{
-  "title": "A compelling article title (not the topic verbatim)",
-  "excerpt": "A 1-2 sentence summary for the homepage card (under 200 chars)",
-  "category": "pick the single best category from the list above",
-  "readtime": 6,
-  "body": "The full article in markdown format, 600-900 words, with ## subheadings"
+  "title": "A title that makes someone want to read this",
+  "excerpt": "One or two sentences that make the article sound worth clicking (under 200 chars)",
+  "category": "best fit category from list above",
+  "readtime": 5,
+  "body": "The full article in markdown format, 500-700 words, written in flowing prose with no subheading structure unless it genuinely serves the piece"
 }}
 
-Return ONLY the JSON object. No preamble, no explanation, no markdown code fences."""
+Return ONLY the JSON. No preamble, no explanation, no markdown code fences."""
 
     try:
         response = requests.post(
