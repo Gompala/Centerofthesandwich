@@ -1,129 +1,92 @@
 {
-  "generated": "2026-07-07T14:02:43.914653+00:00",
+  "generated": "2026-07-07T14:52:32.947841+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Tangos grabs $20M in funding to take on the bad guys by automating financial crime investigations",
-        "url": "https://siliconangle.com/2026/07/07/tangos-grabs-20m-funding-take-bad-guys-automating-financial-crime-investigations/",
-        "source": "SiliconAngle",
+        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "source": "VentureBeat",
         "category": "ai-at-work",
-        "excerpt": "Tangos AI Inc., a startup that uses artificial intelligence to conduct financial crime investigations at unprecedented scale, said today it has closed on $20 million in seed funding. The round was led",
-        "dwp_take": "Tangos AI just raised twenty million dollars to automate financial crime investigations using AI, with backing from a solid roster of venture firms. This matters because compliance and risk teams are drowning in manual investigation work, and if this actually delivers on automation at scale, it could free up a lot of skilled people to do actual detective work instead of data entry. That said, I'll believe the \"unprecedented scale\" claims when I see them actually deployed in a real enterprise environment, not just in a pitch deck.",
-        "date": "2026-07-07T14:01:48.194193+00:00"
+        "excerpt": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe",
+        "dwp_take": "Salesforce rebuilt Slackbot from a basic notification tool into a full AI agent that can search data, draft documents, and execute tasks for employees. This matters because workplace AI assistants are becoming table stakes, and how well they integrate with your actual work determines whether people use them or ignore them. The real test isn't the flashy demo in the earnings call, it's whether your Slack users will actually trust it to do something without checking their work first.",
+        "date": "2026-07-07T14:51:54.881022+00:00"
       },
       {
-        "title": "\u2018GitLost\u2019 vulnerability let GitHub\u2019s AI workflows leak private repositories",
-        "url": "https://siliconangle.com/2026/07/07/gitlost-vulnerability-let-githubs-ai-workflows-leak-private-repositories/",
+        "title": "Radware adds Claude Code protection and compliance reporting to agent security",
+        "url": "https://siliconangle.com/2026/07/07/radware-adds-claude-code-protection-compliance-reporting-agent-security/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Researchers at artificial intelligence security company Noma Security Inc. today disclosed a critical prompt injection vulnerability in GitHub Inc.\u2019s new Agentic Workflows feature that allowed an unau",
-        "dwp_take": "GitHub's new AI workflow feature had a critical flaw that let attackers steal private code by posting a rigged issue in a public repository, which GitHub has now patched. This matters because many organizations are rushing AI tools into their dev workflows without thinking through the security implications, and this is exactly the kind of mess that happens when speed beats caution. After three decades watching tech teams, I'll say it plain: just because your shiny new AI can do something doesn't mean it should do it unsupervised with access to your crown jewels.",
-        "date": "2026-07-07T14:01:52.946039+00:00"
+        "excerpt": "Application and network security company Radware Ltd. today expanded its Agentic AI Protection product with compliance reporting, deeper visibility into artificial intelligence agent activity, and new",
+        "dwp_take": "Radware beefed up its AI agent security platform with better compliance reporting, visibility into agent behavior, and specific protection for Claude Code running on developer machines. This matters because enterprises are actually deploying AI agents into production now, which means security teams need real tools instead of theoretical frameworks. Honestly, it's refreshing to see vendors shipping practical features for problems that actually exist rather than solving for AI scenarios that exist only in PowerPoint decks.",
+        "date": "2026-07-07T14:52:00.364708+00:00"
       },
       {
-        "title": "Picus Security launches autonomous platform to validate exposures in one loop",
-        "url": "https://siliconangle.com/2026/07/07/picus-security-launches-autonomous-platform-validate-exposures-one-loop/",
+        "title": "IBM debuts compact z17 mainframes and LinuxONE servers for on-premises enterprise AI",
+        "url": "https://siliconangle.com/2026/07/07/ibm-debuts-compact-z17-mainframes-linuxone-servers-premises-enterprise-ai/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Cybersecurity validation startup Picus Security Inc. today launched the Picus Autonomous Exposure Validation Platform, a system that merges breach and attack simulation, autonomous penetration testing",
-        "dwp_take": "Picus Security bundled breach simulation, penetration testing, and exposure validation into one automated platform so security teams can answer faster whether a new vulnerability actually threatens their environment. This matters because digital workplace pros are tired of security theater where vulnerabilities get flagged but nobody knows if they're real problems or false alarms. Finally, a tool that lets security teams stop playing guessing games and start giving straight answers to the one question that actually keeps executives awake at night.",
-        "date": "2026-07-07T14:01:56.937937+00:00"
+        "excerpt": "IBM Corp. today announced a massive expansion of its on-premises enterprise infrastructure lineup, with new single-frame and rack-mount versions of its iconic z17 mainframes and more compact LinuxONE ",
+        "dwp_take": "IBM just rolled out smaller, more affordable versions of its mainframes and Linux servers so enterprises can run AI workloads on their own hardware instead of renting cloud capacity. This matters because it gives organizations real options for keeping sensitive data in-house while handling compute-heavy AI tasks, which beats the cloud-only religion some vendors preach. Look, mainframes aren't sexy, but they're reliable workhorses that enterprises actually trust with their money, so IBM smartly making them more accessible for AI is honestly good news for companies tired of cloud lock-in.",
+        "date": "2026-07-07T14:52:04.604422+00:00"
       },
       {
-        "title": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes",
-        "url": "https://siliconangle.com/2026/07/07/assail-launches-sidewinder-offensive-security-ai-fixes-mistakes/",
+        "title": "Syntiant, which makes low-power chips for on-device AI, files for initial public offering",
+        "url": "https://siliconangle.com/2026/07/06/syntiant-makes-low-power-chips-device-ai-files-initial-public-offering/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Autonomous security company Assail Inc. today launched Sidewinder, a rebuilt version of its Ares offensive security platform that runs on a new 31 billion-parameter model designed to audit its own fin",
-        "dwp_take": "Assail released Sidewinder, an AI security tool that can identify vulnerabilities and fix them automatically without waiting for human approval. This matters because digital workplace teams are perpetually understaffed and overwhelmed, so autonomous security fixes could actually free people up to do real work instead of playing whack-a-mole with patch management. That said, I've seen plenty of \"self-fixing\" systems create new problems faster than they solve old ones, so let's see if this one actually works before we pop the champagne.",
-        "date": "2026-07-07T14:02:00.799736+00:00"
+        "excerpt": "A chipmaker called Syntiant Corp. that specializes in making low-powered processors that run artificial intelligence locally on devices has filed to go public. The company filed its initial public off",
+        "dwp_take": "Syntiant, a chipmaker focused on low-power processors that run AI directly on devices rather than in the cloud, filed for its IPO today to capitalize on investor hunger for AI plays. This matters because on-device AI means faster processing, better privacy, and reduced reliance on cloud infrastructure, which could reshape how workplace apps handle sensitive data and real-time intelligence. Finally, after three decades watching tech cycles, I'll believe the privacy benefits when I see them actually implemented instead of just marketed.",
+        "date": "2026-07-07T14:52:08.478693+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I tested 3 wireless chargers to see which keeps my phones cool - what I learned surprised me",
-        "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-        "dwp_take": "ZDNet tested three wireless charging stands with cooling technology to see which one actually prevents heat buildup during charging. This matters because workplace tech managers are increasingly equipping offices with charging stations, and thermal management directly impacts device lifespan and user experience in shared spaces. Here's the thing though: most offices still haven't figured out basic cable management, so worrying about which fancy charger keeps phones coolest feels like putting air conditioning in a building with open windows.",
-        "date": "2026-07-07T14:02:05.527679+00:00"
-      },
-      {
-        "title": "Envirotech Vehicles Closes Merger with Azio AI Ahead of Schedule, Positioning Combined Company to Capture $487 Billion 2026 AI Infrastructure Opportunity",
-        "url": "https://www.computerworld.com/article/4193810/envirotech-vehicles-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity-3.html",
+        "title": "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
+        "url": "https://www.computerworld.com/article/4192802/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Revised transaction structure enables immediate closing, accelerating the Company\u2019s strategic pivot toward AI data centers, enterprise GPU compute, and digital power infrastructure. Envirotech Vehicle",
-        "dwp_take": "Envirotech Vehicles closed its merger with Azio AI ahead of schedule to position itself in the AI infrastructure market, targeting a projected 487 billion dollar opportunity in 2026. For digital workplace pros, this matters because infrastructure consolidation directly affects how organizations will deploy AI tools, manage compute resources, and build out the backend systems that power workplace applications. That said, watch carefully: a vehicle company pivoting to AI data centers is exactly the kind of \"we're pivoting to AI\" move that looks great on a press release but often crashes when reality meets execution.",
-        "date": "2026-07-07T14:02:10.903902+00:00"
-      },
-      {
-        "title": "Talk, talk, talk: The rise of AI dictation tools at work",
-        "url": "https://www.computerworld.com/article/4193378/talk-talk-talk-the-rise-of-ai-dictation-tools-at-work.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "For workers who routinely spend hours a day interacting with various AI assistants, banging out prompts on a keyboard can quickly become a chore. \u201cWhether it\u2019s a coding task, helping write a document ",
-        "dwp_take": "AI dictation tools are becoming standard issue for knowledge workers drowning in typing, particularly those heavy users hammering out prompts to AI assistants all day. This matters because dictation efficiency directly impacts productivity and RSI prevention, meaning your IT team needs to evaluate which tools play nice with your existing stack and security policies. Here's the thing though: we've been promised voice-to-text salvation for twenty years, and it keeps flopping until the underlying tech actually gets good, so let's pump the brakes on declaring this the end of the keyboard before we see real adoption numbers.",
-        "date": "2026-07-07T14:02:15.996050+00:00"
+        "excerpt": "Adobe will now issue security patches for its products twice as often to deal with the increasing pace of software vulnerability discovery and exploitation. This follows Oracle\u2019s decision to increase ",
+        "dwp_take": "Adobe is adding a second Patch Tuesday on the fourth of each month to speed up security fixes alongside their existing second Tuesday schedule. This matters because digital workplace managers already juggle multiple vendor patch calendars, and adding more patch days means more testing cycles and deployment windows to manage across your organization. Look, I get why vendors need to move faster on security, but this is going to turn your IT team's calendar into a patchwork quilt that nobody asked for.",
+        "date": "2026-07-07T14:52:14.263063+00:00"
       }
     ],
-    "digital-culture": [
-      {
-        "title": "Are managers becoming obsolete\u2014or more important than ever?",
-        "url": "https://www.fastcompany.com/91559339/are-managers-becoming-obsolete-or-more-important-than-ever-leadership-middle-management-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "The rise of artificial intelligence and shifting workplace dynamics like flatter organizational structures have sparked intense debate about the future role of managers. Eight industry experts weigh i",
-        "dwp_take": "Managers are caught in that classic corporate squeeze where AI is doing their analysis work while flatter structures strip away their authority, leaving everyone arguing about whether they're headed for extinction or evolution. This matters because your organization's entire communication strategy, knowledge management system, and employee engagement programs all collapse without clarity on what managers actually do anymore. Here's the thing though: managers aren't becoming obsolete, they're just finally being forced to justify their existence beyond scheduling meetings and approving timesheets.",
-        "date": "2026-07-07T14:02:20.626592+00:00"
-      },
-      {
-        "title": "Oscar Health\u2019s Mark Bertolini on making \u2018healthcare work for all\u2019",
-        "url": "https://www.fastcompany.com/91567403/oscar-healths-mark-bertolini-on-making-healthcare-work-for-all?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-        "dwp_take": "Oscar Health's CEO Mark Bertolini talked to Fast Company about making healthcare accessible to everyone, focusing on inclusive leadership and business practices. This matters to digital workplace folks because healthcare companies are increasingly digitizing their operations and internal cultures need to actually match the inclusive values they're selling to customers. Here's the thing: it's easy to write a mission statement about inclusion, but keeping it real when you're scaling fast is where most companies trip over their own feet.",
-        "date": "2026-07-07T14:02:25.158093+00:00"
-      }
-    ],
+    "digital-culture": [],
     "industry-news": [
       {
-        "title": "Your Data, Always Within Reach \u2013 2TB of Lifetime Cloud Storage Is $59",
-        "url": "https://www.techrepublic.com/article/filejump-cloud-storage-lifetime-subscription/",
+        "title": "4 Best Business Credit Cards for Balance Transfer in 2026",
+        "url": "https://www.techrepublic.com/article/best-balance-transfer-cards/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Say goodbye to recurring fees and complicated systems with FileJump\u2019s straightforward and secure cloud storage platform \u2014 with lifetime access to your files. The post Your Data, Always Within Reach \u2013 ",
-        "dwp_take": "FileJump is pitching lifetime cloud storage with 2TB capacity for a one-time $59 payment instead of the monthly subscription model most providers use. For workplace IT folks managing storage sprawl and budget cycles, a permanent license eliminates the \"will this service exist next year\" anxiety that plagues SaaS decisions. Honestly, the real question isn't whether 2TB is enough storage in 2024, but whether any startup promising \"lifetime\" support is still around in 2034.",
-        "date": "2026-07-07T14:02:30.255351+00:00"
+        "excerpt": "Pay down business debt faster with the best balance transfer business credit cards for 2026. Compare top picks by offers, fees, and cash-back rewards to find the right card for your business. The post",
+        "dwp_take": "TechRepublic published a roundup of four business credit cards offering balance transfer options for 2026, comparing offers, fees, and rewards. For digital workplace professionals managing company finances or side projects, understanding your payment options matters when cash flow gets tight. Honestly though, if your workplace is healthy, you shouldn't need a balance transfer card in the first place\u2014that's usually a sign something's broken upstream.",
+        "date": "2026-07-07T14:52:19.358686+00:00"
       },
       {
-        "title": "Pony.ai Opens Singapore Robotaxi Service to Zig App Booking",
-        "url": "https://www.techrepublic.com/article/news-pony-ai-robotaxi-apac-singapore/",
+        "title": "Singapore\u2019s Shift to Passkeys Reveals a Password Problem",
+        "url": "https://www.techrepublic.com/article/passkey-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Pony.ai and ComfortDelGro opened public Zig app booking for an autonomous mobility service in Singapore\u2019s Punggol district, giving APAC transport and enterprise technology leaders a closer look at reg",
-        "dwp_take": "Pony.ai launched a public robotaxi service in Singapore through the Zig app, letting regular people book autonomous rides in the Punggol district. For digital workplace pros, this matters because autonomous mobility is becoming real infrastructure that affects commute patterns, office location strategy, and how teams coordinate physical presence. Honestly, the real win here isn't the robot car, it's that Singapore proved you can actually regulate this stuff without it turning into a legal nightmare like most Western cities managed.",
-        "date": "2026-07-07T14:02:34.295101+00:00"
+        "excerpt": "Singapore's rollout of passkeys for Singpass signals a critical shift in digital identity. This article explores how device-bound authentication, such as Windows Hello for Business, helps Singaporean ",
+        "dwp_take": "Singapore is rolling out passkeys through Singpass, moving away from traditional passwords toward device-bound authentication like Windows Hello for Business. This matters because most organizations still rely on passwords that employees reuse, forget, and share, making them a constant security headache for anyone managing digital workplaces. Honestly, it's refreshing to see a government actually doing something about passwords instead of just asking people to use more exclamation marks and numbers, which has never worked on anyone except the IT person writing the policy.",
+        "date": "2026-07-07T14:52:24.093051+00:00"
       },
       {
-        "title": "Unlock 27 Mac Apps for Productivity, Design, and Dev Work for $29.99",
-        "url": "https://www.techrepublic.com/article/27-app-lifetime-mac-bundle/",
-        "source": "TechRepublic",
+        "title": "The hidden cost of AI support: Why MSPs still struggle with escalation and repeated diagnosis",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/the-hidden-cost-of-ai-support-why-msps-still-struggle-with-escalation-and-repeated-diagnosis",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "This $30 Mac bundle gives you 27 apps for productivity, design, and more \u2014 used across home and business. The post Unlock 27 Mac Apps for Productivity, Design, and Dev Work for $29.99 appeared first o",
-        "dwp_take": "Someone's selling a bundle of 27 Mac applications for thirty bucks, covering productivity, design, and development work. For digital workplace folks evaluating tools and licensing costs, this kind of bundled pricing raises real questions about how you actually build a coherent tech stack versus just accumulating software. Here's the thing though: cheaper isn't better when you end up with 27 apps nobody uses because they don't integrate with anything your team actually relies on.",
-        "date": "2026-07-07T14:02:38.283090+00:00"
+        "excerpt": "Why MSP service desks still struggle despite growing investments in AI automation",
+        "dwp_take": "Microsoft and other vendors have been selling AI-powered support tools that promise to cut costs and speed up ticket resolution, but managed service providers are finding that AI actually struggles with escalation handoffs and keeps re-diagnosing the same problems instead of learning from previous tickets. This matters because digital workplace teams rely on MSPs to keep their infrastructure running, and when support gets stuck in an AI loop doing the same troubleshooting twice, it tanks productivity and burns through those cost savings everyone promised. After three decades watching tech solve problems by creating new ones, I can tell you this is basically what happens when vendors optimize for the demo instead of the actual job.",
+        "date": "2026-07-07T14:52:28.767076+00:00"
       },
       {
-        "title": "Get Portable Power and 16GB RAM With This Dell Refurb for $250",
-        "url": "https://www.techrepublic.com/article/dell-latitude-7300-refurbished/",
-        "source": "TechRepublic",
+        "title": "Workday expands EMEA VAR ecosystem with HR Path UK&I partnership",
+        "url": "https://www.itpro.com/business/business-strategy/workday-expands-emea-var-ecosystem-with-hr-path-uk-and-i-partnership",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "This Dell Latitude 7300 offers dependable performance for pros who need a portable everyday work machine. The post Get Portable Power and 16GB RAM With This Dell Refurb for $250 appeared first on Tech",
-        "dwp_take": "TechRepublic is promoting a refurbished Dell Latitude 7300 with 16GB RAM as a budget option for mobile workers at $250. For anyone managing device fleets or trying to stretch IT budgets, refurbished enterprise laptops with solid specs are genuinely useful alternatives to new hardware that costs three times as much. I'd just verify the battery health before buying, because nothing kills productivity faster than a machine that dies at 2pm and won't make it to the coffee shop outlet.",
-        "date": "2026-07-07T14:02:43.914478+00:00"
+        "excerpt": "The partnership will see HR Path directly sell Workday solutions to SMBs across Scotland and Ireland",
+        "dwp_take": "Workday just handed its UK and Ireland small business market to HR Path as an official reseller partner. This matters because it signals where enterprise software vendors see actual growth potential: the overlooked SMB segment that's been stuck using spreadsheets and prayer for HR operations. Look, if Workday is betting real money that SMBs in Scotland and Ireland need proper HR software, someone finally noticed that not every company has 50,000 employees, which I suppose counts as progress in enterprise tech.",
+        "date": "2026-07-07T14:52:32.947738+00:00"
       }
     ]
   }
