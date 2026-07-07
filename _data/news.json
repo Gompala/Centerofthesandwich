@@ -1,47 +1,138 @@
 {
-  "generated": "2026-07-06T07:06:32.373656+00:00",
+  "generated": "2026-07-07T06:41:43.611565+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-        "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-        "source": "VentureBeat",
+        "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
-        "dwp_take": "Nous Research dropped NousCoder-14B, an open-source coding model trained in four days on 48 Nvidia chips that claims to match larger proprietary systems. This matters because it shows open-source AI coding tools are getting genuinely competitive with Claude and others, which means your organization has real alternatives to vendor lock-in. That said, four days of training on enterprise-grade hardware isn't exactly something you can replicate in your own basement, so \"open-source\" still requires meaningful resources to actually use.",
-        "date": "2026-07-06T07:06:15.739704+00:00"
-      }
-    ],
-    "tools-tech": [],
-    "digital-culture": [
-      {
-        "title": "Why AI is burning women out",
-        "url": "https://www.fastcompany.com/91568961/why-ai-is-burning-women-out?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Women spend twice as many hours per week as men on childcare and household work combined, and it starts before the alarm stops buzzing. A typical morning for me looks like waking the kids, discovering",
-        "dwp_take": "A new report shows women are shouldering disproportionate domestic labor loads while also being expected to adopt AI tools that promise efficiency but often just pile on more tasks. This matters because digital workplace leaders keep selling collaboration tools and automation as universal solutions without acknowledging that \"saving time\" doesn't help when you're already drowning in invisible work. Here's the truth: giving someone who manages a household, three kids, and a full-time job an AI assistant is like giving a drowning person a faster swimming stroke.",
-        "date": "2026-07-06T07:06:22.610274+00:00"
+        "excerpt": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+        "dwp_take": "A so-called AI-run ransomware attack still required humans to do the actual hard work of victim selection, infrastructure setup, and credential theft. This matters because it reveals how the media loves a \"robots gone rogue\" story while missing the real threat: AI automating grunt work for criminals who still need to think strategically. After 30 years in this space, I can tell you the scariest cybercrime isn't the one where AI does everything\u2014it's where criminals get smarter about what they let AI handle.",
+        "date": "2026-07-07T06:40:45.577341+00:00"
       },
       {
-        "title": "Working through menopause symptoms? Try these tips",
-        "url": "https://www.fastcompany.com/91566765/working-through-menopause-symptoms-try-these-tips?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Every major tech layoff in 2026 that has name-checked AI",
+        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "dwp_take": "Tech companies continue laying off staff while citing AI as the reason, with major players across the industry making cuts throughout 2026. For digital workplace leaders, this matters because it signals where corporate priorities are shifting and what skills will actually be valued going forward, which directly affects hiring, training, and internal mobility strategies. Here's the thing though: blaming AI for layoffs is the new way to make cuts sound inevitable rather than chosen, which is convenient for executives but tells employees nothing about what the company actually wants them to become.",
+        "date": "2026-07-07T06:40:49.885919+00:00"
+      },
+      {
+        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+        "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
+        "dwp_take": "Microsoft just cut 4,800 people, roughly 2.1% of their workforce, with Xbox and commercial sales taking the heaviest hits. For those of us managing digital workplace strategy, this is a reminder that no division is immune to restructuring, and you'd better have contingency plans for rapid change because executives sure seem to have them. Here's the thing: layoffs always get blamed on AI, but they're usually about Microsoft chasing quarterly targets and rebalancing where they think profits live next quarter.",
+        "date": "2026-07-07T06:40:53.870166+00:00"
+      },
+      {
+        "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+        "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+        "dwp_take": "Reddit is deploying large language models to combat spam and low-quality content that LLM-generated posts have flooded onto their platform in recent years. For digital workplace pros managing internal communications platforms, this highlights a real operational headache: you'll need AI tools just to keep your own systems clean from the junk that AI itself keeps generating. It's like hiring a cleaning service because your vacuum cleaner broke and made more mess, which tracks with most enterprise tech decisions I've seen.",
+        "date": "2026-07-07T06:40:57.906310+00:00"
+      }
+    ],
+    "tools-tech": [
+      {
+        "title": "How I turned an old Android phone into my home internet backup solution - 3 methods",
+        "url": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
+        "dwp_take": "Someone figured out how to use an old Android phone as a backup internet connection by tethering it to their home router through three different methods. For remote workers and hybrid teams, this matters because internet reliability is literally your job security, and having a backup plan that doesn't require expensive failover hardware is genuinely smart thinking. I've seen too many people lose half a day of productivity waiting for their ISP to show up, so knowing you've got a dusty old phone that can save the day is the kind of practical knowledge that beats most enterprise IT planning.",
+        "date": "2026-07-07T06:41:02.436309+00:00"
+      },
+      {
+        "title": "Microsoft betting that enterprise AI needs engineers, not bigger sales teams",
+        "url": "https://www.computerworld.com/article/4193532/microsoft-betting-that-enterprise-ai-needs-engineers-not-bigger-sales-teams-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "The number of tech layoffs continues to tick upwards as AI investments increase, with Microsoft alone cutting around 4,800 employees, or roughly 2.1% of its workforce, this week. The latest cutbacks a",
+        "dwp_take": "Microsoft cut 4,800 employees this week, mostly from sales and Xbox, continuing a pattern of layoffs that's hit 19,800 workers in early 2025 as the company pivots cash toward AI engineering. For digital workplace leaders, this signals that enterprise AI strategy now demands technical depth over sales velocity, which means your tools and talent planning need to shift accordingly. The irony is rich: Microsoft's betting that fewer salespeople and more engineers will somehow make AI adoption smoother for enterprises, which might work if customers can figure out what to actually build first.",
+        "date": "2026-07-07T06:41:08.282131+00:00"
+      },
+      {
+        "title": "6 ways to make AI accountability stick",
+        "url": "https://www.computerworld.com/article/4184169/how-to-make-ai-accountability-stick.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "As intelligent systems move into production environments and begin taking actions, organizations quickly discover that accountability becomes much harder. Unlike traditional enterprise software, these",
+        "dwp_take": "Computerworld looked at how organizations can actually enforce accountability when AI systems go haywire in production, since these tools behave unpredictably in ways traditional software doesn't. This matters because someone needs to own the mess when an AI decision tanks a customer relationship or creates a compliance nightmare, and right now most companies are playing hot potato with blame. The real issue is that we spent years automating decision making without deciding who answers the phone when it goes wrong, which is a lot like installing cruise control without understanding brakes.",
+        "date": "2026-07-07T06:41:12.838442+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "Microsoft layoffs: Read the email Xbox CEO Asha Sharma sent employees",
+        "url": "https://www.fastcompany.com/91569794/microsoft-layoffs-read-the-email-xbox-ceo-asha-sharma-sent-employees?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "More than half of women say they\u2019re \u201cnot prepared at all\u201d for perimenopause or menopause\u2014yet most are already feeling the effects at work. According to recent data from InHerSight, a careers platform ",
-        "dwp_take": "Fast Company ran a piece highlighting that most working women feel unprepared for menopause despite three quarters experiencing symptoms that regularly impact their job performance. This matters because digital workplace leaders need to understand that a huge chunk of their workforce is dealing with a biological reality that nobody trained them for, yet they're still expected to show up and perform. The irony is thick: we've got wellness apps for everything, but somehow \"your brain is foggy because your hormones are doing backflips\" still doesn't make it into most company health conversations.",
-        "date": "2026-07-06T07:06:26.792023+00:00"
+        "excerpt": "Last month, there were murmurs that \u201cmajor job cuts\u201d were coming for Xbox. Now, Microsoft is cutting 4,800 roles, with 1,600 impacting its Xbox division today. In an email to employees, Xbox CEO Asha ",
+        "dwp_take": "Microsoft just cut 4,800 jobs, with Xbox taking 1,600 hits in the first wave, in what their CEO called the most significant restructuring in the division's history. Digital workplace leaders need to pay attention because mass layoffs hit internal communications hardest: employees are scared, rumors fly faster than your company intranet can debunk them, and trust evaporates overnight. The real lesson here isn't about Xbox's troubles but about how your internal messaging strategy either contains the panic or amplifies it, and most companies are woefully unprepared for either scenario.",
+        "date": "2026-07-07T06:41:17.240942+00:00"
+      },
+      {
+        "title": "The outlook is grim for admin assistant jobs, but these workers are using AI to get ahead",
+        "url": "https://www.fastcompany.com/91569559/outlook-grim-admin-assistant-jobs-workers-using-ai-get-ahead?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "With their numbers already in decline, secretaries and administrative assistants face another growing threat: artificial intelligence tools like ChatGPT and Claude that can accomplish aspects of their",
+        "dwp_take": "Administrative assistant roles are shrinking due to AI tools that handle scheduling, drafting, and data management work that these professionals traditionally owned. This matters because it signals which job categories will face the most acute AI disruption first, which means other roles should pay attention to where automation is creeping in. The irony here is thick: the people best positioned to adapt are the ones already fluent in process optimization, so smart admins aren't going extinct yet, they're just evolving faster than their job titles suggest.",
+        "date": "2026-07-07T06:41:21.598487+00:00"
+      },
+      {
+        "title": "Oscar Health\u2019s Mark Bertolini on making \u2018healthcare work for all\u2019",
+        "url": "https://www.fastcompany.com/91567403/oscar-healths-mark-bertolini-on-making-healthcare-work-for-all?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
+        "dwp_take": "Oscar Health's Mark Bertolini is talking about making healthcare accessible and equitable across the board. For digital workplace folks, this matters because healthcare companies are dealing with massive remote and hybrid workforces now, and culture messages from leadership actually have to land or people leave. Bertolini's been through the wringer personally and professionally, which beats the typical \"I read a business book once\" CEO energy you usually get.",
+        "date": "2026-07-07T06:41:25.864498+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "The Logitech Signature Comfort Plus Combo MK880 is a keyboard and mouse set that takes the edge off \u2013 offering a softer way of working at home or in the office",
-        "url": "https://www.itpro.com/hardware/desktops/the-logitech-signature-comfort-plus-combo-mk880-is-a-keyboard-and-mouse-set-that-takes-the-edge-off-offering-a-softer-way-of-working-at-home-or-in-the-office",
-        "source": "ITPro",
+        "title": "Data From 21,000 Firms Reveals: AI Spending Is Creating Jobs, Not Killing Them",
+        "url": "https://www.techrepublic.com/article/news-ai-spending-hiring-ramp-revelio-study/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "With a laser focus on ergonomics and comfort, this plug-and-play keyboard and mouse set means there's no need to choose between work or pleasure",
-        "dwp_take": "With a laser focus on ergonomics and comfort, this plug-and-play keyboard and mouse set means there's no need to choose between work or pleasure",
-        "date": "2026-07-06T07:06:31.498086+00:00"
+        "excerpt": "New data from Ramp and Revelio show that intensive Gen AI adoption is linked to higher headcount and more entry-level hiring, challenging fears that \u201cAI kills jobs\u201d and reshaping IT leaders\u2019 strategie",
+        "dwp_take": "Companies investing heavily in AI are actually hiring more people, not fewer, according to data tracking 21,000 firms, which contradicts the doomsday job-killer narrative we've been hearing. This matters because it fundamentally changes how IT leaders should pitch AI adoption to boards and employees, shifting the conversation from \"we're automating you out\" to \"we're building new capabilities.\" Still, I'd want to see the fine print on those entry-level jobs before we declare victory, because \"more hiring\" doesn't always mean \"better careers.\"",
+        "date": "2026-07-07T06:41:31.080780+00:00"
+      },
+      {
+        "title": "Apple\u2019s 2026 Product Roadmap: iPhone 18 Pro, Mac Studio, and More",
+        "url": "https://www.techrepublic.com/article/news-apple-2026-product-roadmap-iphones-macs-smart-home/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "Apple may launch up to 16 new products by the end of 2026, including a foldable iPhone, M5 Macs, new iPads and smart home devices. The post Apple\u2019s 2026 Product Roadmap: iPhone 18 Pro, Mac Studio, and",
+        "dwp_take": "Apple's planning to drop 16 new products by end of 2026, headlined by a foldable iPhone, M5 Macs, fresh iPads, and smart home gear. That matters because your organization will spend the next two years deciding whether to refresh devices on these new releases or stick with what works, which always becomes a budget and planning headache. Honestly, foldable iPhones still feel like solution searching for a problem, but I'm sure someone in your org will desperately want one anyway.",
+        "date": "2026-07-07T06:41:35.057093+00:00"
+      },
+      {
+        "title": "DHS Confirms Breach of Homeland Security Information Network",
+        "url": "https://www.techrepublic.com/article/news-dhs-hsin-breach-2026/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "DHS confirmed a breach of the Homeland Security Information Network, an unclassified platform used for security and emergency coordination. The post DHS Confirms Breach of Homeland Security Informatio",
+        "dwp_take": "The Department of Homeland Security confirmed that someone got unauthorized access to their unclassified information network used for security and emergency coordination. Digital workplace professionals need to care about this because it demonstrates that even government agencies with massive security budgets struggle to protect their internal collaboration platforms. Here's the uncomfortable truth: if DHS can't keep their emergency coordination system locked down, we should all be asking some hard questions about whether our shiny new digital workplace tools are actually secure or just conveniently accessible.",
+        "date": "2026-07-07T06:41:38.723962+00:00"
+      },
+      {
+        "title": "AI Jobs Rise 16% in India\u2019s IT Sector as Overall Listings Fall",
+        "url": "https://www.techrepublic.com/article/news-india-ai-hiring-outpaces-it-recruitment-apac/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "AI hiring in India\u2019s IT sector rose 16% in June, outpacing broader IT recruitment as companies shift toward specialized talent. The post AI Jobs Rise 16% in India\u2019s IT Sector as Overall Listings Fall ",
+        "dwp_take": "India's IT job market is splitting into two camps: AI roles are booming up 16 percent while everything else flatlines, which tells you exactly where the money and confidence are flowing right now. This matters because it signals a fundamental reshuffling of what skills companies actually value, and if you're managing talent acquisition or workforce planning, you need to notice when the tide shifts this decisively. The irony is sharp though: companies are desperate for AI specialists while simultaneously cutting positions for people who did just fine two years ago, which is basically the digital workplace version of musical chairs played with careers.",
+        "date": "2026-07-07T06:41:43.611442+00:00"
       }
     ]
   }
