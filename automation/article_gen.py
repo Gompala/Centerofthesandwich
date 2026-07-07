@@ -96,7 +96,7 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-        prompt = f"""Write a blog article about this topic for centerofthesandwich.com: {topic}
+    prompt = f"""Write a blog article about this topic for centerofthesandwich.com: {topic}
 {context}
 
 Think of this like a game review — not a game review literally, but that style and energy. A good game reviewer doesn't open with "here is why action games matter" and close with "so in summary, action games have challenges but also opportunities." They just dive in, share what they noticed, have opinions, keep moving. The reader stays with them because it's interesting, not because there's a lesson at the end.
