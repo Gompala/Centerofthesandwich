@@ -1,91 +1,82 @@
 {
-  "generated": "2026-07-07T06:41:43.611565+00:00",
+  "generated": "2026-07-07T14:02:43.914653+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-        "source": "TechCrunch",
+        "title": "Tangos grabs $20M in funding to take on the bad guys by automating financial crime investigations",
+        "url": "https://siliconangle.com/2026/07/07/tangos-grabs-20m-funding-take-bad-guys-automating-financial-crime-investigations/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
-        "dwp_take": "A so-called AI-run ransomware attack still required humans to do the actual hard work of victim selection, infrastructure setup, and credential theft. This matters because it reveals how the media loves a \"robots gone rogue\" story while missing the real threat: AI automating grunt work for criminals who still need to think strategically. After 30 years in this space, I can tell you the scariest cybercrime isn't the one where AI does everything\u2014it's where criminals get smarter about what they let AI handle.",
-        "date": "2026-07-07T06:40:45.577341+00:00"
+        "excerpt": "Tangos AI Inc., a startup that uses artificial intelligence to conduct financial crime investigations at unprecedented scale, said today it has closed on $20 million in seed funding. The round was led",
+        "dwp_take": "Tangos AI just raised twenty million dollars to automate financial crime investigations using AI, with backing from a solid roster of venture firms. This matters because compliance and risk teams are drowning in manual investigation work, and if this actually delivers on automation at scale, it could free up a lot of skilled people to do actual detective work instead of data entry. That said, I'll believe the \"unprecedented scale\" claims when I see them actually deployed in a real enterprise environment, not just in a pitch deck.",
+        "date": "2026-07-07T14:01:48.194193+00:00"
       },
       {
-        "title": "Every major tech layoff in 2026 that has name-checked AI",
-        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "source": "TechCrunch",
+        "title": "\u2018GitLost\u2019 vulnerability let GitHub\u2019s AI workflows leak private repositories",
+        "url": "https://siliconangle.com/2026/07/07/gitlost-vulnerability-let-githubs-ai-workflows-leak-private-repositories/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-        "dwp_take": "Tech companies continue laying off staff while citing AI as the reason, with major players across the industry making cuts throughout 2026. For digital workplace leaders, this matters because it signals where corporate priorities are shifting and what skills will actually be valued going forward, which directly affects hiring, training, and internal mobility strategies. Here's the thing though: blaming AI for layoffs is the new way to make cuts sound inevitable rather than chosen, which is convenient for executives but tells employees nothing about what the company actually wants them to become.",
-        "date": "2026-07-07T06:40:49.885919+00:00"
+        "excerpt": "Researchers at artificial intelligence security company Noma Security Inc. today disclosed a critical prompt injection vulnerability in GitHub Inc.\u2019s new Agentic Workflows feature that allowed an unau",
+        "dwp_take": "GitHub's new AI workflow feature had a critical flaw that let attackers steal private code by posting a rigged issue in a public repository, which GitHub has now patched. This matters because many organizations are rushing AI tools into their dev workflows without thinking through the security implications, and this is exactly the kind of mess that happens when speed beats caution. After three decades watching tech teams, I'll say it plain: just because your shiny new AI can do something doesn't mean it should do it unsupervised with access to your crown jewels.",
+        "date": "2026-07-07T14:01:52.946039+00:00"
       },
       {
-        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-        "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-        "source": "TechCrunch",
+        "title": "Picus Security launches autonomous platform to validate exposures in one loop",
+        "url": "https://siliconangle.com/2026/07/07/picus-security-launches-autonomous-platform-validate-exposures-one-loop/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
-        "dwp_take": "Microsoft just cut 4,800 people, roughly 2.1% of their workforce, with Xbox and commercial sales taking the heaviest hits. For those of us managing digital workplace strategy, this is a reminder that no division is immune to restructuring, and you'd better have contingency plans for rapid change because executives sure seem to have them. Here's the thing: layoffs always get blamed on AI, but they're usually about Microsoft chasing quarterly targets and rebalancing where they think profits live next quarter.",
-        "date": "2026-07-07T06:40:53.870166+00:00"
+        "excerpt": "Cybersecurity validation startup Picus Security Inc. today launched the Picus Autonomous Exposure Validation Platform, a system that merges breach and attack simulation, autonomous penetration testing",
+        "dwp_take": "Picus Security bundled breach simulation, penetration testing, and exposure validation into one automated platform so security teams can answer faster whether a new vulnerability actually threatens their environment. This matters because digital workplace pros are tired of security theater where vulnerabilities get flagged but nobody knows if they're real problems or false alarms. Finally, a tool that lets security teams stop playing guessing games and start giving straight answers to the one question that actually keeps executives awake at night.",
+        "date": "2026-07-07T14:01:56.937937+00:00"
       },
       {
-        "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-        "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-        "source": "TechCrunch",
+        "title": "Assail launches Sidewinder, an offensive security AI that fixes its own mistakes",
+        "url": "https://siliconangle.com/2026/07/07/assail-launches-sidewinder-offensive-security-ai-fixes-mistakes/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-        "dwp_take": "Reddit is deploying large language models to combat spam and low-quality content that LLM-generated posts have flooded onto their platform in recent years. For digital workplace pros managing internal communications platforms, this highlights a real operational headache: you'll need AI tools just to keep your own systems clean from the junk that AI itself keeps generating. It's like hiring a cleaning service because your vacuum cleaner broke and made more mess, which tracks with most enterprise tech decisions I've seen.",
-        "date": "2026-07-07T06:40:57.906310+00:00"
+        "excerpt": "Autonomous security company Assail Inc. today launched Sidewinder, a rebuilt version of its Ares offensive security platform that runs on a new 31 billion-parameter model designed to audit its own fin",
+        "dwp_take": "Assail released Sidewinder, an AI security tool that can identify vulnerabilities and fix them automatically without waiting for human approval. This matters because digital workplace teams are perpetually understaffed and overwhelmed, so autonomous security fixes could actually free people up to do real work instead of playing whack-a-mole with patch management. That said, I've seen plenty of \"self-fixing\" systems create new problems faster than they solve old ones, so let's see if this one actually works before we pop the champagne.",
+        "date": "2026-07-07T14:02:00.799736+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "How I turned an old Android phone into my home internet backup solution - 3 methods",
-        "url": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+        "title": "I tested 3 wireless chargers to see which keeps my phones cool - what I learned surprised me",
+        "url": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
-        "dwp_take": "Someone figured out how to use an old Android phone as a backup internet connection by tethering it to their home router through three different methods. For remote workers and hybrid teams, this matters because internet reliability is literally your job security, and having a backup plan that doesn't require expensive failover hardware is genuinely smart thinking. I've seen too many people lose half a day of productivity waiting for their ISP to show up, so knowing you've got a dusty old phone that can save the day is the kind of practical knowledge that beats most enterprise IT planning.",
-        "date": "2026-07-07T06:41:02.436309+00:00"
+        "excerpt": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+        "dwp_take": "ZDNet tested three wireless charging stands with cooling technology to see which one actually prevents heat buildup during charging. This matters because workplace tech managers are increasingly equipping offices with charging stations, and thermal management directly impacts device lifespan and user experience in shared spaces. Here's the thing though: most offices still haven't figured out basic cable management, so worrying about which fancy charger keeps phones coolest feels like putting air conditioning in a building with open windows.",
+        "date": "2026-07-07T14:02:05.527679+00:00"
       },
       {
-        "title": "Microsoft betting that enterprise AI needs engineers, not bigger sales teams",
-        "url": "https://www.computerworld.com/article/4193532/microsoft-betting-that-enterprise-ai-needs-engineers-not-bigger-sales-teams-2.html",
+        "title": "Envirotech Vehicles Closes Merger with Azio AI Ahead of Schedule, Positioning Combined Company to Capture $487 Billion 2026 AI Infrastructure Opportunity",
+        "url": "https://www.computerworld.com/article/4193810/envirotech-vehicles-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity-3.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "The number of tech layoffs continues to tick upwards as AI investments increase, with Microsoft alone cutting around 4,800 employees, or roughly 2.1% of its workforce, this week. The latest cutbacks a",
-        "dwp_take": "Microsoft cut 4,800 employees this week, mostly from sales and Xbox, continuing a pattern of layoffs that's hit 19,800 workers in early 2025 as the company pivots cash toward AI engineering. For digital workplace leaders, this signals that enterprise AI strategy now demands technical depth over sales velocity, which means your tools and talent planning need to shift accordingly. The irony is rich: Microsoft's betting that fewer salespeople and more engineers will somehow make AI adoption smoother for enterprises, which might work if customers can figure out what to actually build first.",
-        "date": "2026-07-07T06:41:08.282131+00:00"
+        "excerpt": "Revised transaction structure enables immediate closing, accelerating the Company\u2019s strategic pivot toward AI data centers, enterprise GPU compute, and digital power infrastructure. Envirotech Vehicle",
+        "dwp_take": "Envirotech Vehicles closed its merger with Azio AI ahead of schedule to position itself in the AI infrastructure market, targeting a projected 487 billion dollar opportunity in 2026. For digital workplace pros, this matters because infrastructure consolidation directly affects how organizations will deploy AI tools, manage compute resources, and build out the backend systems that power workplace applications. That said, watch carefully: a vehicle company pivoting to AI data centers is exactly the kind of \"we're pivoting to AI\" move that looks great on a press release but often crashes when reality meets execution.",
+        "date": "2026-07-07T14:02:10.903902+00:00"
       },
       {
-        "title": "6 ways to make AI accountability stick",
-        "url": "https://www.computerworld.com/article/4184169/how-to-make-ai-accountability-stick.html",
+        "title": "Talk, talk, talk: The rise of AI dictation tools at work",
+        "url": "https://www.computerworld.com/article/4193378/talk-talk-talk-the-rise-of-ai-dictation-tools-at-work.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "As intelligent systems move into production environments and begin taking actions, organizations quickly discover that accountability becomes much harder. Unlike traditional enterprise software, these",
-        "dwp_take": "Computerworld looked at how organizations can actually enforce accountability when AI systems go haywire in production, since these tools behave unpredictably in ways traditional software doesn't. This matters because someone needs to own the mess when an AI decision tanks a customer relationship or creates a compliance nightmare, and right now most companies are playing hot potato with blame. The real issue is that we spent years automating decision making without deciding who answers the phone when it goes wrong, which is a lot like installing cruise control without understanding brakes.",
-        "date": "2026-07-07T06:41:12.838442+00:00"
+        "excerpt": "For workers who routinely spend hours a day interacting with various AI assistants, banging out prompts on a keyboard can quickly become a chore. \u201cWhether it\u2019s a coding task, helping write a document ",
+        "dwp_take": "AI dictation tools are becoming standard issue for knowledge workers drowning in typing, particularly those heavy users hammering out prompts to AI assistants all day. This matters because dictation efficiency directly impacts productivity and RSI prevention, meaning your IT team needs to evaluate which tools play nice with your existing stack and security policies. Here's the thing though: we've been promised voice-to-text salvation for twenty years, and it keeps flopping until the underlying tech actually gets good, so let's pump the brakes on declaring this the end of the keyboard before we see real adoption numbers.",
+        "date": "2026-07-07T14:02:15.996050+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Microsoft layoffs: Read the email Xbox CEO Asha Sharma sent employees",
-        "url": "https://www.fastcompany.com/91569794/microsoft-layoffs-read-the-email-xbox-ceo-asha-sharma-sent-employees?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Are managers becoming obsolete\u2014or more important than ever?",
+        "url": "https://www.fastcompany.com/91559339/are-managers-becoming-obsolete-or-more-important-than-ever-leadership-middle-management-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Last month, there were murmurs that \u201cmajor job cuts\u201d were coming for Xbox. Now, Microsoft is cutting 4,800 roles, with 1,600 impacting its Xbox division today. In an email to employees, Xbox CEO Asha ",
-        "dwp_take": "Microsoft just cut 4,800 jobs, with Xbox taking 1,600 hits in the first wave, in what their CEO called the most significant restructuring in the division's history. Digital workplace leaders need to pay attention because mass layoffs hit internal communications hardest: employees are scared, rumors fly faster than your company intranet can debunk them, and trust evaporates overnight. The real lesson here isn't about Xbox's troubles but about how your internal messaging strategy either contains the panic or amplifies it, and most companies are woefully unprepared for either scenario.",
-        "date": "2026-07-07T06:41:17.240942+00:00"
-      },
-      {
-        "title": "The outlook is grim for admin assistant jobs, but these workers are using AI to get ahead",
-        "url": "https://www.fastcompany.com/91569559/outlook-grim-admin-assistant-jobs-workers-using-ai-get-ahead?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "With their numbers already in decline, secretaries and administrative assistants face another growing threat: artificial intelligence tools like ChatGPT and Claude that can accomplish aspects of their",
-        "dwp_take": "Administrative assistant roles are shrinking due to AI tools that handle scheduling, drafting, and data management work that these professionals traditionally owned. This matters because it signals which job categories will face the most acute AI disruption first, which means other roles should pay attention to where automation is creeping in. The irony here is thick: the people best positioned to adapt are the ones already fluent in process optimization, so smart admins aren't going extinct yet, they're just evolving faster than their job titles suggest.",
-        "date": "2026-07-07T06:41:21.598487+00:00"
+        "excerpt": "The rise of artificial intelligence and shifting workplace dynamics like flatter organizational structures have sparked intense debate about the future role of managers. Eight industry experts weigh i",
+        "dwp_take": "Managers are caught in that classic corporate squeeze where AI is doing their analysis work while flatter structures strip away their authority, leaving everyone arguing about whether they're headed for extinction or evolution. This matters because your organization's entire communication strategy, knowledge management system, and employee engagement programs all collapse without clarity on what managers actually do anymore. Here's the thing though: managers aren't becoming obsolete, they're just finally being forced to justify their existence beyond scheduling meetings and approving timesheets.",
+        "date": "2026-07-07T14:02:20.626592+00:00"
       },
       {
         "title": "Oscar Health\u2019s Mark Bertolini on making \u2018healthcare work for all\u2019",
@@ -93,46 +84,46 @@
         "source": "Fast Company",
         "category": "digital-culture",
         "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-        "dwp_take": "Oscar Health's Mark Bertolini is talking about making healthcare accessible and equitable across the board. For digital workplace folks, this matters because healthcare companies are dealing with massive remote and hybrid workforces now, and culture messages from leadership actually have to land or people leave. Bertolini's been through the wringer personally and professionally, which beats the typical \"I read a business book once\" CEO energy you usually get.",
-        "date": "2026-07-07T06:41:25.864498+00:00"
+        "dwp_take": "Oscar Health's CEO Mark Bertolini talked to Fast Company about making healthcare accessible to everyone, focusing on inclusive leadership and business practices. This matters to digital workplace folks because healthcare companies are increasingly digitizing their operations and internal cultures need to actually match the inclusive values they're selling to customers. Here's the thing: it's easy to write a mission statement about inclusion, but keeping it real when you're scaling fast is where most companies trip over their own feet.",
+        "date": "2026-07-07T14:02:25.158093+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Data From 21,000 Firms Reveals: AI Spending Is Creating Jobs, Not Killing Them",
-        "url": "https://www.techrepublic.com/article/news-ai-spending-hiring-ramp-revelio-study/",
+        "title": "Your Data, Always Within Reach \u2013 2TB of Lifetime Cloud Storage Is $59",
+        "url": "https://www.techrepublic.com/article/filejump-cloud-storage-lifetime-subscription/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "New data from Ramp and Revelio show that intensive Gen AI adoption is linked to higher headcount and more entry-level hiring, challenging fears that \u201cAI kills jobs\u201d and reshaping IT leaders\u2019 strategie",
-        "dwp_take": "Companies investing heavily in AI are actually hiring more people, not fewer, according to data tracking 21,000 firms, which contradicts the doomsday job-killer narrative we've been hearing. This matters because it fundamentally changes how IT leaders should pitch AI adoption to boards and employees, shifting the conversation from \"we're automating you out\" to \"we're building new capabilities.\" Still, I'd want to see the fine print on those entry-level jobs before we declare victory, because \"more hiring\" doesn't always mean \"better careers.\"",
-        "date": "2026-07-07T06:41:31.080780+00:00"
+        "excerpt": "Say goodbye to recurring fees and complicated systems with FileJump\u2019s straightforward and secure cloud storage platform \u2014 with lifetime access to your files. The post Your Data, Always Within Reach \u2013 ",
+        "dwp_take": "FileJump is pitching lifetime cloud storage with 2TB capacity for a one-time $59 payment instead of the monthly subscription model most providers use. For workplace IT folks managing storage sprawl and budget cycles, a permanent license eliminates the \"will this service exist next year\" anxiety that plagues SaaS decisions. Honestly, the real question isn't whether 2TB is enough storage in 2024, but whether any startup promising \"lifetime\" support is still around in 2034.",
+        "date": "2026-07-07T14:02:30.255351+00:00"
       },
       {
-        "title": "Apple\u2019s 2026 Product Roadmap: iPhone 18 Pro, Mac Studio, and More",
-        "url": "https://www.techrepublic.com/article/news-apple-2026-product-roadmap-iphones-macs-smart-home/",
+        "title": "Pony.ai Opens Singapore Robotaxi Service to Zig App Booking",
+        "url": "https://www.techrepublic.com/article/news-pony-ai-robotaxi-apac-singapore/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple may launch up to 16 new products by the end of 2026, including a foldable iPhone, M5 Macs, new iPads and smart home devices. The post Apple\u2019s 2026 Product Roadmap: iPhone 18 Pro, Mac Studio, and",
-        "dwp_take": "Apple's planning to drop 16 new products by end of 2026, headlined by a foldable iPhone, M5 Macs, fresh iPads, and smart home gear. That matters because your organization will spend the next two years deciding whether to refresh devices on these new releases or stick with what works, which always becomes a budget and planning headache. Honestly, foldable iPhones still feel like solution searching for a problem, but I'm sure someone in your org will desperately want one anyway.",
-        "date": "2026-07-07T06:41:35.057093+00:00"
+        "excerpt": "Pony.ai and ComfortDelGro opened public Zig app booking for an autonomous mobility service in Singapore\u2019s Punggol district, giving APAC transport and enterprise technology leaders a closer look at reg",
+        "dwp_take": "Pony.ai launched a public robotaxi service in Singapore through the Zig app, letting regular people book autonomous rides in the Punggol district. For digital workplace pros, this matters because autonomous mobility is becoming real infrastructure that affects commute patterns, office location strategy, and how teams coordinate physical presence. Honestly, the real win here isn't the robot car, it's that Singapore proved you can actually regulate this stuff without it turning into a legal nightmare like most Western cities managed.",
+        "date": "2026-07-07T14:02:34.295101+00:00"
       },
       {
-        "title": "DHS Confirms Breach of Homeland Security Information Network",
-        "url": "https://www.techrepublic.com/article/news-dhs-hsin-breach-2026/",
+        "title": "Unlock 27 Mac Apps for Productivity, Design, and Dev Work for $29.99",
+        "url": "https://www.techrepublic.com/article/27-app-lifetime-mac-bundle/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "DHS confirmed a breach of the Homeland Security Information Network, an unclassified platform used for security and emergency coordination. The post DHS Confirms Breach of Homeland Security Informatio",
-        "dwp_take": "The Department of Homeland Security confirmed that someone got unauthorized access to their unclassified information network used for security and emergency coordination. Digital workplace professionals need to care about this because it demonstrates that even government agencies with massive security budgets struggle to protect their internal collaboration platforms. Here's the uncomfortable truth: if DHS can't keep their emergency coordination system locked down, we should all be asking some hard questions about whether our shiny new digital workplace tools are actually secure or just conveniently accessible.",
-        "date": "2026-07-07T06:41:38.723962+00:00"
+        "excerpt": "This $30 Mac bundle gives you 27 apps for productivity, design, and more \u2014 used across home and business. The post Unlock 27 Mac Apps for Productivity, Design, and Dev Work for $29.99 appeared first o",
+        "dwp_take": "Someone's selling a bundle of 27 Mac applications for thirty bucks, covering productivity, design, and development work. For digital workplace folks evaluating tools and licensing costs, this kind of bundled pricing raises real questions about how you actually build a coherent tech stack versus just accumulating software. Here's the thing though: cheaper isn't better when you end up with 27 apps nobody uses because they don't integrate with anything your team actually relies on.",
+        "date": "2026-07-07T14:02:38.283090+00:00"
       },
       {
-        "title": "AI Jobs Rise 16% in India\u2019s IT Sector as Overall Listings Fall",
-        "url": "https://www.techrepublic.com/article/news-india-ai-hiring-outpaces-it-recruitment-apac/",
+        "title": "Get Portable Power and 16GB RAM With This Dell Refurb for $250",
+        "url": "https://www.techrepublic.com/article/dell-latitude-7300-refurbished/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "AI hiring in India\u2019s IT sector rose 16% in June, outpacing broader IT recruitment as companies shift toward specialized talent. The post AI Jobs Rise 16% in India\u2019s IT Sector as Overall Listings Fall ",
-        "dwp_take": "India's IT job market is splitting into two camps: AI roles are booming up 16 percent while everything else flatlines, which tells you exactly where the money and confidence are flowing right now. This matters because it signals a fundamental reshuffling of what skills companies actually value, and if you're managing talent acquisition or workforce planning, you need to notice when the tide shifts this decisively. The irony is sharp though: companies are desperate for AI specialists while simultaneously cutting positions for people who did just fine two years ago, which is basically the digital workplace version of musical chairs played with careers.",
-        "date": "2026-07-07T06:41:43.611442+00:00"
+        "excerpt": "This Dell Latitude 7300 offers dependable performance for pros who need a portable everyday work machine. The post Get Portable Power and 16GB RAM With This Dell Refurb for $250 appeared first on Tech",
+        "dwp_take": "TechRepublic is promoting a refurbished Dell Latitude 7300 with 16GB RAM as a budget option for mobile workers at $250. For anyone managing device fleets or trying to stretch IT budgets, refurbished enterprise laptops with solid specs are genuinely useful alternatives to new hardware that costs three times as much. I'd just verify the battery health before buying, because nothing kills productivity faster than a machine that dies at 2pm and won't make it to the coffee shop outlet.",
+        "date": "2026-07-07T14:02:43.914478+00:00"
       }
     ]
   }
