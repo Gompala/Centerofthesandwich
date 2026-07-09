@@ -164,8 +164,42 @@ Return ONLY the JSON. No preamble, no explanation, no markdown code fences."""
         # Strip any accidental markdown fences
         text = re.sub(r'^```json\s*', '', text)
         text = re.sub(r'\s*```$', '', text)
+        text = text.strip()
         
-        article = json.loads(text)
+        # Try to parse JSON, with fallback cleaning
+        try:
+            article = json.loads(text)
+        except json.JSONDecodeError as je:
+            print(f"JSON parse error: {je}")
+            print(f"Raw text (first 200 chars): {text[:200]}")
+            # Try to extract fields manually if JSON is broken
+            try:
+                # Use a more lenient approach - ask the model to fix it
+                import ast
+                # Last resort: try to find and extract the body separately
+                title_match = re.search(r'"title"\s*:\s*"([^"]+)"', text)
+                excerpt_match = re.search(r'"excerpt"\s*:\s*"([^"]+)"', text)
+                category_match = re.search(r'"category"\s*:\s*"([^"]+)"', text)
+                body_start = text.find('"body"')
+                if title_match and body_start > 0:
+                    body_text = text[body_start+8:].strip().strip('"').strip()
+                    # Remove trailing JSON
+                    body_text = re.sub(r'"\s*\}?\s*$', '', body_text)
+                    article = {
+                        "title": title_match.group(1) if title_match else "Today in the Digital Workplace",
+                        "excerpt": excerpt_match.group(1) if excerpt_match else "",
+                        "category": category_match.group(1) if category_match else "ai-at-work",
+                        "readtime": 5,
+                        "body": body_text
+                    }
+                    print("Recovered article from broken JSON")
+                else:
+                    print("Could not recover from JSON parse error")
+                    return None
+            except Exception as e2:
+                print(f"Recovery also failed: {e2}")
+                return None
+
         print(f"Generated article: {article['title']}")
         return article
         
