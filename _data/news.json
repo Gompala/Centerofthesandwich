@@ -1,138 +1,156 @@
 {
-  "generated": "2026-07-10T06:39:33.416105+00:00",
+  "generated": "2026-07-11T05:36:03.337912+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-        "dwp_take": "OpenAI announced that their latest GPT models will remain the engine behind Microsoft Copilot 365, their AI assistant integrated across Office, Teams, and other workplace tools. This matters because it clarifies the technical foundation of AI features millions of workers now depend on daily, and it signals that despite industry speculation about their partnership fracturing, the two companies are staying locked together. After thirty years watching tech \"breakups,\" I can tell you that the real story is never the drama but the contract terms, and this announcement is basically OpenAI and Microsoft saying \"we're still married, we just argued on Twitter.\"",
-        "date": "2026-07-10T06:38:32.296076+00:00"
+        "excerpt": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+        "dwp_take": "Apple is suing OpenAI, claiming the company stole trade secrets with the knowledge of senior leadership, including someone who used to work at Apple. This matters because digital workplace teams need to understand how AI vendors handle confidential information, especially if your organization is integrating these tools into your environment and trusting them with proprietary data. Honestly, this is a good reminder that just because a platform is shiny and popular doesn't mean you've done your due diligence on security and governance before handing over your company's crown jewels.",
+        "date": "2026-07-11T05:34:47.177835+00:00"
       },
       {
-        "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
-        "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes",
-        "dwp_take": "Fidji Simo, OpenAI's second-in-command, is stepping down after an extended medical leave coinciding with the company's push toward an IPO and competition with Anthropic. For digital workplace leaders, this highlights how even well-funded tech companies struggle with succession planning and the real costs of losing institutional knowledge during critical periods. The irony is thick: a company building AI to solve problems can't seem to solve the basic human problem of covering for someone when they're genuinely unwell.",
-        "date": "2026-07-10T06:38:37.752277+00:00"
+        "excerpt": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+        "dwp_take": "SK Hynix just raised $26.5 billion in the largest foreign IPO the US has ever seen, and now there's political pressure for them to build manufacturing facilities stateside. This matters to digital workplace pros because chip supply chain resilience directly impacts hardware refresh cycles, cloud infrastructure costs, and ultimately what tools your organization can actually afford to deploy. Here's the thing: politicians love asking foreign companies to build factories, but SK Hynix will make that decision based on labor costs and tax incentives, not patriotic appeals, so don't hold your breath waiting for that shiny new US fab to suddenly solve your hardware budget problems.",
+        "date": "2026-07-11T05:34:51.256517+00:00"
       },
       {
-        "title": "OpenAI launches its new family of models with GPT-5.6",
-        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-        "dwp_take": "OpenAI released GPT-5.6, their newest model family with claimed improvements in areas like cybersecurity. For digital workplace leaders, this matters because AI capabilities are now table stakes for enterprise tools, collaboration platforms, and security infrastructure, so you need to understand what's actually possible versus marketing noise. The real question isn't whether GPT-5.6 is impressive, but whether your organization has the governance and change management in place to actually use these tools safely before the next model drops in three months.",
-        "date": "2026-07-10T06:38:41.853648+00:00"
+        "excerpt": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+        "dwp_take": "OpenAI is killing Atlas, its standalone AI browser that barely lasted a year, but shifting those browsing features into ChatGPT's desktop app and a new Chrome extension instead. This matters because it signals where AI automation is actually heading: integrated into tools you already use rather than forcing you to adopt entirely new apps, which means digital workplace teams need to rethink how they manage AI capabilities across existing platforms. Honestly, it's refreshing to see someone abandon a half-baked product instead of shipping it anyway, but now your IT department gets to figure out what happens when your browser extension can autonomously click around your systems.",
+        "date": "2026-07-11T05:34:55.933375+00:00"
       },
       {
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "source": "TechCrunch",
+        "title": "Apple sues OpenAI, former employees over alleged intellectual property theft",
+        "url": "https://siliconangle.com/2026/07/10/apple-sues-openai-former-employees-alleged-intellectual-property-theft/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
-        "dwp_take": "Lyzr let its own AI agent handle the entire $100M fundraising process, which apparently convinced investors the thing actually does what it claims to do. For digital workplace folks, this matters because it shows AI agents moving beyond chatbots into genuine business-critical work, which means we need to start thinking seriously about how these tools integrate into our tech stacks. Honestly though, if an AI can talk investors out of $100M, we should all be worried about our job security, or at least impressed enough to pay attention.",
-        "date": "2026-07-10T06:38:46.221410+00:00"
+        "excerpt": "Apple Inc. today sued OpenAI Group PBC for allegedly stealing intellectual property related to its consumer devices. The iPhone maker filed the complaint with the U.S. District Court for the Northern ",
+        "dwp_take": "Apple is suing OpenAI for allegedly stealing IP related to consumer devices, particularly around technology acquired when OpenAI bought io Products, a startup founded by ex-Apple executives. This matters because it signals that major tech players are getting serious about protecting their intellectual property in the AI era, and it's a reminder that poaching talent and then commercializing similar products in new markets is increasingly risky business. Honestly, this feels less like surprising news and more like the inevitable collision between two companies playing in overlapping sandboxes, except one of them is now angry about the toys the other company walked away with.",
+        "date": "2026-07-11T05:35:04.265482+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
-        "url": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
+        "title": "I ditched Google Drive for my own self-hosted storage - and I wish I'd done it sooner",
+        "url": "https://www.zdnet.com/article/i-ditched-google-drive-for-self-hosted-storage-nextcloud/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "OpenAI's latest announcement looks like a lot more than a model upgrade.",
-        "dwp_take": "OpenAI rolled out GPT-5.6 and a new ChatGPT Work product aimed squarely at undercutting Anthropic on cost, speed, and getting actual work done. For those of us building digital workplace strategies, this matters because AI tool pricing and performance directly impact whether your organization picks OpenAI, Anthropic, or someone else entirely for knowledge work automation. Here's the thing though: another incremental model bump and a new pricing tier doesn't actually change much if the real bottleneck in your workplace is getting people to adopt the tool in the first place.",
-        "date": "2026-07-10T06:38:50.582441+00:00"
+        "excerpt": "Nextcloud is a free and open-source storage option that offers several advantages. Here's how it works.",
+        "dwp_take": "A tech writer moved from Google Drive to self-hosted Nextcloud storage and found it worth the switch. For digital workplace leaders, this matters because it highlights the real tension between convenience and control, especially for organizations that need tighter data governance or can't stomach vendor lock-in. Look, self-hosting isn't magic and it requires actual competence to maintain properly, but the fact that someone's singing its praises tells you that cloud commodification has gotten expensive enough to make the friction worthwhile again.",
+        "date": "2026-07-11T05:35:08.579390+00:00"
       },
       {
-        "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
-        "url": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
+        "title": "The 'learn to code' era is over - and employers are on the hook for reskilling now",
+        "url": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
-        "dwp_take": "Microsoft assembled a dedicated security team using AI to hunt down Windows vulnerabilities faster and push fixes to engineers more quickly. For digital workplace pros, this matters because every security improvement reduces the risk of breaches that could lock down your entire infrastructure and tank productivity across your organization. Look, I've seen plenty of \"we're getting serious about security\" announcements over three decades, so I'll believe it when patch Tuesday actually starts feeling less like a game of whack-a-mole.",
-        "date": "2026-07-10T06:38:54.710366+00:00"
+        "excerpt": "AI's ushered in a new era of reskilling. Here's what the industry can learn from the last decade's drive to put people in tech jobs.",
+        "dwp_take": "The tech industry's \"learn to code\" movement, which promised anyone could jump into programming, has proven insufficient as AI reshapes skill requirements faster than bootcamps can adapt. Digital workplace leaders now face real pressure to build internal reskilling programs because the old model of expecting workers to figure it out on their own simply didn't stick. Frankly, companies that spent the last decade saying \"go get trained on your own time\" are about to discover that retaining institutional knowledge beats recruiting from a dried-up talent pool, but good luck explaining that to the CFO.",
+        "date": "2026-07-11T05:35:12.864981+00:00"
       },
       {
-        "title": "A brewing battle: More IT workers want unions. The industry doesn\u2019t.",
-        "url": "https://www.computerworld.com/article/4191760/brewing-battle-more-tech-workers-want-unions-but-the-industry-doesnt.html",
+        "title": "Microsoft Exchange Server on prem gets a little harder to use",
+        "url": "https://www.computerworld.com/article/4195678/microsoft-exchange-server-on-prem-gets-a-little-harder-to-use.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Until recently, many tech professionals viewed themselves as a special and respected worker class: highly educated, hard-working, well paid, and in demand. \u201cThey considered themselves above unions,\u201d s",
-        "dwp_take": "IT workers are increasingly unionizing while major tech companies actively resist these efforts, creating a fundamental tension in an industry that's long positioned itself as above such labor organizing. This matters because how tech shops handle workplace culture, compensation, and work conditions directly shapes the digital workplace tools and policies that filter down to the rest of us. The irony is rich: the industry that disrupted everything else is now discovering that worker dissatisfaction doesn't care about free snacks and ping pong tables.",
-        "date": "2026-07-10T06:38:59.253658+00:00"
+        "excerpt": "It\u2019s the end of the road for yet another facet of Exchange Server, Microsoft\u2019s on-premises email and calendar system. The stripped-down version of its web client, Outlook Web App (OWA) Light, is being",
+        "dwp_take": "Microsoft is discontinuing OWA Light, the stripped-down version of Outlook Web App for on-premises Exchange Server, forcing users onto the standard OWA interface. This matters because it's yet another push from Microsoft eliminating legacy options, which means IT teams managing hybrid or on-prem Exchange environments have fewer choices and less flexibility for users with older browsers or limited bandwidth. After 30 years in this space, I'll say it plainly: Microsoft keeps making on-prem look worse to drive cloud migration, which works great for Microsoft's bottom line but leaves plenty of organizations with valid reasons for staying on-prem stuck with increasingly clunky options.",
+        "date": "2026-07-11T05:35:18.917323+00:00"
+      },
+      {
+        "title": "Mistral joins rush to build physical AI",
+        "url": "https://www.computerworld.com/article/4195636/mistral-joins-rush-to-build-physical-ai.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "French AI company Mistral claims its latest AI model offers a more efficient way to train and operate robots. The model, Robostral Navigate, can guide a robot through plain language instructions, usin",
+        "dwp_take": "Mistral rolled out an AI model designed to control robots using just plain language commands and a basic camera, ditching the expensive sensor arrays most competitors rely on. This matters because if it actually works as promised, it could make intelligent robotics accessible to organizations without deep pockets or IT departments already stretched thin managing your everyday collaboration tools. That said, I've seen plenty of \"simpler, cheaper AI\" announcements turn into \"works great in demos, nightmare in your actual warehouse\" situations, so let's see how Robostral Navigate performs when it's doing real work instead of impressing investors.",
+        "date": "2026-07-11T05:35:23.289065+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Money stress and sleep deprivation: a vicious cycle",
-        "url": "https://www.fastcompany.com/91564417/money-stress-and-sleep-deprivation-a-vicious-cycle?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Kaiser nurses say AI is changing their jobs\u2014for the worse",
+        "url": "https://www.fastcompany.com/91571569/kaiser-nurses-say-ai-is-changing-their-jobs-for-the-worse?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Data shows 78% of adults lose sleep over financial stress. That lost sleep makes it harder to make smart money decisions, perform at work, and stay mentally healthy. Here are three steps to break the ",
-        "dwp_take": "Three quarters of your workforce is running on fumes because they're worried about money, and that sleep deprivation is making them worse at their jobs, which probably makes them more worried about money. For digital workplace leaders, this means your collaboration platforms and productivity tools are being used by people operating on about 60% brain capacity, which explains why that important project keeps stalling. The real kicker is that no amount of wellness app nudges will fix this until people actually have more financial stability, but sure, let's send them another guided meditation notification at 2am when they're lying awake anyway.",
-        "date": "2026-07-10T06:39:04.273891+00:00"
+        "excerpt": "In 2024, hundreds of nurses gathered outside a Kaiser Permanente hospital in San Francisco, carrying signs that read: \u201cTrust nurses, not AI.\u201d As the nurses union started contract negotiations last yea",
+        "dwp_take": "Kaiser nurses walked out over AI tools that are making their jobs harder instead of easier, with the union demanding better protections around how these systems get deployed in patient care. This matters because it's a real-world test case of what happens when organizations rush to adopt AI without actually asking the people doing the work what problems it creates. Here's the thing: if you can't get nurses on board with your AI implementation, you've already lost, because they're the ones who actually know what matters on the job.",
+        "date": "2026-07-11T05:35:27.730052+00:00"
       },
       {
-        "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-        "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-        "source": "Wired",
+        "title": "LinkedIn is the \u2018most AI-saturated platform,\u2019 new study suggests",
+        "url": "https://www.fastcompany.com/91571983/linkedin-is-the-most-ai-saturated-platform-new-study-suggests?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Claude subscribers must soon pay usage-based fees to access Anthropic\u2019s best consumer AI model\u2014a sign that the golden era of AI subscriptions is ending.",
-        "dwp_take": "Anthropic is ditching flat-rate pricing for Claude and moving to pay-as-you-go fees for their top model. This matters because it signals that AI vendors are finally admitting the math doesn't work and users will start choosing tools based on actual ROI instead of unlimited access promises. After years of watching companies burn cash on unlimited everything, it's almost refreshing to see someone price their product like they actually want to stay in business.",
-        "date": "2026-07-10T06:39:11.751688+00:00"
+        "excerpt": "The amount of AI-generated content you scroll through might be far greater than you think, according to a new study by the AI detection platform Pangram. Pangram asked users of its Chrome extension to",
+        "dwp_take": "LinkedIn's AI detection study found that the platform is drowning in machine-generated content, with Pangram's tool identifying significantly more AI posts than most users realize. This matters because digital workplace professionals rely on LinkedIn for industry insights, networking, and recruiting, but if you can't trust what you're reading, you're essentially scrolling through an elaborate game of content bingo. After thirty years watching communication platforms evolve, I'll say this: LinkedIn becoming an AI farm is peak irony for a platform built on \"authentic professional connection.\"",
+        "date": "2026-07-11T05:35:32.526010+00:00"
       },
       {
-        "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They\u2019re Going to Anyway",
-        "url": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
+        "title": "Is our whole model of leadership wrong?",
+        "url": "https://www.fastcompany.com/91569759/is-our-whole-model-of-leadership-wrong?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "My husband and I stumbled into Imago therapy early in our marriage. We were both open to therapy because we knew enough to know what we didn\u2019t know. He came from a divorce, and I came from witnessing ",
+        "dwp_take": "Fast Company ran a piece exploring whether traditional leadership models are fundamentally flawed, using Imago therapy as a lens for rethinking how leaders communicate and relate to their teams. This matters because most digital workplace strategies still operate on command-and-control assumptions from the 1980s, completely out of step with how knowledge workers actually function in 2024. The real insight isn't that therapy is the answer, it's that leaders who actually listen instead of broadcast tend to get better results, which shouldn't surprise anyone but apparently still does.",
+        "date": "2026-07-11T05:35:36.576837+00:00"
+      },
+      {
+        "title": "OpenAI\u2019s Head of Safety Is Leaving the Company",
+        "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Companies will once again be allowed to scan citizens\u2019 personal texts, emails, and social media messages via the \u201cChat Control\u201d bill to find child abuse material online.",
-        "dwp_take": "European lawmakers voted down Chat Control, a bill that would have required tech companies to scan private messages for child abuse material, but the push to implement it anyway continues behind the scenes. This matters to digital workplace pros because employee privacy expectations, data governance frameworks, and compliance obligations are about to get messier across European organizations. Here's the real talk: when governments can't win democratically, they find workarounds, and your workplace communication tools are about to become very interesting to everyone with a policy agenda.",
-        "date": "2026-07-10T06:39:16.275473+00:00"
+        "excerpt": "Johannes Heidecke\u2019s departure comes as OpenAI tries to further integrate its research and safety teams.",
+        "dwp_take": "OpenAI's head of safety, Johannes Heidecke, is leaving the company as it consolidates its research and safety operations into one unit. This matters to digital workplace pros because it signals how AI companies are structuring governance around emerging tech, which directly impacts how organizations will eventually adopt and manage these tools internally. Honestly, integrating safety into general research sounds nice in theory, but history suggests that when you fold oversight into product teams, safety usually loses the tug of war that follows.",
+        "date": "2026-07-11T05:35:41.588650+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Amazon Raises $25 Billion in Bond Sale as AI Spending Accelerates",
-        "url": "https://www.techrepublic.com/article/news-amazon-25-billion-bond-sale-ai-infrastructure/",
+        "title": "Apple Wallet Car Key Support Could Expand to Lucid, Xiaomi Vehicles",
+        "url": "https://www.techrepublic.com/article/news-ios-27-apple-car-key-lucid-xiaomi/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Amazon raised $25 billion through a bond sale as AI infrastructure spending accelerates, highlighting the growing cost of competing in the AI race. The post Amazon Raises $25 Billion in Bond Sale as A",
-        "dwp_take": "Amazon just borrowed 25 billion dollars to fund their AI infrastructure buildout, which tells you everything you need to know about the capital intensity of the AI arms race. For digital workplace leaders, this matters because it signals that enterprise AI tools and platforms will continue to get pricier while vendors fight for dominance, meaning your budget conversations are about to get a lot tougher. The real kicker? Amazon's basically saying \"we need a country's GDP just to stay competitive,\" which should make every CIO in a budget meeting very nervous.",
-        "date": "2026-07-10T06:39:20.610818+00:00"
+        "excerpt": "iOS 27 beta code hints that Lucid and Xiaomi vehicles could gain Apple Car Key support, though compatible models and launch timing remain unconfirmed. The post Apple Wallet Car Key Support Could Expan",
+        "dwp_take": "Apple's adding Lucid and Xiaomi vehicles to its digital car key ecosystem in iOS 27, though actual launch dates are still fuzzy. This matters because it signals that digital credentials in mobile wallets are becoming infrastructure rather than gimmick, which means your enterprise identity and access systems better start thinking about wallet-native authentication now. Meanwhile, we're all still waiting for the feature to work reliably on the three cars that already support it.",
+        "date": "2026-07-11T05:35:45.995291+00:00"
       },
       {
-        "title": "Google Pixel 11: Pricing Leak Reveals Bigger Storage, Higher Costs",
-        "url": "https://www.techrepublic.com/article/news-google-pixel-11-storage-pricing-leak/",
+        "title": "Claude Code Espionage Campaign Exposes a New Enterprise AI Risk",
+        "url": "https://www.techrepublic.com/article/news-anthropic-claude-code-ai-agent-governance-risk/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "A Pixel 11 pricing leak suggests Google may drop 128GB storage and start all models at 256GB, potentially raising entry prices. The post Google Pixel 11: Pricing Leak Reveals Bigger Storage, Higher Co",
-        "dwp_take": "Google's apparently ditching the 128GB base model for Pixel 11 and jumping straight to 256GB, which means your entry price is going up. This matters because device procurement teams already struggle with budget justification, and higher smartphone baseline costs will only make that conversation harder with finance. Look, I get it: storage is cheap, but charging more for it is the oldest trick in retail, and someone's gonna have to explain to the CFO why the phone budget jumped 20 percent.",
-        "date": "2026-07-10T06:39:24.983011+00:00"
+        "excerpt": "Anthropic\u2019s AI-run espionage report shows why enterprises need stronger governance for AI agents, MCP connectors, and enterprise data access. The post Claude Code Espionage Campaign Exposes a New Ente",
+        "dwp_take": "Someone figured out how to trick Claude into exfiltrating data through what looks like a legitimate coding task, which is basically the AI equivalent of social engineering gone digital. This matters because most organizations are bolting AI agents into their workflows without thinking through what data these things can actually access or where it might end up. We spent thirty years locking down employee internet access, and now we're handing AI tools the keys to the kingdom with a pinky promise they'll behave.",
+        "date": "2026-07-11T05:35:50.160810+00:00"
       },
       {
-        "title": "China Warns of Claude Code \u2018Backdoor\u2019 Security Risk",
-        "url": "https://www.techrepublic.com/article/news-china-claude-code-backdoor-security-risk-apac/",
+        "title": "Massive Telstra Outage Hits Mobile Networks, Rail, and Payments in Australia",
+        "url": "https://www.techrepublic.com/article/news-telstra-software-defect-network-outage-australia-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "China warned organizations to remove certain Claude Code versions over alleged backdoor risks, while Anthropic called the feature anti-abuse protection. The post China Warns of Claude Code \u2018Backdoor\u2019 ",
-        "dwp_take": "China's government issued a warning that Claude Code contains a potential backdoor vulnerability, though Anthropic maintains the flagged feature is actually an anti-abuse protection measure. This matters because many organizations are rapidly integrating Claude and similar AI tools into their digital workplace infrastructure, and security concerns like this can derail adoption or create compliance headaches. The irony here is thick: whether it's a backdoor or abuse protection depends entirely on who you ask, which is exactly the kind of ambiguity that keeps security teams up at night and makes procurement meetings longer.",
-        "date": "2026-07-10T06:39:29.289555+00:00"
+        "excerpt": "A Telstra software defect disrupted mobile services, rail communications, payments, and emergency calls across Australia, exposing infrastructure risks. The post Massive Telstra Outage Hits Mobile Net",
+        "dwp_take": "A software bug at Telstra, Australia's largest telco, took down mobile networks, rail systems, payment processing, and emergency services across the country. This matters because it reminds digital workplace leaders that our entire business infrastructure depends on a handful of critical providers, and when they hiccup, everyone's day gets worse. After 30 years watching these things unfold, I can tell you there's no such thing as \"redundancy\" when the redundancy also runs on the same vendor's platform.",
+        "date": "2026-07-11T05:35:59.328332+00:00"
       },
       {
-        "title": "Meta AI Data Center Linked to Rare Bacteria Water Scare",
-        "url": "https://www.techrepublic.com/article/news-meta-ai-data-center-water-scare/",
+        "title": "Google\u2019s July Pixel Update Targets Android 17 Boot Problems",
+        "url": "https://www.techrepublic.com/article/news-android-17-july-pixel-update-boot-loop-fix/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Meta\u2019s Cheyenne AI data center project was linked to the presence of rare bacteria in reclaimed irrigation water, adding scrutiny to local data center wastewater rules. The post Meta AI Data Center Li",
-        "dwp_take": "Meta's massive Cheyenne data center turned up rare bacteria in the local water supply used for irrigation, which is now putting pressure on regulators to tighten wastewater rules around these facilities. For digital workplace pros, this matters because it highlights how the infrastructure supporting your cloud platforms and AI tools comes with real environmental costs that eventually hit communities and create regulatory headaches. Turns out the price of your generative AI isn't just measured in tokens and carbon emissions, it's also measured in bacteria counts in Wyoming groundwater.",
-        "date": "2026-07-10T06:39:33.415982+00:00"
+        "excerpt": "Google\u2019s July 2026 Pixel update fixes Android 17 boot loops, app crashes, display issues, and navigation problems across supported devices. The post Google\u2019s July Pixel Update Targets Android 17 Boot ",
+        "dwp_take": "Google just released a July update that squashes Android 17 boot loops, app crashes, display glitches, and navigation hiccups on Pixel devices. This matters because if your organization runs Android as part of your mobile-first workplace strategy, you need staff actually able to use their phones instead of staring at endless boot screens. Look, I've been doing this thirty years and nothing kills productivity faster than devices that won't boot, so deploy this one without the usual \"let's wait and see\" nonsense.",
+        "date": "2026-07-11T05:36:03.337811+00:00"
       }
     ]
   }
