@@ -1,156 +1,156 @@
 {
-  "generated": "2026-07-11T05:36:03.337912+00:00",
+  "generated": "2026-07-12T05:52:43.959508+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-        "dwp_take": "Apple is suing OpenAI, claiming the company stole trade secrets with the knowledge of senior leadership, including someone who used to work at Apple. This matters because digital workplace teams need to understand how AI vendors handle confidential information, especially if your organization is integrating these tools into your environment and trusting them with proprietary data. Honestly, this is a good reminder that just because a platform is shiny and popular doesn't mean you've done your due diligence on security and governance before handing over your company's crown jewels.",
-        "date": "2026-07-11T05:34:47.177835+00:00"
-      },
-      {
-        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-        "dwp_take": "SK Hynix just raised $26.5 billion in the largest foreign IPO the US has ever seen, and now there's political pressure for them to build manufacturing facilities stateside. This matters to digital workplace pros because chip supply chain resilience directly impacts hardware refresh cycles, cloud infrastructure costs, and ultimately what tools your organization can actually afford to deploy. Here's the thing: politicians love asking foreign companies to build factories, but SK Hynix will make that decision based on labor costs and tax incentives, not patriotic appeals, so don't hold your breath waiting for that shiny new US fab to suddenly solve your hardware budget problems.",
-        "date": "2026-07-11T05:34:51.256517+00:00"
-      },
-      {
-        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-        "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-        "dwp_take": "OpenAI is killing Atlas, its standalone AI browser that barely lasted a year, but shifting those browsing features into ChatGPT's desktop app and a new Chrome extension instead. This matters because it signals where AI automation is actually heading: integrated into tools you already use rather than forcing you to adopt entirely new apps, which means digital workplace teams need to rethink how they manage AI capabilities across existing platforms. Honestly, it's refreshing to see someone abandon a half-baked product instead of shipping it anyway, but now your IT department gets to figure out what happens when your browser extension can autonomously click around your systems.",
-        "date": "2026-07-11T05:34:55.933375+00:00"
-      },
-      {
-        "title": "Apple sues OpenAI, former employees over alleged intellectual property theft",
-        "url": "https://siliconangle.com/2026/07/10/apple-sues-openai-former-employees-alleged-intellectual-property-theft/",
+        "title": "What is sovereign AI \u2014 and why it will decide the winners and losers of the AI race",
+        "url": "https://siliconangle.com/2026/07/11/sovereign-ai-will-decide-winners-losers-ai-race/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Apple Inc. today sued OpenAI Group PBC for allegedly stealing intellectual property related to its consumer devices. The iPhone maker filed the complaint with the U.S. District Court for the Northern ",
-        "dwp_take": "Apple is suing OpenAI for allegedly stealing IP related to consumer devices, particularly around technology acquired when OpenAI bought io Products, a startup founded by ex-Apple executives. This matters because it signals that major tech players are getting serious about protecting their intellectual property in the AI era, and it's a reminder that poaching talent and then commercializing similar products in new markets is increasingly risky business. Honestly, this feels less like surprising news and more like the inevitable collision between two companies playing in overlapping sandboxes, except one of them is now angry about the toys the other company walked away with.",
-        "date": "2026-07-11T05:35:04.265482+00:00"
+        "excerpt": "On the four dimensions of real sovereignty, the fifth dimension every chief financial officer is learning about the hard way, and why open source isn\u2019t a preference \u2014 it\u2019s the architecture. About this",
+        "dwp_take": "Sovereign AI is basically the idea that countries and organizations need to control their own AI infrastructure and data rather than rely on foreign vendors. For digital workplace professionals, this matters because it's going to reshape which tools you can use, where your data lives, and how your company evaluates enterprise AI solutions. Here's the thing though: most organizations are still buying AI like it's just another SaaS subscription, completely blind to the sovereignty question that's about to smack them in the face.",
+        "date": "2026-07-12T05:51:38.743809+00:00"
+      },
+      {
+        "title": "EU finds that Meta breached bloc\u2019s rules with its social network interfaces",
+        "url": "https://siliconangle.com/2026/07/10/eu-finds-meta-breached-blocs-rules-social-network-interfaces/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "The European Union has tentatively found that Meta Platforms Inc. breached the bloc\u2019s DSA tech industry law. The European Commission, the EU\u2019s executive arm, published its conclusions today. The DSA, ",
+        "dwp_take": "The EU's European Commission found Meta violated the Digital Services Act by using deceptive interface design to nudge users toward certain choices. This matters because it signals regulators are finally taking dark patterns seriously, which directly affects how we design internal digital workplaces and employee apps. After 30 years watching tech companies get away with manipulative design, it's refreshing to see someone actually call it out instead of just complaining in LinkedIn posts.",
+        "date": "2026-07-12T05:51:42.404994+00:00"
+      },
+      {
+        "title": "Open-source AI model developer MiniMax raises $2B in funding",
+        "url": "https://siliconangle.com/2026/07/10/open-source-ai-model-developer-minimax-raises-2b-funding/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "MiniMax Group Inc., a Shanghai-based artificial intelligence developer, is raising $2 billion in funding. Bloomberg reported on Thursday that more than half the funds are expected to come from the sal",
+        "dwp_take": "MiniMax Group, a Shanghai-based AI developer, just closed a $2 billion funding round split between equity and convertible bonds. For digital workplace professionals, this signals that open-source AI models are becoming serious infrastructure plays with real money backing them, which means more competition and capability in the AI tools landscape we're all evaluating. The irony is that by the time we finally figure out which AI tool to standardize on, there will be seventeen new well-funded options making the same promises.",
+        "date": "2026-07-12T05:51:46.182435+00:00"
+      },
+      {
+        "title": "Cisco brings enterprise AI infrastructure to the edge: CUBEd Award winner",
+        "url": "https://siliconangle.com/2026/07/10/cisco-edge-computing-hardware-platform-ai-thecube-ciscoaward/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Artificial intelligence is changing the technology equation in numerous ways, including how enterprises approach edge computing. Much of today\u2019s edge infrastructure was not built to support AI workloa",
+        "dwp_take": "Cisco launched Unified Edge, a platform designed to handle AI workloads at the edge of networks rather than relying solely on centralized cloud processing, and it won a 2026 Tech Innovation award for the effort. Digital workplace teams need to pay attention because this means the infrastructure supporting remote workers, distributed offices, and mobile employees is about to get smarter and potentially faster at processing data locally. Here's the thing though: most organizations are still struggling to manage basic cloud infrastructure, so before you get excited about edge AI, make sure you can walk before Cisco sells you the jogging shoes.",
+        "date": "2026-07-12T05:51:50.600281+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I ditched Google Drive for my own self-hosted storage - and I wish I'd done it sooner",
-        "url": "https://www.zdnet.com/article/i-ditched-google-drive-for-self-hosted-storage-nextcloud/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Nextcloud is a free and open-source storage option that offers several advantages. Here's how it works.",
-        "dwp_take": "A tech writer moved from Google Drive to self-hosted Nextcloud storage and found it worth the switch. For digital workplace leaders, this matters because it highlights the real tension between convenience and control, especially for organizations that need tighter data governance or can't stomach vendor lock-in. Look, self-hosting isn't magic and it requires actual competence to maintain properly, but the fact that someone's singing its praises tells you that cloud commodification has gotten expensive enough to make the friction worthwhile again.",
-        "date": "2026-07-11T05:35:08.579390+00:00"
-      },
-      {
-        "title": "The 'learn to code' era is over - and employers are on the hook for reskilling now",
-        "url": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "AI's ushered in a new era of reskilling. Here's what the industry can learn from the last decade's drive to put people in tech jobs.",
-        "dwp_take": "The tech industry's \"learn to code\" movement, which promised anyone could jump into programming, has proven insufficient as AI reshapes skill requirements faster than bootcamps can adapt. Digital workplace leaders now face real pressure to build internal reskilling programs because the old model of expecting workers to figure it out on their own simply didn't stick. Frankly, companies that spent the last decade saying \"go get trained on your own time\" are about to discover that retaining institutional knowledge beats recruiting from a dried-up talent pool, but good luck explaining that to the CFO.",
-        "date": "2026-07-11T05:35:12.864981+00:00"
-      },
-      {
-        "title": "Microsoft Exchange Server on prem gets a little harder to use",
-        "url": "https://www.computerworld.com/article/4195678/microsoft-exchange-server-on-prem-gets-a-little-harder-to-use.html",
+        "title": "\u2018Rotten to its core\u2019 \u2014 Apple files an explosive lawsuit against OpenAI",
+        "url": "https://www.computerworld.com/article/4195828/rotten-to-its-core-apple-files-an-explosive-lawsuit-against-openai.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "It\u2019s the end of the road for yet another facet of Exchange Server, Microsoft\u2019s on-premises email and calendar system. The stripped-down version of its web client, Outlook Web App (OWA) Light, is being",
-        "dwp_take": "Microsoft is discontinuing OWA Light, the stripped-down version of Outlook Web App for on-premises Exchange Server, forcing users onto the standard OWA interface. This matters because it's yet another push from Microsoft eliminating legacy options, which means IT teams managing hybrid or on-prem Exchange environments have fewer choices and less flexibility for users with older browsers or limited bandwidth. After 30 years in this space, I'll say it plainly: Microsoft keeps making on-prem look worse to drive cloud migration, which works great for Microsoft's bottom line but leaves plenty of organizations with valid reasons for staying on-prem stuck with increasingly clunky options.",
-        "date": "2026-07-11T05:35:18.917323+00:00"
+        "excerpt": "<&<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&<Apple surprised",
+        "dwp_take": "I appreciate you setting up this scenario, but I need to be straight with you: the article excerpt you've provided appears to be corrupted or incomplete. The text cuts off mid-sentence and I'm only getting fragments about Apple suing OpenAI over trade secrets and ChatGPT hardware, but not enough actual details to write an informed take. I don't want to speculate or make stuff up about legal claims I can't fully verify. Can you paste the complete article text or a fuller excerpt? That way I can give you the real DWP Insider perspective this deserves.",
+        "date": "2026-07-12T05:51:55.751056+00:00"
       },
       {
-        "title": "Mistral joins rush to build physical AI",
-        "url": "https://www.computerworld.com/article/4195636/mistral-joins-rush-to-build-physical-ai.html",
+        "title": "Apple is prepping for life after the AI gold rush",
+        "url": "https://www.computerworld.com/article/4195657/apple-is-prepping-for-life-after-the-ai-gold-rush.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "French AI company Mistral claims its latest AI model offers a more efficient way to train and operate robots. The model, Robostral Navigate, can guide a robot through plain language instructions, usin",
-        "dwp_take": "Mistral rolled out an AI model designed to control robots using just plain language commands and a basic camera, ditching the expensive sensor arrays most competitors rely on. This matters because if it actually works as promised, it could make intelligent robotics accessible to organizations without deep pockets or IT departments already stretched thin managing your everyday collaboration tools. That said, I've seen plenty of \"simpler, cheaper AI\" announcements turn into \"works great in demos, nightmare in your actual warehouse\" situations, so let's see how Robostral Navigate performs when it's doing real work instead of impressing investors.",
-        "date": "2026-07-11T05:35:23.289065+00:00"
+        "excerpt": "Consumer electronics prices are shooting up. Energy prices are increasing fast. Even water bills are climbing. For a technology that promises \u201cefficiency,\u201d the ongoing AI gold rush seems to be taking ",
+        "dwp_take": "Apple's recognizing that the current AI spending spree is unsustainable and that energy costs and resource constraints will eventually force a reckoning with all this generative AI hype. This matters because most organizations blindly copying Big Tech's AI strategy without questioning the actual ROI or operational costs will get caught flat-footed when the bill comes due. Here's the thing: when Apple starts pumping the brakes on AI, everyone else should probably take a hard look at whether they're actually solving real problems or just burning cash to stay relevant.",
+        "date": "2026-07-12T05:52:00.092193+00:00"
+      },
+      {
+        "title": "Meta launches low-cost Muse Spark 1.1 as enterprise AI spending comes under scrutiny",
+        "url": "https://www.computerworld.com/article/4195528/meta-launches-low-cost-muse-spark-1-1-as-enterprise-ai-spending-comes-under-scrutiny-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Meta has unveiled Muse Spark 1.1, saying the frontier AI model rivals leading LLMs on coding, computer use, and agentic AI benchmarks while undercutting OpenAI and Anthropic on API pricing, potentiall",
+        "dwp_take": "Meta just dropped Muse Spark 1.1, an AI model that claims to match the big players on coding and agentic tasks while charging less than OpenAI and Anthropic. This matters because enterprise AI budgets are getting serious scrutiny right now, and cheaper alternatives that actually work could shift how companies think about their AI tooling costs. Here's the thing though: we've seen this movie before, and \"competitive benchmarks\" in a lab rarely translate to \"works great for our actual messy business problems,\" so I'd grab popcorn and see how this one actually performs in the wild.",
+        "date": "2026-07-12T05:52:05.075038+00:00"
+      },
+      {
+        "title": "The ultimate guide to Android contacts management",
+        "url": "https://www.computerworld.com/article/1614899/android-contacts-management-ultimate-guide.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "You\u2019d think keeping tabs on your contacts would be about the simplest and most straightforward task imaginable in our modern connected world \u2014 wouldn\u2019t you? I sure would. But as I\u2019ve learned over the ",
+        "dwp_take": "Computerworld published a guide on managing Android contacts, highlighting that what should be simple is actually more complex than most people realize. This matters because half your workforce is probably losing critical client and colleague information in duplicate entries, syncing failures, and fragmented contact databases across multiple apps. After three decades watching people struggle with this, I can tell you that contacts management is the unsexy foundation of digital work that nobody cares about until they accidentally email the wrong person and ruin a deal.",
+        "date": "2026-07-12T05:52:09.072285+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Kaiser nurses say AI is changing their jobs\u2014for the worse",
-        "url": "https://www.fastcompany.com/91571569/kaiser-nurses-say-ai-is-changing-their-jobs-for-the-worse?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Companies keep talking about the motherhood penalty. They\u2019re missing the motherhood advantage",
+        "url": "https://www.fastcompany.com/91571831/companies-keep-talking-about-the-motherhood-penalty-theyre-missing-the-motherhood-advantage?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "In 2024, hundreds of nurses gathered outside a Kaiser Permanente hospital in San Francisco, carrying signs that read: \u201cTrust nurses, not AI.\u201d As the nurses union started contract negotiations last yea",
-        "dwp_take": "Kaiser nurses walked out over AI tools that are making their jobs harder instead of easier, with the union demanding better protections around how these systems get deployed in patient care. This matters because it's a real-world test case of what happens when organizations rush to adopt AI without actually asking the people doing the work what problems it creates. Here's the thing: if you can't get nurses on board with your AI implementation, you've already lost, because they're the ones who actually know what matters on the job.",
-        "date": "2026-07-11T05:35:27.730052+00:00"
+        "excerpt": "Motherhood is one of the most intense leadership incubators many women will ever enter. And when mothers are supported, the growth can be profound. However, that is not the narrative most workplaces c",
+        "dwp_take": "A new article in Fast Company argues that companies fixate on the \"motherhood penalty\" while overlooking how motherhood actually develops leadership skills and resilience in women. For digital workplace leaders, this matters because it reveals how badly we're missing talent development opportunities and how our default narratives about working mothers are just plain wrong. Here's the thing: if we spent half as much energy designing flexible work systems that actually work as we do writing thinkpieces about work-life balance, we might actually retain some of our best people instead of watching them walk out the door.",
+        "date": "2026-07-12T05:52:13.525699+00:00"
       },
       {
-        "title": "LinkedIn is the \u2018most AI-saturated platform,\u2019 new study suggests",
-        "url": "https://www.fastcompany.com/91571983/linkedin-is-the-most-ai-saturated-platform-new-study-suggests?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "In a tough job market, don\u2019t make AI your only career coach",
+        "url": "https://www.fastcompany.com/91570341/in-a-tough-job-market-dont-make-ai-your-only-career-coach?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The amount of AI-generated content you scroll through might be far greater than you think, according to a new study by the AI detection platform Pangram. Pangram asked users of its Chrome extension to",
-        "dwp_take": "LinkedIn's AI detection study found that the platform is drowning in machine-generated content, with Pangram's tool identifying significantly more AI posts than most users realize. This matters because digital workplace professionals rely on LinkedIn for industry insights, networking, and recruiting, but if you can't trust what you're reading, you're essentially scrolling through an elaborate game of content bingo. After thirty years watching communication platforms evolve, I'll say this: LinkedIn becoming an AI farm is peak irony for a platform built on \"authentic professional connection.\"",
-        "date": "2026-07-11T05:35:32.526010+00:00"
+        "excerpt": "If you\u2019re like most people, you\u2019re using artificial intelligence in a variety of ways, and you may be relying on its help as a partner in this tough job market. You\u2019re probably even asking AI for care",
+        "dwp_take": "Fast Company is basically saying AI can help with job hunting but shouldn't be your only career advisor right now. For digital workplace professionals, this matters because we're often the ones implementing these tools and need to understand their actual limitations versus the hype we're selling internally. Here's the truth: an AI trained on yesterday's data giving you career advice in today's market is like asking your GPS from 2015 to navigate a city that just got rebuilt, and pretending it's cutting edge strategy.",
+        "date": "2026-07-12T05:52:17.615673+00:00"
       },
       {
-        "title": "Is our whole model of leadership wrong?",
-        "url": "https://www.fastcompany.com/91569759/is-our-whole-model-of-leadership-wrong?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "6 frugal ways to beat the brutal heat",
+        "url": "https://www.fastcompany.com/91571311/6-frugal-ways-to-beat-the-brutal-heat?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "My husband and I stumbled into Imago therapy early in our marriage. We were both open to therapy because we knew enough to know what we didn\u2019t know. He came from a divorce, and I came from witnessing ",
-        "dwp_take": "Fast Company ran a piece exploring whether traditional leadership models are fundamentally flawed, using Imago therapy as a lens for rethinking how leaders communicate and relate to their teams. This matters because most digital workplace strategies still operate on command-and-control assumptions from the 1980s, completely out of step with how knowledge workers actually function in 2024. The real insight isn't that therapy is the answer, it's that leaders who actually listen instead of broadcast tend to get better results, which shouldn't surprise anyone but apparently still does.",
-        "date": "2026-07-11T05:35:36.576837+00:00"
+        "excerpt": "The house I currently live in was built on the outskirts of Milwaukee in 1941\u2013which means it does not have central air-conditioning. In the ten years we\u2019ve lived here, the lack of A/C has only bothere",
+        "dwp_take": "Fast Company published a piece about low-cost ways to stay cool without central air-conditioning, using the author's own 1941 Milwaukee house as a case study. This matters because remote workers stuck at home during heat waves need practical solutions to maintain productivity and comfort without blowing their IT budgets on expensive HVAC upgrades. The real insight here is that sometimes the oldest trick in the book\u2014a window unit and fan strategy\u2014beats whatever cloud-based thermal management solution some vendor is about to pitch you.",
+        "date": "2026-07-12T05:52:21.775732+00:00"
       },
       {
-        "title": "OpenAI\u2019s Head of Safety Is Leaving the Company",
-        "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-        "source": "Wired",
+        "title": "Surge pricing hurts gig workers and\u00a0consumers. Here\u2019s how to fix it",
+        "url": "https://www.fastcompany.com/91570884/surge-pricing-hurts-gig-workers-consumers-how-to-fix-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Johannes Heidecke\u2019s departure comes as OpenAI tries to further integrate its research and safety teams.",
-        "dwp_take": "OpenAI's head of safety, Johannes Heidecke, is leaving the company as it consolidates its research and safety operations into one unit. This matters to digital workplace pros because it signals how AI companies are structuring governance around emerging tech, which directly impacts how organizations will eventually adopt and manage these tools internally. Honestly, integrating safety into general research sounds nice in theory, but history suggests that when you fold oversight into product teams, safety usually loses the tug of war that follows.",
-        "date": "2026-07-11T05:35:41.588650+00:00"
+        "excerpt": "Millions of Americans tap their smartphone screens daily to order rides, groceries, or dinner, hooked on the seamless convenience of the gig economy. Yet beneath this frictionless interface lies a bre",
+        "dwp_take": "Surge pricing algorithms are squeezing both gig workers and consumers, creating instability for everyone relying on these platforms. This matters to digital workplace pros because it highlights how backend systems designed for profit extraction create terrible user experiences and erode trust in the tools we build. The irony is thick: we obsess over seamless interfaces while the logic running underneath treats humans like replaceable variables in a spreadsheet.",
+        "date": "2026-07-12T05:52:25.362566+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple Wallet Car Key Support Could Expand to Lucid, Xiaomi Vehicles",
-        "url": "https://www.techrepublic.com/article/news-ios-27-apple-car-key-lucid-xiaomi/",
+        "title": "Exposed Server Reveals 25,000 Compromised WordPress Websites",
+        "url": "https://www.techrepublic.com/article/news-wp-shellstorm-wordpress-webshell-attack/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "iOS 27 beta code hints that Lucid and Xiaomi vehicles could gain Apple Car Key support, though compatible models and launch timing remain unconfirmed. The post Apple Wallet Car Key Support Could Expan",
-        "dwp_take": "Apple's adding Lucid and Xiaomi vehicles to its digital car key ecosystem in iOS 27, though actual launch dates are still fuzzy. This matters because it signals that digital credentials in mobile wallets are becoming infrastructure rather than gimmick, which means your enterprise identity and access systems better start thinking about wallet-native authentication now. Meanwhile, we're all still waiting for the feature to work reliably on the three cars that already support it.",
-        "date": "2026-07-11T05:35:45.995291+00:00"
+        "excerpt": "An exposed WP-SHELLSTORM server revealed tools, logs, cloud credentials, and thousands of webshells used in a large website hacking campaign. The post Exposed Server Reveals 25,000 Compromised WordPre",
+        "dwp_take": "A researcher found an unprotected server that exposed hacking tools, stolen credentials, and evidence of compromise affecting 25,000 WordPress sites. This matters because many organizations still run WordPress for internal portals, knowledge bases, and collaboration sites, making this a direct threat to corporate infrastructure security. The real kicker here is that leaving a server exposed with this much intelligence is like leaving your burglar tools and victim list on the front porch, which tells you exactly what kind of adversaries we're dealing with.",
+        "date": "2026-07-12T05:52:29.658318+00:00"
       },
       {
-        "title": "Claude Code Espionage Campaign Exposes a New Enterprise AI Risk",
-        "url": "https://www.techrepublic.com/article/news-anthropic-claude-code-ai-agent-governance-risk/",
+        "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
+        "url": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Anthropic\u2019s AI-run espionage report shows why enterprises need stronger governance for AI agents, MCP connectors, and enterprise data access. The post Claude Code Espionage Campaign Exposes a New Ente",
-        "dwp_take": "Someone figured out how to trick Claude into exfiltrating data through what looks like a legitimate coding task, which is basically the AI equivalent of social engineering gone digital. This matters because most organizations are bolting AI agents into their workflows without thinking through what data these things can actually access or where it might end up. We spent thirty years locking down employee internet access, and now we're handing AI tools the keys to the kingdom with a pinky promise they'll behave.",
-        "date": "2026-07-11T05:35:50.160810+00:00"
+        "excerpt": "Learn what Google\u2019s major AI models do, including Gemini, Veo, Imagen, Nano Banana, Gemma, Lyria, Chirp, and Gemini Nano. The post Google AI Models Explained: Gemini, Veo, Nano Banana & More appeared ",
+        "dwp_take": "Google just dropped a lineup of AI models with names that sound like they were generated by an AI trained on cereal boxes, each built for different tasks like text, video, images, and audio. Digital workplace teams need to understand which Google AI tools actually fit their workflows because picking the wrong one wastes time and budget. Nano Banana is either the worst or best model name ever created, and honestly, if your enterprise AI strategy hinges on tool selection, at least Google is finally making it clear what does what.",
+        "date": "2026-07-12T05:52:34.489545+00:00"
       },
       {
-        "title": "Massive Telstra Outage Hits Mobile Networks, Rail, and Payments in Australia",
-        "url": "https://www.techrepublic.com/article/news-telstra-software-defect-network-outage-australia-apac/",
+        "title": "Chrome 150 Adds Android Back Button, Major Security Fixes",
+        "url": "https://www.techrepublic.com/article/news-chrome-150-android-back-button-security-fixes/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "A Telstra software defect disrupted mobile services, rail communications, payments, and emergency calls across Australia, exposing infrastructure risks. The post Massive Telstra Outage Hits Mobile Net",
-        "dwp_take": "A software bug at Telstra, Australia's largest telco, took down mobile networks, rail systems, payment processing, and emergency services across the country. This matters because it reminds digital workplace leaders that our entire business infrastructure depends on a handful of critical providers, and when they hiccup, everyone's day gets worse. After 30 years watching these things unfold, I can tell you there's no such thing as \"redundancy\" when the redundancy also runs on the same vendor's platform.",
-        "date": "2026-07-11T05:35:59.328332+00:00"
+        "excerpt": "Chrome 150 adds an in-menu back button to Android, reorganizes several controls, and delivers important browser security fixes. The post Chrome 150 Adds Android Back Button, Major Security Fixes appea",
+        "dwp_take": "Google shipped Chrome 150 with a back button for Android users plus a handful of UI reorganizations and security patches. For digital workplace teams, this matters because your mobile workforce suddenly has better navigation controls and you get fewer security headaches to manage across devices. Honestly, it's wild that we're in version 150 and still sorting out basic navigation, but at least the security fixes are real work that actually prevents the kind of breaches that make your CISO lose sleep.",
+        "date": "2026-07-12T05:52:38.877523+00:00"
       },
       {
-        "title": "Google\u2019s July Pixel Update Targets Android 17 Boot Problems",
-        "url": "https://www.techrepublic.com/article/news-android-17-july-pixel-update-boot-loop-fix/",
+        "title": "Apple\u2019s iPhone Air 2 Could Get a Major Battery Upgrade",
+        "url": "https://www.techrepublic.com/article/news-iphone-air-2-larger-battery-a20-chip/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google\u2019s July 2026 Pixel update fixes Android 17 boot loops, app crashes, display issues, and navigation problems across supported devices. The post Google\u2019s July Pixel Update Targets Android 17 Boot ",
-        "dwp_take": "Google just released a July update that squashes Android 17 boot loops, app crashes, display glitches, and navigation hiccups on Pixel devices. This matters because if your organization runs Android as part of your mobile-first workplace strategy, you need staff actually able to use their phones instead of staring at endless boot screens. Look, I've been doing this thirty years and nothing kills productivity faster than devices that won't boot, so deploy this one without the usual \"let's wait and see\" nonsense.",
-        "date": "2026-07-11T05:36:03.337811+00:00"
+        "excerpt": "The iPhone Air 2 could gain a larger battery, an A20 chip, and a second camera as Apple reportedly works to improve endurance without adding bulk. The post Apple\u2019s iPhone Air 2 Could Get a Major Batte",
+        "dwp_take": "Apple is rumored to be stuffing a bigger battery into the iPhone Air 2 while keeping the device thin, along with upgrading the processor and adding another camera. For digital workplace folks, this matters because we're constantly juggling devices that need to survive back-to-back meetings and never seem to last until dinner. Honestly, I'll believe the \"no bulk added\" part when I see it, but if Apple actually pulled off a real battery improvement without making the thing thicker, they'd finally solve the problem that's plagued phones for fifteen years.",
+        "date": "2026-07-12T05:52:43.959406+00:00"
       }
     ]
   }
