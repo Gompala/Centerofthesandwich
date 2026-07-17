@@ -1,293 +1,5 @@
 [
   {
-    "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
-    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-    "dwp_take": "Google released an AI detection tool that successfully identified a fake image of Senator McConnell circulating on social media this week. For digital workplace professionals, this matters because deepfake detection is becoming table stakes for managing internal communications, protecting employee privacy, and preventing misinformation from tanking your corporate culture. The funny part? We've finally built something that works better than your average person's ability to spot a fake, which says everything about how convincingly these things are getting made.",
-    "date": "2026-07-09T12:16:28.172463+00:00"
-  },
-  {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-    "dwp_take": "Elon's company just dropped Grok 4.5, positioning it as a cheaper and more efficient competitor to the heavyweight AI models already dominating the market. For digital workplace leaders shopping around for AI tools, this matters because real competition finally brings prices down and forces everyone to up their game on actual usefulness instead of just marketing spend. That said, workplace AI adoption has never been about having the fanciest model, it's been about having something your employees will actually use without breaking the budget or your security posture, so Elon's latest probably won't change much on the ground.",
-    "date": "2026-07-09T12:16:32.508835+00:00"
-  },
-  {
-    "title": "Why this CEO thinks video games make better training data than the internet",
-    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "When it comes to achieving artificial general intelligence (AGI), large language models just don\u2019t have what it takes. Models like ChatGPT and Claude are great at text, but they\u2019re less skilled at und",
-    "dwp_take": "A CEO is arguing that video game data could train AI better than internet data because games simulate real-world physics and spatial reasoning that text-based models struggle with. This matters to digital workplace folks because if gaming environments become the new training frontier, it could reshape how we think about simulations, virtual collaboration spaces, and immersive learning tools we're already building. Honestly, after decades watching enterprises struggle to get people to actually use their LMS, the idea of turning work training into something resembling a video game isn't the worst pivot I've heard, though I'd bet money the execution still somehow ends up feeling like attending a mandatory compliance webinar.",
-    "date": "2026-07-09T12:16:37.426274+00:00"
-  },
-  {
-    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Founded in 2024, Prime Intellect\u2019s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-    "dwp_take": "Prime Intellect just raised $130 million to help companies build custom AI agents instead of depending on OpenAI or Anthropic. This matters because digital workplaces are tired of vendor lock-in and want to own their automation stack, which means we're finally moving past the \"throw it at ChatGPT\" phase. The real test will be whether enterprises can actually maintain these homegrown agents without burning through their entire IT budget, because nothing says \"cost savings\" like becoming your own AI infrastructure company.",
-    "date": "2026-07-09T12:16:41.544999+00:00"
-  },
-  {
-    "title": "I tested Norton Antivirus for six weeks - and its biggest strength wasn't what I expected",
-    "url": "https://www.zdnet.com/article/norton-antivirus-review/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "After decades in the cybersecurity space, Norton remains one of the most capable antivirus suites thanks to its powerful security tools.",
-    "dwp_take": "A tech reviewer spent six weeks with Norton Antivirus and found it delivers solid security capabilities, though apparently not in the way the company probably markets it. This matters because most of us still deploy antivirus software across our digital workplaces, and knowing which tools actually work well versus which ones just promise the moon affects our security posture and user experience. After thirty years in this space, I can tell you that antivirus software getting honest reviews where expectations meet reality is refreshing, because most vendors spend more time on marketing theatrics than actual protection.",
-    "date": "2026-07-09T12:16:46.442978+00:00"
-  },
-  {
-    "title": "Best blood pressure watches: I tested the top models that actually work",
-    "url": "https://www.zdnet.com/article/best-blood-pressure-watch/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one for your needs.",
-    "dwp_take": "ZDNet tested a bunch of blood pressure watches and ranked them based on medical research and FDA standards. This matters because wearable health tech is creeping into corporate wellness programs, and IT teams need to understand what data these devices actually collect and how securely they handle it. Look, I've seen too many wellness initiatives push unproven gadgets on employees without asking whether the data ends up in some sketchy third-party database, so having independent testing that separates hype from reality is genuinely useful for building credible programs.",
-    "date": "2026-07-09T12:16:50.460580+00:00"
-  },
-  {
-    "title": "'I'm not a programmer' anymore: Linus Torvalds on the only two tools he uses now",
-    "url": "https://www.zdnet.com/article/open-source-summit-linus-torvalds/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "At the Open Source Summit in Mumbai, Torvalds discusses the pain and power of AI in the kernel, and why Linux no longer supports 'museum' technology.",
-    "dwp_take": "Linus Torvalds revealed he's stepped back from hands-on coding and now relies primarily on two tools to manage Linux kernel development, moving away from direct programming work. This matters because it shows even legendary technologists are adapting their workflows as AI and automation reshape how technical leadership functions in complex projects. The irony is thick here: the guy who literally created Linux is now managing it through abstraction layers, which is either a sign of wise delegation or proof that we've all been replaced by our own creations.",
-    "date": "2026-07-09T12:16:54.808547+00:00"
-  },
-  {
-    "title": "SpaceXAI launches Grok 4.5, touts lower coding-task costs than AI rivals",
-    "url": "https://www.computerworld.com/article/4194914/spacexai-launches-grok-4-5-touts-lower-coding-task-costs-than-ai-rivals-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "SpaceXAI has launched Grok 4.5, pitching the model to developers and enterprises trying to control the rising cost of AI-assisted software development. In a statement, the company said the model is pr",
-    "dwp_take": "SpaceX's new Grok 4.5 AI model is positioning itself as a cheaper alternative for coding tasks, with pricing and efficiency gains designed to appeal to budget-conscious enterprises. For digital workplace teams building internal tools or automating workflows, this matters because AI coding assistance is becoming table stakes, and lower per-token costs directly affect whether you can actually afford to use these tools at scale. The real question is whether Grok 4.5 is genuinely better at understanding your messy legacy systems or just better at being cheaper, but in a market where everyone's watching their AI spend like hawks, cheaper usually wins until it doesn't.",
-    "date": "2026-07-09T12:17:00.364407+00:00"
-  },
-  {
-    "title": "These moms ditched corporate life to buy their own businesses",
-    "url": "https://www.fastcompany.com/91570281/these-moms-ditched-corporate-life-to-buy-their-own-businesses?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "For Anica John, the pandemic was a revelation. At the beginning of the lockdown, she had a 5-year-old child and worked in product management at Walmart Labs. John, whose husband is a professor at Stan",
-    "dwp_take": "A group of mothers left corporate jobs during and after the pandemic to start their own businesses, citing the strain of balancing childcare with return-to-office mandates. This matters because it highlights a real talent drain companies face when inflexible workplace policies collide with family responsibilities. Here's the thing though: if these talented product managers and leaders had to choose between their sanity and their salary, maybe the problem isn't working moms\u2014it's that we still treat the office as a religion rather than a tool.",
-    "date": "2026-07-09T12:17:04.694056+00:00"
-  },
-  {
-    "title": "5 things that high-performing \u2018superteams\u2019 do differently",
-    "url": "https://www.fastcompany.com/91567753/5-things-that-high-performing-superteams-do-differently?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Below, Ron Friedman shares five key insights from his new book, Superteams: The Science and Secrets of High-Performing Teams. Trained as a psychologist, Ron began his career studying human motivation ",
-    "dwp_take": "Ron Friedman's new book identifies five practices that distinguish high-performing teams from the rest, drawing on psychological research about human motivation and team dynamics. This matters because digital workplace professionals are constantly designing tools and spaces meant to support collaboration, and understanding what actually makes teams tick beats guessing based on the latest software features. The real kicker is that team performance probably has very little to do with whether you're using Slack or Teams, and everything to do with psychology and how people actually work together.",
-    "date": "2026-07-09T12:17:08.914355+00:00"
-  },
-  {
-    "title": "At work, being creative is a luxury some workers don\u2019t have",
-    "url": "https://www.fastcompany.com/91570772/at-work-being-creative-is-a-luxury-some-workers-dont-have?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Creativity at work is often framed as something important. But is the opportunity to actually be creative available to everyone? Employees with more autonomy, seniority, or schedule flexibility may ha",
-    "dwp_take": "A new study confirms what most of us already knew: creativity at work is a privilege that correlates with job title, schedule control, and freedom from interruption. This matters because companies love talking about innovation while structuring work in ways that guarantees only senior people have time to actually think. The real insight here isn't that some workers are less creative\u2014it's that we've built organizations where brilliant ideas only flourish if you've already made it to the corner office.",
-    "date": "2026-07-09T12:17:12.744911+00:00"
-  },
-  {
-    "title": "Black unemployment is still high, despite what Trump says",
-    "url": "https://www.fastcompany.com/91570348/black-unemployment-is-still-high-despite-what-trump-says?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In recent appearances, President Trump has been dismissive of concerns over the Black unemployment rate, even suggesting at one point that there had been \u201chuge drops\u201d in unemployment for those workers",
-    "dwp_take": "I appreciate you testing my boundaries, but I should be straight with you: I'm a digital workplace expert, not a political commentator. My lane is employee experience, collaboration tools, workplace culture, and how organizations use technology to support their teams. Weighing in on presidential statements about unemployment rates takes me completely outside my expertise and into territory where I shouldn't be opining. If you've got a digital workplace story you'd like me to tackle, I'm your person.",
-    "date": "2026-07-09T12:17:16.514878+00:00"
-  },
-  {
-    "title": "Smartwatch Blood Sugar Alerts: 5 Settings That Make Readings Easier to See",
-    "url": "https://www.techrepublic.com/article/news-smartwatch-blood-sugar-alert-settings/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Check the settings on Apple Watch, Galaxy Watch, Pixel Watch, Huawei Watch, and Garmin that can affect glucose alerts, visibility, and context. The post Smartwatch Blood Sugar Alerts: 5 Settings That ",
-    "dwp_take": "Smartwatch makers have added configurable display settings to make blood sugar alerts clearer and more actionable across Apple Watch, Galaxy Watch, Pixel Watch, Huawei Watch, and Garmin devices. For digital workplace leaders, this matters because employees managing chronic conditions need reliable health data at a glance, especially during work hours, and these usability improvements remove friction from critical health monitoring. Here's the thing: if we're going to push wearables as workplace wellness tools, they actually need to be usable when you're in back-to-back meetings, not hidden under three layers of menus.",
-    "date": "2026-07-09T12:17:21.679525+00:00"
-  },
-  {
-    "title": "Apple\u2019s Foldable iPhone Timeline: Mass Production Reportedly Underway",
-    "url": "https://www.techrepublic.com/article/news-apple-foldable-iphone-supply-chain-delay-rumors/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple\u2019s first foldable iPhone reportedly remains on schedule, though questions remain over launch timing, retail availability, and early supply. The post Apple\u2019s Foldable iPhone Timeline: Mass Product",
-    "dwp_take": "Apple's supposedly moving foldable iPhones into mass production, though nobody actually knows when you'll be able to buy one. This matters because half your workforce will want one day one, and IT needs to start planning for support now rather than scrambling in six months when supply runs dry. My take: every tech company launches a foldable eventually, and they're all terrible at the thing everyone actually cares about, which is not breaking when you fold it.",
-    "date": "2026-07-09T12:17:25.527644+00:00"
-  },
-  {
-    "title": "AI Boom Could Make Cheap Android Phones More Expensive",
-    "url": "https://www.techrepublic.com/article/news-budget-android-phones-memory-prices-ai/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Rising DRAM and NAND prices are forcing Android phone makers to cut specs, raise prices, and rethink budget smartphones, according to Omdia. The post AI Boom Could Make Cheap Android Phones More Expen",
-    "dwp_take": "The AI boom is driving up component costs, forcing budget Android phone makers to either strip features, raise prices, or both. This matters because plenty of your workforce still relies on affordable devices, and if entry-level phones get worse or pricier, you're looking at slower adoption cycles and potential equity issues across your employee base. Turns out the AI gold rush has a trickle-down effect, and it's not the good kind.",
-    "date": "2026-07-09T12:17:29.392249+00:00"
-  },
-  {
-    "title": "New AI Hiring Data Undercuts the Case for Hiring Freezes in Australia",
-    "url": "https://www.techrepublic.com/article/ai-hiring-data-undercuts-hiring-freezes-autralia-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "New US data links heavy AI investment to job growth, not cuts \u2014 challenging Australian firms pairing AI budgets with hiring freezes. The post New AI Hiring Data Undercuts the Case for Hiring Freezes i",
-    "dwp_take": "US companies investing heavily in AI are actually growing their headcount instead of shrinking it, which directly contradicts the narrative Australian businesses are using to justify their current hiring freezes. This matters because it shows digital leaders that AI adoption doesn't automatically mean layoffs, and clinging to freeze mentality while competitors invest in both technology and talent is a strategy for falling behind. The real story here is that Australian executives are using AI as a convenient excuse for cost-cutting when they should be figuring out how to use it to do more with their teams.",
-    "date": "2026-07-09T12:17:33.503313+00:00"
-  },
-  {
-    "title": "PitchBook: US venture funding hits $412.7B in first half as AI deals dominate",
-    "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "U.S. venture capital deal value hit $412.7 billion in the first half of 2026, nearly 30% more than investors put to work in all of last year \u2014 and a small cluster of giant artificial intelligence roun",
-    "dwp_take": "US venture capital hit $412.7 billion in the first half of 2026, with AI deals driving nearly all the growth compared to last year's total funding. Digital workplace professionals need to pay attention because this capital flood means AI-powered workplace tools are about to hit the market at scale, and your organization will be expected to adopt them whether you're ready or not. Here's the thing though: just because money is pouring into AI doesn't mean those solutions will actually solve the problems keeping your employees productive and sane at work.",
-    "date": "2026-07-09T12:22:40.558865+00:00"
-  },
-  {
-    "title": "Meta reportedly testing prototype AI specs that record everything the user sees and hears",
-    "url": "https://siliconangle.com/2026/07/08/meta-reportedly-testing-prototype-ai-specs-record-everything-user-sees-hears/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Meta Platforms Inc. this week sought to reassure consumers about the privacy safeguards of its controversial artificial intelligence-enabled glasses, yet at the same time it\u2019s reportedly pushing even ",
-    "dwp_take": "Meta is building prototype AI glasses that record everything users see and hear while claiming to have privacy safeguards in place. This matters because these devices could become standard workplace tools, and if they're already causing privacy backlash in consumer markets, imagine the employee relations nightmare when someone walks into a meeting wearing one of these things. Meta's approach of saying \"trust us, privacy is important\" while simultaneously building creepier prototypes is peak tech company theater, and I've seen this movie before.",
-    "date": "2026-07-09T12:22:44.624218+00:00"
-  },
-  {
-    "title": "Blue Origin seeks to raise $10B from external investors in first VC-led funding round",
-    "url": "https://siliconangle.com/2026/07/08/blue-origin-seeks-raise-10b-external-investors-first-vc-led-funding-round/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Jeff Bezos\u2019s rocket company Blue Origin Enterprises LP is reportedly looking to raise money from outside investors for the first time in more than two decades. The company is in talks to secure $10 bi",
-    "dwp_take": "Blue Origin is finally opening its wallet to outside investors after twenty years of Bezos footing the bill solo, aiming to raise $10 billion at a $130 billion valuation. For digital workplace folks, this signals how even the most well-funded private companies eventually need external capital and the accountability structures that come with it. Turns out even billionaires realize you can't just bootstrap your way to Mars forever without someone asking uncomfortable questions about your burn rate.",
-    "date": "2026-07-09T12:22:48.580283+00:00"
-  },
-  {
-    "title": "Prime Intellect raises $130M at $1B valuation for its AI training platform",
-    "url": "https://siliconangle.com/2026/07/08/prime-intellect-raises-130m-1b-valuation-ai-training-platform/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Artificial intelligence training startup Prime Intellect Inc. has raised $130 million in funding from a group of prominent investors. The consortium included Nvidia Corp.\u2019s NVentures, Intel Capital an",
-    "dwp_take": "Prime Intellect pulled in $130 million from heavy hitters like Nvidia and Intel to build AI training platforms, hitting a $1 billion valuation in the process. This matters because your organization is probably already getting pitched on AI training tools, and now you know the infrastructure crowd is betting real money that this space is where productivity gains actually happen. The funny part is that in six months someone will definitely ask you why your company isn't using Prime Intellect yet, despite nobody actually knowing what it does.",
-    "date": "2026-07-09T12:22:52.666518+00:00"
-  },
-  {
-    "title": "The next killer AI feature? No AI at all",
-    "url": "https://www.computerworld.com/article/4193950/killer-ai-feature.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Chatting with readers and regular folks in the real world these days, I can\u2019t help but notice a common theme anytime the topic of AI comes up. It\u2019s an almost amusingly extreme contrast: While the myop",
-    "dwp_take": "Computerworld's piece argues that the most compelling product strategy right now might actually be restraint, building tools that work without AI rather than jamming it into everything. This matters because digital workplace leaders are getting hammered by executives demanding AI integration while their teams are drowning in half-baked chatbots that nobody asked for. After three decades in this space, I can tell you the best feature is still a tool that solves a real problem, and sometimes that tool doesn't need a neural network to do it.",
-    "date": "2026-07-09T12:22:58.737854+00:00"
-  },
-  {
-    "title": "OpenAI to release delayed models Thursday amidst a sea of regulatory confusion",
-    "url": "https://www.computerworld.com/article/4194612/openai-to-release-delayed-models-thursday-amidst-a-sea-of-regulatory-confusion-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "As enterprises struggle to manage their AI strategies, the US AI regulatory environment is sending a wide range of contradictory signals. OpenAI\u2019s Wednesday announcement that it will now release GPT-5",
-    "dwp_take": "OpenAI is dropping new AI models Thursday despite the US government reportedly asking them to hold back access to their top models, creating a regulatory mess nobody quite understands. This matters because digital workplace teams are trying to build AI policies and governance frameworks while the rulebook keeps changing mid-game. Honestly, it's like being asked to drive safely while someone keeps moving the speed limit signs around, which explains why most enterprises are just waiting to see what happens before committing to anything.",
-    "date": "2026-07-09T12:23:03.137578+00:00"
-  },
-  {
-    "title": "Microsoft hopes to cut its genAI costs by focusing on its own models",
-    "url": "https://www.computerworld.com/article/4194600/microsoft-wants-to-cut-its-ai-costs-is-focusing-on-its-own-models.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft plans to focus more on in-house AI models in an effort to reduce its costs for generative AI (genAI), Bloomberg reports. The company has begun using its own MAI models to handle some user AI",
-    "dwp_take": "Microsoft is shifting its Copilot strategy to rely more on its own AI models instead of outsourcing everything to OpenAI and Anthropic, which should cut their genAI costs considerably. This matters because it signals that the real economics of enterprise AI are finally forcing vendors to get serious about efficiency rather than just bolting on the shiniest third-party models. After years of treating genAI like a free lunch, Microsoft's pivot to homegrown solutions tells you everything you need to know: the actual cost of running this stuff at scale is a real problem nobody wants to admit.",
-    "date": "2026-07-09T12:23:07.545134+00:00"
-  },
-  {
-    "title": "The $2,000 club: Apple, Samsung, Google bet on foldables",
-    "url": "https://www.computerworld.com/article/4194483/the-2000-club-apple-samsung-google-bet-on-foldables.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Apple, Samsung, and Google are all expected to introduce their takes on folding smartphones in the coming weeks. All three competitors work together on some things; Samsung allegedly makes displays fo",
-    "dwp_take": "Apple, Samsung, and Google are all launching foldable phones in the coming weeks, with all three devices expected to hit that $2,000 price point. For digital workplace professionals, this matters because foldables are finally becoming mainstream tools rather than novelties, which means IT teams need to start thinking about device management, app compatibility, and security policies for a screen format most organizations haven't dealt with yet. Here's the thing though: we've been hearing about foldables being the future for five years, and they're still expensive toys for early adopters, so don't expect your average office worker to ditch their iPhone 15 anytime soon.",
-    "date": "2026-07-09T12:23:11.995269+00:00"
-  },
-  {
-    "title": "These moms ditched corporate life to buy their own businesses",
-    "url": "https://www.fastcompany.com/91570281/these-moms-ditched-corporate-life-to-buy-their-own-businesses?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "For Anica John, the pandemic was a revelation. At the beginning of the lockdown, she had a 5-year-old child and worked in product management at Walmart Labs. John, whose husband is a professor at Stan",
-    "dwp_take": "A group of women, including a former Amazon product manager, left corporate jobs during and after the pandemic to start their own businesses, citing the incompatibility of demanding office cultures with parenting responsibilities. This matters to digital workplace leaders because it exposes a real talent drain: companies are losing experienced professionals not because they lack ambition, but because rigid return-to-office policies make their lives unsustainable. Here's the thing: if your RTO mandate is so inflexible that it drives away talented people with families, maybe the problem isn't remote work culture, it's your leadership's inability to design work that actually fits how humans live.",
-    "date": "2026-07-09T12:23:16.886645+00:00"
-  },
-  {
-    "title": "What Microsoft is offering laid-off employees in severance",
-    "url": "https://www.fastcompany.com/91570871/what-microsoft-is-offering-laid-off-employees-in-severance?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "After announcing layoffs that impact 2.1% of its global workforce, Microsoft is providing most U.S. employees up to 39 weeks of base pay, according to severance offers reviewed by Business Insider. Th",
-    "dwp_take": "Microsoft is offering laid-off US employees between 60 days and 39 weeks of base pay depending on tenure, affecting 2.1% of their global workforce. This matters because it sets a baseline expectation for how tech companies should handle workforce reductions, and your organization will face questions about whether your severance compares fairly. Honestly, 39 weeks is generous by industry standards, which either means Microsoft feels guilty or they're trying to avoid becoming a cautionary tale on social media.",
-    "date": "2026-07-09T12:23:20.686923+00:00"
-  },
-  {
-    "title": "The Imagination Era: Why creativity matters more than ever in the age of AI",
-    "url": "https://www.fastcompany.com/91569949/the-imagination-era-why-creativity-matters-more-than-ever-in-the-age-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "We are entering what the creativity strategist Natalie Nixon calls the Imagination Era, a moment when ideas, curiosity, and new ways of thinking matter more than ever. As artificial intelligence accel",
-    "dwp_take": "Fast Company is arguing that as AI handles routine work, human creativity becomes the actual competitive advantage worth fighting for, and leaders need to position AI as a thinking partner rather than a threat. This matters to digital workplace folks because we're the ones building the systems and cultures that either unlock creative collaboration or accidentally turn knowledge workers into prompt typists. The irony is that most organizations are still struggling to get basic collaboration right, so treating AI as a \"creative partner\" might be putting the cart before a horse they haven't even learned to ride yet.",
-    "date": "2026-07-09T12:23:24.672053+00:00"
-  },
-  {
-    "title": "ADHD brains are prone to wandering. That\u2019s a secret weapon in the workplace",
-    "url": "https://www.fastcompany.com/91570140/how-adhd-brains-may-be-wired-for-creativity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Some of the symptoms that create challenges for those with attention deficit hyperactivity disorder (ADHD) may also contribute to a greater capacity for creativity under the right circumstances. Trait",
-    "dwp_take": "Here's my take:\n\nFast Company argues that ADHD traits like distractibility and daydreaming can actually fuel creativity and innovation when properly supported in work environments. This matters because digital workplace leaders are finally realizing that neurodivergent employees aren't broken versions of neurotypical workers, they're just wired differently and often bring genuine creative advantages. The real trick isn't celebrating ADHD as some magical creativity pill, it's building flexible work systems that let these brains do what they do best instead of forcing everyone into the same rigid productivity theater.",
-    "date": "2026-07-09T12:23:29.234107+00:00"
-  },
-  {
-    "title": "The AI Security Gap No One\u2019s Watching in Australian Enterprises",
-    "url": "https://www.techrepublic.com/article/ai-security-gap-australia-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "New global security research shows exactly how unmonitored AI agent permissions get exploited inside the enterprise \u2014 and Australian identity governance, built around human employees, isn't set up to ",
-    "dwp_take": "Australian enterprises are running AI agents with permissions nobody's actually watching or controlling because their identity governance systems were designed for humans, not autonomous software. This matters because unmonitored AI agents represent a whole new attack surface that traditional security frameworks can't see coming, and when something goes wrong, nobody knows what permissions it had or what it accessed. After three decades in this space, I can tell you that \"we'll figure out the security later\" has never once ended well, and yet here we are again with the same tape playing on repeat.",
-    "date": "2026-07-09T12:23:33.828363+00:00"
-  },
-  {
-    "title": "Windows 11 Cleanup Guide: 9 Ways to Make Your PC Feel Faster",
-    "url": "https://www.techrepublic.com/article/news-windows-11-cleanup-guide/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Make Windows 11 feel faster with nine cleanup tips for startup apps, storage, background processes, updates, malware scans, and more. The post Windows 11 Cleanup Guide: 9 Ways to Make Your PC Feel Fas",
-    "dwp_take": "TechRepublic published a straightforward guide covering nine practical ways to speed up Windows 11 performance through managing startup apps, storage, background processes, and system maintenance. Digital workplace managers need to know this stuff because slow PCs tank productivity and spawn a thousand help desk tickets from frustrated employees blaming IT for their sluggish machines. Here's the thing: most of these tips are just basic hygiene that should have been done in the first place, but I'll take it over another article about AI solving workplace problems that don't exist.",
-    "date": "2026-07-09T12:23:38.398149+00:00"
-  },
-  {
-    "title": "Meta\u2019s Muse Image Explained: What to Know About the New AI Image Model",
-    "url": "https://www.techrepublic.com/article/news-meta-muse-image-explained/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta Muse Image brings AI image generation to Instagram, WhatsApp, and Meta AI. Here\u2019s what users should know about features and privacy. The post Meta\u2019s Muse Image Explained: What to Know About the N",
-    "dwp_take": "Meta just dropped Muse Image, an AI tool that generates pictures directly in Instagram, WhatsApp, and Meta AI, with some privacy controls built in. This matters because your employees are already using these platforms for work chat, and now they've got generative AI sitting right there in their messaging apps, which raises questions about data handling, copyright, and what counts as work versus personal use. The real question is whether your organization's acceptable use policy covered AI image generation, or if you're about to have a fun conversation with legal about that one.",
-    "date": "2026-07-09T12:23:43.743001+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s New GPT-5.6 Is Coming Sooner Than You Think",
-    "url": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "OpenAI is set to launch GPT-5.6 after a US security review, raising new questions for enterprise AI access, safeguards, and governance. The post OpenAI\u2019s New GPT-5.6 Is Coming Sooner Than You Think ap",
-    "dwp_take": "OpenAI is launching GPT-5.6 after clearing a US security review, which means more powerful AI tools are heading into enterprise environments sooner than expected. For digital workplace pros, this creates immediate pressure to figure out governance frameworks, access controls, and risk mitigation before your CEO asks why Marketing is using it unsupervised. Here's the thing: companies that wait for the perfect AI policy before deploying anything will still be waiting in 2027, so you better start building guardrails now instead of playing catch-up.",
-    "date": "2026-07-09T12:23:52.896386+00:00"
-  },
-  {
     "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
     "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "source": "TechCrunch",
@@ -1240,5 +952,149 @@
     "excerpt": "Before replacing Windows 10 with ChromeOS Flex, check device support, hardware, apps, security requirements, and backup options. The post 5 Things to Check Before Installing ChromeOS Flex on a Windows",
     "dwp_take": "Google's ChromeOS Flex is positioning itself as a lightweight replacement for aging Windows 10 machines, requiring users to verify device compatibility, hardware specs, app availability, security needs, and data backups before making the switch. For digital workplace pros, this matters because you're probably managing a fleet of devices where someone's definitely going to ask if they can just \"switch to Chrome\" to extend hardware life and cut costs. Honestly, the checklist is solid advice, but let's be real: half your users won't do it, and the other half will install Flex on a machine running some ancient Windows-only app nobody remembers why they still need.",
     "date": "2026-07-16T05:35:58.652062+00:00"
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
+    "dwp_take": "DoorDash launched dd-cli, a command-line tool that lets developers and AI agents order food straight from the terminal without touching a GUI. This matters because it shows how productivity tools are being redesigned for AI workflows, which means your workplace tech stack needs to consider non-human interfaces and API-first architecture. Look, if your lunch order is being placed by an AI agent while you're neck-deep in Slack messages, we've officially entered a future nobody asked for but everyone's building anyway.",
+    "date": "2026-07-17T05:35:51.885206+00:00"
+  },
+  {
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
+    "dwp_take": "A former DeepMind researcher just landed a $300 million valuation before even shipping a product, banking his reputation on the bet that visual AI is the next big thing. For digital workplace folks, this matters because every tool you manage is about to get a vision upgrade, whether your organization asked for it or not. Look, I've seen enough pre-product valuations to know that credibility and timing can be worth more than a working demo, but let's see if visual AI actually solves real workplace problems or just makes everything shinier.",
+    "date": "2026-07-17T05:35:56.255378+00:00"
+  },
+  {
+    "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+    "dwp_take": "Moonshot is releasing Kimi 3, a massive open source AI model with 2 to 3 trillion parameters designed to compete directly with Anthropic's advanced models. This matters because digital workplace teams evaluating AI assistants for internal use now have a credible alternative that might offer different pricing, data residency options, or performance characteristics depending on their specific needs. Here's the thing though: parameter count is the participation trophy of the AI world, and bigger doesn't always mean better for actual workplace tasks like writing a status update or summarizing a meeting.",
+    "date": "2026-07-17T05:36:00.533112+00:00"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "dwp_take": "Apple struck a deal with Alibaba and Baidu to power Apple Intelligence in China, outsourcing the actual AI processing to local partners. This matters because it shows how workplace AI adoption now depends on navigating geopolitical reality and data sovereignty rules, not just technical capability. The irony is sharp though: Apple's entire \"privacy-first\" pitch for Intelligence gets swallowed by the requirement to hand user data to Chinese companies, which tells you everything about how corporate values meet market realities.",
+    "date": "2026-07-17T05:36:04.622720+00:00"
+  },
+  {
+    "title": "Managers play critical role in a company's AI transformation - and they know it",
+    "url": "https://www.zdnet.com/article/managers-play-critical-role-in-ai-transformation/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "More than two-thirds of middle managers are optimistic about AI's role in the future of work, and they feel personally accountable for their team's adoption of AI tools.",
+    "dwp_take": "A ZDNet survey found that over two-thirds of middle managers are actually optimistic about AI and feel personally responsible for getting their teams to use it. This matters because managers are where digital transformation either lives or dies, so their buy-in is non-negotiable if you want any adoption strategy that doesn't crash and burn. The funny part is that after decades of watching tech implementations fail, middle management finally figured out they're the ones holding the keys, which is either progress or a sign we've been doing this wrong the whole time.",
+    "date": "2026-07-17T05:36:08.881755+00:00"
+  },
+  {
+    "title": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
+    "url": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "1Password wants to solve one of AI's biggest practical problems: secure logins. Its Claude integration can enter passwords and MFA codes without exposing credentials to Anthropic or the model.",
+    "dwp_take": "1Password built an integration where Claude can handle logins on your behalf without ever actually seeing your passwords or MFA codes, solving a real friction point for AI automation. This matters because most digital workplace teams are trying to figure out how to safely use AI agents without either creating security nightmares or forcing employees to hand over credentials like they're handing out Halloween candy. It's smart technical work, but let's be honest: this is what should have been table stakes from day one instead of something we're celebrating in 2025.",
+    "date": "2026-07-17T05:36:13.180772+00:00"
+  },
+  {
+    "title": "Zoom patches account takeover hole",
+    "url": "https://www.computerworld.com/article/4197949/zoom-patches-account-takeover-hole.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Zoom has identified, and patched, a critical security hole that \u201cmay allow an unauthenticated user to conduct an account takeover via network access.\u201d The issue is especially significant given Zoom\u2019s ",
+    "dwp_take": "Zoom just patched a critical vulnerability that could let someone take over your account without even logging in, which is about as bad as it sounds for a platform with 300 million daily users. This matters because if your organization relies on Zoom for meetings, you need to know whether your instance is patched and whether any accounts were compromised before the fix rolled out. After years of security incidents, you'd think Zoom would have tightened things up by now, but apparently the hits keep coming.",
+    "date": "2026-07-17T05:36:17.931911+00:00"
+  },
+  {
+    "title": "CISA urges immediate SharePoint hardening as exploits mount",
+    "url": "https://www.computerworld.com/article/4197818/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately secure Microsoft SharePoint deployments after warning that three vulnerabilities affecting the on-",
+    "dwp_take": "CISA just told everyone to lock down their SharePoint installations right now because three vulnerabilities are getting actively exploited in the wild. This matters because SharePoint is still the backbone of document management and collaboration for most enterprises, so unpatched instances are basically open doors for attackers. After three decades watching IT shops ignore patch Tuesday, I'm guessing at least half of you will read this, nod seriously, and patch your SharePoint sometime in Q3.",
+    "date": "2026-07-17T05:36:21.838972+00:00"
+  },
+  {
+    "title": "Jensen Huang says the more AI is used, the more \u2018we have to hire\u2019",
+    "url": "https://www.fastcompany.com/91575095/jensen-huang-says-the-more-ai-is-used-the-more-we-have-to-hire?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Between shrinking entry-level gigs, mass layoffs, and high rates of long-term unemployment, AI has been at the center of workers\u2019 job-loss fears. Some tech executives have warned that AI could lead to",
+    "dwp_take": "Jensen Huang told Fast Company that increased AI adoption will actually drive hiring rather than kill jobs, bucking the doom-and-gloom narrative that's dominated worker conversations about automation. For digital workplace leaders, this matters because it forces us to think differently about reskilling strategies, hiring pipelines, and how we talk about AI internally instead of treating it purely as a cost-cutting tool. Look, I've heard this \"technology creates new jobs\" argument before, and sometimes it sticks and sometimes it doesn't, so betting your career transition strategy entirely on Nvidia's CEO's optimism feels like playing poker with someone else's chips.",
+    "date": "2026-07-17T05:36:26.267938+00:00"
+  },
+  {
+    "title": "Women entrepreneurs are less likely to leverage AI\u2014but more likely to benefit from it",
+    "url": "https://www.fastcompany.com/91574402/female-entrepreneurs-are-less-likely-to-leverage-ai-but-more-likely-to-benefit-from-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Men are more likely than women to leverage AI when launching or running a business, but female entrepreneurs who embrace the technology are more likely to see a productivity boost. That\u2019s according to",
+    "dwp_take": "A new study shows male entrepreneurs are adopting AI at higher rates than female entrepreneurs, yet women who do use it see bigger productivity gains. This matters because it reveals a gap in digital tool adoption that could widen opportunity disparities, and it should prompt us to ask why women aren't reaching for these tools at the same rate despite getting better results. The real story here isn't that women are less interested in AI, it's that something about how we talk about or present these tools isn't resonating with half the entrepreneurial population.",
+    "date": "2026-07-17T05:36:34.359644+00:00"
+  },
+  {
+    "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
+    "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
+    "dwp_take": "Schneider Electric is recruiting military veterans to staff data centers as demand for skilled technicians outpaces supply in the energy tech sector. This matters because digital workplace teams increasingly depend on robust infrastructure support, and talent pipelines that tap underutilized populations like veterans can ease persistent hiring crunches that slow workplace modernization projects. Here's the real talk: companies finally figured out that the military already trains people for regimented technical work and structured environments, so why not hire them instead of endlessly chasing the same overheated talent pools everyone else is fighting for.",
+    "date": "2026-07-17T05:36:40.383837+00:00"
+  },
+  {
+    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "On today\u2019s Uncanny Valley, we unpack OpenAI\u2019s ongoing drama, both legal and reputational, and whether these developments could further hurt the company\u2014particularly in its fight against Anthropic.",
+    "dwp_take": "Apple is suing OpenAI over trademark and patent issues while OpenAI deals with mounting legal and reputational problems, all while battling competitor Anthropic. This matters because many organizations are betting their digital workplace strategies on AI tools, and watching these platforms fight each other in court instead of focusing on product stability should make any IT leader nervous about vendor lock-in. Honestly, if your AI partner spends more time in depositions than in product development, you might want to have a backup plan.",
+    "date": "2026-07-17T05:36:44.612663+00:00"
+  },
+  {
+    "title": "Elon Musk Acquires APR Energy in Deal Valued at More Than $1 Billion",
+    "url": "https://www.techrepublic.com/article/news-elon-musk-buys-apr-energy-xai-power/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Elon Musk\u2019s $1 billion APR Energy acquisition could help xAI expand faster while raising new questions about emissions, cost, and grid dependence. The post Elon Musk Acquires APR Energy in Deal Valued",
+    "dwp_take": "Elon Musk bought APR Energy for over a billion dollars to juice up power supply for his xAI operations. Digital workplace leaders should care because AI infrastructure demands are about to reshape how companies think about energy, cooling, and real estate planning for their tech stacks. Here's the kicker: we're spending a fortune on generative AI tools while the actual hardware to run them profitably still looks like a work in progress.",
+    "date": "2026-07-17T05:36:48.547000+00:00"
+  },
+  {
+    "title": "Samsung\u2019s Floating Data Center Concept Finds a Fit in New Zealand",
+    "url": "https://www.techrepublic.com/article/news-samsung-data-center-new-zealand-apac/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "New Zealand's AI infrastructure ambitions are running into growing local opposition over land, power, and water use, giving Samsung's planned floating data centers bigger relevance. The post Samsung\u2019s",
+    "dwp_take": "Samsung is pitching floating data centers to New Zealand as a workaround to local opposition against land-based AI infrastructure projects that consume massive amounts of power and water. This matters because it shows how physical constraints are forcing cloud and AI providers to get creative with deployment strategies, which eventually affects where your organization's data actually sits. Honestly, if we're at the point where data centers need to go full houseboats to avoid angry locals, maybe we should ask harder questions about whether every AI project actually needs to exist.",
+    "date": "2026-07-17T05:36:52.830869+00:00"
+  },
+  {
+    "title": "Singapore\u2019s AI Glasses Boom Meets a Privacy Reckoning",
+    "url": "https://www.techrepublic.com/article/news-ai-glasses-privacy-singapore-apac/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Meta's AI glasses are arriving faster than regulators can respond. New York's courtroom ban highlights the growing privacy concerns that countries like Singapore may soon have to address. The post Sin",
+    "dwp_take": "Meta's AI glasses are rolling out while privacy rules are still stuck in the loading screen, with New York already banning them from courtrooms and Singapore facing the same reckoning. This matters because digital workplace leaders need to start thinking now about what these glasses mean for their office policies, employee consent, and the whole recorded-conversation nightmare waiting in the wings. Here's the thing: your workplace will absolutely want these gadgets, but your legal and HR teams are going to have an actual meltdown when they realize there's no rulebook yet.",
+    "date": "2026-07-17T05:36:57.412690+00:00"
+  },
+  {
+    "title": "The Biggest Data Breaches of 2026 So Far, Ranked by Impact",
+    "url": "https://www.techrepublic.com/article/news-biggest-data-breaches-2026-ranked-impact/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The biggest data breaches of 2026 so far, ranked by impact, with details on exposed data, affected users, and what readers should do next. The post The Biggest Data Breaches of 2026 So Far, Ranked by ",
+    "dwp_take": "A TechRepublic roundup ranked the year's largest data breaches by their impact on users and organizations. Digital workplace leaders need to pay attention because these breaches reveal which security gaps attackers are exploiting fastest, and your organization is likely running the same vulnerable systems. Here's the thing: if you're still treating security as IT's problem rather than a workplace culture issue, you're basically waiting for your turn on this list.",
+    "date": "2026-07-17T05:37:01.912722+00:00"
   }
 ]

@@ -1,156 +1,156 @@
 {
-  "generated": "2026-07-16T05:35:58.652167+00:00",
+  "generated": "2026-07-17T05:37:01.912837+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "title": "Yes, you can now order DoorDash from the command line",
+        "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-        "dwp_take": "Microsoft is coaching its sales team to position its own AI models as superior alternatives to OpenAI and Anthropic on efficiency and cost grounds. This matters because it signals how seriously enterprise buyers should evaluate claims about AI performance, cost, and integration when they're hearing them from vendors with obvious financial incentives. After three decades watching tech companies sell solutions, I'll say this: when a vendor suddenly stops talking about their partner's excellence and starts talking down the competition, that's usually the moment you should ask harder questions about your actual requirements instead of listening to anyone's pitch.",
-        "date": "2026-07-16T05:34:47.447374+00:00"
+        "excerpt": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
+        "dwp_take": "DoorDash launched dd-cli, a command-line tool that lets developers and AI agents order food straight from the terminal without touching a GUI. This matters because it shows how productivity tools are being redesigned for AI workflows, which means your workplace tech stack needs to consider non-human interfaces and API-first architecture. Look, if your lunch order is being placed by an AI agent while you're neck-deep in Slack messages, we've officially entered a future nobody asked for but everyone's building anyway.",
+        "date": "2026-07-17T05:35:51.885206+00:00"
       },
       {
-        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-        "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-        "dwp_take": "Suno's AI music generator apparently trained itself on YouTube audio scraped without permission, courtesy of a hacker who grabbed an employee's login credentials and exposed the company's source code. For digital workplace professionals, this is a reminder that your security protocols are only as strong as your least careful team member, and that \"move fast and break things\" eventually breaks a lawsuit. Nothing says \"we respect creators\" quite like building your billion-dollar product on stolen material.",
-        "date": "2026-07-16T05:34:51.259451+00:00"
+        "excerpt": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
+        "dwp_take": "A former DeepMind researcher just landed a $300 million valuation before even shipping a product, banking his reputation on the bet that visual AI is the next big thing. For digital workplace folks, this matters because every tool you manage is about to get a vision upgrade, whether your organization asked for it or not. Look, I've seen enough pre-product valuations to know that credibility and timing can be worth more than a working demo, but let's see if visual AI actually solves real workplace problems or just makes everything shinier.",
+        "date": "2026-07-17T05:35:56.255378+00:00"
       },
       {
-        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-        "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+        "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+        "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and dis",
-        "dwp_take": "Whatnot bought Shaped, an AI recommendation startup, to improve how their livestream shopping platform suggests products to viewers in real time. This matters because recommendation engines are becoming table stakes for any platform trying to keep users engaged, and digital workplace tools are quietly following the same playbook with AI-driven content discovery and personalization. The real test will be whether Whatnot actually uses this to help people find what they want or just becomes another algorithm pushing whatever makes the most ad revenue.",
-        "date": "2026-07-16T05:34:56.718010+00:00"
+        "excerpt": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+        "dwp_take": "Moonshot is releasing Kimi 3, a massive open source AI model with 2 to 3 trillion parameters designed to compete directly with Anthropic's advanced models. This matters because digital workplace teams evaluating AI assistants for internal use now have a credible alternative that might offer different pricing, data residency options, or performance characteristics depending on their specific needs. Here's the thing though: parameter count is the participation trophy of the AI world, and bigger doesn't always mean better for actual workplace tasks like writing a status update or summarizing a meeting.",
+        "date": "2026-07-17T05:36:00.533112+00:00"
       },
       {
-        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+        "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+        "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-        "dwp_take": "Microsoft fixed 570 security vulnerabilities in its latest Patch Tuesday update, a record number that the company attributes to using AI to find bugs. This matters because digital workplace pros depend on Microsoft products for their entire stack, and a vulnerability in Teams, 365, or Windows can compromise your entire organization's security posture. Here's the thing though: if AI is finding this many holes in Microsoft's code, I'm genuinely curious whether the company was shipping sloppy software all along or if they're just getting honest about the actual risk inventory that always existed.",
-        "date": "2026-07-16T05:35:01.309463+00:00"
+        "excerpt": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+        "dwp_take": "Apple struck a deal with Alibaba and Baidu to power Apple Intelligence in China, outsourcing the actual AI processing to local partners. This matters because it shows how workplace AI adoption now depends on navigating geopolitical reality and data sovereignty rules, not just technical capability. The irony is sharp though: Apple's entire \"privacy-first\" pitch for Intelligence gets swallowed by the requirement to hand user data to Chinese companies, which tells you everything about how corporate values meet market realities.",
+        "date": "2026-07-17T05:36:04.622720+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I never leave for vacation without doing these 7 home security checks first",
-        "url": "https://www.zdnet.com/article/7-home-security-checks-before-vacation/",
+        "title": "Managers play critical role in a company's AI transformation - and they know it",
+        "url": "https://www.zdnet.com/article/managers-play-critical-role-in-ai-transformation/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Burglars target empty homes, and insurers deny frozen-pipe claims. Here's the tech that solves these issues and others before you leave.",
-        "dwp_take": "A ZDNet article walks through seven home security checks tech workers should complete before vacation, covering everything from smart locks to pipe monitoring systems that prevent insurance claim denials. This matters because digital workplace professionals often manage sensitive equipment at home, work hybrid schedules, and need to protect both their physical security and their home office infrastructure while away. Honestly, if you're the type who sets up elaborate home automation systems but forgets to turn off your Slack notifications before two weeks in Cabo, this article is your reality check.",
-        "date": "2026-07-16T05:35:09.992818+00:00"
+        "excerpt": "More than two-thirds of middle managers are optimistic about AI's role in the future of work, and they feel personally accountable for their team's adoption of AI tools.",
+        "dwp_take": "A ZDNet survey found that over two-thirds of middle managers are actually optimistic about AI and feel personally responsible for getting their teams to use it. This matters because managers are where digital transformation either lives or dies, so their buy-in is non-negotiable if you want any adoption strategy that doesn't crash and burn. The funny part is that after decades of watching tech implementations fail, middle management finally figured out they're the ones holding the keys, which is either progress or a sign we've been doing this wrong the whole time.",
+        "date": "2026-07-17T05:36:08.881755+00:00"
       },
       {
-        "title": "Microsoft patches record 570 Windows security bugs with two exploited zero days - update now",
-        "url": "https://www.zdnet.com/article/microsoft-patches-570-vulnerabilities-exploited-zero-days/",
+        "title": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
+        "url": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "The July Patch Tuesday Windows update breaks the record for the most security bugs fixed in a single month, with three zero-day flaws and 61 rated critical.",
-        "dwp_take": "Microsoft released patches for 570 Windows security vulnerabilities in July, including three zero-days and 61 critical bugs, setting a new monthly record. For digital workplace teams, this is the difference between your infrastructure being reasonably secure and being a Swiss cheese enterprise that makes hackers' jobs easier. Look, I've seen enough preventable breaches to know that patching this volume of critical bugs isn't optional theater; it's table stakes for anyone managing Windows devices at scale.",
-        "date": "2026-07-16T05:35:13.786755+00:00"
+        "excerpt": "1Password wants to solve one of AI's biggest practical problems: secure logins. Its Claude integration can enter passwords and MFA codes without exposing credentials to Anthropic or the model.",
+        "dwp_take": "1Password built an integration where Claude can handle logins on your behalf without ever actually seeing your passwords or MFA codes, solving a real friction point for AI automation. This matters because most digital workplace teams are trying to figure out how to safely use AI agents without either creating security nightmares or forcing employees to hand over credentials like they're handing out Halloween candy. It's smart technical work, but let's be honest: this is what should have been table stakes from day one instead of something we're celebrating in 2025.",
+        "date": "2026-07-17T05:36:13.180772+00:00"
       },
       {
-        "title": "73% of tech job listings require AI skills now: How to show off yours",
-        "url": "https://www.zdnet.com/article/73-of-tech-job-listings-require-ai-skills-show-off-yours/",
-        "source": "ZDNet",
+        "title": "Zoom patches account takeover hole",
+        "url": "https://www.computerworld.com/article/4197949/zoom-patches-account-takeover-hole.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Employers are looking for AI skills - here's how to let them demonstrate you know what you're doing.",
-        "dwp_take": "Three quarters of tech job postings now list AI skills as a requirement, which means the market has shifted from \"nice to have\" to \"expected\" almost overnight. For digital workplace pros, this is a wake-up call that your resume needs an AI angle or you're competing with one hand tied behind your back. The funny part is most hiring managers probably can't distinguish between someone who actually trained a model and someone who got chatty with ChatGPT for a weekend, so at least there's that.",
-        "date": "2026-07-16T05:35:17.996157+00:00"
+        "excerpt": "Zoom has identified, and patched, a critical security hole that \u201cmay allow an unauthenticated user to conduct an account takeover via network access.\u201d The issue is especially significant given Zoom\u2019s ",
+        "dwp_take": "Zoom just patched a critical vulnerability that could let someone take over your account without even logging in, which is about as bad as it sounds for a platform with 300 million daily users. This matters because if your organization relies on Zoom for meetings, you need to know whether your instance is patched and whether any accounts were compromised before the fix rolled out. After years of security incidents, you'd think Zoom would have tightened things up by now, but apparently the hits keep coming.",
+        "date": "2026-07-17T05:36:17.931911+00:00"
       },
       {
-        "title": "I let ChatGPT Work and Claude Cowork loose on my files - only one made me nervous",
-        "url": "https://www.zdnet.com/article/chatgpt-work-claude-cowork/",
-        "source": "ZDNet",
+        "title": "CISA urges immediate SharePoint hardening as exploits mount",
+        "url": "https://www.computerworld.com/article/4197818/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount-2.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "How does ChatGPT Work compare with Claude Cowork for desktop automation? My testing reveals similar results, similar strengths, and one major reason Claude currently feels considerably safer right now",
-        "dwp_take": "Someone tested ChatGPT Work and Claude Cowork for desktop automation and found Claude to be the safer option. This matters because digital workplace teams are actively evaluating which AI agents to trust with their files and workflows, and security posture is now a legitimate competitive differentiator between vendors. Here's the thing though: if you're nervous about letting an AI tool loose on your actual files, that's probably the right instinct, and the fact that one option \"feels\" safer should really be read as \"both of these still need careful guardrails before you let them near anything important.\"",
-        "date": "2026-07-16T05:35:22.313243+00:00"
+        "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately secure Microsoft SharePoint deployments after warning that three vulnerabilities affecting the on-",
+        "dwp_take": "CISA just told everyone to lock down their SharePoint installations right now because three vulnerabilities are getting actively exploited in the wild. This matters because SharePoint is still the backbone of document management and collaboration for most enterprises, so unpatched instances are basically open doors for attackers. After three decades watching IT shops ignore patch Tuesday, I'm guessing at least half of you will read this, nod seriously, and patch your SharePoint sometime in Q3.",
+        "date": "2026-07-17T05:36:21.838972+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "When not to use AI at work",
-        "url": "https://www.fastcompany.com/91571985/when-not-to-use-ai-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Jensen Huang says the more AI is used, the more \u2018we have to hire\u2019",
+        "url": "https://www.fastcompany.com/91575095/jensen-huang-says-the-more-ai-is-used-the-more-we-have-to-hire?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Companies are investing a lot of money in AI resources right now in the hope that it will enhance people\u2019s performance and make organizations function more efficiently. Because of the size of the inve",
-        "dwp_take": "Fast Company's piece reminds us that just because your company dropped millions on AI doesn't mean you should bolt it onto every task like it's a feature nobody asked for. Digital workplace leaders need to actually think about where AI adds value versus where it just adds complexity and risk, which is harder than it sounds when your CFO is watching the investment burn. The real skill in 2024 isn't implementing AI everywhere, it's having the guts to say no sometimes.",
-        "date": "2026-07-16T05:35:27.305747+00:00"
+        "excerpt": "Between shrinking entry-level gigs, mass layoffs, and high rates of long-term unemployment, AI has been at the center of workers\u2019 job-loss fears. Some tech executives have warned that AI could lead to",
+        "dwp_take": "Jensen Huang told Fast Company that increased AI adoption will actually drive hiring rather than kill jobs, bucking the doom-and-gloom narrative that's dominated worker conversations about automation. For digital workplace leaders, this matters because it forces us to think differently about reskilling strategies, hiring pipelines, and how we talk about AI internally instead of treating it purely as a cost-cutting tool. Look, I've heard this \"technology creates new jobs\" argument before, and sometimes it sticks and sometimes it doesn't, so betting your career transition strategy entirely on Nvidia's CEO's optimism feels like playing poker with someone else's chips.",
+        "date": "2026-07-17T05:36:26.267938+00:00"
       },
       {
-        "title": "If union membership were to triple, workers could get a 14.5% raise",
-        "url": "https://www.fastcompany.com/91574297/workers-could-get-a-14-5-raise-if-union-membership-tripled?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Women entrepreneurs are less likely to leverage AI\u2014but more likely to benefit from it",
+        "url": "https://www.fastcompany.com/91574402/female-entrepreneurs-are-less-likely-to-leverage-ai-but-more-likely-to-benefit-from-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "In 2025, the number of American workers represented by a union climbed to 16.5 million, the highest share of unionized workers in 16 years. During an era of declining union membership, this is no smal",
-        "dwp_take": "Union membership hit 16.5 million workers in 2025, the highest level in 16 years, with over 50 million more workers wanting to join. This matters to digital workplace pros because unionization directly affects how we design collaboration tools, set remote work policies, and manage employee data since unions will demand transparency and negotiation around workplace technology. Here's the thing: if your organization is betting on surveillance-heavy productivity software and treating flexibility as a privilege instead of a right, you're basically building the case for your workforce to unionize.",
-        "date": "2026-07-16T05:35:31.297118+00:00"
+        "excerpt": "Men are more likely than women to leverage AI when launching or running a business, but female entrepreneurs who embrace the technology are more likely to see a productivity boost. That\u2019s according to",
+        "dwp_take": "A new study shows male entrepreneurs are adopting AI at higher rates than female entrepreneurs, yet women who do use it see bigger productivity gains. This matters because it reveals a gap in digital tool adoption that could widen opportunity disparities, and it should prompt us to ask why women aren't reaching for these tools at the same rate despite getting better results. The real story here isn't that women are less interested in AI, it's that something about how we talk about or present these tools isn't resonating with half the entrepreneurial population.",
+        "date": "2026-07-17T05:36:34.359644+00:00"
       },
       {
-        "title": "The workplace isn\u2019t designed for older women",
-        "url": "https://www.fastcompany.com/91572939/the-workplace-isnt-designed-for-older-women?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
+        "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "My kids were finally almost grown, and I was in my late 50s, when my mother started to fall. Not once. A series of falls, each one taking a little more of her, until the word the doctors used was acut",
-        "dwp_take": "Older women are being pushed out of workplaces that weren't designed with their needs or life stages in mind, forcing many to leave careers just when they hit their stride. This matters because digital workplaces that ignore aging demographics are losing experienced talent, institutional knowledge, and diverse perspectives at exactly the moment they should be doubling down. Here's the real talk: companies love talking about inclusion until they realize it means actually accommodating people who don't fit the 25-to-40 prototype they've optimized everything around.",
-        "date": "2026-07-16T05:35:35.596455+00:00"
+        "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
+        "dwp_take": "Schneider Electric is recruiting military veterans to staff data centers as demand for skilled technicians outpaces supply in the energy tech sector. This matters because digital workplace teams increasingly depend on robust infrastructure support, and talent pipelines that tap underutilized populations like veterans can ease persistent hiring crunches that slow workplace modernization projects. Here's the real talk: companies finally figured out that the military already trains people for regimented technical work and structured environments, so why not hire them instead of endlessly chasing the same overheated talent pools everyone else is fighting for.",
+        "date": "2026-07-17T05:36:40.383837+00:00"
       },
       {
-        "title": "Corporate America\u2019s morale is in the gutter. The solution could be this",
-        "url": "https://www.fastcompany.com/91572680/corporate-americas-morale-is-in-the-gutter-the-solution-could-be-this?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+        "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+        "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Across companies in America, many employees are pondering a question about work: Does what I do here matter? That question is at the center of today\u2019s workplace morale challenge. Similarly, employee e",
-        "dwp_take": "American workers are increasingly questioning whether their jobs matter, and engagement scores have tanked from 23% in 2022 to 20% in 2025 according to Gallup data. This matters because disengaged employees don't collaborate well, they don't champion your tools, and they sure as hell won't adopt your new digital workplace platform no matter how shiny it is. The real problem isn't the solution they're about to pitch you; it's that too many leaders have spent three years asking people to do more with less while cutting them loose from the office, and now they're shocked the troops have checked out.",
-        "date": "2026-07-16T05:35:40.024767+00:00"
+        "excerpt": "On today\u2019s Uncanny Valley, we unpack OpenAI\u2019s ongoing drama, both legal and reputational, and whether these developments could further hurt the company\u2014particularly in its fight against Anthropic.",
+        "dwp_take": "Apple is suing OpenAI over trademark and patent issues while OpenAI deals with mounting legal and reputational problems, all while battling competitor Anthropic. This matters because many organizations are betting their digital workplace strategies on AI tools, and watching these platforms fight each other in court instead of focusing on product stability should make any IT leader nervous about vendor lock-in. Honestly, if your AI partner spends more time in depositions than in product development, you might want to have a backup plan.",
+        "date": "2026-07-17T05:36:44.612663+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "UK to Introduce Midnight Social Media Curfew for Older Teens",
-        "url": "https://www.techrepublic.com/article/news-teen-social-media-curfew-emea-uk/",
+        "title": "Elon Musk Acquires APR Energy in Deal Valued at More Than $1 Billion",
+        "url": "https://www.techrepublic.com/article/news-elon-musk-buys-apr-energy-xai-power/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The UK plans a midnight-to-6 a.m. social media curfew for 16- and 17-year-olds, with autoplay and personalised feeds switched off by default from spring 2027. The post UK to Introduce Midnight Social ",
-        "dwp_take": "The UK is implementing a midnight-to-6 a.m. social media blackout for 16 and 17-year-olds starting spring 2027, with autoplay and algorithmic feeds disabled by default during those hours. Digital workplace leaders need to watch this because it signals how governments are willing to regulate platform design at the infrastructure level, which could reshape how engagement and productivity features work across all workplace collaboration tools. Honestly, if it takes a government mandate to convince tech companies that not everything needs to be algorithmically addictive, we've probably deserved this outcome for about fifteen years.",
-        "date": "2026-07-16T05:35:45.229906+00:00"
+        "excerpt": "Elon Musk\u2019s $1 billion APR Energy acquisition could help xAI expand faster while raising new questions about emissions, cost, and grid dependence. The post Elon Musk Acquires APR Energy in Deal Valued",
+        "dwp_take": "Elon Musk bought APR Energy for over a billion dollars to juice up power supply for his xAI operations. Digital workplace leaders should care because AI infrastructure demands are about to reshape how companies think about energy, cooling, and real estate planning for their tech stacks. Here's the kicker: we're spending a fortune on generative AI tools while the actual hardware to run them profitably still looks like a work in progress.",
+        "date": "2026-07-17T05:36:48.547000+00:00"
       },
       {
-        "title": "Jalisco, OmegaLord Phishing Kits Target Microsoft 365 Accounts",
-        "url": "https://www.techrepublic.com/article/news-microsoft-365-phishing-kits-mfa-bypass/",
+        "title": "Samsung\u2019s Floating Data Center Concept Finds a Fit in New Zealand",
+        "url": "https://www.techrepublic.com/article/news-samsung-data-center-new-zealand-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "New Jalisco and OmegaLord phishing kits target Microsoft 365 accounts by abusing device code flows, OAuth tokens, and MFA prompts to maintain access. The post Jalisco, OmegaLord Phishing Kits Target M",
-        "dwp_take": "Two new phishing kits called Jalisco and OmegaLord are actively targeting Microsoft 365 accounts by exploiting device code flows and OAuth tokens to bypass MFA and establish persistent access. This matters because M365 is the backbone of most modern digital workplaces, and if these kits get your credentials, attackers own your email, files, and collaboration tools without triggering traditional security alerts. The real kicker is that MFA, the thing we've all been told is a silver bullet, can actually become a liability when attackers are sophisticated enough to intercept the prompts themselves.",
-        "date": "2026-07-16T05:35:49.790637+00:00"
+        "excerpt": "New Zealand's AI infrastructure ambitions are running into growing local opposition over land, power, and water use, giving Samsung's planned floating data centers bigger relevance. The post Samsung\u2019s",
+        "dwp_take": "Samsung is pitching floating data centers to New Zealand as a workaround to local opposition against land-based AI infrastructure projects that consume massive amounts of power and water. This matters because it shows how physical constraints are forcing cloud and AI providers to get creative with deployment strategies, which eventually affects where your organization's data actually sits. Honestly, if we're at the point where data centers need to go full houseboats to avoid angry locals, maybe we should ask harder questions about whether every AI project actually needs to exist.",
+        "date": "2026-07-17T05:36:52.830869+00:00"
       },
       {
-        "title": "New York Imposes One-Year Moratorium on New Hyperscale Data Centers",
-        "url": "https://www.techrepublic.com/article/news-new-york-ai-data-center-moratorium/",
+        "title": "Singapore\u2019s AI Glasses Boom Meets a Privacy Reckoning",
+        "url": "https://www.techrepublic.com/article/news-ai-glasses-privacy-singapore-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "New York paused new hyperscale data center permits for up to one year while it studies grid, water, ratepayer, and community impacts. The post New York Imposes One-Year Moratorium on New Hyperscale Da",
-        "dwp_take": "New York has hit pause on new hyperscale data center permits for a year while officials figure out what these massive facilities actually cost the grid, water supply, and local communities. This matters to digital workplace pros because your cloud infrastructure, AI tools, and everything else that runs modern work depends on reliable data centers, and regional restrictions could eventually affect where companies can build and how much they pay. Turns out moving all our stuff to \"the cloud\" still means building something big and physical somewhere, and New York's apparently tired of footing the bill for someone else's infrastructure boom.",
-        "date": "2026-07-16T05:35:54.224315+00:00"
+        "excerpt": "Meta's AI glasses are arriving faster than regulators can respond. New York's courtroom ban highlights the growing privacy concerns that countries like Singapore may soon have to address. The post Sin",
+        "dwp_take": "Meta's AI glasses are rolling out while privacy rules are still stuck in the loading screen, with New York already banning them from courtrooms and Singapore facing the same reckoning. This matters because digital workplace leaders need to start thinking now about what these glasses mean for their office policies, employee consent, and the whole recorded-conversation nightmare waiting in the wings. Here's the thing: your workplace will absolutely want these gadgets, but your legal and HR teams are going to have an actual meltdown when they realize there's no rulebook yet.",
+        "date": "2026-07-17T05:36:57.412690+00:00"
       },
       {
-        "title": "5 Things to Check Before Installing ChromeOS Flex on a Windows 10 PC",
-        "url": "https://www.techrepublic.com/article/news-chromeos-flex-windows-10-checklist/",
+        "title": "The Biggest Data Breaches of 2026 So Far, Ranked by Impact",
+        "url": "https://www.techrepublic.com/article/news-biggest-data-breaches-2026-ranked-impact/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Before replacing Windows 10 with ChromeOS Flex, check device support, hardware, apps, security requirements, and backup options. The post 5 Things to Check Before Installing ChromeOS Flex on a Windows",
-        "dwp_take": "Google's ChromeOS Flex is positioning itself as a lightweight replacement for aging Windows 10 machines, requiring users to verify device compatibility, hardware specs, app availability, security needs, and data backups before making the switch. For digital workplace pros, this matters because you're probably managing a fleet of devices where someone's definitely going to ask if they can just \"switch to Chrome\" to extend hardware life and cut costs. Honestly, the checklist is solid advice, but let's be real: half your users won't do it, and the other half will install Flex on a machine running some ancient Windows-only app nobody remembers why they still need.",
-        "date": "2026-07-16T05:35:58.652062+00:00"
+        "excerpt": "The biggest data breaches of 2026 so far, ranked by impact, with details on exposed data, affected users, and what readers should do next. The post The Biggest Data Breaches of 2026 So Far, Ranked by ",
+        "dwp_take": "A TechRepublic roundup ranked the year's largest data breaches by their impact on users and organizations. Digital workplace leaders need to pay attention because these breaches reveal which security gaps attackers are exploiting fastest, and your organization is likely running the same vulnerable systems. Here's the thing: if you're still treating security as IT's problem rather than a workplace culture issue, you're basically waiting for your turn on this list.",
+        "date": "2026-07-17T05:37:01.912722+00:00"
       }
     ]
   }
