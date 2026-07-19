@@ -1,156 +1,147 @@
 {
-  "generated": "2026-07-18T05:20:01.258485+00:00",
+  "generated": "2026-07-19T05:46:17.562836+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
-        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "title": "Kimi: Threat or menace?",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-        "dwp_take": "Vertu launched a luxury foldable phone with an AI agent feature and priced it at $6,880, positioning it as a premium executive device. Digital workplace pros need to care because organizations are increasingly evaluating whether these AI-enhanced devices justify enterprise spending, especially for executive mobility strategies. Honestly, if your executives need a seven-grand phone to get AI assistance, you've got bigger problems than hardware can fix, and I'd be asking some hard questions about why $700 alternatives won't do the job.",
-        "date": "2026-07-18T05:18:51.463213+00:00"
+        "excerpt": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+        "dwp_take": "Moonshot AI dropped a new version of Kimi, their Chinese AI model, and some people are apparently worried about ideological contamination in their enterprise tools. This matters because your workplace is probably already deciding which AI assistants to integrate into collaboration platforms, and geopolitical tensions around AI models are becoming a real procurement headache. Here's the thing: if you're worried about your company's AI philosophy getting corrupted by a chatbot, you've got bigger problems than the model you chose.",
+        "date": "2026-07-19T05:45:16.319808+00:00"
       },
       {
-        "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
-        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-        "source": "TechCrunch",
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "source": "VentureBeat",
         "category": "ai-at-work",
-        "excerpt": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it\u2019s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI\u2019s chief hardware officer an",
-        "dwp_take": "Apple sued OpenAI for allegedly stealing trade secrets and poaching over 400 of its employees, potentially complicating OpenAI's planned IPO. For digital workplace folks, this is a reminder that talent poaching at scale creates real legal and organizational risk, especially when it involves sensitive IP. The irony is thick: the company trying to disrupt everything just got disrupted by actual, old-fashioned litigation.",
-        "date": "2026-07-18T05:18:55.151390+00:00"
+        "excerpt": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+        "dwp_take": "Enterprises are throwing money at AI infrastructure without actually tracking what it costs or whether it delivers value. For digital workplace teams, this matters because your organization is probably doing the same thing right now, which means budgets are getting torched and ROI conversations are getting awkward fast. The irony is rich: we've spent three decades learning to measure technology adoption, and now everyone's just hitting buy on specialized compute and hoping the math works out later.",
+        "date": "2026-07-19T05:45:20.569764+00:00"
       },
       {
-        "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
-        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "source": "TechCrunch",
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "source": "VentureBeat",
         "category": "ai-at-work",
-        "excerpt": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators\u2019 content without permission. The move marks a shift away from relyin",
-        "dwp_take": "Patreon moved from polite requests to actual enforcement, partnering with Cloudflare to block AI scraping bots instead of hoping creators' content wouldn't be used to train models. This matters because it shows the pivot from \"pretty please don't steal our stuff\" to real technical barriers, something every organization hosting proprietary or sensitive content should be watching. After three decades in this space, I can tell you asking nicely has never worked, so it's refreshing to see someone finally flip the switch from robots.txt theater to actual defense.",
-        "date": "2026-07-18T05:18:59.398886+00:00"
+        "excerpt": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+        "dwp_take": "Over half of enterprises have already dealt with AI agent security incidents, yet most still let these agents share credentials instead of using individual scoped identities. This matters because digital workplace leaders are now responsible for securing AI systems that have real access to your actual data and systems, not just experimenting with chatbots in a sandbox. The irony is delicious: we've spent decades learning that shared credentials are terrible security practice, and now we're handing the keys to the AI kingdom anyway because nobody's governance framework caught up to the deployment speed.",
+        "date": "2026-07-19T05:45:24.669078+00:00"
       },
       {
-        "title": "Apple\u2019s lawsuit couldn\u2019t come at a worse time for OpenAI",
-        "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-        "source": "TechCrunch",
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+        "source": "VentureBeat",
         "category": "ai-at-work",
-        "excerpt": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it\u2019s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI\u2019s chief hardware officer an",
-        "dwp_take": "Apple is suing OpenAI for allegedly stealing trade secrets and poaching over 400 of its employees, with the lawsuit naming senior hardware leadership. Digital workplace leaders need to pay attention because this signals that talent poaching and IP protection are about to become serious legal battlegrounds in the AI space, affecting hiring practices and employee agreements across the industry. Nothing says \"we're a serious company now\" quite like getting sued by Apple right before your IPO, so OpenAI's IPO timeline just got a whole lot messier.",
-        "date": "2026-07-18T05:19:03.600624+00:00"
+        "excerpt": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+        "dwp_take": "Most enterprises are rushing to feed AI agents business data through retrieval systems without establishing whether those systems actually work reliably or maintain proper governance. Digital workplace leaders need to care because when your AI chatbot confidently tells someone the wrong information about policy, benefits, or processes, you've got a trust and liability problem that no amount of vector database optimization fixes. The real irony is that companies are optimizing for speed and complexity when what they actually need first is a boring governance checklist and someone brave enough to say \"we're not ready yet.\"",
+        "date": "2026-07-19T05:45:28.874226+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-        "url": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
-        "dwp_take": "Workday and other enterprise software vendors are pushing back against predictions that AI will kill off their business model through disintermediation. This matters because if these vendors actually disappear or consolidate, digital workplace teams lose flexibility, support infrastructure, and the specialist expertise baked into purpose-built tools. Honestly, I've heard \"the end of software is nigh\" before, and the companies that survive are always the ones solving real business problems that generalist AI can't handle alone.",
-        "date": "2026-07-18T05:19:08.010389+00:00"
-      },
-      {
-        "title": "Microsoft\u2019s Patch Tuesday updates: Keeping up with the latest fixes",
-        "url": "https://www.computerworld.com/article/3481576/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.html",
+        "title": "Google must open Android to rival AI agents, EU orders",
+        "url": "https://www.computerworld.com/article/4198420/google-must-open-android-to-rival-ai-agents-eu-orders.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Long before Taco Tuesday became part of the pop-culture vernacular, Tuesdays were synonymous with security \u2014 and for anyone in the tech world, they still are. Patch Tuesday, as you most likely know, r",
-        "dwp_take": "Microsoft dropped its monthly security patches on Patch Tuesday like clockwork, fixing vulnerabilities across Windows, Office, and other enterprise software that most of your organization probably runs. This matters because unpatched systems are basically open doors for attackers, and in a digital workplace where employees work from anywhere on any device, staying current on patches directly impacts your security posture and compliance obligations. After thirty years in this space, I can tell you that companies treating Patch Tuesday like a suggestion rather than a requirement are the same ones calling us in a panic six months later when they get hit.",
-        "date": "2026-07-18T05:19:14.104379+00:00"
+        "excerpt": "The European Union is stepping up its actions against US tech giants under the Digital Markets Act, which is intended to ensure fair competition between digital platforms. On Thursday, the European Co",
+        "dwp_take": "The EU just told Google it can't lock Android users into only Gemini for AI assistance and has to let competing AI agents compete on equal footing. This matters because it signals regulators are finally willing to muscle in on closed ecosystems that control how workplace tools reach users, which could reshape how we access productivity software on mobile devices. After three decades watching tech companies build walled gardens, I'll believe in real competition when I see it, but at least someone's finally holding the door open.",
+        "date": "2026-07-19T05:45:34.527733+00:00"
       },
       {
-        "title": "OpenAI\u2019s new hardware is a $230, 13-switch keyboard for Codex",
-        "url": "https://www.computerworld.com/article/4198472/openais-new-hardware-is-a-230-13-switch-keyboard-for-codex-2.html",
+        "title": "Apple widens OpenAI trade secrets fight with preservation orders",
+        "url": "https://www.computerworld.com/article/4198342/apple-widens-openai-trade-secrets-fight-with-preservation-orders.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "OpenAI is selling its first hardware \u2014 without any help from Jony Ive. It describes the Codex Micro as a \u201ccommand center for agentic work\u201d but it\u2019s really a 13-switch wireless keyboard customized to h",
-        "dwp_take": "OpenAI just released a $230 specialized keyboard with 13 programmable switches designed to let developers monitor and control AI agents in real time. This matters because it signals that AI tool makers are betting serious money on hardware interfaces for what they see as the next wave of work, meaning digital workplace teams need to start thinking about how agentic AI will actually get operated day to day. Honestly, a $230 keyboard to wrangle your AI agents sounds about right for the current moment: we're still figuring out what these tools do, so hardware makers are just throwing everything at the wall and seeing what sticks.",
-        "date": "2026-07-18T05:19:18.336268+00:00"
+        "excerpt": "Dozens of former Apple employees now working at OpenAI have been put on notice after Apple reportedly sent legal letters ordering them to preserve documents and communications relevant to its trade se",
+        "dwp_take": "Apple's slapped preservation orders on roughly 40 former employees now at OpenAI, basically telling them to stop deleting anything that might prove Apple's trade secrets walked out the door. This matters because it signals how seriously big tech takes IP leakage when talent moves between competitors, and it shows companies are weaponizing legal holds to create friction in employee mobility. Here's the thing though: if your best people are leaving for a competitor, a preservation order isn't going to fix your culture problem, it just makes departing employees less likely to stay on good terms.",
+        "date": "2026-07-19T05:45:38.821249+00:00"
       },
       {
-        "title": "July\u2019s Patch Tuesday sees an end-of-support collision amidst a massive, record-setting patch wave",
-        "url": "https://www.computerworld.com/article/4198400/julys-patch-tuesday-sees-an-end-of-support-collision-amidst-a-massive-record-setting-patch-wave.html",
+        "title": "China, Russia, and 27 others create World AI body, without US",
+        "url": "https://www.computerworld.com/article/4198354/china-russia-and-27-others-create-world-ai-body-without-us.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Microsoft addressed 722 CVEs this month once the 427 Chromium upstream relays are set aside \u2014 roughly three times a normal cycle and one of the largest single months in recent memory. Two vulnerabilit",
-        "dwp_take": "Microsoft dropped 722 CVEs this month, triple the normal monthly load, with two already being exploited in the wild. For digital workplace teams, this means your patch management process just got slammed during a critical support transition window, so you're either scrambling or you've already fallen behind. Here's the kicker: if your organization still has legacy systems limping along, you're not just fighting patch fatigue now, you're also racing against the clock before support actually ends.",
-        "date": "2026-07-18T05:19:22.701929+00:00"
+        "excerpt": "China has created an international organization to set standards and introduce regulation for AI, inviting 28 other countries to join \u2014 but the US, a leading AI powerhouse is not part it. The World Ar",
+        "dwp_take": "China and Russia just launched a new international AI standards body called WAICO with 29 countries, pointedly excluding the US and its allies. This matters because digital workplace leaders now face the prospect of fragmented AI governance, meaning your company could end up navigating completely different rulebooks depending on where your employees sit. It's basically the tech equivalent of two kids building separate sandboxes instead of playing in one, except the stakes involve your entire data infrastructure and compliance nightmares.",
+        "date": "2026-07-19T05:45:44.062559+00:00"
+      },
+      {
+        "title": "It\u2019s past time to end AI-based automated customer responses",
+        "url": "https://www.computerworld.com/article/4197481/its-past-time-to-end-ai-based-automated-customer-responses.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "An automated chatbot working for Anthropic this month shot down a Wiz researcher\u2019s security hole report, saying that it \u201cfalls outside of the Claude Code threat model.\u201d That was news to the security r",
+        "dwp_take": "A chatbot working for Anthropic automatically rejected a legitimate security vulnerability report, telling researchers their finding was outside scope when it actually wasn't. This matters because it shows automated response systems are now creating security blind spots and damaging trust between organizations and the people trying to help them. Here's the thing: we spent thirty years building communication infrastructure so humans could talk to humans faster, and now we're using it to avoid talking to humans at all.",
+        "date": "2026-07-19T05:45:48.093131+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Women and men in the C-suite see 2 different workplaces",
-        "url": "https://www.fastcompany.com/91575943/women-and-men-in-the-c-suite-see-two-different-workplaces?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "3 learning habits backed by neuroscience that high performers use",
+        "url": "https://www.fastcompany.com/91575035/3-learning-habits-backed-by-neuroscience-that-high-performers-use?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Every 20 years since 1965, Harvard Business Review has published an article with the results of a survey asking men and women executives nearly identical questions about the perception of women in exe",
-        "dwp_take": "Harvard's 60-year survey tracking executive perceptions shows that male and female C-suite leaders still see the workplace through fundamentally different lenses when it comes to women in leadership. This matters because digital workplace strategy gets shaped by these same executives, meaning your collaboration platforms and communication policies might be unknowingly reinforcing the same blind spots they have about gender equity. After six decades of studies showing we haven't solved this, it's pretty clear that better Slack integration isn't the answer to what's actually a people problem.",
-        "date": "2026-07-18T05:19:27.455111+00:00"
+        "excerpt": "Fully 70% of U.S. workers feel unprepared for today\u2019s workforce. That\u2019s not a data point you encounter and move past. It sits with you, especially when you\u2019ve spent a career thinking about how learnin",
+        "dwp_take": "Fast Company ran a piece on how high performers use neuroscience-backed learning habits to stay ahead, with the angle that 70% of workers feel unprepared for their jobs. This matters because digital workplace leaders are responsible for closing that gap, and most L&D programs are still built on hunches instead of how brains actually work. Here's the thing though: knowing the neuroscience means nothing if your organization won't give people time to actually practice it, and most won't.",
+        "date": "2026-07-19T05:45:52.862739+00:00"
       },
       {
-        "title": "Nike nearly ended an investigation into its DEI practices\u2014until Trump took office",
-        "url": "https://www.fastcompany.com/91575296/nike-nearly-ended-an-investigation-into-its-dei-practices-until-trump-took-office?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
+        "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "When the Equal Employment Opportunity Commission opened an investigation into Nike\u2019s diversity, equity, and inclusion (DEI) practices, it was unusual for a number of reasons. The federal agency\u2019s miss",
-        "dwp_take": "Nike attempted to settle an EEOC investigation into its DEI practices, but the case gained new momentum after Trump took office and his administration signaled a tougher stance on corporate diversity programs. This matters because it signals that DEI initiatives, once considered standard HR practice, are now potential legal and political liabilities that could reshape how companies approach hiring and inclusion strategies. Here's the real talk: companies spent years building DEI programs to look progressive, and now they're scrambling to unwind them when the political wind shifts, which tells you everything about how many actually believed in the work versus checking a box.",
-        "date": "2026-07-18T05:19:33.166816+00:00"
+        "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
+        "dwp_take": "Dayforce's HR leader Amy Capellanti-Wolf sat down to discuss how AI, hybrid work, and talent retention are reshaping the workplace. This matters because HR tech leaders are finally having serious conversations about balancing automation with actual human needs, which beats the usual \"AI will solve everything\" nonsense we've heard for years. The fact that someone in her position is talking about humanity alongside technology tells you the pendulum is swinging back from pure tech evangelism to something resembling common sense.",
+        "date": "2026-07-19T05:45:57.457999+00:00"
       },
       {
-        "title": "The cruel \u2018loyalty tax\u2019 blindsiding workers who stayed at their jobs for years",
-        "url": "https://www.fastcompany.com/91572185/the-cruel-loyalty-tax-blindsiding-workers-who-stayed-at-their-jobs-for-years?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Polymarket\u2019s Corporate Structure Is a Mystery\u2014Even to Some of Its Former Employees",
+        "url": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+        "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "The days of cradle-to-grave jobs are as long gone as fully employer-funded pensions, medical insurance, and annual company picnics for staff and their families. But while most employees have accepted ",
-        "dwp_take": "Long-term employees are discovering they actually earn less than newer hires doing similar work, and getting laid off hits them harder because they've built less portable skills and smaller external networks. This matters because retention strategies that ignore wage compression breed resentment and kill morale faster than a bad Slack announcement. After three decades watching companies congratulate themselves on \"talent retention\" while underpaying their loyal people, I can tell you this isn't new, just newly visible.",
-        "date": "2026-07-18T05:19:36.945798+00:00"
-      },
-      {
-        "title": "Mid-career and feeling stuck? Here\u2019s how to reclaim your value",
-        "url": "https://www.fastcompany.com/91572679/mid-career-and-feeling-stuck-heres-how-to-reclaim-your-value?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Skim the headlines and today\u2019s career story belongs to two groups: anxious new grads at the bottom and embattled executives at the top. U.S. entry-level postings have fallen about 35% since early 2023",
-        "dwp_take": "Fast Company ran a piece about how mid-career professionals are getting squeezed out of the narrative while entry-level jobs crater and management layers disappear. This matters because digital workplace leaders need to understand that their best talent is feeling invisible and vulnerable right now, which tanks engagement and retention when it matters most. Here's the thing though: the companies that actually win in 2025 will be the ones who stop chasing the shiny new grad narrative and start treating their middle tier like they have actual institutional knowledge, because they do.",
-        "date": "2026-07-18T05:19:42.372775+00:00"
+        "excerpt": "The prediction market\u2019s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+        "dwp_take": "Polymarket, a prediction market platform, operates through a deliberately opaque Panamanian corporate structure that confused even some of its own former staff members. This matters to digital workplace pros because it's a cautionary tale about organizational transparency and governance, especially at companies handling sensitive user data and financial transactions. Honestly, if your employees can't figure out how your company is actually structured, you've got bigger problems than just a reputational headache waiting in the wings.",
+        "date": "2026-07-19T05:46:01.506519+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Motorola Edge 70 Max: The Android Phone Built to Last All Day",
-        "url": "https://www.techrepublic.com/article/news-motorola-edge-70-max-7100mah-battery-qi2-magnetic-charging/",
+        "title": "Microsoft\u2019s \u2018Project Perception\u2019 Could Challenge Anthropic\u2019s Mythos in AI Security",
+        "url": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Motorola's Edge 70 Max pairs a 7,100mAh silicon-carbon battery with built-in Qi2 magnetic charging, flagship hardware, and a slim design in its India debut. The post Motorola Edge 70 Max: The Android ",
-        "dwp_take": "Motorola just dropped the Edge 70 Max in India with a massive 7,100mAh battery, solid specs, and wireless charging in a thin package. For digital workplace pros, all-day battery life actually matters since you're living on video calls and email, and a phone that doesn't crap out by 3pm saves you from the desperate hunt for a charger. Honestly, if your device can't make it through a workday without gasping for power, that's on the manufacturer, not you.",
-        "date": "2026-07-18T05:19:48.214008+00:00"
+        "excerpt": "Microsoft is reportedly developing Project Perception, a lower-cost AI security tool that would use multiple models to identify enterprise vulnerabilities. The post Microsoft\u2019s \u2018Project Perception\u2019 Co",
+        "dwp_take": "Microsoft is building a cheaper AI security tool called Project Perception that uses multiple models to spot vulnerabilities in enterprise systems. This matters because digital workplace teams are tired of being nickeled and dimed by single-vendor security solutions, and having a credible lower-cost alternative actually gives them negotiating power for once. Look, when Microsoft and Anthropic are both fighting over your security budget, that's when customers finally win something other than a coffee mug.",
+        "date": "2026-07-19T05:46:05.356708+00:00"
       },
       {
-        "title": "23andMe Agrees to $18M Settlement With 43 States Over 2023 Data Breach",
-        "url": "https://www.techrepublic.com/article/news-23andme-18-million-settlement-2023-genetic-data-breach/",
+        "title": "Critical Zoom Flaw Could Let Attackers Take Over Windows Accounts",
+        "url": "https://www.techrepublic.com/article/news-zoom-windows-account-takeover-vulnerability/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "23andMe will pay $18 million to settle claims from 43 states over its 2023 data breach, which exposed genetic information tied to nearly 7 million people. The post 23andMe Agrees to $18M Settlement Wi",
-        "dwp_take": "23andMe is paying $18 million to settle with 43 states over a 2023 breach that exposed genetic data on nearly 7 million people. This matters because it's a stark reminder that your workplace's data security practices directly impact employee trust, especially when handling sensitive personal information through third-party services. If your organization is still treating data security like a checkbox item instead of a core business function, you're basically betting your employee trust on luck.",
-        "date": "2026-07-18T05:19:52.124738+00:00"
+        "excerpt": "Zoom patched a critical Windows flaw that could enable remote account takeover, along with three high-severity privilege-escalation vulnerabilities. The post Critical Zoom Flaw Could Let Attackers Tak",
+        "dwp_take": "Zoom just patched a critical vulnerability in its Windows client that could let attackers hijack your entire Windows account, plus three other nasty privilege-escalation bugs for good measure. This matters because if your organization is still running unpatched Zoom instances, you're basically leaving the front door unlocked for remote account takeovers. After two decades of watching security patches turn into security theater, I'll believe this one is actually deployed everywhere when I see it, which means your IT team better get moving on those updates today.",
+        "date": "2026-07-19T05:46:09.517491+00:00"
       },
       {
-        "title": "Why OpenAI Is Selling a $70 ChatGPT Basketball",
-        "url": "https://www.techrepublic.com/article/news-openai-chatgpt-basketball-merchandise/",
+        "title": "Windows 11 24H2 Support Ends Soon: What Users Need to Do Before October",
+        "url": "https://www.techrepublic.com/article/news-windows-11-24h2-support-end-upgrade/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "OpenAI\u2019s $70 ChatGPT basketball and premium merchandise test whether the AI company can transform its software platform into a lifestyle brand. The post Why OpenAI Is Selling a $70 ChatGPT Basketball ",
-        "dwp_take": "OpenAI is selling branded merchandise, including a $70 ChatGPT basketball, as part of a push to become a lifestyle brand rather than just an AI software company. This matters to digital workplace pros because it signals how AI companies are shifting strategy from B2B tools to consumer products and brand loyalty, which could reshape how we think about enterprise AI adoption. Honestly, if your workplace productivity tool needs a basketball to justify its existence, that might say more about the actual product than any earnings call ever could.",
-        "date": "2026-07-18T05:19:56.690000+00:00"
+        "excerpt": "Windows 11 24H2 Home and Pro support ends Oct. 13, 2026. See who is affected, available upgrade paths, and what IT teams should do now. The post Windows 11 24H2 Support Ends Soon: What Users Need to D",
+        "dwp_take": "Windows 11 version 24H2 support for Home and Pro editions runs out on October 13, 2026, which means users on those versions need to plan their next move now. For IT teams managing fleets of devices, this is another calendar item to track and another potential support headache if people ignore the deadline. Here's the thing: every Windows version sunset is basically Microsoft's way of saying \"upgrade or face the consequences,\" and honestly, most organizations will still be scrambling in September 2026.",
+        "date": "2026-07-19T05:46:13.681647+00:00"
       },
       {
-        "title": "SpaceX Aborts Starship V3 Launch After Engines Fail to Start",
-        "url": "https://www.techrepublic.com/article/news-spacex-aborts-starship-v3-launch-engine-issue/",
+        "title": "Moonshot AI Launches World\u2019s Largest Open-Source Model",
+        "url": "https://www.techrepublic.com/article/news-moonshot-ai-kimi-k3-largest-open-source-model-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "SpaceX aborted its Starship V3 launch after an engine issue, raising new questions about Starlink expansion, launch reliability, and investor pressure. The post SpaceX Aborts Starship V3 Launch After ",
-        "dwp_take": "SpaceX scrapped the Starship V3 launch when engines wouldn't ignite, putting the brakes on their Starlink expansion timeline and forcing them to circle back on reliability issues while investors tap their fingers impatiently. This matters to digital workplace folks because Starlink is a real option for distributed teams in remote areas, and these launch delays directly impact availability and pricing for the connectivity your hybrid workforce might depend on. Look, even Elon's rockets occasionally need a hard reboot\u2014if only our Slack servers hiccuped this gracefully instead of silently eating messages at 3 a.m.",
-        "date": "2026-07-18T05:20:01.258377+00:00"
+        "excerpt": "Moonshot AI\u2019s 2.8-trillion-parameter Kimi K3 raises China\u2019s open-model ambitions while posing major infrastructure and cost questio The post Moonshot AI Launches World\u2019s Largest Open-Source Model appe",
+        "dwp_take": "Moonshot AI just dropped Kimi K3, a massive 2.8-trillion-parameter open-source model that puts China squarely in the AI arms race. For digital workplace folks, this matters because it means more accessible, potentially cheaper AI options are coming to market, which could shake up how we think about vendor lock-in and model costs. Honestly, watching everyone try to outbuild each other with increasingly enormous models feels like we're all driving bigger trucks to prove something, when most of us really just need to get to the grocery store.",
+        "date": "2026-07-19T05:46:17.562722+00:00"
       }
     ]
   }
