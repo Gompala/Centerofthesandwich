@@ -1,92 +1,147 @@
 {
-  "generated": "2026-07-20T06:11:47.263891+00:00",
+  "generated": "2026-07-21T05:45:05.557675+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
-        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "\"Everybody knows the Greeks are inside.\"",
-        "dwp_take": "Christopher Nolan is warning that AI adoption in creative industries looks innocent on the surface but will fundamentally transform how work gets done once it's embedded in your systems. For digital workplace leaders, this matters because you're likely being pitched AI solutions that promise easy wins without anyone asking tough questions about long-term dependencies and skill atrophy. The irony is Nolan's right, but most organizations will wheel in the wooden horse anyway because quarterly earnings pressure beats strategic caution every single time.",
-        "date": "2026-07-20T06:11:04.239023+00:00"
+        "excerpt": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+        "dwp_take": "Anthropic just got final approval on a $1.5 billion copyright settlement, which sounds like a win until you realize it settles exactly one case while the real fight about AI training data keeps chugging along. This matters because every workplace tool you're deploying, from chatbots to content generators, sits on this shaky legal foundation where nobody's really agreed on the rules yet. The irony here is thick: we're all building on borrowed goods while the industry waits for someone to actually sort out who owes what to whom.",
+        "date": "2026-07-21T05:43:59.856763+00:00"
       },
       {
-        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "source": "VentureBeat",
+        "title": "Trump\u2019s latest AI czar has already resigned",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
-        "dwp_take": "Enterprise organizations are deploying AI agents to production despite knowing their evaluation methods don't reflect real-world performance, with half already shipping agents that failed after launch. This matters because digital workplace teams are inheriting these half-baked systems and getting blamed when the chatbot confidently gives terrible advice to actual users. Basically, companies are playing Russian roulette with automation while crossing their fingers and hoping IT can explain to frustrated employees why the AI they trusted just nuked a workflow.",
-        "date": "2026-07-20T06:11:08.319511+00:00"
+        "excerpt": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "dwp_take": "David Sacks has stepped down as Trump's AI czar after leading the newly created Center for AI Standards and Innovation for a short stint. This matters because digital workplace leaders are watching federal AI policy closely right now, and constant turnover at that level signals uncertainty about what standards and regulations will actually stick. Nothing says \"we have a coherent AI strategy\" quite like watching your czar exit stage left before the ink dries on the org chart.",
+        "date": "2026-07-21T05:44:03.715149+00:00"
       },
       {
-        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
-        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-        "source": "VentureBeat",
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms \u2014 Anthropic\u2019s Claude leads by a wide margin \u2014 chosen for the gravity of the underlying model and judged on re",
-        "dwp_take": "Most enterprises are deploying what they call AI agents, but they're really just chatbots with extra steps, and they're building them on Claude because the underlying model is solid. This matters because digital workplace teams keep getting pitched agent solutions when what they actually need is a coherent deployment strategy that works across their messy, hybrid tech stacks. The honest truth is we're in the \"slap agent paint on everything\" phase of AI adoption, and it'll take another year before anyone figures out what orchestration actually looks like in production.",
-        "date": "2026-07-20T06:11:12.554280+00:00"
+        "excerpt": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "dwp_take": "Google is building custom silicon to run Gemini AI models more efficiently, likely both reducing costs and speeding up inference across its products. This matters because digital workplace tools increasingly rely on AI backends, and cheaper, faster inference directly translates to better performance and lower licensing costs for enterprise customers using Google Workspace and similar platforms. Here's the thing though: every tech giant is racing to build proprietary chips for their AI, which means we're heading toward a future where your productivity tools are locked into whatever silicon their parent company designed, and good luck switching vendors after that.",
+        "date": "2026-07-21T05:44:08.520633+00:00"
       },
       {
-        "title": "Alibaba previews Qwen3.8, claims it\u2019s second only to Claude Fable 5",
-        "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
-        "source": "SiliconAngle",
+        "title": "AI\u2019s most important protocol is getting a little bit easier to use",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC\u2019s Claude Fable 5 among the worl",
-        "dwp_take": "Alibaba just dropped Qwen3.8, claiming it's the second most powerful AI model behind Claude Fable 5, and they're previewing it to the world at their Shanghai AI conference. For digital workplace folks, this matters because better AI models mean better search, smarter content discovery, and more capable copilots within your enterprise tools. That said, \"second most powerful\" claims are basically tech vendor karaoke at this point, and we'll believe the performance gap when our actual workplace productivity numbers improve.",
-        "date": "2026-07-20T06:11:17.237721+00:00"
+        "excerpt": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+        "dwp_take": "The OpenID Connect protocol is shifting to a stateless model for session management, making it easier for developers to implement without complex server-side tracking. This matters because OpenID underpins authentication across countless enterprise applications, so smoother implementation means faster deployment and fewer security headaches for your IT teams. Honestly, it's about time we made this stuff less painful, because asking developers to wrestle with stateful sessions in 2024 is like asking them to file reports on paper.",
+        "date": "2026-07-21T05:44:12.805864+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "OpenAI\u2019s new hardware is a $230, 13-switch keyboard for Codex",
-        "url": "https://www.computerworld.com/article/4198472/openais-new-hardware-is-a-230-13-switch-keyboard-for-codex-2.html",
+        "title": "The top AI fear for 6,000 tech pros isn't losing their jobs - it's more work for the same pay",
+        "url": "https://www.zdnet.com/article/top-ai-fear-tech-survey/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Most tech professionals wouldn't recommend their own role to someone entering the industry today.",
+        "dwp_take": "The survey found that 6,000 tech professionals fear AI will increase their workload without corresponding pay increases, and most wouldn't recommend their careers to newcomers. This matters because it signals a genuine crisis in how organizations are deploying AI: they're treating it as a productivity multiplier for headcount reduction rather than as a tool to actually improve work quality and compensation. After three decades in this space, I can tell you this is the oldest play in the book, and it never ends well for employee morale or retention.",
+        "date": "2026-07-21T05:44:17.044261+00:00"
+      },
+      {
+        "title": "The EU\u2019s AI transparency deadline is weeks away. Is your enterprise ready?",
+        "url": "https://www.computerworld.com/article/4199141/the-eus-ai-transparency-deadline-is-weeks-away-is-your-enterprise-ready-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "OpenAI is selling its first hardware \u2014 without any help from Jony Ive. It describes the Codex Micro as a \u201ccommand center for agentic work\u201d but it\u2019s really a 13-switch wireless keyboard customized to h",
-        "dwp_take": "OpenAI released a $230 wireless keyboard with 13 customizable switches designed specifically for monitoring AI agents running code. For digital workplace folks, this signals that AI agent management is becoming real enough that vendors think professionals will pay premium prices for specialized hardware to control it. Honestly, if people are dropping two hundred bucks on a keyboard just to babysit their AI before trust-fall season ends, we're definitely in the \"still figuring this out\" phase of agentic AI in the workplace.",
-        "date": "2026-07-20T06:11:22.762334+00:00"
+        "excerpt": "Providers and deployers of AI systems: You only have a couple of weeks left until you must explicitly inform users when they are interacting with AI content. To assist in the effort, the European Comm",
+        "dwp_take": "The EU is forcing AI providers and companies to disclose when users are interacting with AI systems starting August 2, and the European Commission just dropped guidelines to help them comply. For digital workplace teams rolling out AI tools across their organizations, this means mandatory transparency features and user notifications are no longer optional nice-to-haves. Most enterprises are probably scrambling right now to retrofit their AI deployments, which tells you everything you need to know about how seriously companies took this deadline until the commission made it real.",
+        "date": "2026-07-21T05:44:22.482127+00:00"
+      },
+      {
+        "title": "Apple could \u2018run the table\u2019 on AI if it does things right",
+        "url": "https://www.computerworld.com/article/4198808/apple-could-run-the-table-on-ai-if-it-does-things-right.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Looking ahead just a short time, Apple could hold a powerful position in AI where it most makes sense: deployment. Not only will the company offer up its own AI models for the kind of tasks millions u",
+        "dwp_take": "Apple is betting it can dominate AI not through raw model power but through smart on-device deployment and Siri integration across its ecosystem. This matters to workplace professionals because seamless, private AI tools that actually work on your hardware are way more useful than flashy cloud-based chatbots that need constant internet and kill your battery. Here's the thing though: Apple's track record suggests they'll nail the user experience while everyone else is still arguing about LLM parameters, but their walled garden approach means plenty of enterprises will still be juggling multiple AI vendors just to avoid lock-in.",
+        "date": "2026-07-21T05:44:26.708625+00:00"
+      },
+      {
+        "title": "Q&A: Why boutique consultancies might be better for AI rollouts than the bigwigs",
+        "url": "https://www.computerworld.com/article/4197994/qa-why-boutique-consultancies-might-be-better-for-ai-rollouts-than-the-bigwigs.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Major AI labs are unleashing forward-deployed engineers (FDEs) to try and grab enterprise customers. Large consultancies are dishing out tokens and assembling armies of consultants \u2014 both human and ag",
+        "dwp_take": "A Computerworld piece argues that smaller boutique consultancies might actually deliver better AI implementation results than the mega-consulting firms, thanks to their agility and specialized expertise. This matters because most organizations are still figuring out how to actually deploy AI without creating expensive chaos, so choosing the right implementation partner could be the difference between transformation and disaster. The real take here is that bigger isn't always better when your consultancy is still mostly throwing junior consultants at problems and hoping the AI fairy godmother shows up.",
+        "date": "2026-07-21T05:44:31.069177+00:00"
       }
     ],
-    "digital-culture": [],
+    "digital-culture": [
+      {
+        "title": "I left Amazon to buy a printing company. It was the best career move I ever made",
+        "url": "https://www.fastcompany.com/91573332/i-left-amazon-to-buy-a-printing-company-it-was-the-best-career-move-i-ever-made?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "After joining Amazon as a product leader in 2022, I saw a series of layoffs and return-to-office mandates over the following three years that made any semblance of presence in home life impossible. Th",
+        "dwp_take": "A former Amazon product leader ditched the tech giant after three years of layoffs and aggressive return-to-office mandates to buy a printing company instead. This matters because it's a real-world example of how toxic workplace culture and inflexible policies are driving talented people out of tech and toward alternatives that actually work for their lives. Here's the thing: when your company culture has deteriorated so badly that buying a printing company looks like a promotion, you've got bigger problems than a headcount spreadsheet can fix.",
+        "date": "2026-07-21T05:44:35.529952+00:00"
+      },
+      {
+        "title": "The invisible labor of likability at work",
+        "url": "https://www.fastcompany.com/91573809/the-invisible-labor-of-likeability-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "We\u2019ve all been there. You email one coworker: \u201cI need this by Thursday.\u201d You email another: \u201cHi! Just checking back in. Would you be able to have this ready for me by Thursday? Totally understand if t",
+        "dwp_take": "Fast Company reports that people spend considerable energy tailoring their workplace communication to manage how others perceive them, particularly around requests and deadlines. This matters to digital workplace pros because it highlights how collaboration tools amplify this labor, turning every email into a performance that gets archived and analyzed. Here's the kicker: we've optimized communication platforms to death, but somehow made it harder to just ask for what we need without performing a personality.",
+        "date": "2026-07-21T05:44:39.606184+00:00"
+      },
+      {
+        "title": "The job market is so bad, people are buying career spells from witches",
+        "url": "https://www.fastcompany.com/91574985/the-job-market-is-so-bad-people-are-buying-career-spells-from-witches?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Chon Azzopardi-Brown had done everything career experts tell job seekers to do. She polished her CV, searched job boards, networked on LinkedIn, and tried to navigate a tough hiring market complete wi",
+        "dwp_take": "People are literally buying career spells from witches on Etsy because traditional job hunting tactics aren't cutting it anymore. This matters because it signals genuine desperation in the job market, and when candidates feel this powerless, employers should pay attention to what that says about their recruitment processes. Look, if your hiring system has people choosing witchcraft over your job board, that's not a supernatural problem, that's a you problem.",
+        "date": "2026-07-21T05:44:43.542166+00:00"
+      }
+    ],
     "industry-news": [
       {
-        "title": "New FCC Proposal Pits Phone Privacy Against Fraud Prevention",
-        "url": "https://www.techrepublic.com/article/news-fcc-phone-identity-verification-burner-phone-proposal/",
+        "title": "Samsung US Headquarters Move Affects 739 New Jersey Jobs",
+        "url": "https://www.techrepublic.com/article/news-samsung-us-headquarters-texas-job-cuts/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The FCC has proposed requiring identity verification for phone activation, a move supporters say will fight fraud while critics warn it threatens privacy. The post New FCC Proposal Pits Phone Privacy ",
-        "dwp_take": "The FCC wants to require identity verification when you activate a phone, claiming it will reduce fraud while privacy advocates cry foul. For digital workplace folks, this matters because it directly affects how your workforce gets mobile devices activated and authenticated, potentially adding friction to onboarding while raising questions about data security. Here's the thing: we've heard the \"security versus privacy\" argument a thousand times, and somehow we always end up collecting more data than necessary and protecting it worse than we promised.",
-        "date": "2026-07-20T06:11:31.698965+00:00"
+        "excerpt": "Samsung\u2019s US headquarters move to Texas is affecting 739 New Jersey positions as the company consolidates teams and cuts some jobs. The post Samsung US Headquarters Move Affects 739 New Jersey Jobs ap",
+        "dwp_take": "Samsung is shutting down its New Jersey headquarters and moving operations to Texas, which means 739 jobs are either being relocated or eliminated. This matters because it's a real-world example of how real estate strategy directly impacts workplace culture, employee retention, and the digital infrastructure those teams depend on. After 30 years, I've learned that whenever someone says \"consolidate teams,\" what they really mean is \"buckle up,\" and those 739 people are about to experience some serious workplace disruption.",
+        "date": "2026-07-21T05:44:51.173453+00:00"
       },
       {
-        "title": "Apple Sued Over Hide My Email Privacy Claims",
-        "url": "https://www.techrepublic.com/article/news-apple-hide-my-email-privacy-lawsuit/",
+        "title": "San Francisco Orders Apple And Google Remove 13 AI Nudify Apps",
+        "url": "https://www.techrepublic.com/article/news-apple-google-remove-ai-nudify-apps/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple faces a proposed class action alleging a Hide My Email flaw could expose users\u2019 real addresses despite the company\u2019s privacy claims. The post Apple Sued Over Hide My Email Privacy Claims appeare",
-        "dwp_take": "Apple's Hide My Email feature, which promises to mask users' real addresses, allegedly contains a flaw that exposes those addresses anyway, triggering a class action lawsuit. For digital workplace pros managing Apple device fleets and employee privacy, this is a reminder that privacy features only work if they actually work, and vendor promises need verification before rolling out company-wide. After three decades watching vendors claim security features that turn out to be theater, I'll believe Apple's privacy story when independent audits confirm it, not when their marketing says so.",
-        "date": "2026-07-20T06:11:36.183869+00:00"
+        "excerpt": "San Francisco gave Apple and Google 28 days to address 13 alleged AI nudify apps, raising questions about app-store controls and AI governance. The post San Francisco Orders Apple And Google Remove 13",
+        "dwp_take": "San Francisco ordered Apple and Google to remove 13 AI apps that create non-consensual nude images within 28 days, exposing gaps in how app stores vet tools before releasing them to the public. This matters to digital workplace pros because it highlights the growing regulatory pressure on tech platforms to police AI misuse, which will inevitably shape what tools companies can actually deploy internally. Turns out \"move fast and break things\" looks a lot worse when the broken thing is someone's dignity.",
+        "date": "2026-07-21T05:44:55.121016+00:00"
       },
       {
-        "title": "Cisco sounds alarm over new Russian malware campaign hitting firms in US and Europe",
-        "url": "https://www.itpro.com/security/cyber-crime/cisco-sounds-alarm-over-new-russian-malware-campaign-hitting-firms-in-us-and-europe",
-        "source": "ITPro",
+        "title": "AWS Billion-Dollar Software Bug Explained",
+        "url": "https://www.techrepublic.com/article/news-aws-billing-bug-trillion-dollar-estimates-explained/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "UAT-11795 is weaponizing legitimate software such as WebEx and Zoom to dupe victims",
-        "dwp_take": "Cisco discovered a Russian malware campaign that exploits legitimate tools like WebEx and Zoom to trick workers into downloading malicious software. This matters because your digital workplace infrastructure, the exact systems you've invested in for collaboration, just became an attack vector if your team isn't trained to spot the difference between real updates and fake ones. The irony is thick here: we spend billions making remote work seamless, then criminals weaponize that same seamlessness to slip past our defenses.",
-        "date": "2026-07-20T06:11:41.560001+00:00"
+        "excerpt": "An AWS software bug showed some customers billing estimates in the billions and trillions. Here is what failed, why invoices were unaffected, and what IT teams should know. The post AWS Billion-Dollar",
+        "dwp_take": "AWS had a billing display bug that showed some customers utterly insane charges in the billions or trillions, even though actual invoices were fine. This matters because your employees using cloud services might panic seeing their cost forecasts, and finance teams need to understand the difference between what the system displays and what they actually owe. After 30 years in this space, I can tell you there's no faster way to crash employee morale than a \"your department's cloud costs are now 47 trillion dollars\" email, even if it's just a display glitch.",
+        "date": "2026-07-21T05:44:59.428283+00:00"
       },
       {
-        "title": "Why Microsoft paused Patch Tuesday updates for some Dell devices",
-        "url": "https://www.itpro.com/security/why-microsoft-paused-patch-tuesday-updates-for-some-dell-devices",
-        "source": "ITPro",
+        "title": "Microsoft\u2019s Record Patch Tuesday Is a Proof Point for New Zealand",
+        "url": "https://www.techrepublic.com/article/news-microsoft-record-patch-tuesday-new-zealand-apac/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Select devices running Intel Innovation Platform Framework drivers encountered \u201cpoor performance\u201d",
-        "dwp_take": "Microsoft hit the brakes on Patch Tuesday updates for certain Dell machines after Intel's Innovation Platform Framework drivers started tanking performance on those systems. This matters because it's a concrete reminder that even the biggest software vendors need to test their patches against real hardware configurations before shipping them out, and when they don't, it creates support nightmares for IT teams scrambling to manage inconsistent update schedules. Here's the thing: after three decades watching this play out, I've learned that \"we'll patch it later\" always costs more than getting it right the first time.",
-        "date": "2026-07-20T06:11:47.263780+00:00"
+        "excerpt": "Microsoft's largest-ever Patch Tuesday, driven by AI, lands as New Zealand's stretched security teams look for help closing a 3,500-person skills gap. The post Microsoft\u2019s Record Patch Tuesday Is a Pr",
+        "dwp_take": "Microsoft just dropped its biggest Patch Tuesday ever, fueled by AI-generated fixes, right as New Zealand's security teams are drowning in a 3,500-person skills shortage. This matters because digital workplace leaders now face a brutal choice: you need to patch faster than ever while simultaneously lacking the human talent to actually manage it all. The irony is delicious: the very AI that's generating all these patches is supposed to help us fix the skills gap, but instead it's just making security teams run faster on a treadmill that keeps speeding up.",
+        "date": "2026-07-21T05:45:05.557562+00:00"
       }
     ]
   }
