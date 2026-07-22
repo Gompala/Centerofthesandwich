@@ -1,140 +1,5 @@
 [
   {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-    "dwp_take": "OpenAI researcher Miles Wang is in early talks to launch an AI-focused drug discovery startup that could be valued at $2 billion. This matters because it signals where serious venture money thinks the next productivity gains will happen, and it's a reminder that your workplace collaboration tools might soon look quaint compared to what AI can do in specialized domains. Here's the thing though: investors are chasing moonshots in drug discovery while most companies still can't get their employees to actually use the knowledge management system they paid half a million dollars for last year.",
-    "date": "2026-07-15T05:24:57.415181+00:00"
-  },
-  {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "If you\u2019ve been waiting to try Apple\u2019s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its A",
-    "dwp_take": "Apple released iOS 27 public beta this week, letting regular iPhone users test the new AI-powered Siri before the official fall launch instead of waiting for developers only. For digital workplace folks, this matters because Siri integration affects how employees interact with productivity apps, voice commands in meetings, and whether your organization's mobile strategy needs updating. Honestly, after thirty years watching tech rollouts, I'm still waiting to see if anyone actually uses Siri for work instead of just asking it what the weather is.",
-    "date": "2026-07-15T05:25:04.591008+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s newest ad is creeping people out",
-    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt \u2014 which leans into criticism of AI as a way to make Anthropic seem aware of",
-    "dwp_take": "Anthropic released an ad that deliberately plays on people's AI fears to position itself as the responsible player in the market, which honestly feels like performative ethics masquerading as transparency. Digital workplace leaders need to watch this trend because it signals how AI vendors will increasingly use \"ethical positioning\" as a marketing tactic rather than actual differentiation. Here's the thing: if your company needs an ad campaign about being responsible to prove you're responsible, you might want to rethink your actual products instead.",
-    "date": "2026-07-15T05:25:08.592549+00:00"
-  },
-  {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-    "dwp_take": "Google is getting sued again, this time by major publishers who say the company used their copyrighted works to train AI models without asking permission first. This matters because digital workplace tools increasingly rely on AI, and if publishers win, it could fundamentally change how organizations source training data and what content they can legally use in their own systems. Honestly, after decades of tech companies moving fast and breaking things, it's almost refreshing to see someone actually fight back instead of just accepting the new normal.",
-    "date": "2026-07-15T05:25:12.484399+00:00"
-  },
-  {
-    "title": "Microsoft is forcing an enterprise transition to passkeys",
-    "url": "https://www.computerworld.com/article/4197029/microsoft-is-forcing-an-enterprise-transition-to-passkeys.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Passkeys have been around for some time, but enterprise-wide adoption to this point has been slow for a number of reasons. But soon, many Microsoft customers won\u2019t have a choice. Starting September 1,",
-    "dwp_take": "Microsoft is making passkeys the default authentication method in Entra ID starting September 1, forcing enterprise customers to transition whether they're ready or not. This matters because it affects millions of workers across thousands of organizations who will suddenly need to understand, adopt, and support a fundamentally different way of logging in to their systems. After three decades of watching IT teams scramble through forced Microsoft migrations, I'd say this one actually makes security sense, but good luck explaining passwordless authentication to your CFO when she can't log into her email on day one.",
-    "date": "2026-07-15T05:25:17.763554+00:00"
-  },
-  {
-    "title": "With its latest layoffs, Microsoft goes all in on AI",
-    "url": "https://www.computerworld.com/article/4196309/with-its-latest-layoffs-microsoft-goes-all-in-on-ai.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft\u2019s big lead over AI competitors like Google and others has vanished, and the company is now playing catch-up. As a result, Microsoft\u2019s stock has tanked in the last year \u2014 down roughly 23% com",
-    "dwp_take": "Microsoft is laying off workers while doubling down on AI spending, betting the company's future on generative AI adoption that hasn't yet translated to real revenue. This matters because Microsoft tools dominate enterprise digital workplaces, and if their AI strategy fails or pivots, organizations could face costly platform shifts and uncertainty around their tech stack. Here's the thing though: cutting headcount to fund a product that isn't making money yet is the corporate equivalent of taking out a bigger mortgage because your current house isn't selling, and we've seen how that movie ends before.",
-    "date": "2026-07-15T05:25:23.790149+00:00"
-  },
-  {
-    "title": "Forg365 industrializes Microsoft 365 phishing with AI-generated lures",
-    "url": "https://www.computerworld.com/article/4196652/forg365-industrializes-microsoft-365-phishing-with-ai-generated-lures.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A newly documented phishing-as-a-service platform distributed through Telegram is lowering the technical barrier to Microsoft 365 account takeovers by giving less-skilled attackers automated tools to ",
-    "dwp_take": "A new phishing-as-a-service platform called Forg365 is making it trivially easy for amateur attackers to compromise Microsoft 365 accounts using AI-generated lures and technical tricks that bypass common security controls. This matters because your organization's most vulnerable asset isn't the technology, it's the people clicking links, and now even script kiddies can run sophisticated attacks at scale. The irony is brutal: we spent decades building better authentication, and now the real problem is that a teenager with a Telegram account can become a credible threat to your enterprise.",
-    "date": "2026-07-15T05:25:28.363241+00:00"
-  },
-  {
-    "title": "For women, being creative at work comes with a hidden cost",
-    "url": "https://www.fastcompany.com/91573368/for-women-being-creative-at-work-comes-with-a-price?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In 2007, two psychologists, Madeline Heilman and Tyler Okimoto, published what would become one of the most influential papers on gender bias in the workplace. Across three experiments, they found tha",
-    "dwp_take": "Research from 2007 shows that women who demonstrate creativity and success in traditionally masculine workplace roles face social penalties that men don't experience, with people questioning their likability rather than their competence. This matters because it reveals a structural bias that punishes women for the exact behaviors we claim to value in innovation and leadership. After thirty years watching workplaces claim they want more creative problem solving, it turns out they really just want it from the right people.",
-    "date": "2026-07-15T05:25:32.964156+00:00"
-  },
-  {
-    "title": "Jamie Dimon says JPMorgan has slashed 40% of jobs in some departments, thanks to AI",
-    "url": "https://www.fastcompany.com/91573524/jamie-dimon-says-jpmorgan-has-slashed-40-of-jobs-in-some-departments-thanks-to-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "JPMorgan Chase CEO Jamie Dimon has repeatedly suggested that AI adoption would not drive widespread layoffs at the bank. But on Tuesday, he disclosed that JPMorgan had made significant cuts to a numbe",
-    "dwp_take": "Jamie Dimon finally admitted what we all knew was coming: JPMorgan has cut 40 percent of staff in some departments through AI automation, despite his previous reassurances to the contrary. This matters because if it's happening at one of the world's largest banks, it's happening everywhere, and digital workplace teams need to start preparing their organizations for similar workforce reductions now. The real kicker is watching a CEO get caught between investor enthusiasm for AI cost-cutting and the awkward optics of mass layoffs, so he buried the lede on an earnings call instead of owning it straight up.",
-    "date": "2026-07-15T05:25:37.782398+00:00"
-  },
-  {
-    "title": "Meta faces discrimination lawsuit over AI use in mass layoffs",
-    "url": "https://www.fastcompany.com/91573521/meta-faces-discrimination-lawsuit-over-ai-use-in-mass-layoffs?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In May, Meta laid off 10% of its workforce, impacting nearly 8,000 employees. On Monday, a group of current and former staffers filed a lawsuit alleging the company used AI to target those with disabi",
-    "dwp_take": "Meta fired 8,000 people in May and now faces a lawsuit claiming the company used AI systems to specifically target employees with disabilities or those on medical or family leave. This matters because it's the first real test of whether using AI for workforce reduction decisions violates civil rights law, and the answer will shape how every company thinks about automation in HR. If plaintiffs can prove Meta basically let algorithms do discrimination's dirty work, we're about to see a lot of corporations frantically audit their \"objective\" firing systems and realize that objective plus biased data equals illegally subjective.",
-    "date": "2026-07-15T05:25:42.572797+00:00"
-  },
-  {
-    "title": "These four skills can help you fulfill your purpose\u2014and anyone can master them",
-    "url": "https://www.fastcompany.com/91563210/these-four-disciplines-can-help-anyone-fulfill-their-purpose-personal-growth-leadership-success?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In a recent opinion piece for Fast Company, I wrote about five qualities that will distinguish exceptional leaders in the age of artificial intelligence: IQ, EQ, TQ, WQ, and VQ. Intelligence Quotient ",
-    "dwp_take": "Fast Company published a piece arguing that five quotients (IQ, EQ, TQ, WQ, and VQ) define exceptional leadership in the AI era. This matters because digital workplace leaders need a practical framework for what actually separates effective managers from the rest, especially as technology reshapes how teams work. The irony is thick here: we've spent decades adding letters to quotient acronyms when the real problem is that most leaders still can't master basic emotional intelligence or trust building with their own teams.",
-    "date": "2026-07-15T05:25:46.702419+00:00"
-  },
-  {
-    "title": "Samsung Galaxy Z Fold 8 Leak Shows Usable Closed-Phone Design",
-    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-z-fold-8-leak-wider-design-ultra/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Leaked Galaxy Z Fold 8 renders reveal a wider cover screen and rumored Ultra model ahead of Samsung\u2019s expected July Unpacked event. The post Samsung Galaxy Z Fold 8 Leak Shows Usable Closed-Phone Desi",
-    "dwp_take": "Samsung's next foldable is apparently getting a wider cover screen, making the phone actually usable when closed instead of feeling like a bookmark. This matters because foldables are finally moving from \"cool gadget\" to \"practical work device,\" and a better closed-screen experience means people might actually leave their traditional phones at home. After years of foldables that felt like solutions searching for problems, Samsung might finally have something that doesn't make you look like you're operating an origami instruction manual.",
-    "date": "2026-07-15T05:25:50.899171+00:00"
-  },
-  {
-    "title": "Should You Buy a Mac Studio Now or Wait for M5 Ultra?",
-    "url": "https://www.techrepublic.com/article/news-buy-mac-studio-now-wait-m5-ultra/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Should you buy the current Mac Studio or wait for M5 Ultra? Compare pricing, memory, performance, timing, and professional workloads. The post Should You Buy a Mac Studio Now or Wait for M5 Ultra? app",
-    "dwp_take": "Apple released the Mac Studio with M4 Max chips, leaving buyers wondering whether to purchase now or hold out for the rumored M5 Ultra version. For digital workplace pros managing creative teams or handling resource-intensive workloads, this decision directly impacts productivity budgets and deployment timelines across the organization. Here's the truth: if you need it now, buy it now, because waiting for the next chip cycle is how IT departments end up perpetually paralyzed while actual work piles up.",
-    "date": "2026-07-15T05:25:55.030122+00:00"
-  },
-  {
-    "title": "Microsoft\u2019s 2026 Support Deadlines Explained: Everything You Need to Know",
-    "url": "https://www.techrepublic.com/article/news-microsoft-2026-support-deadlines/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft's 2026 lifecycle schedule includes major support deadlines for Windows, Office, SQL Server, SharePoint, and Azure services. The post Microsoft\u2019s 2026 Support Deadlines Explained: Everything ",
-    "dwp_take": "Microsoft is ending support for several major products in 2026, including various versions of Windows, Office, SQL Server, SharePoint, and Azure services. This matters because you need to start planning your upgrade cycles now, not in December 2025 when you realize your entire infrastructure is about to become unsupported. The real kicker is that most organizations will wait until Q4 2025 to panic about this anyway, then wonder why their IT team looks permanently exhausted.",
-    "date": "2026-07-15T05:25:59.136429+00:00"
-  },
-  {
-    "title": "Microsoft Explores Deeper Phone Integration Across Windows 11",
-    "url": "https://www.techrepublic.com/article/news-windows-11-phone-integration/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft is reportedly testing deeper Windows 11 phone integration, including Start menu activity, system tray controls, file sharing, and SMS. The post Microsoft Explores Deeper Phone Integration Ac",
-    "dwp_take": "Microsoft is building tighter Windows 11 and phone connections, testing features like Start menu syncing, system controls, file sharing, and SMS access from your desktop. This matters because it's the logical next step in making your work devices actually talk to each other instead of pretending they're strangers. If Microsoft pulls this off without making it creepy or bloated, we might finally stop fumbling our phones while working. If they don't, we'll just get another half-baked feature nobody asked for gathering dust in Settings.",
-    "date": "2026-07-15T05:26:03.955249+00:00"
-  },
-  {
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "source": "TechCrunch",
@@ -916,5 +781,140 @@
     "excerpt": "Microsoft's largest-ever Patch Tuesday, driven by AI, lands as New Zealand's stretched security teams look for help closing a 3,500-person skills gap. The post Microsoft\u2019s Record Patch Tuesday Is a Pr",
     "dwp_take": "Microsoft just dropped its biggest Patch Tuesday ever, fueled by AI-generated fixes, right as New Zealand's security teams are drowning in a 3,500-person skills shortage. This matters because digital workplace leaders now face a brutal choice: you need to patch faster than ever while simultaneously lacking the human talent to actually manage it all. The irony is delicious: the very AI that's generating all these patches is supposed to help us fix the skills gap, but instead it's just making security teams run faster on a treadmill that keeps speeding up.",
     "date": "2026-07-21T05:45:05.557562+00:00"
+  },
+  {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "dwp_take": "Rumor has it that Anthropic might be acquiring Physical Intelligence, a startup building AI systems for robotics and physical tasks, as part of what's turning into an acquisition arms race between major AI labs in 2026. This matters to digital workplace folks because the winner in this consolidation battle will shape what AI tools actually do your work for you versus what stays vaporware. Honestly, watching AI companies burn cash on acquisition races reminds me of the dot com bubble, except this time the money is actually real and the robots might actually work.",
+    "date": "2026-07-22T05:43:09.605015+00:00"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+    "dwp_take": "Meta is building an AI app that generates bedtime stories for people instead of them making one up themselves. This matters because it signals how AI is creeping into the last bastions of human creativity and parental bonding, which has real implications for how we design workplace learning and knowledge-sharing tools that might inadvertently replace human thinking. Look, I've spent three decades watching technology make us lazier, but outsourcing bedtime stories feels like we've finally crossed into the \"we've automated away the one thing kids actually want from adults\" zone.",
+    "date": "2026-07-22T05:43:13.936450+00:00"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "dwp_take": "Jack Dorsey launched Buzz, a new workplace chat platform designed to let humans and AI agents communicate in the same channels. This matters because if Buzz gains traction, it signals that AI integration is moving from \"bolt-on feature\" to core product architecture, forcing Slack and Microsoft to rethink how deeply they embed agents into conversations. That said, Dorsey has a track record of abandoning projects mid-stride, so maybe wait until Buzz has actually shipped before redesigning your workplace AI strategy around it.",
+    "date": "2026-07-22T05:43:18.283127+00:00"
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t",
+    "dwp_take": "The major streaming platforms are ditching their format silos and merging into universal entertainment apps powered by AI recommendations. This matters to digital workplace folks because your employees' content consumption habits are about to shift, which affects everything from bandwidth planning to what's actually available during lunch breaks. Honestly, after years of juggling five apps just to find something to watch, having one giant entertainment black hole sounds like either productivity's best friend or worst enemy, depending on your IT policies.",
+    "date": "2026-07-22T05:43:22.482077+00:00"
+  },
+  {
+    "title": "Anthropic pays $1.5B to settle contentious copyright case",
+    "url": "https://www.computerworld.com/article/4199581/anthropic-pays-billion-dollar-settlement-in-copyright-case.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "A US federal court has approved Anthropic\u2019s $1.5 billion settlement in a class-action lawsuit in which authors accused the AI company of using their books without permission to train the AI model Clau",
+    "dwp_take": "Anthropic just cut a $1.5 billion check to settle a lawsuit over using authors' books to train Claude without permission, making it the biggest copyright settlement of its kind in US history. This matters because every organization building AI tools or deploying them internally now has a clearer picture of what unauthorized training data could actually cost you down the road. The real irony here is that this settlement probably cost less than what Anthropic would've spent on licensing those books legitimately in the first place, which tells you everything you need to know about the economics of asking forgiveness instead of permission.",
+    "date": "2026-07-22T05:43:28.192432+00:00"
+  },
+  {
+    "title": "US AI testing institute chief steps down within three months",
+    "url": "https://www.computerworld.com/article/4199419/us-ai-testing-institute-chief-steps-down-within-three-months.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The head of the US government\u2019s AI testing institute, Chris Fall, has resigned about three months after taking charge of the Center for AI Standards and Innovation (CAISI), the federal organization re",
+    "dwp_take": "Chris Fall stepped down as director of the US government's AI testing institute after just three months on the job. For digital workplace pros trying to figure out which AI tools are actually safe to deploy, this leadership vacuum at CAISI is terrible timing when your executives are breathing down your neck to adopt generative AI yesterday. Nothing says \"we've got this AI safety thing figured out\" quite like your testing institute's captain abandoning ship faster than you can say \"prompt injection vulnerability.\"",
+    "date": "2026-07-22T05:43:32.067471+00:00"
+  },
+  {
+    "title": "OECD: Physical labor isn\u2019t immune from AI disruptions",
+    "url": "https://www.computerworld.com/article/4198977/oecd-physical-labor-isnt-immune-from-ai-disruptions.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Jobs involving physical labor are at high risk of disruption from automation, with new technologies such as AI robots becoming more prevalent, according to a recent study by the Organization for Econo",
+    "dwp_take": "The OECD dropped a study showing that physical labor jobs aren't safe from AI and automation disruption, contrary to what many people assumed. Digital workplace leaders need to understand this because workforce planning just got way more complicated; you can't assume blue-collar roles are stable while investing only in knowledge worker tech adoption. Here's the irony: we've spent a decade worrying about robots taking factory jobs while ignoring that they actually might, and now we have no playbook for reskilling a displaced construction worker into your hybrid workforce.",
+    "date": "2026-07-22T05:43:36.291960+00:00"
+  },
+  {
+    "title": "The worst thing you can do in a professional email is play it safe",
+    "url": "https://www.fastcompany.com/91575774/the-worst-thing-you-can-do-in-a-professional-email-is-play-it-safe?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "I was writing a work email and found myself spending an embarrassing amount of time staring at it before hitting send. The message was short, the ask simple. I\u2019d already read it aloud three times, che",
+    "dwp_take": "Fast Company argues that overthinking professional emails and playing it safe with bland, overly cautious messaging actually undermines your effectiveness and credibility. This matters because digital workplace professionals spend enormous time on email, and if we're crafting nervous, inoffensive prose instead of clear communication, we're wasting everyone's time including our own. Look, there's a difference between being thoughtful and being paralyzed by the fear of minor offense, but let's be honest: most people aren't staring at your email for three hours worrying about tone like you are.",
+    "date": "2026-07-22T05:43:40.954522+00:00"
+  },
+  {
+    "title": "The effects of big layoffs on a company\u2019s Glassdoor ratings can linger for years",
+    "url": "https://www.fastcompany.com/91577311/the-effects-of-big-layoffs-on-a-companys-glassdoor-ratings-can-linger-for-years?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "From tech to finance, mass layoffs are rippling through industries this year. Companies including Amazon, Meta, and Oracle have slashed thousands of roles, typically citing AI adoption or broader rest",
+    "dwp_take": "Mass layoffs at major tech companies are tanking their Glassdoor ratings, and the damage sticks around for years, not months. This matters because your employer brand is your recruiting pipeline, and nobody wants to join a sinking ship, which means digital workplace pros end up managing culture from a hole that keeps getting deeper. Here's the thing: no amount of fancy intranet communication or wellness app credits fixes the fact that people watched their colleagues get walked out, and they remember that.",
+    "date": "2026-07-22T05:43:45.142180+00:00"
+  },
+  {
+    "title": "How to convince your boss to let you take a sabbatical",
+    "url": "https://www.fastcompany.com/91576548/how-to-convince-your-boss-to-let-you-take-a-sabbatical?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "If you\u2019re feeling burned out right now, you\u2019re not alone: In a DHR Global survey of corporate professionals, 83% reported some degree of burnout. AI isn\u2019t helping. A sabbatical can make a difference\u2014t",
+    "dwp_take": "Fast Company ran a piece on how employees can negotiate sabbaticals with their bosses, citing research showing 83 percent of corporate professionals are experiencing burnout while AI adds to the workload. This matters because burnout is tanking productivity and retention, so smart leaders should be figuring out how to support legitimate time off instead of watching talented people burn out completely. Here's the thing though: most companies talk about wellness culture while making it nearly impossible to actually step away, which tells you everything you need to know about whether they actually mean it.",
+    "date": "2026-07-22T05:43:49.276343+00:00"
+  },
+  {
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Nvidia\u2019s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company\u2019s growing ambition to power every layer of AI infrastructure.",
+    "dwp_take": "Nvidia is building integrated chip systems that combine processors and graphics processors to dominate the entire AI data center stack instead of just supplying one piece of it. This matters because your organization's infrastructure choices, cloud costs, and vendor lock-in risk all flow downstream from these hardware battles at the top. Nvidia going full vertical integration is like watching a company that sold you the engine suddenly decide they want to build the entire car, and frankly, they probably will.",
+    "date": "2026-07-22T05:43:57.153820+00:00"
+  },
+  {
+    "title": "Google Bets Water Stewardship Can Ease AI Data Center Concerns",
+    "url": "https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google plans to replenish more freshwater than its data centers consume by 2030 as it expands water stewardship efforts amid growing AI infrastructure scrutiny. The post Google Bets Water Stewardship ",
+    "dwp_take": "Google committed to replenishing more freshwater than its data centers consume by 2030, essentially promising net positive water impact as it scales up AI infrastructure. This matters because digital workplace leaders are increasingly fielding sustainability questions from employees and investors who see AI's resource footprint as a real problem, not just PR noise. Here's the thing though: promising to put water back is nice, but the real test is whether Google actually hits that target or this becomes another corporate pledge that quietly disappears from press releases in five years.",
+    "date": "2026-07-22T05:44:01.681196+00:00"
+  },
+  {
+    "title": "Apple Scrapped Mac Pro Revival, Canceled M2 and M3 Extreme Chips",
+    "url": "https://www.techrepublic.com/article/news-apple-mac-pro-m2-m3-extreme-chips-canceled/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple reportedly canceled M2 Extreme and M3 Extreme chips for the Mac Pro before discontinuing the desktop and shifting focus to Mac Studio. The post Apple Scrapped Mac Pro Revival, Canceled M2 and M3",
+    "dwp_take": "Apple killed the Mac Pro lineup and canned the M2 and M3 Extreme chips it was developing, redirecting resources to the Mac Studio instead. For digital workplace folks managing creative teams and high-end workflows, this matters because it signals Apple is betting smaller and more modular beats massive desktop towers for professional work. The real story here is that Apple decided making one thing really well beats making everything to everyone, which honestly is a refreshing move in an industry drowning in bloated product lines.",
+    "date": "2026-07-22T05:44:05.755208+00:00"
+  },
+  {
+    "title": "Apple Reportedly Expands Vapor Chamber Cooling for Foldable iPhone, Future Flagship Models",
+    "url": "https://www.techrepublic.com/article/news-apple-foldable-iphone-vapor-chamber-cooling-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple reportedly increased vapor chamber orders, fueling speculation that its foldable iPhone and future flagship models will feature improved cooling. The post Apple Reportedly Expands Vapor Chamber ",
+    "dwp_take": "Apple is apparently ordering more vapor chamber cooling components, which hints that foldable iPhones and upcoming flagships will run cooler and more efficiently. This matters because workplace tech managers care deeply about device thermal performance, since overheating phones kill productivity and tank battery life during the workday. Honestly, if Apple finally nails thermal management on foldables, it might actually convince skeptics that these devices aren't just expensive gimmicks waiting to burst into flames in someone's pocket.",
+    "date": "2026-07-22T05:44:11.457769+00:00"
+  },
+  {
+    "title": "YouTube Tightens Monetization Rules for AI-Generated and Low-Quality Content",
+    "url": "https://www.techrepublic.com/article/news-youtube-ai-video-monetization-rules/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "YouTube is clarifying monetization rules for repetitive AI-generated videos, synthetic personas, and low-effort content in its Partner Program. The post YouTube Tightens Monetization Rules for AI-Gene",
+    "dwp_take": "YouTube is cracking down on monetizing AI-generated videos, synthetic personas, and low-effort content through its Partner Program. This matters to digital workplace folks because your organization probably has employees running internal video channels, training content, or comms that could accidentally fall into these categories, and you need to know where the lines are. Honestly, it's about time someone told the algorithm farms to stop flooding platforms with garbage, though I'm guessing the real enforcement will be messier than the policy sounds.",
+    "date": "2026-07-22T05:44:15.571212+00:00"
   }
 ]
