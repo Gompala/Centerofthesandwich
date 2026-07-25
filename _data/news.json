@@ -1,156 +1,156 @@
 {
-  "generated": "2026-07-24T05:45:17.270240+00:00",
+  "generated": "2026-07-25T05:39:14.278850+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
+        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI\u2019s and Anthropic\u2019s guardrails affect their work.",
-        "dwp_take": "AI companies are blocking cybersecurity researchers from using their models to find vulnerabilities and develop exploit tools, even though this is legitimate defensive work. This matters because security researchers rely on access to cutting-edge tools to stay ahead of real threats, and overzealous guardrails are basically handing advantage to the actual bad guys who don't care about OpenAI's policies anyway. It's the classic corporate risk-aversion problem: companies would rather disappoint the good guys than face a headline about misuse, even though that math never adds up in security.",
-        "date": "2026-07-24T05:44:06.271639+00:00"
+        "excerpt": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "dwp_take": "OpenAI shipped voice capabilities to ChatGPT's desktop app, letting users talk to the AI instead of typing. This matters because voice interfaces are coming to your workplace whether you like it or not, and now you need to think about how your people will use this for everything from drafting emails to running workflows. Honestly, watch out for the meeting transcripts where someone's been having full conversations with ChatGPT instead of their actual colleagues.",
+        "date": "2026-07-25T05:38:09.309866+00:00"
       },
       {
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "source": "TechCrunch",
+        "title": "AMD moves beyond challenger status in the race for AI platform leadership",
+        "url": "https://siliconangle.com/2026/07/24/ai-hardware-competition-heats-amdadvancingai/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "dwp_take": "Anthropic rolled out upgraded voice capabilities for Claude that now handle practical workplace tasks like rescheduling meetings and drafting emails. This matters because voice interfaces are becoming the actual way people interact with AI tools at work, and if Claude's voice mode can genuinely handle your calendar and inbox faster than typing, adoption curves shift overnight. That said, I'll believe \"more capable\" when I see someone actually use this instead of just demoing it at a conference, because nine times out of ten these voice features end up being slower than just doing the thing yourself.",
-        "date": "2026-07-24T05:44:10.373132+00:00"
+        "excerpt": "AI hardware competition entered a sharper phase this week as Advanced Micro Devices Inc. used its flagship AI event to argue it isn\u2019t merely chasing Nvidia Corp. \u2014 it intends to lead the market outrig",
+        "dwp_take": "AMD is making a serious play for AI chip leadership instead of positioning itself as the cheaper alternative to Nvidia. This matters to digital workplace pros because the hardware infrastructure powering workplace AI tools, collaboration platforms, and automation is about to get competitive in ways that could drive down costs and improve performance across the board. Honestly, it's refreshing to see someone challenge Nvidia's comfortable dominance, though I'll believe AMD has truly moved beyond \"second fiddle\" status when enterprises actually start standardizing on their chips at scale.",
+        "date": "2026-07-25T05:38:14.697169+00:00"
       },
       {
-        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-        "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-        "source": "TechCrunch",
+        "title": "AMD\u2019s Helios strategy turns the GPU battle into a systems contest",
+        "url": "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-        "dwp_take": "Three Harvard dropouts just convinced serious money that they can replace GPUs for AI inference work, landing a $10.3 billion valuation despite plenty of doubters in the market. For digital workplace folks, this matters because whatever Etched actually delivers will reshape the economics of deploying AI tools in your organization, potentially making AI applications cheaper and faster to run at scale. I'll believe it when I see it working reliably in production, but I respect any team willing to bet against the GPU cartel and actually get funded for it.",
-        "date": "2026-07-24T05:44:14.557047+00:00"
+        "excerpt": "The market for data center GPUs is evolving beyond individual chip specifications into a contest over fully integrated rack-scale systems. As AI workloads scale into the gigawatt range, buyers increas",
+        "dwp_take": "AMD is shifting from selling individual GPUs to selling complete, validated rack-scale systems that work out of the box for massive AI workloads. This matters because it signals that enterprise buyers are done tinkering with components and want integrated solutions they can deploy fast, which changes how digital workplace infrastructure gets procured and managed. After three decades watching IT shops cobble together Frankenstein systems, I'm genuinely relieved someone finally figured out that enterprises want to buy confidence, not puzzles.",
+        "date": "2026-07-25T05:38:18.710160+00:00"
       },
       {
-        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-        "source": "VentureBeat",
+        "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+        "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe",
-        "dwp_take": "Salesforce rebuilt Slackbot from a basic notification tool into a full AI agent that can search data, draft documents, and execute tasks for employees, now available to Business+ and Enterprise+ customers. This matters because workplace AI agents are becoming table stakes for collaboration platforms, and how well they access your actual enterprise data will determine whether they're genuinely useful or just expensive autocomplete. Honestly, the real test isn't what Slackbot can do in a demo, it's whether it can actually find the right information in your chaotic SharePoint libraries without hallucinating a quarterly forecast.",
-        "date": "2026-07-24T05:44:19.434777+00:00"
+        "excerpt": "Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot service and developer platform. The company says the LLM approaches the output quality of its top-end Mythos 5",
+        "dwp_take": "Anthropic just launched Claude Opus 5, a new language model that delivers near top-tier performance at a fraction of the cost of their premium Mythos 5 model. For digital workplace teams, this matters because AI tools are finally becoming economically viable for everyday work like drafting documents, analyzing data, and automating routine tasks without breaking the budget. The real news here is that we're hitting the point where \"good enough AI\" costs so little that not using it is starting to look wasteful, which means your boss will definitely want to talk about this at the next meeting.",
+        "date": "2026-07-25T05:38:22.698507+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I use Anthropic's Claude AI tools for very different jobs: How to pick between models, Code, and Cowork",
-        "url": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
+        "title": "Claude Opus 5 arrives with near Fable performance at half the price",
+        "url": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Here's how Anthropic's AI tools work, what they can accomplish, and why security, cost, and your oversight still matter.",
-        "dwp_take": "Anthropic released multiple Claude AI tools designed for different tasks, with varying capabilities and price points depending on your use case. Digital workplace pros need to understand which model fits which job because deploying the wrong tool wastes budget and creates security gaps that'll keep your IT team up at night. The real story here is that AI vendors are finally admitting one-size-fits-all doesn't work, which is refreshing, but it also means you actually have to think about what you're doing instead of just clicking the shiny button.",
-        "date": "2026-07-24T05:44:23.831315+00:00"
+        "excerpt": "Anthropic's latest Claude upgrade targets developers and enterprises with stronger coding, better reasoning efficiency, prompt-cache-friendly tool changes, and near-Fable performance at Opus pricing.",
+        "dwp_take": "Anthropic just released Claude Opus 5, which delivers performance that's nearly as good as their top-tier model but costs half as much and works better with cached prompts. For digital workplace folks building AI-powered tools and knowledge management systems, this is genuinely useful because you can now afford to deploy sophisticated AI without selling a kidney to your CFO. After three decades in this space, I'll say it: when enterprise AI gets cheaper without losing capability, people actually start building things instead of just talking about it in meetings.",
+        "date": "2026-07-25T05:38:27.012203+00:00"
       },
       {
-        "title": "AMD raises the AI stakes with Helios, Venice and robotics",
-        "url": "https://www.computerworld.com/article/4200596/amd-raises-the-ai-stakes-with-helios-venice-and-robotics.html",
-        "source": "Computerworld",
+        "title": "The 3 types of people who will excel in the AI agent era, according to tech leaders",
+        "url": "https://www.zdnet.com/article/types-of-people-who-will-excel-in-ai-agent-era-according-to-tech-leaders/",
+        "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "AMD executives took to the stage at its Advancing AI 2026 event in San Francisco today to detail the company\u2019s next generation of AI infrastructure solutions, from Instinct MI455X AI accelerator GPUs ",
-        "dwp_take": "AMD just announced a full stack of AI hardware and software designed to work together as a unified system, including new GPUs, CPUs, networking gear, and a platform called Helios that ties it all together. This matters because digital workplace leaders are about to face real pressure from vendors to upgrade infrastructure for AI workloads, and AMD is finally offering an integrated alternative to Nvidia's dominant position. Honestly, competition in this space is good for everyone's wallet, though I'll believe \"ties it all together seamlessly\" when I see actual IT teams make it work.",
-        "date": "2026-07-24T05:44:30.035611+00:00"
+        "excerpt": "The autonomous business of the future is being built. Certain skills are in high demand - and can help you stand out.",
+        "dwp_take": "Tech leaders are saying three types of workers will thrive when AI agents run more of the day-to-day business operations. This matters because digital workplace teams need to figure out right now whether they're building the skills their organizations will actually need or training people for jobs that won't exist in five years. Here's the thing though: every tech boom in the past thirty years has promised to eliminate whole job categories, and somehow we always find new work to do, so maybe focus less on reinventing yourself and more on staying adaptable.",
+        "date": "2026-07-25T05:38:31.069398+00:00"
       },
       {
-        "title": "OpenAI Presence raises new questions about enterprise automation and jobs",
-        "url": "https://www.computerworld.com/article/4200685/openai-presence-raises-new-questions-about-enterprise-automation-and-jobs-2.html",
-        "source": "Computerworld",
+        "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
+        "url": "https://www.zdnet.com/article/dell-14s-review/",
+        "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "OpenAI has launched Presence, an enterprise service for deploying voice and chat agents that can resolve customer and employee requests, potentially automating some work now handled by frontline suppo",
-        "dwp_take": "OpenAI just dropped Presence, an enterprise tool that deploys voice and chat agents to handle customer and employee support work that people currently do. For digital workplace leaders, this means you're suddenly responsible for deciding which human jobs to automate, what guardrails to put on AI decision-making, and how to retrain staff who lose their frontline roles. The irony is thick: the same tools promised to make knowledge workers more productive are now the ones potentially replacing them, which should make every digital leader ask themselves whether they're building the future or just outsourcing accountability.",
-        "date": "2026-07-24T05:44:35.972667+00:00"
+        "excerpt": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
+        "dwp_take": "Dell released a new midrange laptop called the 14S that balances decent performance with a reasonable price tag and solid battery life in a slim package. This matters because most knowledge workers spend eight hours a day on their laptops, so when a machine hits that sweet spot of not costing a fortune while actually getting the job done, IT departments should pay attention. Honestly, after three decades watching vendors overpromise on \"thin and light,\" it's refreshing to hear someone say a laptop just works without the hype machine.",
+        "date": "2026-07-25T05:38:35.218226+00:00"
       },
       {
-        "title": "Tech layoffs: A 2026 timeline",
-        "url": "https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html",
-        "source": "Computerworld",
+        "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
+        "url": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
+        "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Among a range of factors leading to a wave of tech sector layoffs in 2026 is the rapid rise of artificial intelligence and automation. Companies are reconfiguring their workforces to leverage AI for i",
-        "dwp_take": "Tech companies are cutting headcount in 2026 largely due to AI adoption and automation, even when their balance sheets look healthy. Digital workplace pros need to understand that the tools they're implementing and supporting are fundamentally changing how many organizations think about their workforce size and structure. Here's the thing: if you're spending 2026 building better collaboration platforms for a company that's simultaneously deciding it needs thirty percent fewer people, you might want to have a conversation with someone in HR about what problem you're actually solving.",
-        "date": "2026-07-24T05:44:39.995344+00:00"
+        "excerpt": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
+        "dwp_take": "Someone reviewed a cheap emergency radio that actually does its job when normal power fails, combining solar charging, hand-crank backup, and weather alerts in one device. Digital workplace folks should care because this is a real-world reminder that our always-on infrastructure is fragile and contingency planning beats wishful thinking when disaster hits. Here's the thing though: we spend fortunes on redundant cloud systems and backup generators for the office, but most of us couldn't operate for an hour if the internet actually went down.",
+        "date": "2026-07-25T05:38:39.346287+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Employers may no longer have to disclose race and gender data",
-        "url": "https://www.fastcompany.com/91578234/employers-may-no-longer-have-to-disclose-race-and-gender-data?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "AI may finally make \u2018women\u2019s work\u2019 valuable. But will women benefit?",
+        "url": "https://www.fastcompany.com/91575822/ai-may-finally-make-womens-work-valuable-but-will-women-benefit?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Since 1966, the majority of employers have been legally required to provide a confidential breakdown of their workforce by race and gender to the government. The mandate\u2014which applies to any company w",
-        "dwp_take": "The Trump administration is rolling back a decades-old requirement for large employers to submit workforce demographic data to the government, eliminating mandatory race and gender reporting that's been standard since 1966. For digital workplace folks, this matters because diversity initiatives, ERG programs, and inclusive hiring tools often depend on solid data to measure progress and identify blind spots in your talent pipelines. Personally, I've never understood how you build better workplaces without actually knowing who works there, but apparently that's considered optional now.",
-        "date": "2026-07-24T05:44:48.336694+00:00"
+        "excerpt": "For years, economists have predicted that artificial intelligence would hollow out the labor market. Machines would write the code, analyze the contracts, draft the emails, and automate the work that ",
+        "dwp_take": "Fast Company is reporting that AI might finally elevate traditionally undervalued \"women's work\" like caregiving and mentoring because machines can't replicate those human skills, though the piece questions whether women will actually benefit economically from this shift. This matters to digital workplace pros because it forces us to reckon with whether our tech implementations are genuinely creating more equitable work or just reshuffling who does what for similar pay. The irony is delicious: we spent decades automating \"women's work\" away, and now that it's scarce, suddenly it's valuable, which tells you everything about how the market values labor rather than the actual work itself.",
+        "date": "2026-07-25T05:38:44.204710+00:00"
       },
       {
-        "title": "Disney layoffs hit Pixar employees, even after the success of \u2018Toy Story 5\u2019",
-        "url": "https://www.fastcompany.com/91578810/disney-layoffs-hit-pixar-employees-even-after-the-success-of-toy-story-5?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Here\u2019s how Meta decides who to lay off\u2014and it claims to not use AI",
+        "url": "https://www.fastcompany.com/91579690/heres-how-meta-decides-who-to-lay-off-and-the-company-claims-to-not-use-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Several hundred employees were laid off on Tuesday across multiple Disney divisions, including ESPN, National Geographic, Disney Entertainment Television, and Disney Studios. Surprisingly, Pixar staff",
-        "dwp_take": "Disney just laid off 108 Pixar employees despite the box office success of Toy Story 5, proving once again that financial performance means nothing when Wall Street wants cost cuts. This matters to digital workplace leaders because it exposes the myth that employee engagement, retention programs, and culture initiatives protect your workforce when shareholders demand quarterly wins. Here's the real kicker: you can have the best digital workplace in the world, but if the spreadsheet people upstairs decide they need to slash headcount, your investment in collaboration tools and wellness apps becomes window dressing.",
-        "date": "2026-07-24T05:44:52.551984+00:00"
+        "excerpt": "Twenty-six employees at Meta who were recently laid off made a bold claim in a lawsuit last week: They alleged the company had used AI to select people for layoffs, disproportionately impacting people",
+        "dwp_take": "Meta claims it doesn't use AI to pick who gets laid off, but 26 employees are suing anyway, alleging the company's selection process disproportionately hit people on leave and those with disabilities. This matters because every company with workforce management tools needs to understand that \"we didn't use AI for this\" isn't a defense if your algorithm-adjacent processes produce discriminatory outcomes. Funny how the company that built its empire on algorithmic decision-making suddenly wants us to believe their layoff decisions were totally human-driven intuition.",
+        "date": "2026-07-25T05:38:48.273059+00:00"
       },
       {
-        "title": "The hidden penalty working mothers pay",
-        "url": "https://www.fastcompany.com/91564424/the-hidden-penalty-working-mothers-pay?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Forget layoffs: This quiet workplace tactic is shucking headcounts without anyone noticing",
+        "url": "https://www.fastcompany.com/91574119/forget-layoffs-this-quiet-workplace-tactic-shucking-headcounts-without-anyone-noticing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Parental leave looks great on paper, but many working mothers who take it have seen missed promotions, unfair performance reviews, or even job loss. Nearly half of all Equal Employment Opportunity Com",
-        "dwp_take": "A new Fast Company report shows that despite formal parental leave policies, working mothers face real career penalties including missed promotions, poor reviews, and termination, with pregnancy-related EEOC cases nearly doubling. This matters to digital workplace pros because your policies and culture are only as good as their enforcement, and \"great on paper\" benefits that don't translate to actual outcomes damage both talent retention and your legal exposure. The uncomfortable truth is that most companies still haven't figured out how to genuinely support working parents without treating them like second-class employees, which is costing them top talent and a whole lot of lawsuits.",
-        "date": "2026-07-24T05:44:56.680105+00:00"
+        "excerpt": "Employees across the workforce often collectively hold their breath in dread whenever another big company announces layoffs attributed to the work automating capabilities of artificial intelligence (A",
+        "dwp_take": "Companies are quietly cutting headcount by simply not replacing people who leave, rather than announcing formal layoffs. This matters because it creates the same job insecurity and burnout as explicit layoffs, except HR gets to pretend everything's fine while remaining staff absorb the work. It's the corporate equivalent of slowly turning down the thermostat and hoping nobody notices they're freezing.",
+        "date": "2026-07-25T05:38:52.802859+00:00"
       },
       {
-        "title": "This new (and very annoying) tactic is forcing RTO companies to let workers work from home",
-        "url": "https://www.fastcompany.com/91574121/this-new-very-annoying-tactic-forcing-rto-companies-let-workers-work-home?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "This is the impact that AI will have on entry-level work and development",
+        "url": "https://www.fastcompany.com/91569202/this-is-the-impact-that-ai-will-have-on-entry-level-work-and-development?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Employers have made considerable efforts and obtained remarkable results in asking workers to spend more time in the office over the past two years. But while even complying employees usually regret t",
-        "dwp_take": "Some workers are deliberately making themselves annoying in the office to force their companies to let them work from home instead. This matters because it signals that heavy-handed RTO mandates are creating perverse incentives, turning workplace culture into a game of chicken nobody wins. After thirty years watching management trends, I can tell you that when employees start weaponizing their own behavior, your RTO strategy has officially failed.",
-        "date": "2026-07-24T05:45:00.520194+00:00"
+        "excerpt": "As AI continues to automate routine tasks, some progressive organizations are shifting early-career roles to handle complex work that requires judgment. As a result, junior employees need to navigate ",
+        "dwp_take": "Fast Company reports that AI is pushing entry-level work toward complex problem-solving instead of routine tasks, but most companies haven't updated their training programs to match this shift. This matters because digital workplace leaders now need to completely rethink onboarding, mentorship, and skill development for junior staff who are expected to handle sophisticated work without the traditional learning runway. The irony is we're all scrambling to train people for jobs that look nothing like the jobs we trained people for five years ago, and nobody's really figured out how to do that well yet.",
+        "date": "2026-07-25T05:38:56.653805+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Reddit Rethinks Google AI Partnership as AI Search Reshapes Publishing",
-        "url": "https://www.techrepublic.com/article/news-reddit-google-ai-partnership-ai-search-publishers-2026/",
+        "title": "Could Australia\u2019s AI Rules Challenge AI Agents That Can Log In?",
+        "url": "https://www.techrepublic.com/article/news-australia-ai-rules-challenge-ai-agents-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Reddit's reported review of its Google AI partnership highlights growing publisher concerns that AI-powered search is changing the economics of web traffic. The post Reddit Rethinks Google AI Partners",
-        "dwp_take": "Reddit is reviewing its deal with Google to feed content into AI training after realizing the arrangement might hurt their traffic and revenue in the long run. This matters because digital workplace tools increasingly rely on AI search and content aggregation, meaning your organization's knowledge assets could be similarly commodified without fair compensation. The real kicker is that publishers spent twenty years complaining about Google Search eating their lunch, and now they're getting a second helping with AI doing the carving.",
-        "date": "2026-07-24T05:45:04.808608+00:00"
+        "excerpt": "1Password just gave Claude access to Australian logins without the passwords \u2014 right as Canberra moves toward mandatory AI rules. The post Could Australia\u2019s AI Rules Challenge AI Agents That Can Log I",
+        "dwp_take": "1Password integrated Claude AI so it can access Australian user accounts without requiring passwords, which is genuinely clever from a usability standpoint. This matters because Australian regulators are actively drafting mandatory AI governance rules, and giving AI agents unsupervised login access is basically asking regulators to write stricter controls faster. Look, I get that password-free authentication is convenient, but timing this integration right as Canberra starts cracking down on AI is like testing your smoke alarms during a fire drill.",
+        "date": "2026-07-25T05:39:00.914421+00:00"
       },
       {
-        "title": "Apple Fixes Hide My Email Bug After Yearlong Delay",
-        "url": "https://www.techrepublic.com/article/news-apple-hide-my-email-bug-fix-delay/",
+        "title": "Zuckerberg Wants to Change How You Think About AI",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-optimism-campaign-zuckerberg-2026/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple patched a Hide My Email flaw that could expose real inbox addresses, after a researcher reportedly flagged the issue more than a year earlier. The post Apple Fixes Hide My Email Bug After Yearlo",
-        "dwp_take": "Apple finally patched a Hide My Email vulnerability that exposed users' real inbox addresses, more than a year after a security researcher first reported it. This matters to digital workplace pros because many employees rely on Apple's privacy tools for work email separation, and yearlong delays in security fixes undermine the whole value proposition of those tools. Look, I appreciate Apple's privacy theater as much as the next person, but if you're going to market yourself as the security-conscious alternative, you can't leave critical bugs sitting around for 12 months like yesterday's lunch.",
-        "date": "2026-07-24T05:45:08.899045+00:00"
+        "excerpt": "Meta has launched a new AI campaign featuring CEO Mark Zuckerberg, positioning artificial intelligence as a tool for creativity, connection, and human potential ahead of earnings. The post Zuckerberg ",
+        "dwp_take": "Meta launched a marketing campaign with Zuckerberg rebranding AI as a tool for creativity and connection, timed conveniently before earnings reports. Digital workplace pros need to watch this because the narrative around AI adoption directly influences how their organizations justify tools, budgets, and workforce changes. Let's be honest, though: the real question isn't whether AI unlocks human potential, it's whether your company will use it to actually make work better or just eliminate headcount while calling it innovation.",
+        "date": "2026-07-25T05:39:04.871122+00:00"
       },
       {
-        "title": "One Password Mistake Helped Hackers Access Chick-fil-A Account",
-        "url": "https://www.techrepublic.com/article/news-chick-fil-a-credential-stuffing-attack-password-reuse/",
+        "title": "Google Hit With \u20ac890M EU Fine as Regulators Crack Down Under Digital Markets Act",
+        "url": "https://www.techrepublic.com/article/news-emea-eu-google-dma-fine-search-play-store/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Chick-fil-A disclosed a credential stuffing attack affecting customers across 10 states, underscoring the risks of password reuse and account takeover. The post One Password Mistake Helped Hackers Acc",
-        "dwp_take": "A Chick-fil-A employee used a reused password that hackers already had from another breach, giving attackers access to customer accounts across 10 states. This matters to digital workplace professionals because it shows that no amount of fancy security infrastructure stops people from using \"Password123\" everywhere, which means your employee security training is either not landing or you're not enforcing password managers. After 30 years watching this play out, I can tell you that credential stuffing attacks are basically the digital equivalent of trying every key on a ring, and we're all still handing them an oversized keychain.",
-        "date": "2026-07-24T05:45:13.211470+00:00"
+        "excerpt": "EU regulators fined Google \u20ac890 million for favoring its own Search services and restricting Play Store developers from promoting cheaper offers. The post Google Hit With \u20ac890M EU Fine as Regulators C",
+        "dwp_take": "The EU slapped Google with an 890 million euro fine for abusing its market position by favoring its own Search services and blocking developers from promoting lower-cost alternatives on the Play Store. This matters to digital workplace folks because it signals regulators are serious about breaking up anticompetitive behavior in major platforms, which could force real changes in how enterprises negotiate licensing and integrations with tech giants. Honestly, it's about time someone made Google uncomfortable, though I'd bet my vintage keyboard that the fine is basically pocket change for them.",
+        "date": "2026-07-25T05:39:09.113336+00:00"
       },
       {
-        "title": "Apple Readies Second-Generation MacBook Neo in Major Mac Lineup Overhaul",
-        "url": "https://www.techrepublic.com/article/news-apple-macbook-neo-upgrade/",
+        "title": "Google Adds Selfie Video Sign-In to Help Users Recover Locked Accounts",
+        "url": "https://www.techrepublic.com/article/news-google-selfie-video-account-recovery/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple is reportedly testing a MacBook Neo with an A19 Pro chip and 12GB of RAM as shortages and higher prices reshape its broader Mac lineup. The post Apple Readies Second-Generation MacBook Neo in Ma",
-        "dwp_take": "Apple is working on a second-generation MacBook Neo with an A19 Pro chip and 12GB of RAM as it restructures its entire Mac product lineup amid supply constraints and cost pressures. For workplace IT teams, this matters because Mac adoption in enterprises keeps climbing, and understanding Apple's pricing and availability strategy directly impacts budget planning and device refresh cycles. Honestly, if Apple is finally getting serious about a lower-cost Mac entry point, the market might actually start believing that \"there's a Mac for everyone\" instead of just wealthy everyone.",
-        "date": "2026-07-24T05:45:17.270124+00:00"
+        "excerpt": "Google added selfie video recovery for eligible accounts, using encrypted videos and liveness checks to help users regain access when locked out. The post Google Adds Selfie Video Sign-In to Help User",
+        "dwp_take": "Google now lets locked-out users prove they're actually themselves by recording a selfie video instead of jumping through traditional recovery hoops. This matters because account recovery is where security and user experience collide, and anything that makes it faster without creating new vulnerabilities is worth paying attention to. Finally, a recovery method that doesn't require you to remember which email address you used in 2007 or convince Google you're not a bot by identifying every traffic light in existence.",
+        "date": "2026-07-25T05:39:14.278732+00:00"
       }
     ]
   }
