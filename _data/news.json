@@ -1,129 +1,156 @@
 {
-  "generated": "2026-07-28T05:41:42.166577+00:00",
+  "generated": "2026-07-29T05:46:22.011707+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
-        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-        "dwp_take": "Anthropic's CEO says he's not against open-source AI models in principle, but worries about China's AI development outpacing Western efforts. This matters because the open versus closed model debate directly affects what tools land in your digital workplace and who controls the underlying technology. Amodei's position is basically \"we love innovation, we just hate losing the race,\" which is a perfectly honest take that beats the usual corporate doublespeak about responsible AI.",
-        "date": "2026-07-28T05:40:47.430360+00:00"
+        "excerpt": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "dwp_take": "Spur Intelligence just closed a $200 million funding round with Insight Partners to scale up its bot detection technology. This matters because digital workplaces are increasingly under siege from automated attacks, fraudulent access attempts, and credential stuffing that can compromise security and data integrity. Here's the thing though: throwing $200 million at bot detection is like buying an expensive lock after someone's already jimmied your door open, which means companies still need to focus on solid identity verification and access controls first.",
+        "date": "2026-07-29T05:45:13.890925+00:00"
       },
       {
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-        "dwp_take": "Microsoft just dropped its own AI security model and a new platform to detect and respond to threats automatically. This matters because digital workplace leaders are tired of juggling five different security tools while hackers move faster than their IT teams can blink. Look, Microsoft throwing its weight behind AI-driven security is smart, but let's be honest: another tool in the stack won't fix the real problem, which is that most organizations still can't keep their house in order before adding fancy AI to the mix.",
-        "date": "2026-07-28T05:40:51.793294+00:00"
+        "excerpt": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+        "dwp_take": "Fish Audio just raised fifty-two million dollars to scale up their AI voice generation tools, which already have eight million users and are pulling in twenty-one million in annual recurring revenue. This matters because voice cloning and synthetic speech are coming to your digital workplace whether you're ready or not, from accessibility features to automated content creation to potentially some sketchy deepfake situations you'll need policies for. Look, we've been saying AI audio would be huge for three years, and now it's finally here with real traction, so if your organization hasn't thought about voice AI governance, you're already behind.",
+        "date": "2026-07-29T05:45:18.440446+00:00"
       },
       {
-        "title": "Threads users can now chat with Meta AI in their DMs",
-        "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-        "source": "TechCrunch",
+        "title": "Meta to build $14B El Paso data center campus with BlackRock",
+        "url": "https://siliconangle.com/2026/07/28/meta-build-14b-el-paso-data-center-campus-blackrock/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-        "dwp_take": "Meta just dropped its AI chatbot into Threads DMs, so now you can have conversations with a machine while ignoring actual humans in your feed. This matters because every social platform is racing to embed AI somewhere, anywhere, and workplace tools will inevitably follow suit, meaning your next team chat might include an AI you didn't ask for. Honestly, this feels like Meta asking \"what if people wanted to talk to robots instead of each other?\" and being shocked when the answer isn't \"finally, I've been waiting for this.\"",
-        "date": "2026-07-28T05:40:55.835756+00:00"
+        "excerpt": "Meta Platforms Inc. today announced plans to build an artificial intelligence data center campus in El Paso, Texas. The project is a collaboration with BlackRock Inc., the world\u2019s largest asset manage",
+        "dwp_take": "Meta and BlackRock are dropping $14 billion on a new AI data center campus in El Paso, Texas, marking a serious bet on infrastructure for training and running large language models. This matters because your workplace collaboration tools, search functions, and generative AI features all depend on massive compute resources, and when giants like Meta invest this heavily in infrastructure, it signals where the market's going and what capabilities will actually be available to enterprises. Here's the thing though: everyone's building data centers like they're going out of style, which means the real differentiator won't be compute capacity for much longer, it'll be what you actually do with it.",
+        "date": "2026-07-29T05:45:23.959646+00:00"
       },
       {
-        "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
+        "title": "AI researchers call for new tools that can slow automated model development",
+        "url": "https://siliconangle.com/2026/07/28/ai-researchers-call-new-tools-can-slow-automated-model-development/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
-        "dwp_take": "TechCrunch Disrupt 2026 is dedicating an entire stage to how AI and energy infrastructure intersect, featuring discussions about fusion technology and the power demands that AI systems are creating across industries. This matters because digital workplace leaders are increasingly accountable for their organization's energy footprint and AI implementation costs, not just productivity gains anymore. Here's the thing: if your company is burning through kilowatts to run AI tools while your sustainability officer is having a meltdown, you're about to learn that \"powering up\" infrastructure was never just about the tech.",
-        "date": "2026-07-28T05:41:00.043495+00:00"
+        "excerpt": "A group of tech workers today published an open letter that calls for a new approach to regulating automated artificial intelligence development initiatives. All the document\u2019s 1,134 signatories work ",
+        "dwp_take": "AI researchers from major companies like OpenAI, Google, and Meta signed an open letter asking for new regulatory tools to slow down automated AI model development. This matters to digital workplace pros because uncontrolled AI development directly impacts the tools, policies, and skills we'll need to manage in our organizations going forward. Here's the thing: when the people building these systems are the ones asking for the brakes, maybe pay attention, because they're basically saying \"we're moving too fast even for us.\"",
+        "date": "2026-07-29T05:45:28.933706+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
-        "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+        "title": "How to remap the Copilot key on your keyboard to something more helpful",
+        "url": "https://www.zdnet.com/article/remap-copilot-key/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
-        "dwp_take": "Nvidia is joining forces with others to promote open source solutions as a defense against uncontrolled AI agents that could wreak havoc on company systems. This matters because digital workplace teams are suddenly responsible for managing tools that can act independently, and proprietary black boxes don't give you the visibility you need to sleep at night. Here's the thing though: open source is great until it's not, and handing the keys to community-maintained AI tools might just swap one set of problems for another that nobody's thought through yet.",
-        "date": "2026-07-28T05:41:04.288955+00:00"
+        "excerpt": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
+        "dwp_take": "Microsoft stuck a dedicated Copilot key on millions of keyboards, and now people are scrambling to turn it into something actually useful. This matters because it's a perfect example of feature bloat meeting real user needs, and shows how vendors still don't get that not everyone wants their pet technology shoved into the hardware. Look, I've been doing this for three decades, and the Copilot key is basically the digital equivalent of a car manufacturer gluing a cup holder to your steering wheel.",
+        "date": "2026-07-29T05:45:32.987570+00:00"
       },
       {
-        "title": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
-        "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+        "title": "Token-maxing is an AI cost sink - how to use agents without busting your budget",
+        "url": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with a haptic touchpad and excellent battery life.",
-        "dwp_take": "Framework released a new Linux-first laptop called the Laptop 13 Pro, built directly from user feedback, featuring a haptic touchpad and impressive battery life. For digital workplace teams managing device fleets and supporting remote workers, this matters because it signals that mainstream laptop makers finally care about Linux users and are shipping hardware that actually works with open-source operating systems instead of treating them as afterthoughts. After three decades watching companies ignore Linux on laptops, I'm cautiously optimistic, though I'll believe it when support ticket volume stays low and IT departments stop pulling their hair out at year two.",
-        "date": "2026-07-28T05:41:08.622512+00:00"
+        "excerpt": "Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.",
+        "dwp_take": "Companies are discovering that their AI agent implementations are hemorrhaging money through excessive token consumption, which happens when systems process way more data than necessary to complete tasks. For digital workplace leaders rolling out AI assistants and automation, this is the difference between a smart investment and accidentally funding someone's AI hobby project. The real trick isn't buying the fanciest agent on the market, it's teaching your organization to ask smarter questions so the AI doesn't have to read your entire email archive just to schedule a meeting.",
+        "date": "2026-07-29T05:45:37.815460+00:00"
       },
       {
-        "title": "The best laptop docking stations you can buy: Expert tested",
-        "url": "https://www.zdnet.com/article/best-laptop-docking-station/",
-        "source": "ZDNet",
+        "title": "AI has become Apple\u2019s latest bug detective",
+        "url": "https://www.computerworld.com/article/4202355/ai-has-become-apples-latest-bug-detective.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Organize your workspace with our top picks for the best laptop docking stations available now.",
-        "dwp_take": "ZDNet rounded up their favorite laptop docking stations and called it expert testing. This matters because most organizations still treat docking stations like an afterthought, then wonder why remote workers and desk-switchers complain about cable management and peripheral connectivity. Here's the thing: a good docking station is genuinely one of the cheapest ways to improve hybrid worker satisfaction, yet IT departments keep ordering whatever's on sale at the bulk supplier.",
-        "date": "2026-07-28T05:41:12.529257+00:00"
+        "excerpt": "Artificial intelligence is becoming a force multiplier for Apple security research. Apple\u2019s latest 26.5.2 software update includes patches for a record number of bugs \u2014 many of them identified by secu",
+        "dwp_take": "Apple used AI tools to identify and fix a record 242 security vulnerabilities across iOS, iPadOS, and macOS in a single update cycle. This matters because it shows how AI is becoming table stakes for catching security gaps that traditional manual review misses, and your organization's security posture depends on keeping pace with this reality. The irony is that we've spent years warning people about AI risks while the real story is AI quietly becoming the only practical way to handle the sheer volume of vulnerabilities modern systems generate.",
+        "date": "2026-07-29T05:45:42.651454+00:00"
       },
       {
-        "title": "Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it",
-        "url": "https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/",
-        "source": "ZDNet",
+        "title": "Synsira Launches Kind Local Pro with 100% On-Device AI",
+        "url": "https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "New CDW research finds that AI is driving new phishing and malware-based threats. But are enough companies also using AI to fight them?",
-        "dwp_take": "Forty-three percent of companies have already faced AI-powered cyberattacks, mostly in the form of sophisticated phishing and malware, according to new CDW research. This matters because digital workplace leaders now need to understand that traditional security awareness training won't cut it anymore; your employees face threats designed by algorithms, not just humans. The real kicker is that most companies still aren't fighting fire with fire by deploying AI defenses, which means they're essentially bringing a PowerPoint presentation to a machine learning gunfight.",
-        "date": "2026-07-28T05:41:16.345347+00:00"
+        "excerpt": "Operating entirely offline, Kind Local Pro gives individuals local data sovereignty without sacrificing AI performance Synsira Software is addressing the biggest concern with AI: privacy. Today, the c",
+        "dwp_take": "Synsira just released Kind Local Pro, an AI tool that runs entirely on your own computer without sending anything to the cloud. For digital workplace folks, this matters because it finally addresses the privacy nightmare that's been keeping security teams up at night while IT tries to figure out what employees are actually doing with ChatGPT. Honestly, after years of watching companies panic about data leaving the building, it's refreshing to see someone build something that lets people use AI without playing roulette with their sensitive information.",
+        "date": "2026-07-29T05:45:46.431464+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "How \u2018wildflowering\u2019 at work could lead to promotions",
-        "url": "https://www.fastcompany.com/91577986/how-wildflowering-at-work-could-lead-to-promotions?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Warren Buffett is often asked what the ideal workplace is. His answer is the best career tip you\u2019ll hear today",
+        "url": "https://www.fastcompany.com/91574117/warren-buffett-often-asked-ideal-workplace-answer-best-career-tip-youll-hear-today?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "You might have heard the term \u201cwildflowering\u201d in the dating world. According to a piece in Psychology Today, it \u201cmeans allowing a relationship to either wilt or bloom completely organically without en",
-        "dwp_take": "A Fast Company piece suggests applying \"wildflowering\" (letting relationships develop organically without forced timelines) to workplace relationships as a path to career advancement. This matters because workplace culture keeps swinging between extremes, and understanding how natural relationship-building actually drives opportunities is more useful than the next networking framework someone invented in a PowerPoint. Here's the thing though: letting relationships bloom organically has always worked, we just dressed it up in dating terminology to make it sound fresh again.",
-        "date": "2026-07-28T05:41:20.847541+00:00"
+        "excerpt": "For Warren Buffett\u2019s authorized biography, The Snowball: Warren Buffett and the Business of Life, the billionaire investor gave writer Alice Schroeder unprecedented access to explore his opinions and ",
+        "dwp_take": "Warren Buffett told biographer Alice Schroeder that people should work somewhere they genuinely want to be, not just chase prestige or money. This matters because digital workplace leaders spend millions on retention and engagement programs when the real answer might just be hiring people who actually want to show up. Here's the kicker: if your workplace needs that much convincing to keep people around, you've probably already lost the game.",
+        "date": "2026-07-29T05:45:50.464708+00:00"
+      },
+      {
+        "title": "Would you work harder if you knew your boss was anti-union?",
+        "url": "https://www.fastcompany.com/91580353/would-you-work-harder-if-you-knew-your-boss-was-anti-union?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Unions have grown more popular in recent years, with 16.5 million workers represented by a union in 2025\u2014the highest share of the overall workforce in 16 years. As workers have mounted high-profile un",
+        "dwp_take": "A new study is examining whether workers actually change their behavior and effort levels when they know their employer actively opposes unionization. This matters to digital workplace leaders because it touches on a fundamental question of trust and engagement: if your workforce knows you're against their organizing, does that kill morale and productivity, or does transparency actually help? After 30 years in this space, I can tell you that pretending you have no position on unions while your employees whisper about it anyway is the worst possible strategy\u2014just pick a lane and own it.",
+        "date": "2026-07-29T05:45:54.758402+00:00"
+      },
+      {
+        "title": "You have a big idea. Here\u2019s how to turn it into impact",
+        "url": "https://www.fastcompany.com/91577228/you-have-a-big-idea-heres-how-to-turn-it-into-impact?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Peter Drucker was the quintessential management visionary. Often decades ahead of his time, he developed concepts like the knowledge worker and management by objectives long before they were on anybod",
+        "dwp_take": "Fast Company is dusting off Peter Drucker's playbook to remind us that turning ideas into actual impact requires more than just having a good thought at 2am. This matters because digital workplace folks spend half their time pitching initiatives that go nowhere, and the other half wondering why leadership doesn't listen. The irony is that Drucker figured this out decades ago, which means we've been ignoring the same lessons for thirty years and calling it innovation.",
+        "date": "2026-07-29T05:46:00.413181+00:00"
+      },
+      {
+        "title": "AI may finally make \u2018women\u2019s work\u2019 valuable. But will women benefit?",
+        "url": "https://www.fastcompany.com/91575822/ai-may-finally-make-womens-work-valuable-but-will-women-benefit?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "For years, economists have predicted that artificial intelligence would hollow out the labor market. Machines would write the code, analyze the contracts, draft the emails, and automate the work that ",
+        "dwp_take": "Fast Company is reporting that AI could ironically elevate traditionally undervalued \"women's work\" like caregiving and mentoring by automating the technical tasks that currently dominate workplace hierarchies. This matters to digital workplace pros because it forces us to confront whether our tools and platforms actually reward relationship-based skills or if we're just automating our way to the same old gender pay gap with fancier technology. Spoiler alert: AI doesn't fix culture, and until organizations actually pay people for soft skills the way they pay engineers, this is just another way to say women's work will still be undervalued, just in a more efficient economy.",
+        "date": "2026-07-29T05:46:05.560229+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple\u2019s Smart Glasses Have a Meta Problem: Earning Privacy Trust",
-        "url": "https://www.techrepublic.com/article/news-apple-smart-glasses-privacy/",
+        "title": "Amazon Reportedly Plans to Consolidate Nova AI Models",
+        "url": "https://www.techrepublic.com/article/news-amazon-nova-ai-model-consolidation-aws/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple is reportedly targeting a June 2027 reveal for its N50 smart glasses as it tests camera limits, on-device processing, and other privacy safeguards. The post Apple\u2019s Smart Glasses Have a Meta Pro",
-        "dwp_take": "Apple is planning to launch smart glasses by June 2027 and is testing privacy features like on-device processing to address concerns about always-on cameras. This matters because wearable devices are coming to the workplace, and privacy trust is non-negotiable if employees are ever going to accept cameras on their faces all day. Here's the thing though: no amount of technical wizardry fixes the real problem, which is that most people fundamentally don't want to be filmed by their coworkers, privacy safeguards or not.",
-        "date": "2026-07-28T05:41:28.571349+00:00"
+        "excerpt": "Amazon reportedly plans to consolidate several Nova AI models. Here\u2019s what the strategy shift could mean for AWS and enterprise AI customers. The post Amazon Reportedly Plans to Consolidate Nova AI Mo",
+        "dwp_take": "Amazon is reportedly consolidating its Nova AI model lineup instead of maintaining multiple versions across different capabilities. This matters because enterprises evaluating AWS for their AI strategy need to understand which models will stick around and which ones might get the axe, affecting long-term platform decisions. Consolidation usually sounds like efficiency speak, but it's really Amazon saying \"we built too many things\" and hoping you don't notice the feature set you were counting on disappeared.",
+        "date": "2026-07-29T05:46:09.752300+00:00"
       },
       {
-        "title": "Google Confirms Pixel 11 Price Increase As RAM Costs Force Higher Phone Prices",
-        "url": "https://www.techrepublic.com/article/news-google-pixel-11-price-increase-memory-costs/",
+        "title": "More Than 45,000 Software Flaws Reported as AI Reshapes Cybersecurity",
+        "url": "https://www.techrepublic.com/article/news-ai-software-vulnerability-surge-cybersecurity-risks/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google says rising memory costs will increase Pixel 11 prices as AI-driven demand reshapes the smartphone supply chain. The post Google Confirms Pixel 11 Price Increase As RAM Costs Force Higher Phone",
-        "dwp_take": "Google is hiking Pixel 11 prices because RAM costs are climbing, driven partly by AI demand eating up memory supplies. This matters to digital workplace folks because your device refresh budgets just got tighter, and IT procurement teams will feel this squeeze immediately when replacement cycles kick in. Here's the thing: companies will start rationing upgrades and holding onto older devices longer, which sounds great for sustainability until you're explaining to leadership why their three year old phone can't run the latest workplace apps.",
-        "date": "2026-07-28T05:41:33.494523+00:00"
+        "excerpt": "AI security tools are helping uncover more software flaws, creating new patching demands and potential offensive risks for enterprise IT teams. The post More Than 45,000 Software Flaws Reported as AI ",
+        "dwp_take": "AI security tools are finding software flaws faster than we can patch them, with over 45,000 vulnerabilities now on the radar. For digital workplace teams, this means your IT security folks are drowning in a fire hose of work that'll keep them busy for years. The irony here is we asked AI to help us find problems and it said \"hold my beer\" and found so many problems that we're now the bottleneck instead of the tools.",
+        "date": "2026-07-29T05:46:13.975706+00:00"
       },
       {
-        "title": "Google Signs EU AI Content Labeling Code Ahead of AI Act",
-        "url": "https://www.techrepublic.com/article/news-google-eu-ai-content-labeling-code-ai-act-emea/",
+        "title": "5 Google Docs Grammar Check Alternatives Compared for 2026",
+        "url": "https://www.techrepublic.com/article/how-google-docs-grammar-check-compares-to-its-alternatives/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google will sign the EU's voluntary AI content labeling code as the bloc prepares to enforce new AI transparency requirements under the AI Act. The post Google Signs EU AI Content Labeling Code Ahead ",
-        "dwp_take": "Google committed to labeling AI-generated content under the EU's voluntary code ahead of stricter AI Act enforcement later this year. This matters because your workplace tools, from Gmail to Docs to Workspace AI features, will need to clearly show users what's machine-generated versus human-created. It's the right move, though I'd bet half my coffee budget that the real friction starts when companies have to actually explain what their AI is doing to regular employees who just want to get work done.",
-        "date": "2026-07-28T05:41:37.786757+00:00"
+        "excerpt": "G Suite Basic, Business, and Enterprise users can now check grammar in Google Docs. Here's a quick look at how well the feature performs compared to alternatives. The post 5 Google Docs Grammar Check ",
+        "dwp_take": "Google finally built native grammar checking into Docs for its paid tier users, and TechRepublic ran a comparison against competing tools. This matters because most organizations already live in Google Workspace, so having workable grammar checking built-in reduces tool sprawl and the need to buy third-party solutions. Honestly, it's about time, though I'm curious whether Google's version will actually catch the kinds of mistakes that matter or just flag passive voice like some nagging English teacher from 1987.",
+        "date": "2026-07-29T05:46:18.144448+00:00"
       },
       {
-        "title": "US Threatens Sanctions Over Alleged Chinese AI Model Distillation",
-        "url": "https://www.techrepublic.com/article/news-us-threatens-sanctions-chinese-ai-model-distillation-apac/",
+        "title": "Apple Fixes 194 Security Flaws Across iPhone, Mac and Other Devices",
+        "url": "https://www.techrepublic.com/article/news-apple-security-updates-194-vulnerabilities/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The Trump administration is considering sanctions against Chinese AI developers over alleged model distillation, escalating U.S.-China tensions over AI and intellectual property. The post US Threatens",
-        "dwp_take": "The Trump administration is threatening sanctions against Chinese AI developers for allegedly copying advanced AI models through a technique called distillation. This matters to digital workplace pros because it signals that geopolitical AI restrictions could soon reshape which tools your organization can actually use, especially if you're relying on certain platforms or integrations. If we're being honest, threatening sanctions over AI copycats while everyone in the valley is quietly borrowing from everyone else feels like selective enforcement, but either way your IT security team better start mapping dependencies now.",
-        "date": "2026-07-28T05:41:42.166472+00:00"
+        "excerpt": "Apple\u2019s latest iPhone, iPad and Mac updates patch 194 unique security flaws involving root access, kernel code execution and protected data. The post Apple Fixes 194 Security Flaws Across iPhone, Mac ",
+        "dwp_take": "Apple released security patches addressing 194 vulnerabilities across iPhones, iPads, and Macs, with several flaws allowing kernel-level access and data theft. Digital workplace pros need to prioritize these updates immediately since most organizations now run Apple devices and a single unpatched machine can compromise your entire network. Here's the thing: 194 sounds dramatic until you realize it's basically Apple saying \"oops, we left the doors unlocked\" multiple times over.",
+        "date": "2026-07-29T05:46:22.011602+00:00"
       }
     ]
   }
