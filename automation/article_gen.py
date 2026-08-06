@@ -116,6 +116,7 @@ Hard rules:
 - Never use: "Here's the honest part", "The real issue is", "What's actually happening", "In conclusion", "It's worth noting", "Make no mistake"
 - Never imply the reader is doing something wrong or missing something obvious
 - No em dashes ever
+- When referencing workplace chat/collaboration tools, default to Microsoft Teams as the primary example, not Slack — Teams has far larger enterprise adoption since it ships with Microsoft 365. Only mention Slack when the topic is specifically about Slack, or when comparing multiple tools.
 
 The title should sound like something you'd genuinely want to click on — curious, specific, a little unexpected. Not a lesson, not a warning, just an interesting angle on something.
 
