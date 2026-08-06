@@ -1,101 +1,138 @@
 {
-  "generated": "2026-08-05T12:06:59.436057+00:00",
+  "generated": "2026-08-06T05:43:05.358804+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Bending Spoons to acquire productivity software startup Airtable for $1.285B",
-        "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
-        "source": "SiliconAngle",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Technology holding company Bending Spoons S.p.A. today announced plans to acquire Airtable Inc., the developer of a popular cloud-based spreadsheet platform. The all-cash deal is worth $1.285 billion.",
-        "dwp_take": "Bending Spoons is buying Airtable for 1.285 billion dollars in cash, which is actually less than what Airtable raised from investors and way less than its last valuation of 11.7 billion. This matters because Airtable's been a workplace staple for teams building custom workflows without code, so you're watching what happens when a hot productivity tool gets acquired by a company known for consolidating software assets. The valuation drop tells you everything you need to know about the current startup funding environment: yesterday's unicorn is today's acquisition target at a steep discount.",
-        "date": "2026-08-05T12:05:25.163136+00:00"
+        "excerpt": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "dwp_take": "Meta just released Muse Code, an AI agent designed to tackle the messy reality of large codebases instead of simple coding snippets. For digital workplace folks managing internal tools and custom platforms, this matters because your dev teams will start asking for access to it, and you'll need to figure out governance, security, and whether it actually works before letting it loose on production code. The real test isn't whether the AI can code, it's whether your organization can handle another tool that promises to save time but requires actual thinking about where it fits in your stack.",
+        "date": "2026-08-06T05:41:56.466025+00:00"
       },
       {
-        "title": "AMD\u2019s AI engine shifts into higher gear as data center revenue more than doubles and Helios ramps \u2013 but market is confused",
-        "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-        "source": "SiliconAngle",
+        "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
+        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company",
-        "dwp_take": "AMD doubled its data center revenue year-over-year and is positioning itself as a serious competitor to Nvidia in AI infrastructure, though the market seems unsure what to make of it. This matters because the chips powering your workplace AI tools, search functions, and data processing are increasingly coming from AMD, which means your infrastructure teams need to understand this player's roadmap and reliability. Here's the thing: when Wall Street gets confused about good news, that's usually when smart enterprises quietly start testing alternatives to their single-vendor dependency.",
-        "date": "2026-08-05T12:05:29.732874+00:00"
+        "excerpt": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "dwp_take": "Klaviyo bought Elias Torres' agency and he's now joining as Chief Product Officer to lead their AI agents division. This matters because it signals how seriously enterprise software companies are taking AI product development, and it shows they're willing to pay for proven builders rather than promote from within. After three decades watching tech cycles, I can tell you this setup usually works when the founder actually gets autonomy, but CPO roles at public companies have a way of becoming political minefields fast.",
+        "date": "2026-08-06T05:42:00.727756+00:00"
       },
       {
-        "title": "Open Secure AI Alliance proposes SAFE guidelines as membership tops 120",
-        "url": "https://siliconangle.com/2026/08/04/open-secure-ai-alliance-proposes-safe-guidelines-membership-tops-120/",
-        "source": "SiliconAngle",
+        "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
+        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The Open Secure AI Alliance today proposed a set of guidelines for reporting cybersecurity incidents involving artificial intelligence agents, one week after the group was formed. The proposal is call",
-        "dwp_take": "A brand new AI security alliance with over 120 members just dropped proposed guidelines for reporting cybersecurity incidents involving AI agents, called SAFE. This matters because AI is moving into production environments faster than most organizations can secure them, and having some shared standard for incident reporting could actually help us all learn from failures instead of pretending they didn't happen. The cynic in me notes that getting 120 companies to agree on anything is harder than herding cats, but at least someone's trying to build the guardrails before we really need them.",
-        "date": "2026-08-05T12:05:33.740403+00:00"
+        "excerpt": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
+        "dwp_take": "TechCrunch is launching a \"Real World AI\" stage at Disrupt 2026 that will showcase how AI bridges digital and physical spaces, including robots, automated factories, and apparently extinct animals for some reason. This matters because digital workplace professionals need to understand how AI moves beyond chat interfaces and actually shows up in operations, supply chains, and physical infrastructure where real work happens. That said, if they're wheeling out robot dinosaurs to make their point about workplace automation, we've officially entered the territory where the conference itself has become the story instead of the actual insights.",
+        "date": "2026-08-06T05:42:05.718154+00:00"
       },
       {
-        "title": "DigitalOcean tops second quarter expectations amid surging AI demand",
-        "url": "https://siliconangle.com/2026/08/04/digitalocean-tops-second-quarter-expectations-amid-surging-ai-demand/",
-        "source": "SiliconAngle",
+        "title": "Anthropic is hiring an AI chip design team",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "DigitalOcean Holdings Inc. today posted second quarter earnings that topped analyst expectations across the board. The company also raised its third quarter guidance. DigitalOcean launched in 2011 to ",
-        "dwp_take": "DigitalOcean beat Q2 earnings expectations and raised forward guidance, riding a wave of AI infrastructure demand that's pushing developers toward simpler, cheaper cloud alternatives. For those of us building digital workplace infrastructure, this matters because it signals that teams are actively shopping around rather than defaulting to the big three clouds, which usually means more competitive pricing and better developer experience tools are actually moving the needle. Honestly, it's refreshing to see a company win by making things simpler instead of piling on features nobody asked for.",
-        "date": "2026-08-05T12:05:38.197056+00:00"
+        "excerpt": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+        "dwp_take": "Anthropic is building an in-house team to design custom AI chips rather than relying on off-the-shelf hardware from Nvidia and others. This matters because any organization betting heavily on AI infrastructure needs to understand that chip dependency is real and expensive, and vertical integration is becoming table stakes for serious players. Here's the thing though: everyone from OpenAI to Meta is doing this now, so Anthropic isn't being clever, just finally catching up like someone who joins the gym in March after New Year's resolutions.",
+        "date": "2026-08-06T05:42:10.115625+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [
+    "tools-tech": [
       {
-        "title": "Emotional resilience is becoming the most valuable skill. Here\u2019s why",
-        "url": "https://www.fastcompany.com/91583135/emotional-resilience-is-becoming-the-most-valuable-skill-heres-why?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Global employee stress has reached a record high, according to Gallup\u2019s State of the Global Workplace 2026 report. The report found that 44% of the world\u2019s workforce reported significant daily stress.",
-        "dwp_take": "Gallup's latest data shows global employee stress hitting record levels, with 44% of workers experiencing significant daily stress and emotional health metrics at decade-highs. For digital workplace professionals, this is a wake-up call that no amount of Slack channels or wellness app integrations will fix a broken culture. Here's the truth: you can have the slickest intranet and best collaboration tools on the planet, but if people are burned out and anxious, your digital workplace is just a fancy way to stress people out faster.",
-        "date": "2026-08-05T12:06:29.125775+00:00"
+        "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
+        "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
+        "dwp_take": "Someone tested the major voice dictation tools and found three winners, including a free option that actually works. This matters because voice input is finally mature enough to be a real productivity lever, not just a novelty, which means your knowledge workers have legitimate alternatives to keyboard and mouse. The funny part is we've been promised \"the future of voice\" for twenty years, but it took AI to actually make it useful instead of frustrating.",
+        "date": "2026-08-06T05:42:14.485777+00:00"
       },
       {
-        "title": "Your old role isn\u2019t coming back",
-        "url": "https://www.fastcompany.com/91581240/your-old-role-isnt-coming-back?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Report: Passkey security issues could allow account takeover",
+        "url": "https://www.computerworld.com/article/4205809/report-passkey-security-issues-could-allow-account-takeover-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Given the widespread enterprise adoption of passkeys to replace passwords, a Palo Alto Networks Unit 42 report disclosing ways attackers are getting around passkey protections is concerning, analysts ",
+        "dwp_take": "Palo Alto Networks found that attackers can bypass passkey protections, but only after they've already broken into your system first. For digital workplace leaders rolling out passkeys as their password replacement strategy, this matters because it means passkeys alone won't save you if your broader security posture is weak. The real lesson here is that passkeys are great, but they're not a magic wand that lets you skip doing the actual security work.",
+        "date": "2026-08-06T05:42:19.959478+00:00"
+      },
+      {
+        "title": "Microsoft moves to limit AI use by its employees",
+        "url": "https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Until recently, it was common for companies and organizations to engage in \u201ctokenmaxxing\u201d \u2014 that is, maximizing their use of AI. But with AI costs going up, companies are now looking to save money, a ",
+        "dwp_take": "Microsoft is telling its own employees to dial back their AI usage to control costs. This matters because if the company literally eating, sleeping, and breathing AI can't justify unlimited use, it signals that the AI gold rush economics don't actually work at scale. Turns out \"tokenmaxxing\" was just \"spending money like it grows on trees\" with extra steps.",
+        "date": "2026-08-06T05:42:23.906289+00:00"
+      },
+      {
+        "title": "Apple\u2019s memory crisis is a big red flag for tech",
+        "url": "https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "The memory crisis is getting worse for Apple, which is struggling to get enough memory chips together for its upcoming iPhone 18 Pro series smartphones. That\u2019s according to tech journalist Tim Culpan.",
+        "dwp_take": "Apple is facing a significant shortage of memory chips needed for its upcoming iPhone 18 Pro lineup, raising serious questions about their supply chain resilience. For digital workplace professionals managing enterprise device deployments, this signals potential delays and price increases that could impact corporate refresh cycles and mobility strategies. If a company with Apple's legendary supply chain muscle can't lock down enough memory chips, the rest of us should probably stop pretending our device roadmaps are anything more than educated guesses.",
+        "date": "2026-08-06T05:42:29.555539+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "Middle managers accounted for nearly a third of all layoffs in 2023, up from around 20% five years earlier. In 2024, Gartner predicted that through 2026, 20% of organizations would be using AI to flat",
-        "dwp_take": "Middle management got hammered in 2023 and the trend is accelerating, with AI now becoming the official excuse to flatten org charts and eliminate roughly half of those roles by 2026. This matters because digital workplace professionals need to stop designing tools and processes assuming a traditional management layer exists to implement them. The irony is thick here: we built collaboration software to help managers coordinate teams, and now those managers are getting replaced by the very automation that software promised to enable.",
-        "date": "2026-08-05T12:06:33.564894+00:00"
+        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+        "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve workforce well-being as burnout costs climb. This matters because digital workplace leaders are increasingly expected to be stewards of employee health, not just productivity czars, and having actual data beats guessing at what's wrong. Here's the thing though: another dashboard measuring worker wellness doesn't fix the core problem, which is usually too much work, too few people, and not enough real flexibility to actually do the job without losing your mind.",
+        "date": "2026-08-06T05:42:37.247638+00:00"
+      },
+      {
+        "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
+        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+        "dwp_take": "Google's top AI talent, including Jeff Dean, has left the company to start Discovery Loop, a new venture focused on using AI for breakthroughs in drug discovery, chip design, and similar fields. This matters to digital workplace pros because when your best people walk out the door to start their own thing, it signals either that your company culture has become unbearable or your innovation strategy isn't aggressive enough. After thirty years in this space, I've learned that losing Jeff Dean is like losing your star quarterback mid-season, except Google's the one paying his replacement's signing bonus through lost institutional knowledge.",
+        "date": "2026-08-06T05:42:45.960015+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "OnePlus Community Is Ending: What Users Should Save First",
-        "url": "https://www.techrepublic.com/article/news-oneplus-community-shutdown/",
+        "title": "Google Pixel 11 Leak Reveals \u2018HiLight\u2019 Notification Feature, Raises Questions About Charging Claim",
+        "url": "https://www.techrepublic.com/article/news-google-pixel-11-hilight-notification-feature-charging-claim/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "OnePlus is closing its North American Community on August 16. Learn how to save your posts, photos, guides, and files before they become inaccessible. The post OnePlus Community Is Ending: What Users ",
-        "dwp_take": "OnePlus is shutting down its North American Community platform on August 16, and users need to manually export their content before it vanishes. This matters because it's a sharp reminder that any digital workspace or community you don't own can disappear overnight, taking years of collective knowledge and user-generated content with it. If your organization is betting everything on a third-party platform for internal collaboration, you might want to think about what happens when that vendor decides to pull the plug.",
-        "date": "2026-08-05T12:06:45.831767+00:00"
+        "excerpt": "Leaked Google Pixel 11 marketing materials suggest a new HiLight notification feature, while a five-minute charging claim raises questions ahead of Google's launch. The post Google Pixel 11 Leak Revea",
+        "dwp_take": "Google's upcoming Pixel 11 appears to have a new HiLight notification system, though leaked marketing materials also mention a suspicious five-minute charging claim that's already drawing skepticism. For digital workplace folks, better notifications matter because they affect how employees stay focused and responsive throughout the workday. Honestly, if Google is claiming five-minute charging, I'd wait for the independent reviews before betting your device budget on it.",
+        "date": "2026-08-06T05:42:50.354880+00:00"
       },
       {
-        "title": "Samsung Galaxy Z Flip8 vs Motorola Razr Ultra: Which Is Right for You?",
-        "url": "https://www.techrepublic.com/article/news-samsung-galaxy-z-flip8-motorola-razr-ultra/",
+        "title": "Texas Pauses Data Center Grid Approvals as Power Requests Hit 474 GW",
+        "url": "https://www.techrepublic.com/article/news-texas-data-center-grid-approvals-474-gw/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Samsung\u2019s Galaxy Z Flip8 costs less and has longer support, while Motorola\u2019s Razr Ultra leads on storage, RAM, battery, charging, and cover-screen apps. The post Samsung Galaxy Z Flip8 vs Motorola Raz",
-        "dwp_take": "Samsung's latest flip phone is cheaper with better long-term support, while Motorola's model wins on raw specs like storage, RAM, and battery life. This matters because enterprises are finally taking foldables seriously for mobile work, and choosing between these two means deciding between total cost of ownership versus pure performance. Honestly, if your company is still debating whether foldables are a gimmick, you're already five years behind.",
-        "date": "2026-08-05T12:06:51.118176+00:00"
+        "excerpt": "Texas paused grid approvals for new data centers as power requests hit 474 GW. Here\u2019s what developers and IT leaders should expect. The post Texas Pauses Data Center Grid Approvals as Power Requests H",
+        "dwp_take": "Texas has hit pause on approving new data center connections to its power grid because demand has exploded to 474 gigawatts, far exceeding available capacity. For digital workplace pros, this matters because it affects where companies can actually build the infrastructure supporting remote work, cloud services, and collaboration tools that keep modern workforces running. Turns out you can't just keep stacking servers in Texas indefinitely, which is a shock to absolutely no one who understands basic physics.",
+        "date": "2026-08-06T05:42:54.918597+00:00"
       },
       {
-        "title": "Gmail\u2019s New Feature Warns You Before Revealing You Were BCC\u2019d",
-        "url": "https://www.techrepublic.com/article/news-gmail-bcc-reply-all-warning/",
+        "title": "Apple Briefly Removes Telegram From App Store Over Reported CSAM Violation",
+        "url": "https://www.techrepublic.com/article/news-apple-briefly-removes-telegram-csam/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Gmail now warns BCC recipients before they reply all, helping prevent accidental exposure of their involvement and email address. The post Gmail\u2019s New Feature Warns You Before Revealing You Were BCC\u2019d",
-        "dwp_take": "Gmail is adding a warning that alerts people on the BCC line before they hit reply all, saving them from the classic mistake of accidentally exposing themselves to the whole thread. This matters because organizations have spent decades trying to educate employees about BCC etiquette, and most still don't get it, so having Gmail do the hand-holding is genuinely useful for compliance and keeping things confidential. Finally, technology is protecting people from their own instincts, which is probably the only way we were ever going to solve this problem.",
-        "date": "2026-08-05T12:06:55.451372+00:00"
+        "excerpt": "Apple briefly removed Telegram from the App Store over reported CSAM, highlighting moderation failures and the distribution power held by app-store operators. The post Apple Briefly Removes Telegram F",
+        "dwp_take": "Apple pulled Telegram from its App Store due to child safety violations, then reinstated it after Telegram promised improvements. This matters because app stores function as gatekeepers for workplace communication tools, and when moderation fails at scale, it affects which platforms companies can safely deploy across their organizations. The real lesson here is that your enterprise messaging platform is only as trustworthy as the company running it and the store distributing it, which is why IT teams should stop assuming popular equals secure.",
+        "date": "2026-08-06T05:43:00.498856+00:00"
       },
       {
-        "title": "Apple Could Launch Camera-Equipped AirPods Before the End of 2026",
-        "url": "https://www.techrepublic.com/article/news-apple-camera-airpods-2026/",
+        "title": "Apple Plans iPhone-to-Windows Clipboard Support After Microsoft DMA Request",
+        "url": "https://www.techrepublic.com/article/news-apple-iphone-windows-clipboard-sharing/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple could launch camera-equipped AirPods before the end of 2026, using visual sensors to give Siri greater awareness of a user\u2019s surroundings. The post Apple Could Launch Camera-Equipped AirPods Bef",
-        "dwp_take": "Apple is reportedly planning to release AirPods with built-in cameras by the end of 2026, which would let Siri see what users are looking at and understand their environment better. For digital workplace folks, this means AI assistants are about to get a lot more contextual and potentially more useful for hands-free work scenarios. Just what we needed: another device that can watch us while we're pretending to pay attention in Zoom meetings.",
-        "date": "2026-08-05T12:06:59.435950+00:00"
+        "excerpt": "Apple plans an iOS framework for iPhone-to-Windows clipboard sharing after Microsoft\u2019s EU request, but users face a wait until at least late 2027. The post Apple Plans iPhone-to-Windows Clipboard Supp",
+        "dwp_take": "Apple is finally going to let iPhones and Windows PCs share clipboard data, but not until late 2027 at the earliest, after Microsoft pushed the EU to make them do it. For digital workplace folks managing mixed-device environments, this is huge because copying text between an iPhone and a Windows machine has been absurdly painful for years. Still, if you're expecting this to suddenly make Apple and Windows play nicely together, I've got a bridge to sell you, because a single clipboard feature won't fix the deeper integration issues that plague hybrid workplaces.",
+        "date": "2026-08-06T05:43:05.358701+00:00"
       }
     ]
   }
