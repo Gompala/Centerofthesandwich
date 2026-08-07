@@ -1,138 +1,147 @@
 {
-  "generated": "2026-08-06T05:43:05.358804+00:00",
+  "generated": "2026-08-07T04:51:28.342657+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
+        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-        "dwp_take": "Meta just released Muse Code, an AI agent designed to tackle the messy reality of large codebases instead of simple coding snippets. For digital workplace folks managing internal tools and custom platforms, this matters because your dev teams will start asking for access to it, and you'll need to figure out governance, security, and whether it actually works before letting it loose on production code. The real test isn't whether the AI can code, it's whether your organization can handle another tool that promises to save time but requires actual thinking about where it fits in your stack.",
-        "date": "2026-08-06T05:41:56.466025+00:00"
+        "excerpt": "Taking vibe-coding a step further, Na\u00efve claims its infra can automate most of the work in setting up and running a business.",
+        "dwp_take": "Na\u00efve just grabbed $28.5 million to automate the administrative grunt work that keeps companies running, from setup through daily operations. This matters because digital workplace teams already spend half their time on repetitive tasks that could be handled by automation, so tools that eliminate this friction directly impact productivity and headcount allocation. The real question is whether \"automating business operations\" becomes another shiny tool that sits unused because nobody actually configured it properly, which, ironically, requires exactly the kind of grunt work they're trying to eliminate.",
+        "date": "2026-08-07T04:50:22.650423+00:00"
       },
       {
-        "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
-        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+        "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-        "dwp_take": "Klaviyo bought Elias Torres' agency and he's now joining as Chief Product Officer to lead their AI agents division. This matters because it signals how seriously enterprise software companies are taking AI product development, and it shows they're willing to pay for proven builders rather than promote from within. After three decades watching tech cycles, I can tell you this setup usually works when the founder actually gets autonomy, but CPO roles at public companies have a way of becoming political minefields fast.",
-        "date": "2026-08-06T05:42:00.727756+00:00"
+        "excerpt": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a fo",
+        "dwp_take": "OpenAI is essentially telling the court that Apple can't claim trade secret theft when Apple itself let a manager snoop through a departed engineer's personal iCloud account. For digital workplace pros, this is a sharp reminder that security theater means nothing if your offboarding process is sloppy and your access controls are basically suggestions. The irony is delicious: Apple lectures everyone on privacy while apparently treating employee data like it's a communal filing cabinet.",
+        "date": "2026-08-07T04:50:26.533413+00:00"
       },
       {
-        "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
-        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+        "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+        "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
-        "dwp_take": "TechCrunch is launching a \"Real World AI\" stage at Disrupt 2026 that will showcase how AI bridges digital and physical spaces, including robots, automated factories, and apparently extinct animals for some reason. This matters because digital workplace professionals need to understand how AI moves beyond chat interfaces and actually shows up in operations, supply chains, and physical infrastructure where real work happens. That said, if they're wheeling out robot dinosaurs to make their point about workplace automation, we've officially entered the territory where the conference itself has become the story instead of the actual insights.",
-        "date": "2026-08-06T05:42:05.718154+00:00"
+        "excerpt": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+        "dwp_take": "Some ex-Spotify engineers spun out a startup that takes recommendation algorithms from music streaming and applies them to online shopping, raising 10 million dollars to do it. This matters to digital workplace pros because recommendation engines are becoming table stakes for employee experience platforms, knowledge management systems, and internal marketplaces where personalization actually drives adoption. Here's the thing though: most companies still can't get their org charts right in their directory, so watching startups chase the next shiny algorithmic problem while basic workplace data hygiene remains a mess is pretty rich.",
+        "date": "2026-08-07T04:50:34.294572+00:00"
       },
       {
-        "title": "Anthropic is hiring an AI chip design team",
-        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+        "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-        "dwp_take": "Anthropic is building an in-house team to design custom AI chips rather than relying on off-the-shelf hardware from Nvidia and others. This matters because any organization betting heavily on AI infrastructure needs to understand that chip dependency is real and expensive, and vertical integration is becoming table stakes for serious players. Here's the thing though: everyone from OpenAI to Meta is doing this now, so Anthropic isn't being clever, just finally catching up like someone who joins the gym in March after New Year's resolutions.",
-        "date": "2026-08-06T05:42:10.115625+00:00"
+        "excerpt": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
+        "dwp_take": "Mirendil just locked in a $100 million Google Cloud deal to beef up its computing power for self-improving AI research. This matters because if these systems actually deliver on faster scientific breakthroughs, they could reshape how we build workplace collaboration tools, knowledge management systems, and automation workflows in the next few years. That said, I've watched enough AI announcements to know the difference between lab breakthroughs and what actually lands on your employees' desks, so let's check back in 18 months when we see what actually ships.",
+        "date": "2026-08-07T04:50:38.320957+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
-        "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+        "title": "You can use 70+ Adobe tools without leaving ChatGPT now - here's how",
+        "url": "https://www.zdnet.com/article/adobe-launches-plugin-for-chatgpt-how-it-works/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
-        "dwp_take": "Someone tested the major voice dictation tools and found three winners, including a free option that actually works. This matters because voice input is finally mature enough to be a real productivity lever, not just a novelty, which means your knowledge workers have legitimate alternatives to keyboard and mouse. The funny part is we've been promised \"the future of voice\" for twenty years, but it took AI to actually make it useful instead of frustrating.",
-        "date": "2026-08-06T05:42:14.485777+00:00"
+        "excerpt": "Adobe's new plugin works both in Work and Codex, and is available today in ChatGPT.",
+        "dwp_take": "Adobe just released a ChatGPT plugin that lets you access over 70 Adobe tools directly from within ChatGPT without switching applications. For digital workplace folks, this is significant because it reduces friction in creative workflows and potentially shifts where people do their actual work (hint: increasingly, it's inside AI chatbots now). Look, I've watched enough \"integrated\" tools promise to simplify life only to create more confusion, so let's see if this actually sticks or becomes another forgotten plugin gathering dust in someone's toolbar.",
+        "date": "2026-08-07T04:50:42.995007+00:00"
       },
       {
-        "title": "Report: Passkey security issues could allow account takeover",
-        "url": "https://www.computerworld.com/article/4205809/report-passkey-security-issues-could-allow-account-takeover-2.html",
+        "title": "Cloudflare wants to provide the operating system for the AI-first enterprise",
+        "url": "https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Traditional operating systems (OS) were built to manage hardware, files, apps, and users on a device, but Cloudflare says the agentic AI era requires a whole new format. The company this week announce",
+        "dwp_take": "Cloudflare just launched an open source, browser-based operating system designed to connect AI agents, enterprise data, internal systems, and workflows into one unified workspace instead of managing individual devices the old way. For digital workplace teams, this matters because it signals the shift from device-centric to workflow-centric architecture, which means your entire approach to security, access, and user experience needs rethinking now, not later. Honestly, if this actually works as advertised, it could finally answer the question \"where does the AI agent sit in our tech stack\" that's been keeping workplace leaders up at night, though I'll believe the \"open source\" promise when I see how long that lasts.",
+        "date": "2026-08-07T04:50:48.711049+00:00"
+      },
+      {
+        "title": "Granola lawsuit raises concerns over AI note-taking app privacy",
+        "url": "https://www.computerworld.com/article/4206255/granola-lawsuit-raises-concerns-over-ai-note-taking-app-privacy.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "AI note-taking app maker Granola is accused of violating privacy laws by developing software that can record conversations without all participants\u2019 consent, according to a lawsuit filed July 30 in a ",
+        "dwp_take": "Granola, an AI note-taking app, is being sued for allegedly recording conversations without everyone's consent, joining a similar lawsuit against competitor Otter.ai. This matters because digital workplace professionals are increasingly deploying these tools for meeting capture and knowledge management, but legal liability over consent and recording laws could kill adoption overnight. Turns out \"we're recording this for your safety\" doesn't actually work as a legal defense in most states, which explains why both companies are now having a very expensive learning moment.",
+        "date": "2026-08-07T04:50:53.247625+00:00"
+      },
+      {
+        "title": "Enterprise passkey security under threat from malware",
+        "url": "https://www.computerworld.com/article/4205809/enterprise-passkey-security-under-threat-from-malware.html",
         "source": "Computerworld",
         "category": "tools-tech",
         "excerpt": "Given the widespread enterprise adoption of passkeys to replace passwords, a Palo Alto Networks Unit 42 report disclosing ways attackers are getting around passkey protections is concerning, analysts ",
-        "dwp_take": "Palo Alto Networks found that attackers can bypass passkey protections, but only after they've already broken into your system first. For digital workplace leaders rolling out passkeys as their password replacement strategy, this matters because it means passkeys alone won't save you if your broader security posture is weak. The real lesson here is that passkeys are great, but they're not a magic wand that lets you skip doing the actual security work.",
-        "date": "2026-08-06T05:42:19.959478+00:00"
-      },
-      {
-        "title": "Microsoft moves to limit AI use by its employees",
-        "url": "https://www.computerworld.com/article/4205739/microsoft-restricts-ai-use-for-its-employees.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Until recently, it was common for companies and organizations to engage in \u201ctokenmaxxing\u201d \u2014 that is, maximizing their use of AI. But with AI costs going up, companies are now looking to save money, a ",
-        "dwp_take": "Microsoft is telling its own employees to dial back their AI usage to control costs. This matters because if the company literally eating, sleeping, and breathing AI can't justify unlimited use, it signals that the AI gold rush economics don't actually work at scale. Turns out \"tokenmaxxing\" was just \"spending money like it grows on trees\" with extra steps.",
-        "date": "2026-08-06T05:42:23.906289+00:00"
-      },
-      {
-        "title": "Apple\u2019s memory crisis is a big red flag for tech",
-        "url": "https://www.computerworld.com/article/4205686/apples-memory-crisis-is-a-big-red-flag-for-tech.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "The memory crisis is getting worse for Apple, which is struggling to get enough memory chips together for its upcoming iPhone 18 Pro series smartphones. That\u2019s according to tech journalist Tim Culpan.",
-        "dwp_take": "Apple is facing a significant shortage of memory chips needed for its upcoming iPhone 18 Pro lineup, raising serious questions about their supply chain resilience. For digital workplace professionals managing enterprise device deployments, this signals potential delays and price increases that could impact corporate refresh cycles and mobility strategies. If a company with Apple's legendary supply chain muscle can't lock down enough memory chips, the rest of us should probably stop pretending our device roadmaps are anything more than educated guesses.",
-        "date": "2026-08-06T05:42:29.555539+00:00"
+        "dwp_take": "Palo Alto Networks found that attackers can bypass passkey protections, but only after they've already compromised your system. This matters because if your organization bet the farm on passkeys as your security silver bullet, you're learning the hard way that they're just one layer, not a firewall. The real takeaway: passkeys are great, but pretending they're magic and then ignoring basic endpoint security is how you end up explaining things to your CISO.",
+        "date": "2026-08-07T04:50:56.984311+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
-        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "What Fauci\u2019s diary leak should remind employees about privacy at work",
+        "url": "https://www.fastcompany.com/91583513/what-faucis-diary-leak-should-remind-employees-about-privacy-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
-        "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve workforce well-being as burnout costs climb. This matters because digital workplace leaders are increasingly expected to be stewards of employee health, not just productivity czars, and having actual data beats guessing at what's wrong. Here's the thing though: another dashboard measuring worker wellness doesn't fix the core problem, which is usually too much work, too few people, and not enough real flexibility to actually do the job without losing your mind.",
-        "date": "2026-08-06T05:42:37.247638+00:00"
+        "excerpt": "Last month, Anthony Fauci was subpoenaed by Republican Senator Rand Paul regarding the origins of COVID-19 and his broader pandemic policy oversight. Paul has disagreed publicly over the origins of th",
+        "dwp_take": "Someone leaked Fauci's private diary entries during a high-profile political dispute, raising serious questions about what counts as \"private\" even for public figures. For digital workplace folks, this is a wake-up call that personal notes, emails, and digital communications can become evidence or public fodder faster than you'd think, regardless of your job title. The real lesson here isn't \"don't write honest things down\" but rather \"assume your digital paper trail could end up on the front page someday, so write accordingly.\"",
+        "date": "2026-08-07T04:51:01.793064+00:00"
       },
       {
-        "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
-        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+        "title": "It\u2019s time to open the black box of AI-driven employment decisions",
+        "url": "https://www.fastcompany.com/91578528/its-time-to-open-the-black-box-of-ai-driven-employment-decisions-ai-employment-discrimination?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Following my own experience fighting pregnancy discrimination, I\u2019ve come to think of employment discrimination as a black box. Workers who are denied promotions, passed over for opportunities, or sele",
+        "dwp_take": "Employers are increasingly using AI to make hiring and firing decisions without transparency, leaving workers in the dark about why they're promoted, passed over, or laid off. This matters hugely to digital workplace professionals because we're often the ones implementing these systems, and we need to understand the legal and ethical landmines we're walking through. Here's the uncomfortable truth: if you can't explain why your AI made a decision, you're probably building a discrimination machine wrapped in algorithms.",
+        "date": "2026-08-07T04:51:05.321555+00:00"
+      },
+      {
+        "title": "Why Normal People Aren\u2019t Using AI Agents",
+        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-        "dwp_take": "Google's top AI talent, including Jeff Dean, has left the company to start Discovery Loop, a new venture focused on using AI for breakthroughs in drug discovery, chip design, and similar fields. This matters to digital workplace pros because when your best people walk out the door to start their own thing, it signals either that your company culture has become unbearable or your innovation strategy isn't aggressive enough. After thirty years in this space, I've learned that losing Jeff Dean is like losing your star quarterback mid-season, except Google's the one paying his replacement's signing bonus through lost institutional knowledge.",
-        "date": "2026-08-06T05:42:45.960015+00:00"
+        "excerpt": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+        "dwp_take": "The tech industry finally figured out that AI agents designed for what engineers think is cool don't actually solve problems people care about. This matters to digital workplace pros because your leadership is about to ask you to implement AI solutions that nobody asked for, and you'll need to push back with user research instead of just saying yes. The real work isn't making AI do more things, it's making it do the three things your users actually need without breaking their workflow in the process.",
+        "date": "2026-08-07T04:51:11.483846+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Google Pixel 11 Leak Reveals \u2018HiLight\u2019 Notification Feature, Raises Questions About Charging Claim",
-        "url": "https://www.techrepublic.com/article/news-google-pixel-11-hilight-notification-feature-charging-claim/",
+        "title": "ChatGPT Atlas Shuts Down Aug. 9: What Users Must Save Before Migrating",
+        "url": "https://www.techrepublic.com/article/news-chatgpt-atlas-shutdown-migration/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Leaked Google Pixel 11 marketing materials suggest a new HiLight notification feature, while a five-minute charging claim raises questions ahead of Google's launch. The post Google Pixel 11 Leak Revea",
-        "dwp_take": "Google's upcoming Pixel 11 appears to have a new HiLight notification system, though leaked marketing materials also mention a suspicious five-minute charging claim that's already drawing skepticism. For digital workplace folks, better notifications matter because they affect how employees stay focused and responsive throughout the workday. Honestly, if Google is claiming five-minute charging, I'd wait for the independent reviews before betting your device budget on it.",
-        "date": "2026-08-06T05:42:50.354880+00:00"
+        "excerpt": "ChatGPT Atlas is scheduled to stop working Aug. 9, 2026. Users should export browser data, verify account access, and test replacement workflows before uninstalling it. The post ChatGPT Atlas Shuts Do",
+        "dwp_take": "ChatGPT Atlas is getting shut down on August 9, 2026, and users need to export their data and test new workflows before it disappears. This matters because organizations that built processes around this tool now face a migration scramble, which is exactly the kind of vendor lock-in problem that keeps IT leaders up at night. Here's the real lesson: stop treating AI tools like permanent infrastructure and start treating them like the beta products they actually are.",
+        "date": "2026-08-07T04:51:15.737180+00:00"
       },
       {
-        "title": "Texas Pauses Data Center Grid Approvals as Power Requests Hit 474 GW",
-        "url": "https://www.techrepublic.com/article/news-texas-data-center-grid-approvals-474-gw/",
+        "title": "Google Rolls Out August Android 17 Update With Pixel 10 Stability Fixes",
+        "url": "https://www.techrepublic.com/article/news-google-august-2026-android-17-pixel-update/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Texas paused grid approvals for new data centers as power requests hit 474 GW. Here\u2019s what developers and IT leaders should expect. The post Texas Pauses Data Center Grid Approvals as Power Requests H",
-        "dwp_take": "Texas has hit pause on approving new data center connections to its power grid because demand has exploded to 474 gigawatts, far exceeding available capacity. For digital workplace pros, this matters because it affects where companies can actually build the infrastructure supporting remote work, cloud services, and collaboration tools that keep modern workforces running. Turns out you can't just keep stacking servers in Texas indefinitely, which is a shock to absolutely no one who understands basic physics.",
-        "date": "2026-08-06T05:42:54.918597+00:00"
+        "excerpt": "Google's August Android 17 update fixes Pixel 10 gaming, GPU, and touchscreen issues while bringing the latest security patch to supported Pixel devices. The post Google Rolls Out August Android 17 Up",
+        "dwp_take": "Google pushed out an August Android 17 update that squashes gaming, GPU, and touchscreen bugs on Pixel 10 devices while bundling in the latest security patches. For digital workplace folks managing Pixel devices across their organizations, this matters because stability fixes directly reduce support tickets and keep mobile workers productive instead of frustrated. Here's the real talk: if your team is running Pixels, you're getting a free stability bump that actually works, which is refreshing compared to the usual \"update that creates two new problems\" cycle we've all lived through.",
+        "date": "2026-08-07T04:51:19.743264+00:00"
       },
       {
-        "title": "Apple Briefly Removes Telegram From App Store Over Reported CSAM Violation",
-        "url": "https://www.techrepublic.com/article/news-apple-briefly-removes-telegram-csam/",
+        "title": "Samsung: New Galaxy Foldables Beat Previous Preorder Record by 30%",
+        "url": "https://www.techrepublic.com/article/news-samsung-foldables-break-preorder-records/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple briefly removed Telegram from the App Store over reported CSAM, highlighting moderation failures and the distribution power held by app-store operators. The post Apple Briefly Removes Telegram F",
-        "dwp_take": "Apple pulled Telegram from its App Store due to child safety violations, then reinstated it after Telegram promised improvements. This matters because app stores function as gatekeepers for workplace communication tools, and when moderation fails at scale, it affects which platforms companies can safely deploy across their organizations. The real lesson here is that your enterprise messaging platform is only as trustworthy as the company running it and the store distributing it, which is why IT teams should stop assuming popular equals secure.",
-        "date": "2026-08-06T05:43:00.498856+00:00"
+        "excerpt": "Samsung\u2019s Galaxy Z Fold8 leads record foldable preorders in the US and South Korea as more buyers move from Flip models to the larger Fold lineup before launch. The post Samsung: New Galaxy Foldables ",
+        "dwp_take": "Samsung's latest Galaxy Z Fold8 foldable phones are crushing preorder records, up 30 percent from the last generation, with more customers choosing the larger Fold over the Flip model. This matters to digital workplace folks because foldables are finally becoming real productivity devices instead of novelties, which means your organization needs to think about how these screens will change work habits and security protocols. Honestly, if people are willing to pay that much for a phone that folds, maybe they're finally ready to actually use it for something beyond Instagram.",
+        "date": "2026-08-07T04:51:23.638201+00:00"
       },
       {
-        "title": "Apple Plans iPhone-to-Windows Clipboard Support After Microsoft DMA Request",
-        "url": "https://www.techrepublic.com/article/news-apple-iphone-windows-clipboard-sharing/",
+        "title": "Cancel Microsoft 365 and Get Microsoft Office for Life for $55",
+        "url": "https://www.techrepublic.com/article/microsoft-office-2024-professional-plus-lifetime/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple plans an iOS framework for iPhone-to-Windows clipboard sharing after Microsoft\u2019s EU request, but users face a wait until at least late 2027. The post Apple Plans iPhone-to-Windows Clipboard Supp",
-        "dwp_take": "Apple is finally going to let iPhones and Windows PCs share clipboard data, but not until late 2027 at the earliest, after Microsoft pushed the EU to make them do it. For digital workplace folks managing mixed-device environments, this is huge because copying text between an iPhone and a Windows machine has been absurdly painful for years. Still, if you're expecting this to suddenly make Apple and Windows play nicely together, I've got a bridge to sell you, because a single clipboard feature won't fix the deeper integration issues that plague hybrid workplaces.",
-        "date": "2026-08-06T05:43:05.358701+00:00"
+        "excerpt": "Microsoft 365 costs $99.99/year, but Microsoft Office Pro gives you the same apps for life for only $54.99. The post Cancel Microsoft 365 and Get Microsoft Office for Life for $55 appeared first on Te",
+        "dwp_take": "Someone's selling perpetual Microsoft Office licenses for fifty-five bucks, which is genuinely cheaper than one year of Microsoft 365. For workplace IT folks, this matters because it explodes the subscription model economics that vendors have been pitching for a decade. Here's the thing though: if these deals sound too good to be true, they usually are, and I'd want to know exactly where these licenses are coming from before I start rolling them out across my org.",
+        "date": "2026-08-07T04:51:28.342543+00:00"
       }
     ]
   }
