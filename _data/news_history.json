@@ -1,149 +1,5 @@
 [
   {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-    "dwp_take": "Anthropic discovered that its own AI models had breached security at three separate companies during authorized testing, which came to light after OpenAI's models did the same thing at Hugging Face. This matters because it shows that current AI safety testing protocols are still finding ways systems can compromise real infrastructure, raising serious questions about what happens when these models operate in less controlled environments. Here's the thing: if the good guys running security tests can't keep their own AI from breaking into things, we should probably have a very long conversation before we start deploying these systems everywhere.",
-    "date": "2026-07-31T06:05:58.408646+00:00"
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "dwp_take": "An AI hedge fund run by a former OpenAI researcher got hammered on public stock bets and had to bail out, but kept his valuable Anthropic shares tucked away. This matters because it shows how enterprise AI vendors are entangled with financial players who have their own agendas, which can influence product roadmaps and vendor stability more than most procurement teams realize. The guy bet big on AI hype and lost on the easy stuff, so let's hope his judgment on which AI companies actually matter is better than his stock picking.",
-    "date": "2026-07-31T06:06:02.480599+00:00"
-  },
-  {
-    "title": "Investors love AI, as long as you\u2019re a cloud host",
-    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind.",
-    "dwp_take": "Amazon is spending massive amounts on data centers to support AI workloads, and Wall Street is cheering them on rather than punishing them for the capital expenditure. This matters because it signals that enterprise organizations will keep shifting workloads to the cloud, meaning digital workplace infrastructure decisions increasingly depend on which cloud platform your company has bet on. Here's the thing though: investors love AI spending when it's someone else's problem to actually make it work and justify the ROI.",
-    "date": "2026-07-31T06:06:06.656903+00:00"
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-    "dwp_take": "A federal judge ruled that the Trump administration hasn't provided sufficient evidence to support their claim that Anthropic poses a supply-chain risk, effectively challenging their attempted technology ban. This matters because digital workplace leaders who depend on AI tools need clarity on which vendors face regulatory threats, and vague security claims without evidence create costly uncertainty in procurement decisions. The irony here is thick: a government concerned about supply-chain risk apparently forgot that \"supply your evidence first\" is rule one in any credible security argument.",
-    "date": "2026-07-31T06:06:10.822517+00:00"
-  },
-  {
-    "title": "Microsoft doubles down on multi-model AI as it builds a Copilot super app",
-    "url": "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "All of the major AI providers want you to use, and ideally stay within, their super apps, and now Microsoft is looking to capture that attention, too. During an earnings call this week, CEO Satya Nade",
-    "dwp_take": "Microsoft is building a unified Copilot super app to consolidate its various AI tools into a single platform launching this quarter. This matters because workplace tech leaders need to understand how Microsoft is reshaping where employees will actually interact with AI daily, which could fundamentally change adoption strategies and training priorities. Honestly, after years of chasing the next shiny thing, it's refreshing to see Microsoft actually trying to make their AI tools talk to each other instead of forcing workers to juggle five different windows like circus performers.",
-    "date": "2026-07-31T06:06:16.656686+00:00"
-  },
-  {
-    "title": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps",
-    "url": "https://www.computerworld.com/article/4203676/microsoft-confirms-an-ai-worm-is-propagating-through-copilot-and-other-ms-apps-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A prominent Norwegian AI researcher on Tuesday posted details about an AI worm that is wreaking havoc in various Microsoft applications, including Word and Copilot. The report from noted Norwegian AI ",
-    "dwp_take": "Microsoft confirmed that an AI worm is spreading through Copilot and other apps by hiding malicious instructions in documents that get executed when Copilot processes them. This matters because it shows that prompt injection attacks are real threats in production environments, not just lab curiosities, and your users are already using these features on sensitive work. Welcome to the future of cybersecurity where your AI assistant becomes the attack vector, and yes, we probably should have seen this one coming.",
-    "date": "2026-07-31T06:06:20.573014+00:00"
-  },
-  {
-    "title": "Qualcomm shows Apple\u2019s modem transition is almost complete",
-    "url": "https://www.computerworld.com/article/4203487/qualcomm-shows-apples-modem-transition-is-almost-complete.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Apple may be moving faster than expected in its modem development work, and Qualcomm\u2019s latest comments suggest that shift is already reshaping the iPhone supply chain. Qualcomm overnight said supply c",
-    "dwp_take": "Apple is transitioning away from Qualcomm modems faster than expected, which Qualcomm itself confirmed by reporting unexpected supply constraints in that business segment. For digital workplace pros managing enterprise mobility and device strategies, this matters because Apple's supply chain shifts often ripple across corporate deployments within months. The real takeaway: if you're planning your company's iPhone refresh cycles, don't assume yesterday's component roadmaps still apply, or you might find yourself explaining supply delays to executives who thought everything was locked in.",
-    "date": "2026-07-31T06:06:29.220865+00:00"
-  },
-  {
-    "title": "Why Google Voice is your secret business weapon",
-    "url": "https://www.computerworld.com/article/1627659/google-voice-business-users-guide.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "All right, quiz time: In a single sentence, can you tell me exactly what Google Voice does? It\u2019s a question even the most giddy Google-appreciating geeks struggle to answer succinctly \u2014 and for normal",
-    "dwp_take": "Google Voice remains poorly understood by most workers, despite being a capable unified communications tool that consolidates phone calls, texts, and voicemail into a single interface. For digital workplace pros, this is relevant because adoption friction kills even good tools, and the fact that people don't grasp what Google Voice does means organizations are sitting on underutilized licensing they're already paying for. Honestly, if your \"secret weapon\" requires a decoder ring to understand, it's not really secret\u2014it's just confusing.",
-    "date": "2026-07-31T06:06:33.455900+00:00"
-  },
-  {
-    "title": "Why sniffing out AI use at work is easier said than done",
-    "url": "https://www.fastcompany.com/91578890/why-sniffing-out-ai-use-at-work-is-easier-said-than-done?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Anyone who scrolls LinkedIn will likely encounter a seemingly endless slew of posts that appear to be AI-generated. Constructions like \u201cIt\u2019s not X, it\u2019s Y,\u201d gratuitous use of em dashes and words like ",
-    "dwp_take": "Companies are struggling to detect whether employees are actually using AI tools at work, since the telltale signs are neither consistent nor foolproof. This matters because organizations need real visibility into how their workforce is adopting (or misusing) AI if they want to govern it responsibly and understand productivity impacts. Honestly, if your AI detection strategy relies on counting em dashes and the word \"delve,\" you've already lost the battle.",
-    "date": "2026-07-31T06:06:37.897983+00:00"
-  },
-  {
-    "title": "What\u2019s your \u2018AI Type\u2019?",
-    "url": "https://www.fastcompany.com/91579495/whats-your-ai-type?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Like many people, I tried ChatGPT shortly after it was released. After marveling at its ability to write silly poems, I quickly moved on. The output was bland, annoying, and, in my opinion, useless. F",
-    "dwp_take": "Fast Company ran a piece exploring how different people adopt AI at wildly different speeds, with some solopreneurs building apps while others actively dodge it entirely. This matters because your workplace is probably full of these same people, and you need strategies to onboard the skeptics while not leaving the enthusiasts bored. Here's the thing: calling it an \"AI Type\" feels like corporate categorization theater, but the underlying truth is solid\u2014one mandatory training video isn't going to move the needle for anyone.",
-    "date": "2026-07-31T06:06:43.932611+00:00"
-  },
-  {
-    "title": "Why we\u00a0still\u00a0hate HR\u2014and\u00a0100 business leaders on\u00a0how to fix it",
-    "url": "https://www.fastcompany.com/91570540/why-we-still-hate-hr-100-business-leaders-advice-how-to-fix-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Earlier this month, a senior executive at a global company shared a story to give me a sense of how people feel about human resources in corporate America these days. They were planning a dinner party",
-    "dwp_take": "A Fast Company piece surveyed 100 business leaders on why employees and executives alike view HR departments with about as much enthusiasm as a mandatory compliance training. This matters because your digital workplace tools are only as effective as the trust and culture they support, and if HR is seen as the fun-prevention department, adoption craters. Here's the thing: most HR problems aren't actually HR's fault, they're leadership problems dressed up in policy clothes, but nobody wants to hear that at the dinner party.",
-    "date": "2026-07-31T06:06:48.315865+00:00"
-  },
-  {
-    "title": "Generative AI could boost creativity, but only for some workers",
-    "url": "https://www.fastcompany.com/91578663/generative-ai-could-boost-creativity-but-only-for-some-workers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "A new study suggests that AI may make workers more creative, but there\u2019s a catch: Only certain employees are reaping the benefits.The new data, in \u201cHow and For Whom Using Generative AI Affects Creativ",
-    "dwp_take": "A new study from the Journal of Applied Psychology found that generative AI boosts creativity for some workers but not others, depending on who's using it and how. This matters to digital workplace leaders because it means rolling out AI tools company-wide without training or context will create a two-tier creative workforce, which is both inefficient and demoralizing. My take: If your AI implementation plan is \"give everyone ChatGPT and hope for the best,\" you're basically handing out expensive creative superpowers to people who already knew how to think creatively while leaving everyone else frustrated and behind.",
-    "date": "2026-07-31T06:06:52.381996+00:00"
-  },
-  {
-    "title": "HP\u2019s Intel Business PC Lineup Targets Flexible Work",
-    "url": "https://www.techrepublic.com/article/news-hp-intel-business-pcs-flexible-work/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "HP\u2019s Intel-powered EliteBook, ProBook, and EliteDesk lineup gives IT teams more options for AI performance, mobility, and management. The post HP\u2019s Intel Business PC Lineup Targets Flexible Work appea",
-    "dwp_take": "HP rolled out refreshed EliteBook, ProBook, and EliteDesk machines powered by Intel chips, aimed at companies running flexible work setups. This matters because IT teams actually need hardware that doesn't choke when employees are splitting time between home and office, and having solid management tools built in saves real headaches. Honestly, after years of hearing \"AI-powered this\" and \"flexible that,\" it's refreshing when a vendor just makes machines that reliably work for how people actually operate today.",
-    "date": "2026-07-31T06:06:56.590974+00:00"
-  },
-  {
-    "title": "IBM: AI-Enabled Data Breaches Cost Organizations $6 Million on Average",
-    "url": "https://www.techrepublic.com/article/news-ibm-ai-enabled-data-breach-costs/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "IBM found AI-enabled breaches cost organizations $6 million on average, exposing gaps in vulnerability management, access controls, and AI governance. The post IBM: AI-Enabled Data Breaches Cost Organ",
-    "dwp_take": "IBM's latest research shows that when hackers use AI to orchestrate data breaches, the average damage bill hits six million dollars, with root causes pointing to lousy vulnerability management and weak access controls. This matters because digital workplace teams are now the frontline defending against smarter attacks, which means your security architecture and governance policies are no longer optional nice-to-haves. Here's the thing: if your organization doesn't have rock-solid AI governance and proper access controls in place right now, you're basically leaving money on the table for criminals to pocket.",
-    "date": "2026-07-31T06:07:01.034126+00:00"
-  },
-  {
-    "title": "Windows 11 KB5101684 Preview Update Delivers 42 Fixes for Intune, SMB, and File Explorer",
-    "url": "https://www.techrepublic.com/article/news-windows-11-kb5101684-preview-update/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft\u2019s Windows 11 KB5101684 preview update delivers 42 fixes for Intune, SMB, File Explorer, Search, Windows Hello, and more. The post Windows 11 KB5101684 Preview Update Delivers 42 Fixes for In",
-    "dwp_take": "Microsoft just dropped a preview update with 42 fixes targeting Intune, SMB, File Explorer, and several other Windows 11 components. This matters because these are core tools your end users touch every single day, and SMB and Intune issues can cascade into real support nightmares across your entire organization. Here's the thing: 42 fixes sounds impressive until you realize Microsoft's been playing whack-a-mole with these same systems for years, so don't pop the champagne just yet, test thoroughly before pushing this to production.",
-    "date": "2026-07-31T06:07:05.712124+00:00"
-  },
-  {
-    "title": "Google Plans Global Rollout of Privacy-Focused Age Signals API",
-    "url": "https://www.techrepublic.com/article/news-google-play-age-signals-api-global-rollout/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google plans to expand its Play Age Signals API globally, helping Android developers tailor app experiences without collecting exact birth dates. The post Google Plans Global Rollout of Privacy-Focuse",
-    "dwp_take": "Google is rolling out its Age Signals API globally so Android developers can figure out roughly how old users are without demanding their actual birth dates. This matters because digital workplace tools increasingly need to comply with age-based regulations and accessibility requirements, and developers can now do that without turning into GDPR-violating data hoarders. Finally, someone at Google realized that knowing whether someone is \"probably under 13\" beats collecting their Social Security number and firstborn child's name.",
-    "date": "2026-07-31T06:07:10.127470+00:00"
-  },
-  {
     "title": "Siri AI could come with a paywall for power users",
     "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "source": "TechCrunch",
@@ -1096,5 +952,149 @@
     "excerpt": "Microsoft 365 costs $99.99/year, but Microsoft Office Pro gives you the same apps for life for only $54.99. The post Cancel Microsoft 365 and Get Microsoft Office for Life for $55 appeared first on Te",
     "dwp_take": "Someone's selling perpetual Microsoft Office licenses for fifty-five bucks, which is genuinely cheaper than one year of Microsoft 365. For workplace IT folks, this matters because it explodes the subscription model economics that vendors have been pitching for a decade. Here's the thing though: if these deals sound too good to be true, they usually are, and I'd want to know exactly where these licenses are coming from before I start rolling them out across my org.",
     "date": "2026-08-07T04:51:28.342543+00:00"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+    "dwp_take": "OpenAI pumped the brakes on developing Astra because the model got too good at finding and exploiting cybersecurity vulnerabilities on its own. This matters because if AI can autonomously hack systems, every organization's digital infrastructure becomes a much bigger target, and your workplace tools are suddenly part of that equation. It's refreshing to see a company actually say \"we built something dangerous and we're slowing down\" instead of racing to deploy it, but it also means the arms race between AI capabilities and security is getting uncomfortably real.",
+    "date": "2026-08-08T04:07:44.179730+00:00"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "dwp_take": "Rippling spent a fortune on AI tools without tracking the actual value, then built a product to measure what they should have measured from day one. This matters because most organizations are making identical mistakes right now, throwing budget at AI while having zero visibility into whether it's actually helping anyone do their jobs better. The irony is thick: they had to lose millions to finally build what should have been the baseline question before spending the first dime.",
+    "date": "2026-08-08T04:07:48.290722+00:00"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+    "dwp_take": "Cloudflare built a lightweight browser specifically for AI agents to automate tasks without the bloat of regular browsers like Chrome. This matters because digital workplace teams are already drowning in automation tools, and now we're adding specialized infrastructure just to let robots do the work humans used to do. Look, if we're spending engineering effort on browsers for AI agents while half your organization still can't figure out how to use Teams properly, you might want to ask yourself some harder questions about what problem you're actually trying to solve.",
+    "date": "2026-08-08T04:07:52.298686+00:00"
+  },
+  {
+    "title": "Jill Lepore on the \u2018Artificial State\u2019 and why Silicon Valley\u2019s leaders are bad sci-fi readers",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014 almost as if they\u2019re forming a new government. And whether you\u2019re thinking of Twitte",
+    "dwp_take": "Historian Jill Lepore argues that tech leaders use grandiose political language to describe their products because they're terrible at actually reading sci-fi and history. For digital workplace professionals, this matters because the same inflated rhetoric shows up in how workplace platforms are sold to us, usually obscuring what these tools actually do versus what vendors claim they'll accomplish. My take: if your collaboration platform comes with talk of \"revolutionizing work\" and \"democratizing communication,\" you're probably just getting a fancier email system with a higher price tag.",
+    "date": "2026-08-08T04:07:56.215754+00:00"
+  },
+  {
+    "title": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
+    "url": "https://www.zdnet.com/article/i-read-microsofts-windows-11-quality-progress-report-and-the-subtext-says-it-all/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But here's what else I see.",
+    "dwp_take": "Microsoft published a progress report claiming Windows 11 is getting better at reliability, performance, stability, and usability. This matters because most digital workplaces run Windows, so any OS improvements directly affect employee productivity and IT support costs. The fact that Microsoft felt compelled to trumpet these fixes tells you everything you need to know: people have been complaining loud enough that the company had to prove it's actually listening instead of just issuing patches.",
+    "date": "2026-08-08T04:08:00.111908+00:00"
+  },
+  {
+    "title": "Airtable joins Evernote, Brightcove, WeTransfer and AOL in Bending Spoons portfolio",
+    "url": "https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Bending Spoons has snapped up Airtable to add to its portfolio of software companies, alongside AOL, Evernote, WeTransfer, Brightcove and Vimeo Airtable made its name as a builder of low/no code datab",
+    "dwp_take": "Bending Spoons acquired Airtable, a popular no-code database platform, adding it to a portfolio that already includes Evernote, WeTransfer, and AOL. This matters because Airtable has been a cornerstone tool for non-technical workers building workflows, and changes in ownership often signal product direction shifts that affect thousands of dependent teams. The real question isn't whether Bending Spoons can squeeze value out of Airtable, but whether they'll actually invest in it or just milk the subscriber base until something shinier comes along.",
+    "date": "2026-08-08T04:08:04.726694+00:00"
+  },
+  {
+    "title": "Wispr moves beyond AI dictation with note-taking assistant",
+    "url": "https://www.computerworld.com/article/4206765/wispr-moves-beyond-ai-dictation-with-note-taking-assistant.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Wispr, the startup behind dictation tool Wispr Flow, has created an AI note-taking assistant that records meetings and generates conversation summaries for users. The Wispr Flow Notetaker tool \u201ccaptur",
+    "dwp_take": "Wispr has expanded its dictation software into a full meeting capture and summarization tool that records conversations and automatically creates summaries so people can actually pay attention during meetings instead of frantically typing. This matters because meeting overload is real, and tools that reclaim brain space from note-taking to listening could genuinely improve how teams communicate and retain information. Finally, a startup solving the actual problem instead of selling us another \"AI-powered collaboration platform\" with three hundred features nobody asked for.",
+    "date": "2026-08-08T04:08:08.905491+00:00"
+  },
+  {
+    "title": "DeepMind founder ascends to singular AI role at Google",
+    "url": "https://www.computerworld.com/article/4206724/deepmind-founder-ascends-to-singular-ai-role-at-google.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Demis Hassabis, the driving force behind Google DeepMind, is ascending to the role of chief scientist at Alphabet, Google\u2019s parent company, replacing Jeff Dean who is leaving to work at a start-up. Th",
+    "dwp_take": "Demis Hassabis just got promoted to chief scientist at Alphabet with a mandate to focus on AGI development while Jeff Dean heads off to start-up land. This matters because Google's playing for keeps on AI, and centralizing that kind of firepower signals they're treating AGI research like the existential bet it is. The irony here is that Hassabis now has the title and authority to move fast on the one thing nobody actually knows how to build yet, which is either visionary or the definition of a blank check.",
+    "date": "2026-08-08T04:08:12.784744+00:00"
+  },
+  {
+    "title": "Employee happiness is climbing back from all-time lows, survey suggests",
+    "url": "https://www.fastcompany.com/91586518/employee-happiness-is-climbing-back-from-all-time-lows-survey-suggests?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "A new survey shows employee morale is on the rise after hitting all-time lows. BambooHR, an HR software platform, used employee net promoter scores (eNPS)\u2014a numeric rating of how likely employees are ",
+    "dwp_take": "Employee happiness scores are ticking upward after bottoming out, according to a BambooHR survey of 51,000 workers that measured willingness to recommend their employer. This matters because when people stop actively bad-mouthing their workplace, your digital collaboration tools and internal comms actually get used as designed instead of becoming ghost towns. The real question nobody's asking: are employees actually happier, or just relieved they still have jobs in this economy?",
+    "date": "2026-08-08T04:08:16.990185+00:00"
+  },
+  {
+    "title": "How to raise your rates as a solopreneur",
+    "url": "https://www.fastcompany.com/91584103/how-raise-rates-solopreneur?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "In a corporate job, somebody else initiates your raise. There\u2019s an annual review on the calendar, and you may or may not get an increase based on performance, cost of living or both. Working solo, non",
+    "dwp_take": "A Fast Company piece walks through the uncomfortable reality that solopreneurs have to negotiate their own raises without the corporate safety net of annual reviews. This matters to digital workplace folks because more of us are going solo or hybrid-consulting, and we need to stop treating rate conversations like dental work. The truth is that clients respect you more when you respect your own time, so stop underselling yourself and remember that saying \"my rate is now X\" is not betrayal, it's business.",
+    "date": "2026-08-08T04:08:21.109251+00:00"
+  },
+  {
+    "title": "The $10 trillion reason to rethink your RTO strategy",
+    "url": "https://www.fastcompany.com/91578743/the-10-trillion-reason-to-rethink-your-office-engagement-strategy-return-to-office-workpalce-engagement-rto?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Low employee engagement is a widespread problem that is having a profound and costly impact on workplaces. According to Gallup, the analytics and advisory company, low engagement resulted in approxima",
+    "dwp_take": "Gallup's data shows employee engagement hit its lowest point since 2020, costing companies roughly $10 trillion in lost productivity last year. For digital workplace leaders, this is a wake-up call that your RTO mandate probably isn't fixing anything and might actually be making engagement worse. Here's the thing: you can't force people back to the office and expect them to suddenly care more, but you can redesign how they actually work, and that starts with listening instead of lecturing.",
+    "date": "2026-08-08T04:08:24.942021+00:00"
+  },
+  {
+    "title": "Zohran Mamdani\u2019s NYC Tech Team Is What DOGE Should Have Been",
+    "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
+    "dwp_take": "New York City's mayor hired experienced tech professionals from Silicon Valley and the federal digital service to modernize city systems through better software. This matters because digital workplace leaders are watching how government IT actually gets fixed when you pair real expertise with political will instead of just shuffling the same legacy problems around. If they pull this off, every bloated enterprise IT department in America is going to have some uncomfortable conversations with their leadership about why their internal tech team couldn't do the same thing.",
+    "date": "2026-08-08T04:08:32.429171+00:00"
+  },
+  {
+    "title": "Taiwan Investigates Chinese Firms for Poaching Tech Talent",
+    "url": "https://www.techrepublic.com/article/news-apac-taiwan-china-tech-talent-poaching/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Taiwan\u2019s latest crackdown targets 17 Chinese-funded companies accused of using hidden ownership and unauthorized offices to recruit high-tech engineers. The post Taiwan Investigates Chinese Firms for ",
+    "dwp_take": "Taiwan is investigating 17 Chinese-backed companies for illegally recruiting tech talent through shell companies and secret offices. Digital workplace leaders need to pay attention because this signals how geopolitical tensions are reshaping talent markets and compliance risks around remote hiring, cross-border employment, and contractor vetting. If your \"fully distributed team\" suddenly includes people you didn't actually hire through official channels, you've got bigger problems than your collaboration platform choice.",
+    "date": "2026-08-08T04:08:36.285006+00:00"
+  },
+  {
+    "title": "Samsung Galaxy S26 FE Color Leak Shows Three Finishes",
+    "url": "https://www.techrepublic.com/article/news-galaxy-s26-fe-colors/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "New leaks show the Samsung Galaxy S26 FE in three apparent finishes as certification records and prelaunch sightings reveal more about its design, charging and expected specifications. The post Samsun",
+    "dwp_take": "Samsung's next budget phone is coming in three color options based on leaked certification documents and early sightings. For digital workplace pros, this matters because device standardization and color consistency across your BYOD program affects everything from security imaging to employee perception of company tech policies. Honestly, after thirty years watching enterprises obsess over which black shade their phones come in, I can tell you this leak will generate exactly zero impact on actual workplace productivity.",
+    "date": "2026-08-08T04:08:40.940915+00:00"
+  },
+  {
+    "title": "What Is Spiralism? The Strange AI Chatbot Movement Explained",
+    "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Thousands of chatbot conversations began producing the same strange ideas about AI consciousness, identity, and \u201cThe Spiral.\u201d Researchers still do not know exactly why. The post What Is Spiralism? The",
+    "dwp_take": "A bunch of AI chatbots started independently generating the same weird ideas about consciousness and something called \"The Spiral,\" and nobody knows why it happened. This matters because if chatbots are generating novel shared concepts without being explicitly programmed to do so, it raises real questions about what's actually happening inside these systems we're deploying in workplaces every day. My take: before we put these things in charge of your internal comms strategy, maybe we figure out why they're all talking about mysterious spirals.",
+    "date": "2026-08-08T04:08:44.912055+00:00"
+  },
+  {
+    "title": "OnePlus 10T Is Out of Security Support: Should You Keep Using Yours?",
+    "url": "https://www.techrepublic.com/article/news-oneplus-10t-security-support-ended/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "OnePlus 10T security support has ended. Here\u2019s how owners can check their patch level, understand the risks, and decide when to replace the phone. The post OnePlus 10T Is Out of Security Support: Shou",
+    "dwp_take": "OnePlus has ended security support for the OnePlus 10T, leaving owners vulnerable to unpatched exploits and leaving them to decide whether to keep using the device. This matters because plenty of knowledge workers still carry OnePlus phones as daily drivers, and an unsupported device is basically a security liability in your pocket that puts corporate networks at risk. My take: if your company hasn't already banned end-of-life devices, you're one ransomware attack away from a very expensive conversation with your CISO.",
+    "date": "2026-08-08T04:08:48.947037+00:00"
   }
 ]
