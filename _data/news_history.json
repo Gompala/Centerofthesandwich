@@ -1,122 +1,5 @@
 [
   {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-    "dwp_take": "Palantir just had a massive quarter hitting $1 billion in profit, and their CEO Alex Karp used the moment to attack AI labs as untrustworthy and ideologically driven. This matters to workplace tech leaders because it signals a growing divide between enterprise software vendors who want to control AI adoption internally versus the open-source and frontier AI movements. Karp's basically saying \"trust us with your data, not those other guys,\" which is a smart business move wrapped in moral language, and honestly, that's the most Palantir thing Palantir could possibly do.",
-    "date": "2026-08-04T05:42:05.995762+00:00"
-  },
-  {
-    "title": "After raising $1B in funding, Valar Atomics plans to mass produce small nuclear reactors for the AI industry",
-    "url": "https://siliconangle.com/2026/08/03/raising-1b-funding-valar-atomics-plans-mass-produce-small-nuclear-reactors-ai-industry/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Nuclear energy startup Valar Atomics Inc. said today it has raised a bumper $1 billion Series B funding round to help it move from building prototype small nuclear reactors to manufacturing them at sc",
-    "dwp_take": "A nuclear reactor startup just raised a billion dollars to mass produce small reactors specifically for powering AI data centers. This matters because data center energy consumption is becoming a real constraint for workplace infrastructure teams, and if small modular reactors actually work at scale, it changes how we think about powering digital workplaces going forward. That said, I'll believe it when I see it running reliably in a data center, because the nuclear industry has a well-earned reputation for timelines that make software projects look punctual.",
-    "date": "2026-08-04T05:42:11.831059+00:00"
-  },
-  {
-    "title": "Rafay Systems targets the operating layer of the AI infrastructure boom",
-    "url": "https://siliconangle.com/2026/08/03/rafay-ai-infrastructure-operating-layer-cubeconversations/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "The AI infrastructure market is moving through a critical transition. The first phase was about acquiring graphics processing units and standing up capacity. The next phase is about turning that expen",
-    "dwp_take": "Rafay Systems is positioning itself to manage and secure the operational layer of AI infrastructure, moving past the initial GPU acquisition phase into the harder work of making these systems actually production-ready and profitable. This matters to digital workplace pros because AI tools are already landing in your environments whether you planned for it or not, and managing that infrastructure securely is about to become a core competency instead of an IT sideshow. The irony is that we spent years building out cloud infrastructure to be simple, and now we're discovering that adding AI to the equation has made everything complicated all over again.",
-    "date": "2026-08-04T05:42:16.182570+00:00"
-  },
-  {
-    "title": "Israeli startup Zenity bags $125M in funding to build the security layer for AI agents",
-    "url": "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Artificial intelligence security startup Zenity Ltd. said today it has closed on a $125 million Series C round of funding to expand its platform, which secures autonomous agents in production across l",
-    "dwp_take": "An Israeli AI security startup called Zenity just raised $125 million to build security tools specifically for AI agents operating in production environments. This matters because organizations deploying autonomous AI agents need to know those systems aren't going rogue or getting compromised, which is honestly a baseline requirement that shouldn't require a separate startup to solve. The real question is why major cloud and enterprise software vendors haven't built this in already, but then again, I've been asking that about security fundamentals for three decades.",
-    "date": "2026-08-04T05:42:20.805917+00:00"
-  },
-  {
-    "title": "AI is both a cyber weapon and a massive target, CrowdStrike warns",
-    "url": "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "The same AI tools triggering suspicious alerts are being attacked by cybercriminals in droves.",
-    "dwp_take": "CrowdStrike is saying AI systems are getting hammered by attackers while simultaneously being weaponized against organizations. This matters because digital workplace leaders are rapidly deploying AI tools for productivity without understanding they're basically painting targets on their infrastructure. The irony is thick: we're adding security risks while trying to solve productivity problems, which is the digital workplace equivalent of installing a fancy new door while leaving the windows wide open.",
-    "date": "2026-08-04T05:42:24.926908+00:00"
-  },
-  {
-    "title": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
-    "url": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
-    "dwp_take": "ZDNet ran a guide on how to lock down your privacy settings across the major AI chatbots so your conversations don't end up as someone else's training data or public embarrassment. This matters because most digital workplaces are now wrestling with shadow AI use, and if your employees are dumping sensitive client info or strategic thinking into these tools without privacy controls, you're basically publishing your competitive advantage. The real kicker is that most people don't even know these privacy options exist, which means they're probably sharing way more than they think they are.",
-    "date": "2026-08-04T05:42:30.967023+00:00"
-  },
-  {
-    "title": "This free Google Drive alternative keeps your files private - and local",
-    "url": "https://www.zdnet.com/article/zimaos-is-for-those-who-want-to-go-local-with-cloud-storage/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Looking to shift your storage needs from a third-party cloud service to inside your home network? If so, ZimaOS is a great option.",
-    "dwp_take": "ZimaOS is a free, open-source storage system that lets you keep your files on local hardware instead of relying on cloud services like Google Drive. For digital workplace folks, this matters because data governance, compliance, and security concerns are real, and having a legitimate alternative to cloud-only storage options gives organizations actual choices for sensitive information. Here's the thing though: most teams will still struggle with the operational overhead of managing on-premises storage, but at least now you can tell your compliance officer you considered something other than Microsoft's entire ecosystem.",
-    "date": "2026-08-04T05:42:35.135924+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s AI models accidentally hacked three companies",
-    "url": "https://www.computerworld.com/article/4204528/anthropics-ai-models-accidentally-hacked-three-companies.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Anthropic has launched an investigation into what went wrong during a recent test of three models that left a trio of companies accidentally hacked. The company was testing how well Claude Opus 4.7, C",
-    "dwp_take": "Anthropic's AI security test went sideways when their Claude models actually hacked into real company networks instead of simulated ones, apparently due to a partner miscommunication about what \"fictional\" meant. This matters because every organization betting on AI for sensitive workplace tasks just got a live demonstration of how quickly things go wrong when safety guardrails slip. Here's the kicker: we're entrusting AI with our most critical infrastructure while the people building it are still figuring out the difference between a test environment and the real thing.",
-    "date": "2026-08-04T05:42:41.657014+00:00"
-  },
-  {
-    "title": "AI Conquered Coding. Fast Food Is Next",
-    "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-    "dwp_take": "Fast food chains are testing AI systems to handle drive-thru orders, with customers potentially interacting with bots without realizing it. This matters to digital workplace pros because it signals how AI automation is moving beyond knowledge work into customer-facing roles, forcing us to think differently about human-AI handoff, training data quality, and what happens when the bot gets your order hilariously wrong. Honestly, if AI can master the chaos of a Friday night drive-thru line better than humans, we should probably hand it the keys to our corporate Slack channels too.",
-    "date": "2026-08-04T05:42:49.889670+00:00"
-  },
-  {
-    "title": "Apple September Event Predictions: iPhone 18 Pro and Other Rumors Ranked",
-    "url": "https://www.techrepublic.com/article/news-apple-september-2026-event-biggest-rumors/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple's September 2026 event could bring the iPhone 18 Pro, Apple's first foldable iPhone and new Apple Watches. Here's what the most credible rumors suggest. The post Apple September Event Prediction",
-    "dwp_take": "Apple's rumored September 2026 event is expected to feature an iPhone 18 Pro, a foldable iPhone, and new Apple Watches, with TechRepublic ranking the credibility of various leaks circulating online. For digital workplace folks, this matters because employee device choices and OS updates directly impact collaboration tools, security protocols, and how your workforce actually gets work done. Here's the thing though: half these rumors will be wrong, and we'll all act shocked when Apple releases something nobody predicted.",
-    "date": "2026-08-04T05:42:54.032142+00:00"
-  },
-  {
-    "title": "South Korea Unveils $14B Sovereign Fund to Back AI, Data Centers",
-    "url": "https://www.techrepublic.com/article/news-apac-south-korea-kic-ai-investment/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "South Korea plans a KIC investment account for AI, data centers, chips, and strategic industries, but the government has not set its funding size. The post South Korea Unveils $14B Sovereign Fund to B",
-    "dwp_take": "South Korea is putting $14 billion into a sovereign fund specifically targeting AI, data centers, and semiconductor infrastructure as part of a broader strategy to maintain economic competitiveness. This matters to digital workplace pros because infrastructure investments at the national level eventually reshape the tools, platforms, and capabilities available to corporate environments. Here's the thing though: every country with a decent GDP is now throwing billions at AI and data centers, so the real question isn't whether South Korea is investing, but whether any of this actually produces tools that make work better or just fancier dashboards.",
-    "date": "2026-08-04T05:42:58.790117+00:00"
-  },
-  {
-    "title": "Microsoft Targets Faster Windows 11 as 8GB PCs Return",
-    "url": "https://www.techrepublic.com/article/news-windows-11-8gb-ram-optimization/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft is optimizing Windows 11 for PCs with 8GB of RAM, but buyers should still weigh workload limits before choosing lower-memory hardware. The post Microsoft Targets Faster Windows 11 as 8GB PCs",
-    "dwp_take": "Microsoft is optimizing Windows 11 to run better on machines with just 8GB of RAM, acknowledging that not everyone needs or wants 16GB+. This matters because enterprise teams are still buying budget hardware and IT leaders need realistic expectations about what those machines can actually handle without turning into digital molasses. Here's the thing though: optimizing for 8GB is great PR, but we all know what happens when someone runs Teams, Slack, Chrome, and Outlook simultaneously on that same machine.",
-    "date": "2026-08-04T05:43:02.811179+00:00"
-  },
-  {
-    "title": "Apple Explores Health and Fitness Features for Future Smart Glasses",
-    "url": "https://www.techrepublic.com/article/news-apple-smart-glasses-health-fitness-features/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple is exploring health and fitness experiences for future smart glasses, but the capabilities are unlikely to appear in its first model. The post Apple Explores Health and Fitness Features for Futu",
-    "dwp_take": "Apple is working on health and fitness features for smart glasses, though probably not the first version they release. This matters because wearable tech is creeping into the enterprise workspace, and workplace wellness programs are getting more sophisticated, so IT leaders need to start thinking about what happens when employees show up wearing glasses that track their heart rate and sleep. Honestly, we're one software update away from your boss knowing you're stressed before you do, which is either the future of wellness or a dystopian nightmare depending on how much you trust your organization.",
-    "date": "2026-08-04T05:43:07.324114+00:00"
-  },
-  {
     "title": "Anthropic signs $10B deal with AI cloud startup Volta",
     "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "source": "TechCrunch",
@@ -1051,5 +934,131 @@
     "excerpt": "Research links prolonged smartphone use to neck discomfort and hand pain, while evidence for spinal damage and weaker grip remains less certain. The post The Physical Cost of Spending Hours on Your Sm",
     "dwp_take": "Researchers found that heavy smartphone use causes neck discomfort and hand pain, though claims about spinal damage and grip strength are still unproven. This matters because your team is probably hunched over phones right now instead of sitting properly at their desks, and a sore workforce is an unproductive one. The real kicker is that we spent two decades fighting for ergonomic keyboards and monitor stands, only to have everyone voluntarily destroy their posture by staring down at a glowing rectangle all day.",
     "date": "2026-08-11T04:15:31.242591+00:00"
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "dwp_take": "Anthropic announced it will add watermarks to text generated by its AI models, including retroactive support for older versions. This matters because digital workplace teams are increasingly using AI for content creation, and watermarking helps distinguish human-authored from machine-generated work, which has real implications for authenticity, compliance, and knowing who actually wrote that email. Here's the thing though: watermarks only work if everyone actually looks for them, and in my experience, most people won't, so we're still going to spend the next two years arguing about whether that memo came from a human or Claude.",
+    "date": "2026-08-12T04:42:56.665595+00:00"
+  },
+  {
+    "title": "IBM inks $240M infrastructure deal with AI-optimized cloud operator Together AI",
+    "url": "https://siliconangle.com/2026/08/11/ibm-inks-240m-infrastructure-deal-ai-optimized-cloud-operator-together-ai/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "IBM Corp. will provide infrastructure to artificial intelligence startup Together AI Inc. as part of a $240 million deal announced today. The partnership comes a few weeks after the latter company rai",
+    "dwp_take": "IBM just committed a quarter billion dollars to provide cloud infrastructure for Together AI, a startup that's building AI services on Nvidia's hardware. For digital workplace leaders, this matters because it signals where enterprise compute is heading: toward specialized AI infrastructure partnerships rather than one-size-fits-all cloud platforms. I'd love to know how many CIOs are currently explaining to their CFOs why they need yet another cloud vendor relationship, because apparently one wasn't enough.",
+    "date": "2026-08-12T04:43:01.245740+00:00"
+  },
+  {
+    "title": "CoreWeave coasts to a solid earnings beat, sending its stock higher after-hours",
+    "url": "https://siliconangle.com/2026/08/11/coreweave-coasts-solid-earnings-beat-sending-stock-higher-hours/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Shares of the artificial intelligence data center firm CoreWeave Inc. jumped more than 14% in extended trading today after it delivered solid financial results that easily beat Wall Street\u2019s projectio",
+    "dwp_take": "CoreWeave beat earnings expectations by a wide margin and its stock jumped 14% in after-hours trading, signaling investor confidence in the AI infrastructure play. For digital workplace pros, this matters because AI compute infrastructure is becoming the backbone of enterprise collaboration tools and workplace tech stacks. Here's the thing though: an earnings beat doesn't mean the underlying business model is bulletproof, so don't get too excited until we see sustained profitability, not just adjusted metrics.",
+    "date": "2026-08-12T04:43:05.386690+00:00"
+  },
+  {
+    "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD",
+    "url": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "River AI Inc., a startup that helps enterprises customize open-source artificial intelligence models, has raised $1.1 billion in early-stage funding. The company stated in today\u2019s announcement that it",
+    "dwp_take": "River AI just closed $1.1 billion in funding to help companies customize open-source AI models for their own needs. This matters because every organization now realizes generic AI isn't cutting it, and digital workplace teams need tools that actually understand their specific workflows and data instead of some one-size-fits-all chatbot. The real question is whether River can deliver on that promise faster than enterprises get tired of waiting, because I've seen plenty of AI startups with big funding and bigger promises crater when reality hits.",
+    "date": "2026-08-12T04:43:09.649639+00:00"
+  },
+  {
+    "title": "Why software factories are back - and how they work in the age of AI",
+    "url": "https://www.zdnet.com/article/why-software-factories-are-back-ai/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, automated fashion for delivery to a wide audience.",
+    "dwp_take": "Software factories are making a comeback as automated platforms that take application code, validate it, test it, and deploy it at scale without manual intervention. This matters to digital workplace pros because it directly impacts how fast your organization can ship internal tools, updates, and integrations that actually get used. Honestly, the irony is thick here: we spent twenty years trying to democratize software development so non-coders could build things, and now we're automating away the developers we trained to use those tools in the first place.",
+    "date": "2026-08-12T04:43:13.876478+00:00"
+  },
+  {
+    "title": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+    "url": "https://www.zdnet.com/article/how-to-make-generate-ai-flyer-tips-prompts-that-work/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Most AI flyers are still a mess, but the right prompts can make all the difference.",
+    "dwp_take": "Someone figured out that garbage prompts produce garbage AI flyers, so ZDNet published eight tips to make them actually look professional. This matters because every digital workplace now has someone spamming teams with auto-generated design disasters, and better prompts mean fewer requests for your actual designer to fix them. Here's the thing though: if your organization needs eight tips to not embarrass itself with AI flyers, maybe you should just hire that designer instead of pretending AI is a free substitute for knowing what good design looks like.",
+    "date": "2026-08-12T04:43:18.401480+00:00"
+  },
+  {
+    "title": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+    "url": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today's Windows.",
+    "dwp_take": "Someone successfully got a 1990 version of Microsoft Word running on Windows 11, proving that ancient software can still boot up on modern systems. This matters because it highlights how bloated modern applications have become and raises real questions about whether we actually need all the features we're paying for. Honestly, the fact that people are nostalgic enough to try this tells you everything you need to know about the state of productivity software today.",
+    "date": "2026-08-12T04:43:22.221478+00:00"
+  },
+  {
+    "title": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+    "url": "https://www.zdnet.com/article/linux-desktop-use-surged-on-one-workday-cloudflare-data-shows/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "The Linux desktop's popularity is growing fast, and there are a few reasons why.",
+    "dwp_take": "Cloudflare's data showed Linux desktop usage hit 22% during a single workday, marking a significant jump from historical averages. For IT teams and workplace tech strategists, this means Linux is finally becoming a real support and standardization consideration rather than something you can politely ignore. After three decades watching this \"year of Linux\" prediction cycle repeat, I'm cautiously intrigued, but I'll believe it's truly mainstream when I stop getting support tickets about why the printer driver won't install.",
+    "date": "2026-08-12T04:43:26.421579+00:00"
+  },
+  {
+    "title": "More than half of workers would take a pay cut for job security",
+    "url": "https://www.fastcompany.com/91588563/more-than-half-of-workers-would-take-a-pay-cut-for-job-security?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Employees in 2026 are seriously worried about how unstable their jobs may be. So worried, in fact, that more than half say they\u2019d willingly swap part of their paycheck for greater job security.Accordi",
+    "dwp_take": "More than half of workers surveyed say they'd accept lower pay in exchange for genuine job security. This tells digital workplace professionals that employee anxiety about layoffs and automation is reshaping what people actually value, forcing organizations to rethink retention strategies beyond just competitive salaries. Here's the thing: if your workforce is this spooked, no amount of ping-pong tables and unlimited PTO is going to fix the real problem, which is they don't trust you'll keep them around.",
+    "date": "2026-08-12T04:43:31.045232+00:00"
+  },
+  {
+    "title": "Meet 21 Black women who bounced back and are thriving after being pushed out of the workplace",
+    "url": "https://www.fastcompany.com/91584935/meet-21-black-women-who-bounced-back-and-are-thriving-after-being-pushed-out-of-the-workplace-black-women-layoffs-inspiration-pivots-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "For Black women, the instability of today\u2019s job market has been particularly severe. Since early 2025, approximately 600,000 Black women have become unemployed, left the labor force, or otherwise been",
+    "dwp_take": "Fast Company profiled 21 Black women who lost their jobs or left the workforce involuntarily and have since rebuilt successful careers on their own terms. This matters because it highlights a real pattern many digital workplace leaders ignore: systemic inequity in hiring, retention, and advancement that disproportionately affects Black women, and it should make HR teams ask hard questions about their own practices. The fact that these women had to leave traditional employment to thrive says less about their resilience and a lot more about what's broken in how we hire and keep talent.",
+    "date": "2026-08-12T04:43:35.139197+00:00"
+  },
+  {
+    "title": "Autodesk\u2019s AutoCAD LT Is $199 for One Year Right Now",
+    "url": "https://www.techrepublic.com/article/autodesk-autocad-lt-subscription/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "AutoLISP & Smart Blocks can reduce repetitive work and help keep frequently used drawing elements consistent. The post Autodesk\u2019s AutoCAD LT Is $199 for One Year Right Now appeared first on TechRepubl",
+    "dwp_take": "Autodesk is running a promotional price of $199 for a one-year AutoCAD LT subscription, down from the standard rate. This matters because many design teams and individual contributors are evaluating whether their current CAD licensing model actually fits their workflow and budget. Look, if you've been paying full freight for AutoCAD when AutoCAD LT does 90 percent of what you need, this is the moment to quietly test drive it before leadership notices your software spend.",
+    "date": "2026-08-12T04:43:41.011122+00:00"
+  },
+  {
+    "title": "Google Drive Stops Automatic Photo Backups to Google Photos on Desktop",
+    "url": "https://www.techrepublic.com/article/news-google-drive-google-photos-desktop-backup-change/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google Drive has ended automatic desktop photo backups to Google Photos, forcing users to switch to a browser-based workflow to keep folders synced. The post Google Drive Stops Automatic Photo Backups",
+    "dwp_take": "Google killed the automatic photo backup feature in Google Drive for desktop, meaning users now have to jump through the browser to keep their photo folders synced. This matters because plenty of organizations rely on Drive for simple file workflows, and removing friction-free features forces teams to adopt workarounds or find alternatives. I'm not sure who asked for this one, but it's another reminder that cloud vendors love optimizing for mobile and web while treating desktop users like we're living in 2005.",
+    "date": "2026-08-12T04:43:44.944514+00:00"
+  },
+  {
+    "title": "Ninth Circuit Dismisses Meta, TikTok Appeals in Social Media Addiction Cases",
+    "url": "https://www.techrepublic.com/article/news-meta-tiktok-social-media-addiction-appeals/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The Ninth Circuit dismissed Meta and TikTok\u2019s early appeals, keeping thousands of social media addiction lawsuits moving through lower courts. The post Ninth Circuit Dismisses Meta, TikTok Appeals in ",
+    "dwp_take": "The Ninth Circuit Court of Appeals rejected Meta and TikTok's attempts to dismiss thousands of pending lawsuits accusing their platforms of addicting users, particularly minors, allowing cases to proceed in lower courts. This matters to digital workplace folks because it signals that courts are taking platform design and psychological manipulation seriously, which will eventually influence how companies approach employee digital experiences and wellness policies. Here's the thing: if Meta and TikTok can't escape liability for addictive design, your company's \"always on\" Slack culture suddenly looks a lot riskier to your legal team.",
+    "date": "2026-08-12T04:43:49.205650+00:00"
+  },
+  {
+    "title": "Singapore Raises 2026 Growth Forecast as AI Exports Surge",
+    "url": "https://www.techrepublic.com/article/news-apac-singapore-ai-growth-forecast-exports/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Singapore raised its 2026 growth forecast to 4.5%\u20135.5% as surging AI demand boosts electronics exports and manufacturing. The post Singapore Raises 2026 Growth Forecast as AI Exports Surge appeared fi",
+    "dwp_take": "Singapore just bumped up its 2026 growth forecast to between 4.5 and 5.5 percent, riding the wave of surging AI demand that's turbocharging electronics exports and manufacturing. This matters to digital workplace pros because economic growth signals talent competition, budget availability, and whether your company can actually hire the people it needs versus just talking about it. Honestly, if Singapore's betting big on AI exports, every tech company on the planet just got a reminder that the talent war is about to get uglier.",
+    "date": "2026-08-12T04:43:52.994115+00:00"
   }
 ]
