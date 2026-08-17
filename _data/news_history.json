@@ -1,113 +1,5 @@
 [
   {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "NextSlide says its team members are now working on ChatGPT.",
-    "dwp_take": "OpenAI bought NextSlide, a presentation software startup, and folded the team into ChatGPT development. This matters because it signals that AI companies are serious about making presentations less painful, which means your deck tools are about to get weird fast. Look, I've sat through enough PowerPoint hell to appreciate the irony: the thing that finally kills death-by-slides might be an AI that's just as capable of generating corporate nonsense, only faster.",
-    "date": "2026-08-09T04:13:34.449631+00:00"
-  },
-  {
-    "title": "Forecasting the AI bubble: When scarcity turns to surplus",
-    "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Artificial intelligence can be technologically transformative and still produce a capital bubble. Those two ideas are not in conflict. The bubble bursting does not require AI to fail. It only requires",
-    "dwp_take": "Silicon Angle is arguing that AI can be genuinely transformative while still being in a speculative bubble, and that the bubble pops not when technology fails but when supply of AI capacity outpaces actual business demand for it. For digital workplace leaders, this means the current mad rush to AI adoption might cool considerably once companies realize they've bought more capability than they can actually use profitably. My take: buckle up for the \"AI winter\" hangover, because nothing sobers up an executive suite faster than realizing they spent millions on AI that just sits there looking expensive.",
-    "date": "2026-08-09T04:13:39.689431+00:00"
-  },
-  {
-    "title": "OpenAI reveals upcoming Astra model may possess \u2018critical\u2019 hacking capabilities",
-    "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenA",
-    "dwp_take": "OpenAI disclosed that its unreleased Astra model could potentially have \"critical\" hacking capabilities that pose cybersecurity risks, though details remain sparse. Digital workplace leaders need to pay attention because if AI models this powerful are hitting production environments, your security posture had better be locked down tight or you'll be the next breach headline. Here's the thing though: OpenAI talking about risks before launch is actually responsible, so maybe let's see the actual details before we all panic-buy cybersecurity consulting.",
-    "date": "2026-08-09T04:13:43.834943+00:00"
-  },
-  {
-    "title": "Post-quantum security deadlines force leaders to protect existing infrastructure",
-    "url": "https://siliconangle.com/2026/08/07/post-quantum-security-demands-crypto-agility-now-blackhat/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "The post-quantum security transition is emerging as one of the most pressing challenges facing enterprise and government infrastructure, as \u201charvest now, decrypt later\u201d attacks \u2014 in which adversaries ",
-    "dwp_take": "Organizations are racing to upgrade their encryption before quantum computers become powerful enough to crack today's security standards, driven by real threats of attackers stealing encrypted data now and decrypting it later. For digital workplace leaders, this matters because your collaboration platforms, email systems, and file storage all rely on encryption that could become vulnerable, turning today's \"confidential\" into tomorrow's open book. The real kicker is that most teams haven't even finished their last security overhaul, and now they're being told to start planning the next one before quantum computers are even a practical threat.",
-    "date": "2026-08-09T04:13:48.305552+00:00"
-  },
-  {
-    "title": "Wispr moves beyond AI dictation with note-taking assistant",
-    "url": "https://www.computerworld.com/article/4206765/wispr-moves-beyond-ai-dictation-with-note-taking-assistant.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Wispr, the startup behind dictation tool Wispr Flow, has created an AI note-taking assistant that records meetings and generates conversation summaries for users. The Wispr Flow Notetaker tool \u201ccaptur",
-    "dwp_take": "Wispr is expanding from a simple dictation tool to an AI-powered meeting recorder that automatically summarizes conversations so you're not juggling pen and paper during calls. This matters because knowledge workers spend ridiculous amounts of mental energy documenting meetings instead of actually paying attention, so automating that could free up real brainpower. That said, I'd want to see how well it actually captures context and action items before declaring this a game-changer, because plenty of AI summaries read like they were written by someone who dozed through half the meeting.",
-    "date": "2026-08-09T04:13:54.107667+00:00"
-  },
-  {
-    "title": "Cloudflare wants to provide the operating system for the AI-first enterprise",
-    "url": "https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Traditional operating systems (OS) were built to manage hardware, files, apps, and users on a device, but Cloudflare says the agentic AI era requires a whole new format. The company this week announce",
-    "dwp_take": "Cloudflare launched an open-source, browser-based operating system designed to connect AI agents, enterprise data, and internal workflows in a single secure workspace, positioning itself as infrastructure for the AI-first enterprise. This matters to digital workplace folks because if it gains traction, it could reshape how we think about security, access control, and system architecture beyond traditional device-centric OS models. Honestly though, after 30 years watching companies chase the next big platform, I'll believe it's transformative when I see actual adoption in messy real-world enterprises, not just tech-forward early adopters.",
-    "date": "2026-08-09T04:13:58.216298+00:00"
-  },
-  {
-    "title": "Hiring program in energy tech sector enlists military veterans to fill data center skills gap",
-    "url": "https://www.worklife.news/talent/hiring-program-in-energy-tech-sector-enlists-military-veterans-to-fill-data-center-skills-gap/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-    "source": "WorkLife",
-    "category": "digital-culture",
-    "excerpt": "With an unprecedented surge in demand for skilled technicians, Schneider Electric eyes talent with military experience.",
-    "dwp_take": "Schneider Electric is actively recruiting military veterans to staff data centers as demand for skilled technicians outpaces the current labor supply in the energy tech sector. This matters to digital workplace pros because it highlights how talent shortages are forcing organizations to look beyond traditional hiring pools, which means rethinking recruitment strategies and workplace integration for non-traditional candidates. Here's the thing: if we'd been investing in technical training pipelines instead of waiting for crisis mode, we wouldn't be poaching veterans from their transition programs.",
-    "date": "2026-08-09T04:14:04.112169+00:00"
-  },
-  {
-    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the \u201cstrange moment\u201d we\u2019re in.",
-    "dwp_take": "Tucker Bryant built ChatTJB, an AI chatbot that's actually just him answering questions in real time, as a commentary on our current obsession with artificial intelligence. This matters to digital workplace folks because it exposes a hard truth: we're implementing AI solutions without asking whether we actually need them, and sometimes a human on the other end does the job better. The real punchline here is that Bryant proved what we should have known all along: the technology isn't the bottleneck, the thinking is.",
-    "date": "2026-08-09T04:14:11.726208+00:00"
-  },
-  {
-    "title": "Cloudflare Launches Kitesurf, a Lightweight Browser Built for AI Agents",
-    "url": "https://www.techrepublic.com/article/news-cloudflare-kitesurf-browser-ai-agents/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Cloudflare\u2019s Kitesurf browser promises lower resource use and stronger isolation for AI agents, but enterprises should assess its beta limitations. The post Cloudflare Launches Kitesurf, a Lightweight",
-    "dwp_take": "Cloudflare has released Kitesurf, a new lightweight browser specifically designed to run AI agents with minimal resource overhead and improved security isolation. This matters because your organization's AI automation initiatives will need reliable, efficient browser automation tools that don't tank your infrastructure budgets or create security headaches. That said, it's beta software from a company that already makes solid infrastructure products, so this could be genuinely useful or it could be another shiny thing that needs eighteen more months of baking.",
-    "date": "2026-08-09T04:14:16.377473+00:00"
-  },
-  {
-    "title": "Boston Dynamics\u2019 Atlas Robot Can Change Its Own Battery in Under 3 Minutes",
-    "url": "https://www.techrepublic.com/article/news-boston-dynamics-atlas-robot-battery-swap/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Boston Dynamics\u2019 Atlas humanoid robot can swap its own battery in under three minutes, a feature designed to reduce downtime during industrial work. The post Boston Dynamics\u2019 Atlas Robot Can Change It",
-    "dwp_take": "Boston Dynamics' Atlas robot can now swap its own battery in under three minutes, cutting downtime during industrial operations. Digital workplace pros need to watch this because autonomous maintenance capabilities signal where industrial automation is heading, and it affects how you plan for robotics integration in your facilities. The real kicker: a machine that fixes itself is less annoying than most of my colleagues, and that's saying something.",
-    "date": "2026-08-09T04:14:20.293305+00:00"
-  },
-  {
-    "title": "Meta Ordered to Pay $567M and Overhaul Teen Safety on Facebook, Instagram",
-    "url": "https://www.techrepublic.com/article/news-meta-567m-teen-safety-ruling/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta must pay $567 million and change Facebook and Instagram protections for minors under a New Mexico court order it plans to appeal. The post Meta Ordered to Pay $567M and Overhaul Teen Safety on Fa",
-    "dwp_take": "Meta got hit with a $567 million fine and court-ordered safety overhauls for how it handles teen users on Facebook and Instagram, though the company plans to appeal. For digital workplace professionals, this matters because it signals regulators are finally willing to impose real consequences for social platforms that treat user safety like an afterthought, which could force changes to how your organization thinks about internal collaboration tools. Personally, I've watched Meta dodge accountability for two decades, so watching a court actually make them pay feels like someone finally calling out that kid who's been cutting in line since elementary school.",
-    "date": "2026-08-09T04:14:25.237577+00:00"
-  },
-  {
-    "title": "Samsung\u2019s August Update Patches 56 Security Vulnerabilities Across Galaxy Devices",
-    "url": "https://www.techrepublic.com/article/news-samsung-august-2026-security-update/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Samsung\u2019s August 2026 Galaxy update fixes 56 Android and One UI security flaws, including critical vulnerabilities and clipboard access risks. The post Samsung\u2019s August Update Patches 56 Security Vuln",
-    "dwp_take": "Samsung just dropped an August update that patches 56 security holes across Galaxy devices, including some nasty clipboard access vulnerabilities that could let attackers snoop on what you're copying and pasting. For anyone managing Galaxy devices across your organization, this is a mandatory install situation because clipboard access is basically handing someone the keys to sensitive data your employees are handling daily. After three decades watching security theater, I can tell you that 56 vulnerabilities in one update means Samsung's security team was either very thorough in their audit or very worried about what they'd missed.",
-    "date": "2026-08-09T04:14:29.657785+00:00"
-  },
-  {
     "title": "The AI safety test is becoming a safety risk",
     "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "source": "TechCrunch",
@@ -1087,5 +979,95 @@
     "excerpt": "Meta has blocked more than 750,000 under-16 Facebook and Instagram accounts in Australia as the social media age ban takes hold and other countries watch. The post Meta Removes More Than 750,000 Under",
     "dwp_take": "Meta nuked 750,000 underage accounts in Australia after the country implemented a social media age ban requiring users to be at least 16. This matters to digital workplace folks because it signals how quickly regulatory pressure can reshape platform ecosystems, which affects everything from internal collaboration tools to external communications strategies. Honestly, watching Meta actually enforce age restrictions is like watching a dog learn to sit after thirty years of running wild, so don't get too excited about sudden corporate responsibility.",
     "date": "2026-08-16T03:43:01.105942+00:00"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "dwp_take": "Anthropic's CEO Dario Amodei is responding to critics who say he's been too doom-and-gloom about AI risks by reframing the debate as fundamentally about trust rather than existential fear. Digital workplace leaders need to care because trust shapes whether employees will actually adopt AI tools, and skepticism from leadership translates directly into adoption resistance from staff. Here's the thing though: you can't rebuild trust by insisting you weren't pessimistic in the first place, you rebuild it by shipping tools that work, being transparent about limitations, and not overpromising what AI can do for productivity.",
+    "date": "2026-08-17T03:43:20.985707+00:00"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+    "dwp_take": "Railway just raised $100 million to build cloud infrastructure specifically designed for AI workloads, positioning itself as an alternative to AWS for developers tired of legacy systems. This matters because digital workplace leaders are increasingly expected to evaluate emerging cloud platforms that can actually handle AI integration without the cost and complexity overhead of retrofitting older infrastructure. The real story here is that two million developers showed up without marketing spend, which tells you something important: if your product solves a genuine problem, word of mouth still works better than any LinkedIn ad campaign.",
+    "date": "2026-08-17T03:43:25.303584+00:00"
+  },
+  {
+    "title": "Stripe reportedly finalizes deal to buy AI model router OpenRouter for more than $7B",
+    "url": "https://siliconangle.com/2026/08/16/stripe-reportedly-finalizes-deal-buy-ai-model-router-openrouter-7b/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "OpenRouter Inc., which sells developers a single door into more than 400 artificial intelligence models, has agreed to terms to sell itself to Stripe Inc. for north of $7 billion, according to a repor",
+    "dwp_take": "Stripe is buying OpenRouter, an AI model routing platform, for over $7 billion so developers can access 400+ AI models through a single integration instead of managing multiple connections. This matters to digital workplace pros because it signals that AI abstraction layers are becoming serious infrastructure, not just nice-to-haves, which means your workplace tech stack needs to account for this shift sooner rather than later. The real play here isn't the price tag, it's that Stripe is betting the future of developer productivity hinges on not getting locked into one AI model, which is honestly the smartest thing a payments company could do right now.",
+    "date": "2026-08-17T03:43:30.187057+00:00"
+  },
+  {
+    "title": "Did Nvidia\u2019s Jensen Huang just make the AI buildout too big to fail?",
+    "url": "https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Nvidia Corp. is no longer just selling technology. It is helping create a financial asset class around artificial intelligence compute. In our last Breaking Analysis, we argued that AI can be technolo",
+    "dwp_take": "Nvidia is essentially making itself the central pillar of AI infrastructure so essential that pulling back would trigger massive financial pain across the industry. Digital workplace leaders need to understand this because it means AI tools and platforms will keep getting pushed into your tech stack regardless of whether they actually solve real problems. My take: we're building the digital equivalent of a nuclear power plant when half of you just need better lighting, and admitting it now would cost someone billions in shareholder value.",
+    "date": "2026-08-17T03:43:34.210022+00:00"
+  },
+  {
+    "title": "How Apple is leaving money on the table",
+    "url": "https://www.computerworld.com/article/4209268/how-apple-is-leaving-money-on-the-table.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Apple now has a long and storied history in wearables. The Apple Watch set expectations for the category, replacing Swiss watches on so many wrists on its journey to become the world\u2019s most widely wor",
+    "dwp_take": "Apple's wearable dominance isn't translating into full monetization of the technology and data these devices generate, leaving potential revenue streams untapped. For digital workplace leaders, this is a cautionary tale about building infrastructure that doesn't drive business outcomes or employee value propositions. Here's the thing: a smartwatch on 100 million wrists is only as useful as what you actually do with it, and Apple's treating theirs like a fancy notification box when it could be a workplace powerhouse.",
+    "date": "2026-08-17T03:43:39.885581+00:00"
+  },
+  {
+    "title": "AI notetakers have entered the meeting. Here are 5 ways to get the most out of them",
+    "url": "https://www.fastcompany.com/91588638/ai-notetakers-have-entered-the-meeting-here-are-5-ways-to-get-the-most-out-of-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "A recent Wall Street Journal story confirmed what you already know: Everything is being recorded. Meetings, one-on-ones, hallway chats, and even dates live on in your permanent file somewhere in Otter",
+    "dwp_take": "Fast Company ran a piece on how to maximize AI notetaking tools that are now standard in most meeting platforms. This matters because these tools are reshaping how knowledge gets captured and distributed across organizations, which means your job as a digital workplace leader just got more complicated. Here's the thing though: we spent twenty years begging people to actually document their decisions, and now that AI does it automatically, everyone's suddenly worried about surveillance. Be careful what you wish for.",
+    "date": "2026-08-17T03:43:44.590659+00:00"
+  },
+  {
+    "title": "OpenAI and Anthropic Cut AI Costs as Open-Weight Models Gain Ground",
+    "url": "https://www.techrepublic.com/article/news-openai-anthropic-cheaper-ai-models-open-weight-competition/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "OpenAI and Anthropic are emphasizing lower AI costs as open-weight models gain ground, forcing enterprises to weigh price, performance, and risk. The post OpenAI and Anthropic Cut AI Costs as Open-Wei",
+    "dwp_take": "The two biggest closed-source AI players just dropped their prices because open-source models are finally good enough to matter. This is huge for workplace tech budgets because suddenly that expensive AI assistant you've been eyeing has real competition from free and cheap alternatives. After thirty years of watching enterprise software, I'll tell you this: when vendors start slashing prices, you're about to have actual leverage for the first time in a while.",
+    "date": "2026-08-17T03:43:53.114380+00:00"
+  },
+  {
+    "title": "Microsoft Plans to End SMS and Voice Authentication for Entra ID",
+    "url": "https://www.techrepublic.com/article/news-microsoft-entra-id-sms-voice-authentication-passkeys/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft is reportedly phasing out SMS and voice authentication in Entra ID. See the claimed deadlines and what IT administrators should do next. The post Microsoft Plans to End SMS and Voice Authent",
+    "dwp_take": "Microsoft is killing SMS and voice authentication in Entra ID, forcing organizations to migrate to passwordless or app-based methods by specific deadlines. This matters because most IT teams still rely on these legacy authentication methods, so IT administrators need to start planning migrations now or face forced cutoffs that could disrupt access. Honestly, this was overdue, but Microsoft's giving everyone fair warning, which beats the surprise deprecations they've pulled before.",
+    "date": "2026-08-17T03:43:57.008467+00:00"
+  },
+  {
+    "title": "Google Says Chrome Cut 7 Billion Unwanted Android Notifications Per Day",
+    "url": "https://www.techrepublic.com/article/news-chrome-7-billion-unwanted-android-notifications/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google says Chrome cut unwanted Android notifications by more than 7 billion per day using permission controls, abuse detection, rate limits, and on-device ML. The post Google Says Chrome Cut 7 Billio",
+    "dwp_take": "Google's Chrome browser slashed 7 billion unwanted Android notifications daily by tightening permission controls, beefing up abuse detection, and using on-device machine learning to filter spam. This matters because notification fatigue is a real productivity killer in the workplace, and users are finally getting tools to actually control what gets through instead of drowning in garbage alerts. After years of ignoring the problem, Google basically admitted that notifications became the digital equivalent of junk mail, which is why they had to deploy ML just to make mobile devices usable again.",
+    "date": "2026-08-17T03:44:01.197154+00:00"
+  },
+  {
+    "title": "Singapore Is Literally Training People to Get Scammed",
+    "url": "https://www.techrepublic.com/article/news-apac-singapore-simulated-scams-security-training/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Singapore is using simulated AI-enabled scam calls to train the public, offering IT leaders a new model for social engineering security training. The post Singapore Is Literally Training People to Get",
+    "dwp_take": "Singapore is running simulated AI-powered scam calls to train citizens how to recognize and resist social engineering attacks. This matters to digital workplace professionals because social engineering remains the weakest link in most security programs, and hands-on, realistic training actually changes behavior better than another PowerPoint about password hygiene. The irony is delicious: we've spent decades telling people to be paranoid about every email, and now the government's solution is to literally mess with them until they get it right.",
+    "date": "2026-08-17T03:44:05.052548+00:00"
   }
 ]
