@@ -1,131 +1,5 @@
 [
   {
-    "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
-    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-    "dwp_take": "Relay, an AI automation startup, shut down and its team got absorbed into Google's Chrome division. This matters because it signals how big tech is consolidating AI tooling directly into browsers rather than betting on standalone automation platforms, which means your enterprise AI strategy needs to account for Chrome-native capabilities becoming standard. Honestly, this is probably good news for companies tired of managing seventeen different automation tools, though it does mean Google just got a little more control over how millions of people work.",
-    "date": "2026-08-18T03:38:48.459225+00:00"
-  },
-  {
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-    "dwp_take": "Groq just scored a massive $350 million funding round at a $3.5 billion valuation and is switching from making AI chips to running a cloud infrastructure business powered by Nvidia hardware. This matters to DWP pros because it signals where serious compute infrastructure money is flowing, and if your organization is evaluating AI tools or infrastructure partners, you need to watch who's actually backing the horses in this race. Honestly, watching a company raise this much cash to basically become a cloud reseller of someone else's chips is peak 2024 startup theater, but the real story is that enterprise AI infrastructure is consolidating fast.",
-    "date": "2026-08-18T03:38:52.781651+00:00"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files \u2014 no coding required",
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "source": "VentureBeat",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users \u2014 and according to company insiders, the team bui",
-    "dwp_take": "Anthropic just dropped Cowork, an AI agent for Claude Desktop that lets regular people automate file-based tasks without writing code. This matters because it's the first real attempt to make AI agents genuinely useful for knowledge workers instead of just impressive in demos. The kicker: they built the whole thing in ten days using Claude itself, which is either brilliant dogfooding or a sign that nobody really knows what they're doing yet.",
-    "date": "2026-08-18T03:38:56.854682+00:00"
-  },
-  {
-    "title": "African defense tech startup Terra Industries raises $52M",
-    "url": "https://siliconangle.com/2026/08/17/african-defense-tech-startup-terra-industries-raises-52m/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "It turns out that it\u2019s not only U.S. and European companies pushing the concept of autonomous warfare. Nigeria-based Terra Industries is a defense technology startup that develops automated security s",
-    "dwp_take": "Terra Industries, a Nigeria-based defense tech startup building autonomous security systems, just landed $52 million in what's reportedly the largest seed round on the continent. This matters to digital workplace pros because defense and security tech is now a major driver of workplace infrastructure investment, meaning we'll see more sophisticated monitoring systems, access controls, and automation tools filtering into corporate environments. Honestly, the irony is thick here: we're all worried about AI in our Slack channels while African companies are quietly building the infrastructure that'll actually reshape how security and compliance work in physical and digital spaces.",
-    "date": "2026-08-18T03:39:02.247130+00:00"
-  },
-  {
-    "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
-    "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
-    "dwp_take": "Companies tripled their adoption of AI agents this year as they figured out which use cases actually deliver measurable returns instead of just chasing shiny objects. This matters to us digital workplace folks because AI agents are moving from \"nice to have\" curiosity projects into the actual tools we're deploying into everyday work, which means we need to stop theorizing and start getting practical about integration, governance, and user adoption. The real test isn't whether AI agents work\u2014it's whether your organization can actually get people to use them without creating three new shadow systems in the process.",
-    "date": "2026-08-18T03:39:07.143392+00:00"
-  },
-  {
-    "title": "Google wants you to use its phones less and its AI more - but who's buying it?",
-    "url": "https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Google is leveraging our poor relationship to technology to sell its new phones - the same relationship it had a hand in creating.",
-    "dwp_take": "Google is positioning its new phones as tools for reducing phone dependency while simultaneously promoting heavier AI usage instead. Digital workplace pros need to understand this shift because it signals how major tech vendors are reshaping productivity narratives around AI integration rather than genuine wellbeing. Here's the thing though: telling people to use your device less while asking them to use your AI more is like a casino saying they care about your gambling habits.",
-    "date": "2026-08-18T03:39:10.928248+00:00"
-  },
-  {
-    "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
-    "url": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
-    "dwp_take": "Google shipped Gemini with access to your company's email, documents, calendar, and chat data turned on by default, leaving it to admins to opt out rather than opt in. This matters because most organizations won't catch this until someone asks why their confidential files are being fed into an AI model, and by then the damage is already done. Google's move here is the digital workplace equivalent of leaving your office door unlocked and handing the keys to whoever walks by, then acting surprised when people get upset.",
-    "date": "2026-08-18T03:39:14.953823+00:00"
-  },
-  {
-    "title": "AI inference is getting cheaper, but your agents are getting more expensive",
-    "url": "https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The good news is that large language model (LLM) token costs are coming down. The conundrum: The overall cost of AI workloads is going up. Gartner research predicts that, while token costs will fall b",
-    "dwp_take": "The cost of individual AI tokens keeps dropping, but the total spend on AI agent workflows is climbing fast because developers are using way more tokens per task. This directly hits digital workplace budgets and ROI calculations for things like chatbots, automation, and knowledge work tools. So yeah, your boss will love hearing that token prices fell while your actual AI bill tripled, which is basically the tech equivalent of getting a discount on gas while buying a bigger truck.",
-    "date": "2026-08-18T03:39:20.007372+00:00"
-  },
-  {
-    "title": "I measured my brain during one of the hardest business trips of my year. Here\u2019s what I learned about performance",
-    "url": "https://www.fastcompany.com/91580367/i-measured-my-brain-during-one-of-the-hardest-business-trips-of-my-year-heres-what-i-learned-about-performance-neuroscience-mental-performance-brain?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Last month, I traveled through three countries and multiple time zones, packing investor meetings, customer dinners, panels, and leadership sessions into just 10 days. Like many founders, I wore the s",
-    "dwp_take": "A founder measured their brain activity during a brutal 10-day business trip across three countries and discovered that their packed schedule was actually tanking their cognitive performance, not boosting it. This matters because we've built entire workplace cultures around grinding through exhaustion, and neuroscience is finally giving us permission to call that what it is: stupid. The irony is thick here: the guy tracking his brain's performance probably would have performed better if he'd just taken a nap instead of wearing fancy headphones to prove he was falling apart.",
-    "date": "2026-08-18T03:39:25.201017+00:00"
-  },
-  {
-    "title": "5 small-business ideas for introverts",
-    "url": "https://www.fastcompany.com/91582976/small-business-ideas-introverts?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "For many people, the hardest part of the working world is the personal interactions. Networking and meetings can be exhausting, particularly if you\u2019re an introvert. If small talk is a form of torture ",
-    "dwp_take": "Fast Company ran a piece about small business ideas designed for introverts who find traditional workplace interactions draining. This matters because remote work and digital tools have fundamentally changed what kind of work environment people actually need to succeed, and smart organizations are finally catching up to that reality. Here's the thing though: if we've learned anything from the last few years, it's that introversion isn't a career limitation anymore, it's just a preference about how you work best, and that's worth accommodating whether you're running your own show or working for someone else.",
-    "date": "2026-08-18T03:39:29.305489+00:00"
-  },
-  {
-    "title": "Google Pixel 11 Discount: Eligible Buyers Could Save Up to $175",
-    "url": "https://www.techrepublic.com/article/news-google-pixel-11-play-points-discount/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google Play Points members may find Pixel 11 discounts worth more than $100. Here\u2019s how to check your account and what to know before buying. The post Google Pixel 11 Discount: Eligible Buyers Could S",
-    "dwp_take": "Google is offering up to $175 discounts on Pixel 11 phones for Google Play Points members, with some buyers potentially saving over $100. This matters because device procurement and BYOD policies increasingly affect how we think about workplace mobility budgets and employee tech stipends. Honestly, if your organization is still not factoring in these carrier and manufacturer loyalty programs when calculating device costs, you're leaving money on the table that could fund better collaboration tools instead.",
-    "date": "2026-08-18T03:39:36.780141+00:00"
-  },
-  {
-    "title": "OpenAI Launches Computer History for ChatGPT and Codex on Mac",
-    "url": "https://www.techrepublic.com/article/ews-openai-computer-history-chatgpt-mac-activity/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "OpenAI\u2019s Computer History turns Mac activity into searchable memories. See how it works, who can use it, and the privacy and security risks. The post OpenAI Launches Computer History for ChatGPT and C",
-    "dwp_take": "OpenAI launched a new feature that lets ChatGPT and Codex users on Mac search through their computer activity as searchable memories within the AI tools. This matters because digital workplace teams now have to think seriously about what data they're feeding into AI systems and whether their organization's security policies actually cover this stuff. Honestly, I've seen enough \"we didn't think about the privacy implications\" situations over three decades to know this feature will be a compliance headache before it's a productivity win.",
-    "date": "2026-08-18T03:39:40.861652+00:00"
-  },
-  {
-    "title": "Apple Maps Ads Launch in the US and Canada: What Businesses Need to Know",
-    "url": "https://www.techrepublic.com/article/news-apple-maps-ads-us-canada-businesses/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple Maps ads are now available to eligible businesses in the US and Canada. Learn where they appear, who qualifies, and how campaigns and credits work. The post Apple Maps Ads Launch in the US and C",
-    "dwp_take": "Apple is finally letting businesses buy ads in Maps, starting in the US and Canada. This matters because your employees are using these apps to navigate, and now your competitors can grab their attention at the exact moment they're looking for services or locations. Honestly, it's about time Apple monetized Maps more aggressively, though I'd rather see them fix the routing algorithms first.",
-    "date": "2026-08-18T03:39:44.517410+00:00"
-  },
-  {
-    "title": "Turn an Android Phone Into a Desktop PC: What Actually Works",
-    "url": "https://www.techrepublic.com/article/news-android-phone-desktop-pc-samsung-dex/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Android phones can now power real desktop-style setups, but supported desktop modes and extreme hardware mods are very different beasts. The post Turn an Android Phone Into a Desktop PC: What Actually",
-    "dwp_take": "TechRepublic looked at ways to turn Android phones into desktop computers, distinguishing between phones that have built-in desktop modes and those requiring serious hardware hacking. This matters because as remote work sprawls and budgets tighten, companies are getting tempted by the idea of one device doing everything, which could reshape BYOD policies and desk setup requirements. The reality is still clunky though, and anyone selling this as a \"one device replaces your laptop\" story is either delusional or selling you something.",
-    "date": "2026-08-18T03:39:48.564166+00:00"
-  },
-  {
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "source": "TechCrunch",
@@ -826,5 +700,122 @@
     "excerpt": "Nebius is to lease high-density, NVIDIA-powered capacity at Vantage's CWL1 campus for AI workloads",
     "dwp_take": "Nebius is setting up shop at Vantage's data center in South Wales to run AI workloads on NVIDIA infrastructure. This matters because it signals where serious compute power is landing right now, which shapes everything from collaboration platform performance to the data residency decisions your IT teams are making. Look, if your digital workplace strategy doesn't account for where the AI infrastructure is actually being deployed, you're already playing catch-up.",
     "date": "2026-08-24T03:49:45.921337+00:00"
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+    "dwp_take": "General Intuition just landed a massive $6 billion valuation with backing from serious money like Valor and Point72, positioning itself as a bet on AI that can actually move around and understand the physical world instead of just processing text. For digital workplace pros, this matters because embodied AI and robotics are coming to offices whether we're ready or not, and understanding what these foundation models do will soon be table stakes for workplace strategy. The irony is we spent twenty years getting people to adopt Slack, and now we're going to have to train robots to use it too.",
+    "date": "2026-08-25T03:42:28.222877+00:00"
+  },
+  {
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses.",
+    "dwp_take": "OpenAI is building AI agents that can handle tasks across different software and systems, aiming to move this technology beyond just technical users. For digital workplace pros, this matters because autonomous AI agents could fundamentally reshape how work gets done, from automating routine tasks to changing job roles and requiring new governance frameworks. The real question isn't whether these tools work (they will) but whether companies can actually manage them responsibly when half the workforce treats new tech like a loaded gun they found in the break room.",
+    "date": "2026-08-25T03:42:32.403450+00:00"
+  },
+  {
+    "title": "Robotics AI startup Generalist reportedly raises $200M",
+    "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding. Axios today cited a source as saying that 8VC led the investment",
+    "dwp_take": "Generalist AI, a robotics AI startup, has raised another $200 million in funding led by 8VC, adding to its $400 million Series B round from June. This matters to digital workplace folks because AI-powered robotics will eventually handle physical tasks in office environments, from mail distribution to facility management, reshaping how we think about workplace automation. At this rate, Generalist will have more funding than some countries' GDP, which is either a sign of genuine promise or a reminder that venture capital sometimes mistakes enthusiasm for inevitability.",
+    "date": "2026-08-25T03:42:36.997155+00:00"
+  },
+  {
+    "title": "Chip software automation startup Embedd raises $2.7M",
+    "url": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Physical artificial intelligence chip infrastructure startup Embedd Ltd. says it\u2019s ready to fix one of the most critical bottlenecks in the multibillion-dollar robotics industry after raising $2.7 mil",
+    "dwp_take": "Embedd, a physical AI chip infrastructure startup, just raised $2.7 million to tackle automation bottlenecks in robotics. This matters because as organizations automate more workplace processes, the underlying chip infrastructure becomes the real constraint, not the software layer we usually fret about. Turns out the future of workplace automation might depend less on your fancy workflow platform and more on whether the actual hardware can keep up with the demand.",
+    "date": "2026-08-25T03:42:40.791532+00:00"
+  },
+  {
+    "title": "Businesses must reinvent their processes and workforce to scale agentic AI adoption",
+    "url": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.",
+    "dwp_take": "Only 15% of US organizations have actually scaled multi-agent AI across their operations, which means 85% are still stuck in pilot purgatory talking about AI while their workflows remain basically unchanged. This matters because digital workplace leaders need to understand that AI adoption isn't a technology problem, it's a process redesign problem, and you can't bolt agents onto broken workflows and expect magic. The real talk: most companies will keep throwing money at AI tools while their people work around them, because actually fixing your processes requires the kind of hard work that doesn't look good in a board presentation.",
+    "date": "2026-08-25T03:42:46.250515+00:00"
+  },
+  {
+    "title": "I dumped Firefox, but these 5 features finally won me back - here's why",
+    "url": "https://www.zdnet.com/article/firefox-wins-me-back-on-me-back-5-features/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "It's been a bumpy road for Mozilla's browser, but as the dust of doubt settles, Firefox has once again become my default browser on all platforms.",
+    "dwp_take": "A tech journalist switched back to Firefox after abandoning it, impressed enough by recent improvements to make it their default across devices. This matters because browser choice directly impacts employee productivity, security posture, and IT support costs across organizations. Look, if Firefox is finally shipping features that make people voluntarily come back instead of grudgingly tolerating it, that's actually worth paying attention to, because desktop real estate is precious and browser wars aren't just nerdy theater.",
+    "date": "2026-08-25T03:42:50.635938+00:00"
+  },
+  {
+    "title": "6 tips for better research with Microsoft Copilot",
+    "url": "https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Copilot, Microsoft\u2019s generative AI chatbot, can do many things, but one of its best uses is as a researcher, for pretty much anything you want in business or personal use. If you\u2019re looking for in-dep",
+    "dwp_take": "Microsoft published a guide on squeezing better research results out of Copilot by moving beyond lazy prompting. This matters because your team is already using these tools whether you've blessed it or not, so understanding how to actually use them properly beats pretending the problem doesn't exist. Here's the thing though: if your researchers need a six-step guide just to ask an AI a decent question, maybe we should all spend less time chasing the shiny new tech and more time training people how to think critically in the first place.",
+    "date": "2026-08-25T03:42:56.433721+00:00"
+  },
+  {
+    "title": "Prediction markets let you bet on layoffs. Do the masses think your company is next?",
+    "url": "https://www.fastcompany.com/91593769/prediction-markets-let-you-bet-on-layoffs-do-the-masses-think-your-company-is-next?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Prediction markets let users bet on everything from sporting events to natural disasters and the outcomes of war. But they also set odds on layoffs and staff reductions at some of the largest companie",
+    "dwp_take": "Prediction markets are now letting people bet real money on which companies will lay people off and how many, creating publicly visible odds on corporate downsizing. This matters because if your company's layoff odds are trading high on these platforms, your colleagues and the market are signaling they think cuts are coming, which could affect morale and your career planning. The dark humor here is that we've finally found a way to monetize workplace anxiety, so at least someone's making money off your existential dread.",
+    "date": "2026-08-25T03:43:08.511190+00:00"
+  },
+  {
+    "title": "AOC is freezing her eggs. Her choice can have a huge, positive impact for working women",
+    "url": "https://www.fastcompany.com/91593308/aoc-egg-freezing-impact-working-women?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Alexandria Ocasio-Cortez is freezing her eggs, and she\u2019s doing it in public. On Instagram, she filmed herself giving the first hormone injection, told her followers not to squirm, and answered the que",
+    "dwp_take": "AOC publicly documented her egg freezing process on Instagram, showing the injections and answering questions about cost, timing, and procedure details that most women navigate in silence. For digital workplace folks, this matters because it's a direct challenge to the stigma that keeps reproductive health choices hidden from employers and colleagues, which ultimately affects how companies design benefits and culture. Honestly, watching a politician normalize a medical procedure on social media is more subversive than most corporate DEI initiatives will ever be, and it costs exactly nothing.",
+    "date": "2026-08-25T03:43:12.862539+00:00"
+  },
+  {
+    "title": "Microsoft Exchange Server SE CU1 Delayed Amid AI-Assisted Security Reviews",
+    "url": "https://www.techrepublic.com/article/news-exchange-server-se-cu1-delay/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft has yet to set a firm Exchange Server SE CU1 release date as engineers work through AI-assisted security findings and ongoing patch releases. The post Microsoft Exchange Server SE CU1 Delaye",
+    "dwp_take": "Microsoft is pushing back the Exchange Server SE CU1 release while they wade through security issues flagged by AI tools and manage ongoing patch work. This matters because Exchange still powers email infrastructure at most enterprises, and delays in critical updates create uncertainty in IT planning and extend the window where known vulnerabilities sit unpatched. I'll believe the AI is actually improving security when we stop needing emergency patches every other Tuesday, but at least they're being transparent about the hold-up.",
+    "date": "2026-08-25T03:43:21.481177+00:00"
+  },
+  {
+    "title": "ChatGPT for Teens Adds New Safeguards \u2014 but Safety Gaps Remain",
+    "url": "https://www.techrepublic.com/article/news-chatgpt-teens-safety-gaps/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "ChatGPT for Teens adds stronger protections for users ages 13 to 17, but parents still face limits around monitoring, age prediction, and AI safety. The post ChatGPT for Teens Adds New Safeguards \u2014 bu",
+    "dwp_take": "OpenAI rolled out ChatGPT for Teens with improved safety features for users aged 13 to 17, though monitoring and age verification still have real limitations. For digital workplace leaders, this matters because it signals how AI tools will eventually land in your actual workplace where younger employees and interns will use them, and your governance frameworks need to be ready before that happens. Here's the thing: we're always one step behind on AI safety, which means your workplace policies should assume the guardrails will fail and plan accordingly.",
+    "date": "2026-08-25T03:43:25.607325+00:00"
+  },
+  {
+    "title": "Stop Juggling AI Tools \u2014 This Lifetime Deal Puts GPT\u20114o and More in One Place",
+    "url": "https://www.techrepublic.com/article/chatplayground-ai/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Harness multiple top-tier models like GPT\u20114o, Claude, Gemini, and more in one unified platform, now $30. The post Stop Juggling AI Tools \u2014 This Lifetime Deal Puts GPT\u20114o and More in One Place appeared",
+    "dwp_take": "Someone's selling a lifetime deal for a unified AI platform that consolidates GPT-4o, Claude, Gemini, and other models into one interface for thirty bucks. This matters because most knowledge workers are already drowning in tool sprawl, and anything promising to reduce context switching and cognitive load deserves attention. That said, I've seen a lot of \"lifetime deals\" that become ghost towns when the company pivots or gets acquired, so before you bet your workflow on this, check the vendor's actual track record and support infrastructure.",
+    "date": "2026-08-25T03:43:29.606586+00:00"
+  },
+  {
+    "title": "Apple iPhone Ultra: Price, Features, and What We Know So Far",
+    "url": "https://www.techrepublic.com/article/news-apple-foldable-iphone-what-we-know/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple\u2019s foldable iPhone Ultra could bring a 7.8-inch display, dual 48MP cameras, new iOS 27 layouts, and pricing around $2,000. Here\u2019s what we know so far. The post Apple iPhone Ultra: Price, Features",
+    "dwp_take": "Apple's rumored iPhone Ultra foldable would pack a 7.8-inch screen, dual 48MP cameras, and iOS 27 updates at a $2,000 price point. For digital workplace folks, this matters because we're still figuring out how to support the iPhone 15 across our organizations, and now we're looking at foldable screens that'll break our MDM policies and device management strategies wide open. Honestly, I've got enough trouble getting people to update their passwords without adding a $2,000 experimental device to the support queue.",
+    "date": "2026-08-25T03:43:33.577086+00:00"
   }
 ]

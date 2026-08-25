@@ -1,92 +1,129 @@
 {
-  "generated": "2026-08-24T03:49:45.921440+00:00",
+  "generated": "2026-08-25T03:43:33.577190+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Flock CEO calls for \u2018compromise\u2019 as surveillance company faces growing backlash",
-        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-        "dwp_take": "Flock Safety's CEO is asking for compromise after their surveillance tech drew criticism over potential misuse concerns. This matters to digital workplace pros because it highlights the tension between security tools and employee trust\u2014the same dynamic playing out in every office using monitoring software. Here's the thing: when your product's main selling point requires a CEO to publicly ask people to chill out about it, you've probably built something that needed more guardrails before launch, not after the backlash.",
-        "date": "2026-08-24T03:49:06.046289+00:00"
+        "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+        "dwp_take": "General Intuition just landed a massive $6 billion valuation with backing from serious money like Valor and Point72, positioning itself as a bet on AI that can actually move around and understand the physical world instead of just processing text. For digital workplace pros, this matters because embodied AI and robotics are coming to offices whether we're ready or not, and understanding what these foundation models do will soon be table stakes for workplace strategy. The irony is we spent twenty years getting people to adopt Slack, and now we're going to have to train robots to use it too.",
+        "date": "2026-08-25T03:42:28.222877+00:00"
       },
       {
-        "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
-        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-        "dwp_take": "A bunch of AI companies trained their models on copyrighted books without asking authors first, and now we're all stuck in legal limbo trying to figure out if that's actually against the law. This matters to digital workplace people because every tool you're deploying to staff right now, from Copilot to ChatGPT, was built on content someone else created without permission, which means your organization could inherit some real legal headaches down the road. Here's the thing: we've known for years that tech companies move fast and break things, but breaking copyright law while claiming ignorance is a new level of audacity.",
-        "date": "2026-08-24T03:49:10.251119+00:00"
+        "excerpt": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses.",
+        "dwp_take": "OpenAI is building AI agents that can handle tasks across different software and systems, aiming to move this technology beyond just technical users. For digital workplace pros, this matters because autonomous AI agents could fundamentally reshape how work gets done, from automating routine tasks to changing job roles and requiring new governance frameworks. The real question isn't whether these tools work (they will) but whether companies can actually manage them responsibly when half the workforce treats new tech like a loaded gun they found in the break room.",
+        "date": "2026-08-25T03:42:32.403450+00:00"
       },
       {
-        "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
-        "url": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
+        "title": "Robotics AI startup Generalist reportedly raises $200M",
+        "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "OpenAI Group PBC Chief Executive Sam Altman is worried that artificial intelligence technology will end up being controlled by just a handful of companies or people in future, resulting in nobody else",
-        "dwp_take": "Sam Altman is worried that AI power will concentrate in a few hands, leaving everyone else out of decisions about how it shapes society. This matters to digital workplace pros because AI is already reshaping how we work, collaborate, and make decisions, so workplace leaders need to think about who's actually steering these tools and why. Here's the kicker: Altman worrying about concentration of power while running the company everyone says already controls the AI conversation is peak irony, but he's not wrong to be concerned.",
-        "date": "2026-08-24T03:49:14.867797+00:00"
+        "excerpt": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding. Axios today cited a source as saying that 8VC led the investment",
+        "dwp_take": "Generalist AI, a robotics AI startup, has raised another $200 million in funding led by 8VC, adding to its $400 million Series B round from June. This matters to digital workplace folks because AI-powered robotics will eventually handle physical tasks in office environments, from mail distribution to facility management, reshaping how we think about workplace automation. At this rate, Generalist will have more funding than some countries' GDP, which is either a sign of genuine promise or a reminder that venture capital sometimes mistakes enthusiasm for inevitability.",
+        "date": "2026-08-25T03:42:36.997155+00:00"
       },
       {
-        "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
-        "url": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation/",
+        "title": "Chip software automation startup Embedd raises $2.7M",
+        "url": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Hugging Face Inc. is exploring a sale that could value the artificial intelligence model repository at $13 billion or more, Business Insider reported today. The company has brought in a bank to sound ",
-        "dwp_take": "Hugging Face, the popular open-source AI model repository, is exploring a sale that could fetch $13 billion or more with banker help to find buyers. For digital workplace pros, this matters because Hugging Face has become critical infrastructure for organizations building AI applications, so any ownership change could affect access, pricing, and the community-driven culture that made it valuable. If a mega-corp scoops this up, we'll finally get to see whether you can actually commercialize open source without killing what made it special in the first place.",
-        "date": "2026-08-24T03:49:19.148423+00:00"
+        "excerpt": "Physical artificial intelligence chip infrastructure startup Embedd Ltd. says it\u2019s ready to fix one of the most critical bottlenecks in the multibillion-dollar robotics industry after raising $2.7 mil",
+        "dwp_take": "Embedd, a physical AI chip infrastructure startup, just raised $2.7 million to tackle automation bottlenecks in robotics. This matters because as organizations automate more workplace processes, the underlying chip infrastructure becomes the real constraint, not the software layer we usually fret about. Turns out the future of workplace automation might depend less on your fancy workflow platform and more on whether the actual hardware can keep up with the demand.",
+        "date": "2026-08-25T03:42:40.791532+00:00"
       }
     ],
-    "tools-tech": [],
+    "tools-tech": [
+      {
+        "title": "Businesses must reinvent their processes and workforce to scale agentic AI adoption",
+        "url": "https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workforce-to-scale-agentic-ai-adoption/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Only 15% of US-based organizations have reached scaled, orchestrated, multi-agent adoption, according to the latest Deloitte research.",
+        "dwp_take": "Only 15% of US organizations have actually scaled multi-agent AI across their operations, which means 85% are still stuck in pilot purgatory talking about AI while their workflows remain basically unchanged. This matters because digital workplace leaders need to understand that AI adoption isn't a technology problem, it's a process redesign problem, and you can't bolt agents onto broken workflows and expect magic. The real talk: most companies will keep throwing money at AI tools while their people work around them, because actually fixing your processes requires the kind of hard work that doesn't look good in a board presentation.",
+        "date": "2026-08-25T03:42:46.250515+00:00"
+      },
+      {
+        "title": "I dumped Firefox, but these 5 features finally won me back - here's why",
+        "url": "https://www.zdnet.com/article/firefox-wins-me-back-on-me-back-5-features/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "It's been a bumpy road for Mozilla's browser, but as the dust of doubt settles, Firefox has once again become my default browser on all platforms.",
+        "dwp_take": "A tech journalist switched back to Firefox after abandoning it, impressed enough by recent improvements to make it their default across devices. This matters because browser choice directly impacts employee productivity, security posture, and IT support costs across organizations. Look, if Firefox is finally shipping features that make people voluntarily come back instead of grudgingly tolerating it, that's actually worth paying attention to, because desktop real estate is precious and browser wars aren't just nerdy theater.",
+        "date": "2026-08-25T03:42:50.635938+00:00"
+      },
+      {
+        "title": "6 tips for better research with Microsoft Copilot",
+        "url": "https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Copilot, Microsoft\u2019s generative AI chatbot, can do many things, but one of its best uses is as a researcher, for pretty much anything you want in business or personal use. If you\u2019re looking for in-dep",
+        "dwp_take": "Microsoft published a guide on squeezing better research results out of Copilot by moving beyond lazy prompting. This matters because your team is already using these tools whether you've blessed it or not, so understanding how to actually use them properly beats pretending the problem doesn't exist. Here's the thing though: if your researchers need a six-step guide just to ask an AI a decent question, maybe we should all spend less time chasing the shiny new tech and more time training people how to think critically in the first place.",
+        "date": "2026-08-25T03:42:56.433721+00:00"
+      }
+    ],
     "digital-culture": [
       {
-        "title": "How to use AI to give yourself a head start at a new job",
-        "url": "https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Prediction markets let you bet on layoffs. Do the masses think your company is next?",
+        "url": "https://www.fastcompany.com/91593769/prediction-markets-let-you-bet-on-layoffs-do-the-masses-think-your-company-is-next?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "When you start a new job there is a lot to learn. There are projects, clients, and processes that are likely to be new to you. You may have been pointed at the employee handbook and maybe even given a",
-        "dwp_take": "Fast Company suggests using AI tools to accelerate your onboarding by getting up to speed faster on company processes, projects, and culture. This matters because onboarding friction is real and costs companies money in lost productivity, and anything that shortens the ramp time helps both new hires and their teams. Here's the thing though: AI won't replace actually talking to people or doing the work, and if your company's onboarding is so broken that you need ChatGPT to figure out how things work, maybe fix the onboarding instead of outsourcing it to a chatbot.",
-        "date": "2026-08-24T03:49:24.848662+00:00"
+        "excerpt": "Prediction markets let users bet on everything from sporting events to natural disasters and the outcomes of war. But they also set odds on layoffs and staff reductions at some of the largest companie",
+        "dwp_take": "Prediction markets are now letting people bet real money on which companies will lay people off and how many, creating publicly visible odds on corporate downsizing. This matters because if your company's layoff odds are trading high on these platforms, your colleagues and the market are signaling they think cuts are coming, which could affect morale and your career planning. The dark humor here is that we've finally found a way to monetize workplace anxiety, so at least someone's making money off your existential dread.",
+        "date": "2026-08-25T03:43:08.511190+00:00"
+      },
+      {
+        "title": "AOC is freezing her eggs. Her choice can have a huge, positive impact for working women",
+        "url": "https://www.fastcompany.com/91593308/aoc-egg-freezing-impact-working-women?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Alexandria Ocasio-Cortez is freezing her eggs, and she\u2019s doing it in public. On Instagram, she filmed herself giving the first hormone injection, told her followers not to squirm, and answered the que",
+        "dwp_take": "AOC publicly documented her egg freezing process on Instagram, showing the injections and answering questions about cost, timing, and procedure details that most women navigate in silence. For digital workplace folks, this matters because it's a direct challenge to the stigma that keeps reproductive health choices hidden from employers and colleagues, which ultimately affects how companies design benefits and culture. Honestly, watching a politician normalize a medical procedure on social media is more subversive than most corporate DEI initiatives will ever be, and it costs exactly nothing.",
+        "date": "2026-08-25T03:43:12.862539+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "AI Races Ahead in Tech This Week as Cyberthreats and Robots Raise the Stakes",
-        "url": "https://www.techrepublic.com/article/ai-races-ahead-in-tech-this-week-as-cyberthreats-and-robots-raise-the-stakes/",
+        "title": "Microsoft Exchange Server SE CU1 Delayed Amid AI-Assisted Security Reviews",
+        "url": "https://www.techrepublic.com/article/news-exchange-server-se-cu1-delay/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from Aug. 17\u201321. The post AI Races Ahead in Tech This Week as Cyberthreats and Robots Raise the Stakes appeared first on TechRepublic.",
-        "dwp_take": "This week's tech news cycle was dominated by AI advancement announcements running parallel to growing cybersecurity concerns and automation developments. Digital workplace leaders need to pay attention because AI tools are landing in enterprise environments faster than most organizations can build governance frameworks around them, and that gap is where bad things happen. The real story here isn't that AI is advancing, it's that we're deploying it like we're late for a meeting and security is optional, which never ends well.",
-        "date": "2026-08-24T03:49:32.748527+00:00"
+        "excerpt": "Microsoft has yet to set a firm Exchange Server SE CU1 release date as engineers work through AI-assisted security findings and ongoing patch releases. The post Microsoft Exchange Server SE CU1 Delaye",
+        "dwp_take": "Microsoft is pushing back the Exchange Server SE CU1 release while they wade through security issues flagged by AI tools and manage ongoing patch work. This matters because Exchange still powers email infrastructure at most enterprises, and delays in critical updates create uncertainty in IT planning and extend the window where known vulnerabilities sit unpatched. I'll believe the AI is actually improving security when we stop needing emergency patches every other Tuesday, but at least they're being transparent about the hold-up.",
+        "date": "2026-08-25T03:43:21.481177+00:00"
       },
       {
-        "title": "ByteDance, Tencent Receive 20,000 Nvidia H200 Shipments Under Relaxed Beijing Rules",
-        "url": "https://www.techrepublic.com/article/news-bytedance-tencent-nvidia-h200-china-shipments-apac/",
+        "title": "ChatGPT for Teens Adds New Safeguards \u2014 but Safety Gaps Remain",
+        "url": "https://www.techrepublic.com/article/news-chatgpt-teens-safety-gaps/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "ByteDance and Tencent have reportedly received their first Nvidia H200 shipments as Beijing eases chip restrictions but limits deployments in China. The post ByteDance, Tencent Receive 20,000 Nvidia H",
-        "dwp_take": "China's ByteDance and Tencent just got 20,000 of Nvidia's latest H200 chips despite ongoing US restrictions, thanks to Beijing loosening its grip on semiconductor rules while keeping deployment inside China. This matters because it signals the AI arms race is shifting geopolitically, and your organization's cloud strategy suddenly needs to account for competing AI powerhouses building infrastructure outside Western control. The irony is thick: everyone's scrambling for AI dominance while regulators play four-dimensional chess with chip shipments.",
-        "date": "2026-08-24T03:49:37.671743+00:00"
+        "excerpt": "ChatGPT for Teens adds stronger protections for users ages 13 to 17, but parents still face limits around monitoring, age prediction, and AI safety. The post ChatGPT for Teens Adds New Safeguards \u2014 bu",
+        "dwp_take": "OpenAI rolled out ChatGPT for Teens with improved safety features for users aged 13 to 17, though monitoring and age verification still have real limitations. For digital workplace leaders, this matters because it signals how AI tools will eventually land in your actual workplace where younger employees and interns will use them, and your governance frameworks need to be ready before that happens. Here's the thing: we're always one step behind on AI safety, which means your workplace policies should assume the guardrails will fail and plan accordingly.",
+        "date": "2026-08-25T03:43:25.607325+00:00"
       },
       {
-        "title": "AI-assisted software development means security teams need an \u2018engineering-first\u2019 mindset",
-        "url": "https://www.itpro.com/software/development/ai-assisted-software-development-means-security-teams-need-an-engineering-first-mindset",
-        "source": "ITPro",
+        "title": "Stop Juggling AI Tools \u2014 This Lifetime Deal Puts GPT\u20114o and More in One Place",
+        "url": "https://www.techrepublic.com/article/chatplayground-ai/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "As AI-powered coding accelerates, security teams need to start operating like developers",
-        "dwp_take": "Here's my response:\n\nSecurity teams are being told they need to think like engineers now that AI is cranking out code faster than humans can review it. This matters because digital workplaces are built on software, and if your security folks are still gatekeeping from the sidelines instead of actually understanding the code flowing through your systems, you're going to have problems. Look, security teams have been complaining about being left out of the room for decades, so watching them finally get invited to the engineering table is either the best thing that happened to them or the worst thing depending on whether they actually show up prepared.",
-        "date": "2026-08-24T03:49:42.237859+00:00"
+        "excerpt": "Harness multiple top-tier models like GPT\u20114o, Claude, Gemini, and more in one unified platform, now $30. The post Stop Juggling AI Tools \u2014 This Lifetime Deal Puts GPT\u20114o and More in One Place appeared",
+        "dwp_take": "Someone's selling a lifetime deal for a unified AI platform that consolidates GPT-4o, Claude, Gemini, and other models into one interface for thirty bucks. This matters because most knowledge workers are already drowning in tool sprawl, and anything promising to reduce context switching and cognitive load deserves attention. That said, I've seen a lot of \"lifetime deals\" that become ghost towns when the company pivots or gets acquired, so before you bet your workflow on this, check the vendor's actual track record and support infrastructure.",
+        "date": "2026-08-25T03:43:29.606586+00:00"
       },
       {
-        "title": "Vantage and Nebius move first in South Wales AI Growth Zone deployment",
-        "url": "https://www.itpro.com/infrastructure/vantage-and-nebius-move-first-in-south-wales-ai-growth-zone-deployment",
-        "source": "ITPro",
+        "title": "Apple iPhone Ultra: Price, Features, and What We Know So Far",
+        "url": "https://www.techrepublic.com/article/news-apple-foldable-iphone-what-we-know/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nebius is to lease high-density, NVIDIA-powered capacity at Vantage's CWL1 campus for AI workloads",
-        "dwp_take": "Nebius is setting up shop at Vantage's data center in South Wales to run AI workloads on NVIDIA infrastructure. This matters because it signals where serious compute power is landing right now, which shapes everything from collaboration platform performance to the data residency decisions your IT teams are making. Look, if your digital workplace strategy doesn't account for where the AI infrastructure is actually being deployed, you're already playing catch-up.",
-        "date": "2026-08-24T03:49:45.921337+00:00"
+        "excerpt": "Apple\u2019s foldable iPhone Ultra could bring a 7.8-inch display, dual 48MP cameras, new iOS 27 layouts, and pricing around $2,000. Here\u2019s what we know so far. The post Apple iPhone Ultra: Price, Features",
+        "dwp_take": "Apple's rumored iPhone Ultra foldable would pack a 7.8-inch screen, dual 48MP cameras, and iOS 27 updates at a $2,000 price point. For digital workplace folks, this matters because we're still figuring out how to support the iPhone 15 across our organizations, and now we're looking at foldable screens that'll break our MDM policies and device management strategies wide open. Honestly, I've got enough trouble getting people to update their passwords without adding a $2,000 experimental device to the support queue.",
+        "date": "2026-08-25T03:43:33.577086+00:00"
       }
     ]
   }
