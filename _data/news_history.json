@@ -808,5 +808,149 @@
     "excerpt": "Fitbit\u2019s founders have launched Luffu Link, a $300 wearable that uses health sensors, LTE and AI to help families monitor health and safety. The post Fitbit\u2019s Founders Have a New Wearable, But It\u2019s No",
     "dwp_take": "Fitbit's founders launched Luffu Link, a $300 wearable that pivots away from fitness tracking toward family health monitoring using sensors, LTE, and AI. This matters because workplace wellness programs are increasingly expanding from individual fitness metrics into broader family health management and preventive care. Here's the thing though: charging $300 for a family safety device in a market drowning in cheaper alternatives suggests they're betting on enterprise adoption for corporate wellness programs, not consumer appeal.",
     "date": "2026-08-27T11:23:08.341947+00:00"
+  },
+  {
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every ar",
+    "dwp_take": "Enterprises are giving AI agents more freedom to act independently across systems without constant human approval, which means governance has to be built into the data layer rather than enforced through manual checkpoints. For digital workplace folks, this matters because it's the difference between AI assistants that actually work and AI systems that create compliance nightmares or accidentally expose sensitive information. Here's the thing though: if your governance strategy is \"hope the AI doesn't go rogue,\" you're not ready for autonomous agents, and frankly, you deserve what's coming.",
+    "date": "2026-08-27T13:35:51.228707+00:00"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
+    "dwp_take": "Companies are bolting AI agents onto legacy systems without building the connective tissue to make them work together seamlessly. This matters because digital workplace professionals now own the messy reality of making customer experiences actually coherent across channels instead of just deploying point solutions everywhere. The irony is thick: we spent years modernizing infrastructure, then threw it all overboard to chase the AI hype train, and now we're stuck doing the hard architectural work we should've done in the first place.",
+    "date": "2026-08-27T13:35:55.338370+00:00"
+  },
+  {
+    "title": "Socure raises $156M at $5.2B valuation and acquires AI startup Fravity",
+    "url": "https://siliconangle.com/2026/08/27/socure-raises-156m-at-5-2b-valuation-and-acquires-ai-startup-fravity/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Identity verification company Socure Inc. today announced a $156 million strategic growth investment at a valuation of $5.2 billion. Part of that money went to agentic artificial intelligence startup ",
+    "dwp_take": "Socure, an identity verification platform, raised $156 million at a $5.2 billion valuation and bought AI startup Fravity to automate manual case reviews in their verification process. This matters because digital workplace professionals are increasingly dealing with identity and access management as remote work blurs security perimeters, and automation here reduces friction in onboarding and compliance workflows. The real question is whether Socure will actually deploy this tech to help employees verify themselves faster, or if we're just watching venture capital musical chairs where every problem gets an AI acquisition slapped on top.",
+    "date": "2026-08-27T13:36:00.617576+00:00"
+  },
+  {
+    "title": "Sonar launches Hunter Agent to find flaws code scanners can\u2019t see",
+    "url": "https://siliconangle.com/2026/08/27/sonar-launches-hunter-agent-to-find-flaws-code-scanners-cant-see/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Artificial intelligence code verification and governance company SonarSource S\u00e0rl today released SonarQube Hunter Agent, an AI agent built to find security flaws that pattern-based scanning cannot see",
+    "dwp_take": "Sonar released Hunter Agent, an AI tool designed to catch security vulnerabilities that traditional code scanners miss, specifically flaws where code works as written but creates security problems. This matters because digital workplace professionals are increasingly responsible for security governance, and a tool that finds logic-based vulnerabilities rather than just syntax errors could actually prevent the kind of breaches that keep security teams up at night. That said, I'll believe it catches the really sneaky stuff when I see it deployed at scale, because every code scanning tool claims to be smarter than the last one.",
+    "date": "2026-08-27T13:36:04.978252+00:00"
+  },
+  {
+    "title": "ChatGPT can log into your web accounts without you now - but should you let it?",
+    "url": "https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part. Is that a privacy risk?",
+    "dwp_take": "OpenAI rolled out a feature letting ChatGPT log into your web accounts autonomously to handle tasks for you. This matters because every autonomous login creates a potential security surface area in your digital workplace, and most organizations haven't figured out how to govern AI agents with the same rigor they use for human access. Look, I've watched enough password disasters over three decades to know that convenience and security are still playing tug of war, and in this case, convenience is winning a match it shouldn't.",
+    "date": "2026-08-27T13:36:09.373160+00:00"
+  },
+  {
+    "title": "Meta\u2019s plans to replace workers with AI fell flat, report says",
+    "url": "https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Earlier this year, Meta, one of the industry\u2019s loudest AI advocates, was ready to slash up to 60% of the members of some teams and replace them with AI, as part of what it called Project OT (Organizat",
+    "dwp_take": "Meta quietly shelved plans to replace up to 60% of certain team members with AI after discovering the strategy actually wasn't delivering results, despite being one of the company's biggest cheerleaders for AI automation. This matters to digital workplace professionals because it's a reality check that AI can't simply plug gaps left by human departures, and that transformation theater without solid execution planning wastes everyone's time and goodwill. Turns out you can't just delete people and hope the robots figure it out, which is either profound wisdom or something we learned sometime around 2010.",
+    "date": "2026-08-27T13:36:14.867395+00:00"
+  },
+  {
+    "title": "AI deployments bring with them risks companies are ill-prepared for \u2014 analysts",
+    "url": "https://www.computerworld.com/article/4214445/ai-deployments-bring-with-them-risks-companies-are-ill-prepared-for-analysts.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Enterprises that have been rapidly adding AI tools and services into their workflows are often not prepared for the internal and external threats that could expose weaknesses in their systems, analyst",
+    "dwp_take": "Companies are rolling out AI tools faster than they're building security frameworks to protect them, leaving serious gaps in their defenses. This matters because digital workplace leaders are now responsible for managing enterprise risk on technology they often don't fully understand yet, and the liability falls on them when things go sideways. Here's the truth: we've seen this movie before with cloud adoption and mobile, and every time we learn the same lesson the hard way instead of the easy way.",
+    "date": "2026-08-27T13:36:18.806328+00:00"
+  },
+  {
+    "title": "Agentic AI \u2013 Ongoing coverage of its impact on the enterprise",
+    "url": "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Over the next few years, agentic AI is expected to bring not only rapid technological breakthroughs, but a societal transformation, redefining how we live, work and interact with the world. And this s",
+    "dwp_take": "Computerworld reports that agentic AI adoption in enterprise software will explode from under 1% today to 33% by 2028, with AI making 15% of daily work decisions without human input. This matters to digital workplace folks because you'll suddenly be managing workforces where autonomous agents are deciding things, handling tasks, and potentially creating new collaboration patterns that nobody's trained for yet. Honestly, 2028 feels optimistic for that adoption curve, but if it happens, the real question won't be \"can the AI do it\" but \"can we explain to leadership why their autonomous agents keep making decisions nobody would have made in a meeting.\"",
+    "date": "2026-08-27T13:36:23.330470+00:00"
+  },
+  {
+    "title": "The hidden cost of mental clutter at work\u2014and how to clean it up",
+    "url": "https://www.fastcompany.com/91584354/the-hidden-cost-of-mental-clutter-at-work-and-how-to-clean-it-up-leadership-performance-mental-clutter?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Ask almost any professional how they are doing and you will hear a version of the same answer: busy, overwhelmed, so ready for a vacation. If you look at their actual workload, however, the problem is",
+    "dwp_take": "Fast Company is saying that workers feel exhausted not because they're actually drowning in tasks, but because digital noise and constant interruptions destroy their ability to focus and think clearly. This matters to digital workplace folks because we're the ones building the systems that create this chaos in the first place, and ignoring it means we're designing for burnout. Here's the truth: we've optimized for visibility and responsiveness so hard that we've accidentally made it impossible for anyone to actually get anything done.",
+    "date": "2026-08-27T13:36:27.927788+00:00"
+  },
+  {
+    "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+    "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+    "dwp_take": "Organizations are finally admitting that workforce data and AI integration are going to dominate their workplace agendas in 2025, according to people managers surveyed by WorkLife. This matters because digital workplace pros have been drowning in half-baked AI pilots and data silos for years, and now they finally have executive air cover to actually fix these problems. Here's the thing though: saying data and AI are priorities is the easy part. Actually executing without creating a privacy nightmare or training everyone on tools they'll abandon in six months? That's where the real work starts.",
+    "date": "2026-08-27T13:36:33.184382+00:00"
+  },
+  {
+    "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
+    "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
+    "dwp_take": "Companies are learning that their traditional holiday parties don't land the way they used to, with employees increasingly opting for cash bonuses or extra time off instead. This matters because it signals a shift in how modern workforces value employer gestures, and smart organizations need to listen or watch engagement metrics tank. Here's the thing though: maybe employees aren't rejecting togetherness so much as rejecting mandatory fun on someone else's terms, which is a distinction most HR departments are still struggling to understand.",
+    "date": "2026-08-27T13:36:37.211601+00:00"
+  },
+  {
+    "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+    "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+    "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve worker well-being as burnout costs continue climbing. For digital workplace teams, this matters because well-being directly impacts adoption rates, collaboration effectiveness, and whether people actually use the tools you've built instead of just complaining about them in Slack. Here's the thing though: you can index and measure well-being all day long, but if the underlying work culture hasn't changed, you're just adding another dashboard to stare at while people burn out anyway.",
+    "date": "2026-08-27T13:36:41.362590+00:00"
+  },
+  {
+    "title": "WhatsApp Just Added 3 New Ways to Protect Your Account",
+    "url": "https://www.techrepublic.com/article/news-whatsapp-security-updates-2fa-passkeys-caller-context/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "WhatsApp is adding stronger two-step verification, multiple passkeys and more context for unknown callers as it expands protections against scams. The post WhatsApp Just Added 3 New Ways to Protect Yo",
+    "dwp_take": "WhatsApp rolled out three security features: beefed-up two-step verification, support for multiple passkeys, and better caller context for unknown numbers. This matters because most organizations now have employees using messaging apps for work, and security breaches through personal devices are still a major attack vector that IT teams lose sleep over. Here's the thing though: better security is worthless if your users ignore the setup prompts and keep using \"password123\" as their backup anyway.",
+    "date": "2026-08-27T13:36:45.867014+00:00"
+  },
+  {
+    "title": "Apple, Google and Samsung Watches Are Reaching Software Support Cutoffs",
+    "url": "https://www.techrepublic.com/article/news-smartwatch-software-support-cutoffs-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Several Apple, Google and Samsung smartwatches face software-support cutoffs in 2026. Here\u2019s what ends, what may continue and when to upgrade. The post Apple, Google and Samsung Watches Are Reaching S",
+    "dwp_take": "A bunch of older smartwatches from Apple, Google, and Samsung are hitting end-of-life in 2026, meaning no more software updates after that point. This matters because enterprises that deployed these devices for field work, health monitoring, or productivity need to start planning refresh cycles now instead of getting caught flat-footed when security patches stop coming. The real takeaway is that wearables are becoming just another device you have to manage, budget for, and eventually replace, which means your IT team better start documenting what you've actually got out there.",
+    "date": "2026-08-27T13:36:50.053622+00:00"
+  },
+  {
+    "title": "Get an HP EliteBook G8 for Just $390 While Stock Lasts",
+    "url": "https://www.techrepublic.com/article/hp-elitebook-830-g8-refurbished/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Enterprise-grade security, 32GB RAM, and an 11th Gen Core i7 make this a capable everyday workhorse laptop. The post Get an HP EliteBook G8 for Just $390 While Stock Lasts appeared first on TechRepubl",
+    "dwp_take": "HP is dumping EliteBook G8 laptops at fire sale prices, which means enterprises can refresh aging hardware on the cheap if they act fast. For digital workplace teams managing device lifecycles and budgets, this is a genuine opportunity to upgrade machines that are starting to show their age without waiting for next fiscal year approvals. Just remember that G8 models are now three generations old, so you're getting a solid workhorse, not a cutting-edge machine that'll last another decade.",
+    "date": "2026-08-27T13:36:54.275233+00:00"
+  },
+  {
+    "title": "5 Best Kindle Alternatives in 2026 After Amazon\u2019s Price Hike",
+    "url": "https://www.techrepublic.com/article/news-best-kindle-alternatives-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Kobo, BOOX, and NOOK give Kindle buyers more choices for library borrowing, EPUB support, color screens, note-taking, and multiple ebook stores. The post 5 Best Kindle Alternatives in 2026 After Amazo",
+    "dwp_take": "Amazon raised Kindle prices, pushing users toward alternatives like Kobo, BOOX, and NOOK that offer better library integration, EPUB support, and color screens. For digital workplace folks managing employee wellness programs or learning initiatives, this matters because your team's reading habits and tool choices are shifting away from the Amazon ecosystem. Look, when people start jumping ship from a market leader over pricing, it's a reminder that even the big players can't ignore the balance between margin expansion and customer loyalty.",
+    "date": "2026-08-27T13:36:58.574337+00:00"
   }
 ]
