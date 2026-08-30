@@ -1,156 +1,119 @@
 {
-  "generated": "2026-08-29T09:39:30.674182+00:00",
+  "generated": "2026-08-30T08:50:49.839213+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "dwp_take": "Neocloud Lambda just borrowed a billion dollars to stockpile Nvidia chips and rent them back to Microsoft, joining a growing parade of companies taking on massive debt to fund the AI arms race. For digital workplace folks, this matters because it signals that AI infrastructure costs aren't coming down anytime soon, which means the generative AI tools you're evaluating for your organization will stay expensive and likely require long-term commitments. Honestly, watching companies burn through a billion in debt just to lease chips to other tech giants feels less like innovation and more like musical chairs with really expensive equipment.",
-        "date": "2026-08-29T09:38:24.524908+00:00"
+        "excerpt": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "dwp_take": "Sony Music and Warner Bros are suing Anthropic for allegedly scraping massive amounts of copyrighted music data to train Claude without permission. This matters because every organization using generative AI now has to reckon with the legal liability of what their tools were trained on, and you could be caught in the crosshairs of IP disputes you didn't create. Here's the thing though: these lawsuits are basically the music industry finally realizing that \"move fast and break things\" was never supposed to apply to their catalogs.",
+        "date": "2026-08-30T08:50:01.605176+00:00"
       },
       {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "dwp_take": "Anthropic researchers demonstrated that AI systems can autonomously identify and fix their own problematic behaviors across multiple benchmarks simultaneously, suggesting self-correcting AI might actually be possible. This matters to workplace tech leaders because it hints at a future where AI tools could self-regulate their outputs without constant human babysitting, which would fundamentally change how we think about AI governance in enterprise systems. That said, I'll believe \"self-improving\" AI won't accidentally make itself worse at something important when I see it survive actual workplace chaos instead of a controlled lab setting.",
-        "date": "2026-08-29T09:38:28.741333+00:00"
+        "excerpt": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+        "dwp_take": "Vijay Pande left Andreessen Horowitz's massive biotech fund to start a smaller, AI-focused venture firm because he believes biology is becoming an engineering discipline where focused bets matter more than volume. For digital workplace folks, this is a signal that even in high-stakes industries, the \"move fast and break things\" mentality is giving way to thoughtful concentration and shared infrastructure. The irony is delicious: a guy who managed billions now thinks smaller, more deliberate bets paired with open datasets will actually move the needle faster than throwing money at every opportunity.",
+        "date": "2026-08-30T08:50:05.703218+00:00"
       },
       {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-        "source": "VentureBeat",
+        "title": "CrowdStrike\u2019s post-Mythos surge: Moat, momentum and the blast-radius test",
+        "url": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That\u2019s because enterprises don't deploy a single agent and watch it r",
-        "dwp_take": "A new report argues that the real danger of enterprise AI isn't rogue agents going rogue, but the messy chaos of multiple agents talking to each other across legacy systems that were never designed for it. This matters because digital workplace leaders are about to inherit this complexity when AI deployment accelerates, and managing agent-to-agent interactions will become as critical as managing human workflows. Here's the thing: we spent decades trying to simplify how humans and systems talk to each other, and now we're about to do it all over again with machines having the conversations.",
-        "date": "2026-08-29T09:38:33.068179+00:00"
+        "excerpt": "CrowdStrike Holdings Inc.\u2019s most recent earnings print shows that Anthropic PBC\u2019s Mythos model transformed artificial intelligence security from something chief information security officers needed to",
+        "dwp_take": "CrowdStrike is riding high after integrating Claude's Mythos model into their security platform, turning AI-powered threat detection from a future concern into something CISOs are buying right now. For digital workplace teams, this matters because security infrastructure that actually learns and adapts in real time changes how you think about endpoint protection and employee device safety. The real test will be whether this momentum holds when the next security scare hits and everyone realizes AI models are only as good as the humans who have to act on their alerts.",
+        "date": "2026-08-30T08:50:10.532146+00:00"
       },
       {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "source": "VentureBeat",
+        "title": "Owner raises $240M for its restaurant management platform",
+        "url": "https://siliconangle.com/2026/08/28/owner-raises-240m-for-its-restaurant-management-platform/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i",
-        "dwp_take": "VentureBeat hired Rob Strechay as its first Lead Analyst to beef up its enterprise AI research coverage, targeting technical decision-makers like CIOs and CTOs evaluating AI tools. This matters because digital workplace leaders are drowning in AI vendor noise right now, so having analyst credibility from someone who actually understands the space could cut through the marketing nonsense. Strechay's got a shot to do something useful here if he focuses on what actually works in real workplaces instead of chasing the latest AI hype cycle.",
-        "date": "2026-08-29T09:38:36.890979+00:00"
+        "excerpt": "Owner.com Inc., a startup with a platform that helps restaurant operators coordinate their day-to-day business operations, has raised $240 million in funding. Goldman Sachs led the Series D round. Own",
+        "dwp_take": "Owner.com, a restaurant management software company, just closed a $240 million Series D funding round led by Goldman Sachs. This matters because restaurant operations are basically a complex digital workplace problem, and when VCs and major banks throw this much money at industry-specific platforms, it signals that vertical solutions for messy operational work are finally getting serious investment. The irony is that restaurants have been running on napkins and spreadsheets while tech startups optimized dog walking, so it's refreshing to see capital flow toward something people actually need to survive their day.",
+        "date": "2026-08-30T08:50:14.716722+00:00"
       }
     ],
-    "tools-tech": [
-      {
-        "title": "3 surveys deliver the same uncomfortable truth about adopting agentic AI",
-        "url": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Scaling AI in business is less about technology and more about accountability, governance, and healthy relationships between humans and agents.",
-        "dwp_take": "Three separate surveys landed on the same conclusion: companies are struggling to scale AI agents because they lack proper governance structures and clear accountability frameworks, not because the tech itself is broken. This matters to digital workplace pros because agentic AI is coming to your environment whether you're ready or not, and you'll be the ones managing the chaos when nobody knows who's responsible for what the AI does. The uncomfortable truth here is that we've been chasing the shiny technology for years while ignoring the boring but critical work of governance and accountability, which turns out to be the actual hard part.",
-        "date": "2026-08-29T09:38:41.466824+00:00"
-      },
-      {
-        "title": "Federal judge rules for Anthropic in Pentagon dispute, nullifies government supply chain risk designation",
-        "url": "https://www.computerworld.com/article/4215393/federal-judge-rules-for-anthropic-in-pentagon-dispute-nullifies-government-supply-chain-risk-designation.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "The Trump Administration\u2019s decision to punish Anthropic for its stance forbidding Claude\u2019s use in domestic surveillance and autonomous weapons by identifying it as a supply chain risk to national secu",
-        "dwp_take": "A federal judge struck down the Trump Administration's attempt to label AI company Anthropic as a supply chain risk, ruling the move was arbitrary retaliation for the company's refusal to let Claude be used in surveillance and weapons systems. This matters to digital workplace leaders because it signals that government can't weaponize security designations against vendors for their ethical stances, which affects procurement risk assessments and vendor selection across federal agencies. The real takeaway here is that standing on principle actually has legal teeth, which is refreshing news in a world where most companies fold the moment a government contract dangles in front of them.",
-        "date": "2026-08-29T09:38:47.454882+00:00"
-      },
-      {
-        "title": "Anthropic\u2019s new framework will let AI agents control hardware",
-        "url": "https://www.computerworld.com/article/4215388/anthropics-new-framework-lets-ai-agents-control-hardware.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Anthropic on Thursday launched the Model Hardware Standard, a new framework designed to enable the control of hardware using AI agents. With the new framework, AI agents will, for example, be able to ",
-        "dwp_take": "Anthropic just released the Model Hardware Standard, which is basically a rulebook that lets AI agents physically control equipment like robots and microscopes instead of just processing text. For digital workplace teams, this matters because it signals the blurring line between digital and physical operations, meaning your IT infrastructure and safety protocols need to start thinking beyond keyboards and monitors. Honestly, we've spent thirty years getting people to stop printing emails, and now we're handing robots the keys to the lab.",
-        "date": "2026-08-29T09:38:51.277237+00:00"
-      },
-      {
-        "title": "UK says \u2018no\u2019 to backdoors, but the government isn\u2019t listening",
-        "url": "https://www.computerworld.com/article/4214958/uk-says-no-to-backdoors-but-the-government-isnt-listening.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "It doesn\u2019t matter what the UK government says, the majority of the UK public is reluctant to hand over additional surveillance powers that require tech companies to build backdoors to access encrypted",
-        "dwp_take": "The UK public has firmly rejected government calls for encryption backdoors in a new survey, yet the government is pushing ahead anyway with plans to weaken security. This matters because digital workplace professionals are caught between user privacy expectations and compliance demands that grow more contradictory by the month. Here's the thing: when your government ignores what citizens actually want and forces tech companies to build security theater instead, everybody loses, especially the folks trying to keep corporate data safe.",
-        "date": "2026-08-29T09:38:55.057104+00:00"
-      }
-    ],
+    "tools-tech": [],
     "digital-culture": [
       {
-        "title": "5 small-business ideas that let you work from home",
-        "url": "https://www.fastcompany.com/91583741/small-business-ideas-work-from-home?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "AI survey on job losses shows surprising wins for some workers",
+        "url": "https://www.fastcompany.com/91597501/ai-survey-job-loss-surprising-wins-workers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "When it comes to commuting or remote work, half of U.S. workers prefer working from home. In fact, 40% of respondents in a Harvard Business School survey said they would accept a pay cut of 5% or more",
-        "dwp_take": "Fast Company rounded up five work-from-home business ideas for aspiring entrepreneurs, noting that half of U.S. workers prefer remote work and many would take a pay cut for it. This matters because digital workplace professionals need to understand that remote work isn't just a perk anymore, it's become a core business model driver that's reshaping how people think about employment and entrepreneurship. Here's the thing though: most people who start a business thinking \"I'll just work from home in my pajamas\" underestimate that running a company requires way more discipline than their old office job ever did.",
-        "date": "2026-08-29T09:38:59.673691+00:00"
+        "excerpt": "Do artificial intelligence tools such as ChatGPT eliminate jobs, create new ones, or both? There\u2019s a lot of speculation regarding this question, but little solid data in the U.S. to answer it. I\u2019m a s",
+        "dwp_take": "A new survey of 1,250 U.S. workers found that AI isn't delivering the mass job apocalypse everyone predicted, with some roles actually seeing productivity gains and new opportunities. This matters because digital workplace leaders need real data instead of fear mongering when planning their AI adoption strategy and communicating with anxious employees. Here's the thing: turns out the future isn't binary, and your workers might surprise you with how they actually use these tools instead of getting replaced by them.",
+        "date": "2026-08-30T08:50:21.057566+00:00"
       },
       {
-        "title": "In the age of AI, is math the new CS degree?",
-        "url": "https://www.fastcompany.com/91596583/math-degrees-might-be-more-lucrative-than-computer-science-degrees?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Majoring in computer science used to be considered a safe career bet, ensuring stable pay and work. After the 2008 recession, many students turned to the field\u2019s promising outlook: Between 2008 and 20",
-        "dwp_take": "The article argues that as AI reshapes tech careers, a math degree might offer better long-term prospects than a traditional computer science degree. This matters to digital workplace leaders because it signals a fundamental shift in the skills gap we're trying to fill, meaning we need to rethink our hiring criteria and internal training programs. Honestly, after thirty years in this space, I've seen the \"safe degree\" goalposts move plenty of times, and the real story here is that no degree is safe anymore without continuous learning, whether it's math, CS, or honestly knowing how to prompt an AI properly.",
-        "date": "2026-08-29T09:39:03.939102+00:00"
-      },
-      {
-        "title": "How solopreneurs should approach AI transparency",
-        "url": "https://www.fastcompany.com/91593567/how-solopreneurs-should-approach-ai-transparency?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Clients started asking me about my use of AI years ago, shortly after ChatGPT emerged and people started experimenting with AI-generated output. It started with \u201cWe don\u2019t want AI, ever\u201d and has shifte",
-        "dwp_take": "A solopreneur is saying clients increasingly want to know how you're using AI in your work, and the conversation has evolved from outright rejection to practical acceptance of AI as a productivity tool. Digital workplace pros need to hear this because transparency about AI use is becoming table stakes for client trust and vendor relationships. Honestly, if you're still pretending you're not using AI somewhere in your workflow, you're not being transparent, you're just being slow.",
-        "date": "2026-08-29T09:39:07.648772+00:00"
-      },
-      {
-        "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-        "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+        "title": "AI Has Human Doctors Asking: What\u2019s Left for Us?",
+        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-        "dwp_take": "Microsoft Teams and Webex have become platforms for financial scammers targeting Chinese users, who are losing significant money to fraudulent schemes run through these enterprise chat apps. This matters because it exposes a real security gap in how we've deployed collaboration tools globally, and it shows that criminals are always one step ahead of our security theater. Here's the thing: we spent years worrying about data leaks and compliance, but apparently nobody built the basic human safeguards to stop a con artist from setting up shop in your trusted work communication channel.",
-        "date": "2026-08-29T09:39:14.338564+00:00"
+        "excerpt": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+        "dwp_take": "A new research paper suggests AI diagnostic systems are outperforming human doctors in several medical tasks, which has understandably spooked the medical profession. This matters to digital workplace folks because it's the same anxiety playing out across every knowledge worker industry right now, from legal to accounting to your friendly neighborhood business analyst. Here's the thing though: I've seen this movie before, and the ending isn't \"robots replace everyone\" but rather \"people who learn to work with the tools win.\"",
+        "date": "2026-08-30T08:50:25.750497+00:00"
+      },
+      {
+        "title": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
+        "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "Tim O\u2019Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI\u2014as long as it\u2019s open source.",
+        "dwp_take": "Tim O'Reilly is arguing that closed proprietary AI from the big labs misses what users actually need, and that open source AI is the better path forward. This matters to digital workplace pros because the tools shaping how we work, communicate, and solve problems are increasingly AI-powered, and whether those tools are locked down or open has real implications for enterprise flexibility and innovation. Here's the thing though: O'Reilly's got skin in the game with open source, so take his \"the incumbents don't get it\" speech with a grain of salt, even if he's not entirely wrong.",
+        "date": "2026-08-30T08:50:29.828626+00:00"
+      },
+      {
+        "title": "Zohran Mamdani\u2019s NYC Tech Team Is What DOGE Should Have Been",
+        "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
+        "dwp_take": "New York City's mayor has hired a team of tech veterans from Silicon Valley and the federal Digital Service to modernize city government software and services. This matters because it shows that real digital transformation requires actual technologists, not consultants who throw buzzwords at problems and call it strategy. If Elon's DOGE crew had this much competence and focus instead of viral tweets, we might have actually gotten government modernization instead of just noise.",
+        "date": "2026-08-30T08:50:33.653419+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "A Startup Brought Back \u2018Twitter\u2019 \u2014 Now X Is Suing",
-        "url": "https://www.techrepublic.com/article/news-twitter-now-x-trademark-fight-2026/",
+        "title": "What the 49ers and Giants Teach IT Pros About AI Social Engineering",
+        "url": "https://www.techrepublic.com/article/news-nfl-49ers-giants-ai-social-engineering/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Operation Bluebird has launched Twitter.now while fighting X over rights to the Twitter name, betting nostalgia and AI tools can build a new social network. The post A Startup Brought Back \u2018Twitter\u2019 \u2014",
-        "dwp_take": "A startup called Operation Bluebird launched Twitter.now as a nostalgic alternative to X, and now Elon Musk's company is suing them over the Twitter name. This matters because it shows how internal communication platforms and employee social networks could splinter if companies lose control of their digital workplace infrastructure and brand identity. Honestly, watching people fight over who owns the ghost of what Twitter used to be is like watching two people argue over a rotary phone while the world moves on, but the legal precedent could affect how your organization manages its own internal networks.",
-        "date": "2026-08-29T09:39:18.821872+00:00"
+        "excerpt": "NFL technology executives share how AI-driven social engineering makes attacks faster and more convincing, offering practical strategies for IT leaders to build non-punitive, multi-channel defenses. T",
+        "dwp_take": "IT leaders from the 49ers and Giants shared insights on how AI is making social engineering attacks faster and more convincing, plus strategies for defense. This matters because your employees are now facing AI-crafted phishing and pretexting that's genuinely harder to spot than the usual \"Nigerian prince\" nonsense. The real takeaway isn't about football teams or AI hype; it's that non-punitive training and layered defenses work better than yelling at people for clicking bad links.",
+        "date": "2026-08-30T08:50:37.698763+00:00"
       },
       {
-        "title": "Plaud One: AI Earbuds That Listen, Summarize, and Take Action",
-        "url": "https://www.techrepublic.com/article/news-plaud-one-ai-earbuds-agent/",
+        "title": "Google DeepMind Seals Gemini Test to Protect AI Benchmarks",
+        "url": "https://www.techrepublic.com/article/news-google-deepmind-gemini-tests-apac-singapore/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Plaud One uses AI earbuds and a 4G-connected case to record, summarize, and act on workplace conversations without relying on a nearby smartphone. The post Plaud One: AI Earbuds That Listen, Summarize",
-        "dwp_take": "Plaud One is shipping AI earbuds with a 4G case that records conversations, auto-summarizes them, and takes action without needing your phone nearby. This matters because it's the logical endpoint of always-on workplace recording: compliance nightmares, trust erosion, and the death of the hallway conversation as a judgment-free zone. I've seen enough workplace surveillance creep to know this technology will be in your company's procurement pipeline by Q3, and your employees will absolutely hate it.",
-        "date": "2026-08-29T09:39:22.912927+00:00"
+        "excerpt": "Google DeepMind tested Gemini 2.5 Flash Lite behind a cryptographic wall designed to protect confidential AI benchmarks and proprietary model weights. The post Google DeepMind Seals Gemini Test to Pro",
+        "dwp_take": "Google DeepMind locked down testing of their new Gemini 2.5 Flash Lite model using cryptographic security to keep benchmarks and model details under wraps. This matters because digital workplace tools are increasingly powered by AI, and how well these models perform directly affects what we'll actually be using to get work done. Honestly, the secrecy theater is kind of funny when you think about how many companies will reverse-engineer this stuff anyway, but I get it\u2014Google's protecting billions in R&D investment.",
+        "date": "2026-08-30T08:50:41.831351+00:00"
       },
       {
-        "title": "Nvidia\u2019s $12.9B Hugging Face Bet: A New Battle for Control of the AI Stack",
-        "url": "https://www.techrepublic.com/article/news-nvidia-hugging-face-12-9-b-deal/",
+        "title": "Anthropic Eyed 5GW of AI Data Centers in Australia: Could the Grid Handle It?",
+        "url": "https://www.techrepublic.com/article/news-anthropic-5gw-ai-data-centers-australia/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nvidia reportedly agreed to buy Hugging Face for $12.9 billion, a deal that could reshape enterprise AI, open-source models, and the broader AI stack. The post Nvidia\u2019s $12.9B Hugging Face Bet: A New ",
-        "dwp_take": "Nvidia is reportedly buying Hugging Face for $12.9 billion, which consolidates control over a major open-source AI platform that enterprises rely on for model deployment and management. This matters because digital workplace leaders now need to understand how a single vendor owning both the hardware and software layers of AI infrastructure could affect their AI strategy, licensing costs, and vendor lock-in risks. The irony is thick here: Hugging Face built its reputation on democratizing AI through open source, and now it's getting absorbed into the very kind of walled garden it was supposed to disrupt.",
-        "date": "2026-08-29T09:39:26.847991+00:00"
+        "excerpt": "Anthropic eyed up to 5GW of AI data center capacity in NSW. Here\u2019s what the potential buildout could mean for Australia\u2019s power grid and IT leaders. The post Anthropic Eyed 5GW of AI Data Centers in A",
+        "dwp_take": "Anthropic is planning to build up to 5 gigawatts of AI data center capacity in New South Wales, which would be a massive power infrastructure commitment. Digital workplace leaders need to understand this because AI workloads are increasingly central to enterprise operations, and grid capacity directly impacts where companies can reliably run their critical systems. Honestly, watching tech companies eye up power grids like they're browsing a menu is peak 2024, and I suspect Australia's planners are currently having the same conversation about \"can we actually do this\" that every other region has had.",
+        "date": "2026-08-30T08:50:45.877079+00:00"
       },
       {
-        "title": "Amazon Mechanical Turk to Shut Down Sept. 30 After 21 Years",
-        "url": "https://www.techrepublic.com/article/news-amazon-mechanical-turk-shutdown/",
+        "title": "AI Expansion Meets Security Crises, Costs, and Public Resistance in Tech This Week",
+        "url": "https://www.techrepublic.com/article/ai-expansion-meets-security-crises-costs-and-public-resistance-in-tech-this-week/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "AWS will shut down Amazon Mechanical Turk on Sept. 30, ending a 21-year platform that supplied human data and labor for research and AI projects. The post Amazon Mechanical Turk to Shut Down Sept. 30 ",
-        "dwp_take": "Amazon is pulling the plug on Mechanical Turk after two decades, closing the crowdsourcing platform that handled human-powered tasks for research and AI training on September 30th. This matters because plenty of organizations relied on MTurk for rapid data annotation, user testing, and filling gaps in automation, so teams need alternative workflows fast. Honestly, it's a reminder that depending on someone else's platform is like building your house on rented land, even if the rent was cheap.",
-        "date": "2026-08-29T09:39:30.674061+00:00"
+        "excerpt": "See what you missed in Daily Tech Insider from August 24\u201328. The post AI Expansion Meets Security Crises, Costs, and Public Resistance in Tech This Week appeared first on TechRepublic.",
+        "dwp_take": "Companies are rolling out AI tools at breakneck speed while simultaneously dealing with security breaches, ballooning costs, and pushback from employees and the public. For those of us building digital workplaces, this means we're being asked to integrate AI solutions that haven't been properly secured or budgeted for, all while our users are already exhausted by tech change. The irony is thick: we're promising productivity gains from AI while creating new security headaches and worker skepticism that might actually kill adoption.",
+        "date": "2026-08-30T08:50:49.839113+00:00"
       }
     ]
   }
