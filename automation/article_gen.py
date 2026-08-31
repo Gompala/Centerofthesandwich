@@ -249,17 +249,25 @@ def save_article(article):
         print(f"Article already exists for today: {filename}")
         return False
     
+    # Clean fields to prevent YAML breakage — replace double quotes with single quotes
+    def clean_yaml(text):
+        return str(text).replace('"', "'").replace('\n', ' ').strip()
+
+    title_clean = clean_yaml(article['title'])
+    excerpt_clean = clean_yaml(article['excerpt'])
+    category_clean = clean_yaml(article.get('category', 'ai-at-work'))
+
     frontmatter = f"""---
-title: "{article['title']}"
+title: "{title_clean}"
 date: {datetime.now(timezone.utc).isoformat()}
-category: "{article['category']}"
-excerpt: "{article['excerpt']}"
-readtime: {article['readtime']}
+category: "{category_clean}"
+excerpt: "{excerpt_clean}"
+readtime: {article.get('readtime', 5)}
 featured: true
 layout: article.njk
 tags:
   - digital workplace
-  - {article['category']}
+  - {category_clean}
 ---
 
 {article['body']}
