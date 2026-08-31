@@ -1,147 +1,84 @@
 {
-  "generated": "2026-08-31T15:34:16.818986+00:00",
+  "generated": "2026-08-31T15:37:52.339330+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
-        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-        "dwp_take": "Nvidia just dropped $3.5 billion into MediaTek, essentially betting that staying entangled with chipmakers gives it leverage as Google, Amazon, and Microsoft build their own AI silicon. This matters because your organization's AI infrastructure decisions are about to get messier, not simpler, as vendors jockey for position and lock you into their ecosystems. Nvidia's playing 4D chess while everyone else is still setting up the board, which is exactly what you'd expect from a company that's never met a market concentration it didn't like.",
-        "date": "2026-08-31T15:33:14.915187+00:00"
-      },
-      {
-        "title": "Cloudflare launches Adaptive Intelligence to rewrite bot rules on the fly",
-        "url": "https://siliconangle.com/2026/08/31/cloudflare-launches-adaptive-intelligence-to-rewrite-bot-rules-on-the-fly/",
+        "title": "On theCUBE Pod: Nvidia steamrolls expectations as Mythos shakes up cybersecurity",
+        "url": "https://siliconangle.com/2026/08/31/thecube-analysis-nvidia-mythos-cisco-thecubepod/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Cloudflare Inc. today launched Adaptive Intelligence, a detection engine inside Cloudflare Bot Management that writes and discards its own blocking rules while an attack is underway. The engine trains",
-        "dwp_take": "Cloudflare built an AI system that automatically updates its bot-blocking rules in real time as attacks happen, learning from the massive traffic flowing across its network. For digital workplace pros, this matters because bots hitting your collaboration tools, VPNs, and employee apps keep evolving, and static defenses turn into expensive paperweights pretty fast. The irony here is delicious: we're now using AI to fight AI-powered attacks, which means bot makers will build smarter bots, and we'll build smarter defenses, in an endless arms race that's frankly exhausting to watch but absolutely necessary to fund.",
-        "date": "2026-08-31T15:33:20.787228+00:00"
+        "excerpt": "Nvidia Corp. might as well be swimming in money like Scrooge McDuck. The artificial intelligence firm had yet another astounding quarter, beating expectations for revenue. With that announcement came ",
+        "dwp_take": "Nvidia crushed earnings expectations again and is throwing money around like a tech drunk uncle, inking major deals with Cisco on AI infrastructure and reportedly dropping nearly $13 billion on Hugging Face. For digital workplace professionals, this matters because AI infrastructure deals and consolidation in the AI tooling space directly shape what platforms, capabilities, and vendor strategies you'll be dealing with in your stacks. Honestly, if you're not already thinking about how AI infrastructure plays are going to reshape your workplace tech decisions, you're going to find yourself explaining vendor pivots to your executives instead of leading them.",
+        "date": "2026-08-31T15:37:12.510514+00:00"
       },
       {
-        "title": "Broadcom\u2019s VMware Private AI Cloud spans infrastructure, agents, data and security",
-        "url": "https://siliconangle.com/2026/08/31/broadcoms-private-ai-cloud-spans-infrastructure-agents-data-and-security/",
+        "title": "Knowledge graphs deliver the real-time context enterprises need to make AI explainable",
+        "url": "https://siliconangle.com/2026/08/31/real-time-context-powers-intuit-ai-security-neo4jgraphtalk/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Broadcom Inc. today introduced VMware Private AI Cloud, an integrated software stack designed to enable enterprises to build and run artificial intelligence applications alongside conventional workloa",
-        "dwp_take": "Broadcom just announced VMware Private AI Cloud, a stacked software platform that lets enterprises run AI applications on their own infrastructure without handing their data over to the cloud giants. For digital workplace pros, this matters because it addresses the real anxiety keeping IT leaders up at night: how do you actually deploy AI at scale without becoming completely dependent on OpenAI or Azure? Look, the irony is thick here. We spent fifteen years consolidating everything to the cloud, and now enterprises are building private clouds just to feel like they own something again.",
-        "date": "2026-08-31T15:33:25.021301+00:00"
-      },
-      {
-        "title": "Jazz brings its agentic DLP investigator to CrowdStrike\u2019s Falcon Foundry",
-        "url": "https://siliconangle.com/2026/08/31/jazz-brings-its-agentic-dlp-investigator-to-crowdstrikes-falcon-foundry/",
-        "source": "SiliconAngle",
-        "category": "ai-at-work",
-        "excerpt": "Data loss prevention startup Jazz Security Ltd. today made its platform available as an app on CrowdStrike Holdings Inc.\u2019s Falcon Foundry, putting its agentic investigator Melody inside the Falcon con",
-        "dwp_take": "Jazz Security launched its AI investigator Melody as an app within CrowdStrike's Falcon platform, giving security teams an automated way to assess whether data movements are actually problematic. For digital workplace folks, this matters because it means your data loss prevention tools can now think for themselves rather than screaming wolf every time someone moves a spreadsheet. Finally, someone built a DLP system that won't make you hate your job by week two, which is genuinely impressive in a space known for false positives and alert fatigue.",
-        "date": "2026-08-31T15:33:29.038416+00:00"
+        "excerpt": "As AI adoption accelerates and language models become commodities, enterprises are discovering that knowledge graphs provide the critical layer for turning scattered data into usable, real-time contex",
+        "dwp_take": "Knowledge graphs are emerging as the connective tissue that turns raw data into actual context that AI systems can understand and explain to humans. This matters because if your AI can't tell you why it made a decision, you've got a liability problem and your users won't trust it. The irony is we spent twenty years trying to organize enterprise data, failed, and now we're paying extra for technology that finally makes that mess intelligible to machines instead of people.",
+        "date": "2026-08-31T15:37:16.456713+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "5 ways I actually use ChatGPT Work in my small business to save time and money",
-        "url": "https://www.zdnet.com/article/chatgpt-work-small-business-use-cases/",
+        "title": "3 surveys deliver the same uncomfortable truth about adopting agentic AI",
+        "url": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "From scanning Gmail to catching ugly loan terms, ChatGPT Work has become my practical small-business assistant. Here's how agentic AI delivers real productivity gains for me.",
-        "dwp_take": "Someone wrote about using ChatGPT Work for actual business tasks instead of writing bad poetry about robots. This matters because digital workplace leaders need to separate genuine productivity wins from the endless AI evangelism flooding LinkedIn. Here's the thing though: if you need ChatGPT to scan your Gmail, your email workflow was probably broken to begin with, but at least this person is actually measuring results instead of just talking about transformation.",
-        "date": "2026-08-31T15:33:33.290575+00:00"
-      },
-      {
-        "title": "With new leadership, Apple will re-define success",
-        "url": "https://www.computerworld.com/article/4216433/with-new-leadership-apple-will-re-define-success.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Apple CEO Tim Cook becomes chairman of the company board tomorrow, with John Ternus taking over the top job in Cupertino. Both men followed in the footsteps of visionary Apple co-founder Steve Jobs, a",
-        "dwp_take": "Tim Cook is moving to Apple's board chair role while John Ternus becomes the new CEO, marking another leadership transition for the tech giant. This matters to digital workplace pros because Apple's direction on employee experience, remote work policies, and workplace technology adoption inevitably influences how Fortune 500 companies shape their own strategies. Here's hoping Ternus can figure out what success actually looks like without spending his entire tenure either copying Jobs or running away from him at full sprint.",
-        "date": "2026-08-31T15:33:38.630844+00:00"
-      },
-      {
-        "title": "Copilot Pages: Work side by side with AI",
-        "url": "https://www.computerworld.com/article/4202427/copilot-pages-work-side-by-side-with-ai.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "When you\u2019re working with Microsoft Copilot to create a business document, you might find yourself torn between two opposing instincts. Part of you is itching to edit its output right away, while anoth",
-        "dwp_take": "Microsoft launched Copilot Pages, a feature that lets you edit and iterate on AI-generated content in real time without losing your place or starting over. This matters because most teams are still figuring out how to actually work with AI in their day to day workflows, and having a tool designed for back-and-forth collaboration could speed up that adoption considerably. Honestly, if this actually works as described, it might be the first time I've seen Microsoft build something that assumes people want to collaborate with AI rather than just replacing humans with it.",
-        "date": "2026-08-31T15:33:42.799766+00:00"
+        "excerpt": "Scaling AI in business is less about technology and more about accountability, governance, and healthy relationships between humans and agents.",
+        "dwp_take": "Three surveys are telling companies the same thing: they're terrible at actually implementing AI agents, with the real bottleneck being organizational issues rather than the tech itself. For digital workplace leaders, this means your shiny new AI won't matter one bit if your governance structure looks like spaghetti and nobody knows who's responsible when things go wrong. Here's the good news: this is actually fixable, unlike most technology problems, but it requires doing the boring work that nobody wants to do.",
+        "date": "2026-08-31T15:37:20.675519+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "More than a third of workers say they\u2019re hoarding expertise because they fear being replaced by the AI agents they\u2019re being asked to train",
-        "url": "https://www.fastcompany.com/91594647/workers-hoarding-expertise-fear-replacement-ai-agents-training?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The craftsmanship revival we kept predicting might finally be real",
+        "url": "https://www.fastcompany.com/91593107/craftsmanship-revival-might-finally-be-real?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "This spring, Meta told thousands of U.S. employees that software on their work computers would begin capturing mouse movements, clicks, and keystrokes. Meta needed this data, they said, to help train ",
-        "dwp_take": "A third of workers are refusing to share their knowledge and skills because they're worried that training AI systems with their expertise will lead to their own job elimination. This matters because it's the logical endpoint of poor change management: when you ask people to participate in their own automation without transparency or reassurance, you get passive resistance and knowledge hoarding instead of adoption. Here's the thing though, this isn't really an AI problem, it's a trust problem, and no amount of fancy agents will fix a workforce that thinks management views them as disposable.",
-        "date": "2026-08-31T15:33:47.588971+00:00"
-      },
-      {
-        "title": "Looking for a CEO successor? Check your board of directors",
-        "url": "https://www.fastcompany.com/91596450/looking-for-a-ceo-successor-check-your-board-of-directors?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-        "dwp_take": "Fast Company is making the obvious point that boards should develop internal CEO talent rather than always hiring from outside. This matters to digital workplace folks because succession planning and leadership development require solid internal communication systems, learning platforms, and knowledge transfer mechanisms that actually work. Here's the thing: most organizations preach internal promotion but their digital infrastructure is so siloed that nobody outside the executive suite even knows who the high-potential leaders are.",
-        "date": "2026-08-31T15:33:51.560126+00:00"
-      },
-      {
-        "title": "In the age of AI, how much work you do matters less than it used to. Here\u2019s what matters more",
-        "url": "https://www.fastcompany.com/91585152/output-used-to-mean-you-cared-with-ai-it-now-means-nothing-technology-ai-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "The most important skills in today\u2019s workplace are judgment and discretion. This is because the cost of output has never been cheaper. With models like Fable producing yet another step-function increa",
-        "dwp_take": "Fast Company is arguing that judgment and discretion now matter more than raw output because AI has made production so cheap that direction beats speed. This fundamentally changes how we measure productivity and design digital workplaces, shifting focus from activity tracking to decision-making quality. Finally, someone said what everyone's been thinking: we've spent three decades optimizing people to work faster, and now we need them to think better instead.",
-        "date": "2026-08-31T15:33:55.370762+00:00"
-      },
-      {
-        "title": "ESPN EVP Rosalyn Durant on the importance of shooting your shot",
-        "url": "https://www.fastcompany.com/91589214/espn-evp-rosalyn-durant-on-the-importance-of-shooting-your-shot-espn-leadership-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "When I was in college at the University of South Carolina, I thought I wanted to work in media, but I didn\u2019t really know what that meant or how someone like me was supposed to get there. I\u2019m from a sm",
-        "dwp_take": "Rosalyn Durant, now an ESPN executive, describes how she overcame lack of family connections and insider knowledge by combining curiosity and ambition to build a media career from a small South Carolina town. This matters to digital workplace folks because talent pipelines remain broken when organizations only hire from existing networks, which is both a moral and business problem. Here's the thing: Durant's story works great as inspiration, but if ESPN and other companies actually want diverse talent, they need to stop relying on people shooting their shot and start actively reaching into places where \"shots\" aren't even visible.",
-        "date": "2026-08-31T15:33:59.794910+00:00"
+        "excerpt": "In 2019, I published a book whose English title would be something like From Graft to Craft. I argued that craftsmanship isn\u2019t a sector but a model of work that could in principle apply to any job. Th",
+        "dwp_take": "A writer's 2019 thesis about \"craftsmanship as a work model\" rather than just a sector is apparently gaining traction as people reject fragmented, soulless labor. This matters because it signals that organizations claiming to value employee engagement need to actually let people do meaningful work instead of breaking jobs into meaningless tasks. After three decades watching companies say they want craftspeople while designing systems for factory workers, I'll believe the revival is real when I see promotion budgets shift accordingly.",
+        "date": "2026-08-31T15:37:26.001178+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Google Sets February 2027 Deadline: Android Apps Must Meet New Memory Limits",
-        "url": "https://www.techrepublic.com/article/news-google-android-app-memory-requirements-2027/",
-        "source": "TechRepublic",
+        "title": "Top security teams use AI agents, says Hack The Box",
+        "url": "https://www.itpro.com/security/top-security-teams-use-ai-agents-says-hack-the-box",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Google is setting new Android app memory requirements for February 2027 as developers face stricter Play Store thresholds and rising RAM pressure. The post Google Sets February 2027 Deadline: Android ",
-        "dwp_take": "Google is forcing Android app developers to meet stricter memory limits by February 2027, basically telling them to stop building bloated apps that choke older devices. For digital workplace professionals, this matters because enterprise apps deployed on employee devices will need optimization work, and IT teams should start planning now to avoid last-minute compatibility headaches. After thirty years watching tech companies set deadlines, I'll believe the enforcement is serious when I see it actually enforced, but at least Google is finally pushing back against the \"just add more RAM\" mentality.",
-        "date": "2026-08-31T15:34:04.158163+00:00"
+        "excerpt": "Median solve times are dropping, and more teams are completing the entire challenge board",
+        "dwp_take": "Hack The Box reports that leading security teams are now using AI agents to solve challenges faster, with median solve times dropping and more complete challenge board submissions. This matters because it shows AI is becoming table stakes for security operations, not a future consideration, which means digital workplace leaders need to start thinking about how their security posture changes when their own teams fall behind the AI adoption curve. Honestly, if your security team isn't experimenting with AI agents by now, you're not behind the times, you're already in the past tense.",
+        "date": "2026-08-31T15:37:39.870908+00:00"
       },
       {
-        "title": "Google Changes EU Spam Policy to Avert Antitrust Fine",
-        "url": "https://www.techrepublic.com/article/news-google-search-site-reputation-abuse-eu-publishers/",
-        "source": "TechRepublic",
+        "title": "Google's Spirit Airlines auction & TrendAI insider threat report",
+        "url": "https://www.itpro.com/technology/big-data/googles-spirit-airlines-auction-and-trendai-insider-threat-report",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Google is changing its site reputation abuse enforcement in the EEA after EU scrutiny, reducing one search penalty risk for publishers. The post Google Changes EU Spam Policy to Avert Antitrust Fine a",
-        "dwp_take": "Google just backed down from some of its stricter spam enforcement rules in Europe to dodge another antitrust hammer blow from EU regulators. This matters to digital workplace pros because your company's internal communications, intranet content, and employee-facing websites all depend on search visibility to actually reach people who need them, so when Google shifts enforcement policies it changes the game for internal publishing strategies. Here's the thing though: when a tech giant only plays fair because it's staring down a fine, not because it's the right move, you know the whole system needs fixing.",
-        "date": "2026-08-31T15:34:08.708591+00:00"
+        "excerpt": "Google's Spirit Airlines auction & TrendAI insider threat report",
+        "dwp_take": "Google is auctioning off Spirit Airlines' IT assets while TrendAI released new data on insider threats in the workplace. This matters because it shows how quickly digital infrastructure gets liquidated during corporate distress, and insider threat monitoring is becoming table stakes for security teams managing hybrid workforces. Here's the thing though: companies obsess over catching the bad guy stealing data while their own shadow IT and unsanctioned apps create bigger holes than any insider ever could. Fix your fundamentals first.",
+        "date": "2026-08-31T15:37:43.925527+00:00"
       },
       {
-        "title": "Google Agrees to Pay \u00a3260M to Settle UK App Store Monopoly Lawsuit",
-        "url": "https://www.techrepublic.com/article/news-google-uk-play-store-developer-settlement/",
-        "source": "TechRepublic",
+        "title": "'The threat landscape is moving so quickly': CrowdStrike CEO George Kurtz warns AI is raising the stakes in cybersecurity \u2013 and the firm is poised to capitalize on \u2018the largest market opportunity in our history\u2019",
+        "url": "https://www.itpro.com/security/the-threat-landscape-is-moving-so-quickly-crowdstrike-ceo-george-kurtz-warns-ai-is-raising-the-stakes-in-cybersecurity-and-the-firm-is-poised-to-capitalize-on-the-largest-market-opportunity-in-our-history",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Google has agreed to a \u00a3260 million Play Store settlement in the U.K., with \u00a3160 million earmarked to compensate eligible app developers. The post Google Agrees to Pay \u00a3260M to Settle UK App Store Mon",
-        "dwp_take": "Google just wrote a \u00a3260 million check to settle UK complaints about Play Store monopoly practices, with most of that money going back to developers they squeezed. This matters because it signals that app distribution gatekeepers are finally facing real consequences for anti-competitive behavior, which affects how your workplace apps get to users and what you pay to distribute them. The funny part is Google treating this as a business expense rather than a wake-up call, but at least someone's making them pay when they abuse their platform power.",
-        "date": "2026-08-31T15:34:12.757236+00:00"
+        "excerpt": "With concerns over AI security rising, Kurtz believes CrowdStrike can position itself as the go-to provider for enterprises",
+        "dwp_take": "CrowdStrike's CEO is warning that AI is accelerating cyber threats while positioning his company as the solution to defend against them. For digital workplace leaders, this means security concerns are becoming table stakes in every infrastructure decision you make, especially as AI tools proliferate across your organization. Here's the thing: every security vendor in history has declared their current moment \"the largest market opportunity ever,\" so take the sky-is-falling rhetoric with a grain of salt while still taking your actual security posture seriously.",
+        "date": "2026-08-31T15:37:48.276523+00:00"
       },
       {
-        "title": "Meta Tests Robot Technicians: Inside Its Push to Automate Data Center Work",
-        "url": "https://www.techrepublic.com/article/news-meta-data-center-robots-maintenance-automation/",
-        "source": "TechRepublic",
+        "title": "Basware to acquire Trustpair to strengthen payment fraud prevention",
+        "url": "https://www.itpro.com/business/acquisition/basware-to-acquire-trustpair-to-strengthen-payment-fraud-prevention",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Meta is testing robots for data center maintenance, from swapping cables to restarting servers, raising questions about automation and IT staffing. The post Meta Tests Robot Technicians: Inside Its Pu",
-        "dwp_take": "Meta is deploying robots to handle routine data center tasks like cable swaps and server restarts, testing whether machines can replace human technicians. This matters because it signals how aggressively big tech companies are automating infrastructure work, which will ripple through IT hiring and skills development everywhere else. Honestly, if Meta can trust robots with their servers, most organizations should be more confident automating their own repetitive infrastructure tasks instead of pretending they need five people to do what one system can handle.",
-        "date": "2026-08-31T15:34:16.818830+00:00"
+        "excerpt": "The deal will combine Basware\u2019s invoice lifecycle management platform with Trustpair\u2019s technology for validating supplier accounts and preventing fraudulent payments",
+        "dwp_take": "Basware is buying Trustpair to merge invoice management with supplier verification technology, creating a more complete fraud prevention package. Digital workplace pros need to pay attention because payment fraud keeps getting more sophisticated, and integrated solutions that catch problems upstream during the invoice stage actually matter operationally. Here's the thing though: every vendor acquisition announcement claims to create this magical unified platform, but the real test is whether their actual customers see genuine workflow improvements or just a clunkier tool that does two mediocre jobs instead of one good one.",
+        "date": "2026-08-31T15:37:52.339209+00:00"
       }
     ]
   }
