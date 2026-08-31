@@ -2,7 +2,7 @@
 title: "Productivity used to mean finishing things. Now it means looking busy while finishing things."
 date: 2026-08-31T15:34:29.121434+00:00
 category: "digital-culture"
-excerpt: "Somewhere between "deep work" and status updates, the whole definition of getting work done quietly flipped."
+excerpt: "Somewhere between 'deep work' and status updates, the whole definition of getting work done quietly flipped."
 readtime: 5
 featured: true
 layout: article.njk
