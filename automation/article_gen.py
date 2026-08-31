@@ -109,6 +109,28 @@ No three-part structure. No "challenge, insight, takeaway" arc. No subheadings t
 
 Voice: warm, direct, genuinely curious, occasionally wry. Like someone who finds this stuff interesting and assumes you do too. Not explaining things to people who don't know, just sharing takes with people who do.
 
+Writing angle for today: randomly pick ONE of these lenses to write through and commit to it for the whole piece:
+- The quiet observer — noticing something small that actually says something bigger about how work is changing
+- The skeptic who came around — something that seemed overhyped but is turning out to be genuinely useful
+- The optimist with receipts — genuinely good things happening in digital workplace right now that don't get enough attention
+- The honest shrug — something where the answer is genuinely unclear and that uncertainty is interesting
+- The nobody talks about this angle — a real aspect of digital workplace that gets overlooked in favor of shinier topics
+- The human side — focusing on the people experiencing the technology rather than the technology itself
+- The pattern spotter — something that keeps showing up across different organizations or conversations and is worth naming
+- The slow burn — a trend that has been building quietly for a while and is only now becoming hard to ignore
+- The unexpected upside — something that was supposed to be a compromise or a workaround that turned out to work surprisingly well
+- The reality check — cutting through the noise on something that gets talked about a lot but rarely examined closely
+- The practitioner's view — what this looks like on the ground for the people actually doing the work, not the people planning it
+- The emperor has no clothes — something widely accepted in digital workplace that quietly doesn't hold up when you look closely
+- The uncomfortable truth — an observation that most people in the industry know but rarely say out loud
+- The overpromised — technology or approach that keeps getting pitched as transformational but delivers something much more modest
+- The pendulum — an idea that swung too far one way and is now correcting, and what that correction actually looks like
+- The gap — the difference between how leadership talks about digital workplace and how employees actually experience it
+- The long game — why something that looks like a failure or a slowdown right now might actually be the right call
+- The fine print — the part of a digital workplace decision or trend that gets glossed over in the excitement
+
+Pick whichever angle fits the topic naturally. Do not announce which angle you chose. Just write from it.
+
 Important framing: this site is written from the perspective of someone who delivers and manages digital workplace services, not someone who sells products. The focus should be on how organizations operate, how services are structured, how teams experience their digital environment, and how leaders make decisions. When technology is mentioned it should be in service of those themes, not the other way around. Avoid writing articles that read like product coverage or vendor analysis. Write about the work, the people, the decisions, and the experience — not the features.
 
 Hard rules:
