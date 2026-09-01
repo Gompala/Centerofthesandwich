@@ -1,19 +1,121 @@
 {
-  "generated": "2026-08-31T15:46:03.871386+00:00",
+  "generated": "2026-09-01T08:12:50.290957+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Cloudflare launches Adaptive Intelligence to rewrite bot rules on the fly",
-        "url": "https://siliconangle.com/2026/08/31/cloudflare-launches-adaptive-intelligence-to-rewrite-bot-rules-on-the-fly/",
+        "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "dwp_take": "Apple is accusing a former employee of stealing company data for OpenAI and then destroying evidence once he knew investigators were closing in. This matters because it highlights how AI talent poaching is creating real security vulnerabilities in tech companies, forcing security teams to get serious about data governance and exit protocols. The irony is thick here: in their rush to grab AI talent, companies are discovering that their internal knowledge is basically floating out the door with a USB drive and a handshake.",
+        "date": "2026-09-01T08:12:00.845263+00:00"
+      },
+      {
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+        "source": "TechCrunch",
+        "category": "ai-at-work",
+        "excerpt": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+        "dwp_take": "Clipto built an AI video search engine that can index massive video libraries and just hit $250M valuation on $15M in annual revenue and profitability. This matters because enterprises are drowning in video content from meetings, training, and recordings that nobody can actually find or reuse. Here's the thing though: most organizations still can't wrangle their email, so let's see if they actually adopt this before betting the farm on video AI being the next big workplace thing.",
+        "date": "2026-09-01T08:12:04.829337+00:00"
+      },
+      {
+        "title": "Security moves below the operating system as AI PCs take on the data protection job",
+        "url": "https://siliconangle.com/2026/08/31/device-ai-security-moves-below-os-pcs-falcon/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Cloudflare Inc. today launched Adaptive Intelligence, a detection engine inside Cloudflare Bot Management that writes and discards its own blocking rules while an attack is underway. The engine trains",
-        "dwp_take": "Cloudflare built a self-updating bot detection system that rewrites its own blocking rules in real time based on live traffic patterns across their massive network. For digital workplace pros managing security, this matters because bots are evolving faster than humans can write rules, so having AI that adapts on the fly beats playing eternal whack-a-mole. Honestly, it's refreshing when a vendor actually solves a problem instead of just adding another dashboard.",
-        "date": "2026-08-31T15:46:00.346502+00:00"
+        "excerpt": "Chipmakers and device makers are rebuilding enterprise data loss prevention around on-device AI security, as employees paste sensitive material into chatbots and assistants faster than rules-based too",
+        "dwp_take": "Chipmakers are now embedding security and data loss prevention directly into PC hardware and AI chips rather than relying on software tools to catch data breaches after the fact. This matters because employees are feeding sensitive information into AI chatbots faster than traditional firewalls can stop it, making old perimeter-based security basically useless. The irony is thick: we finally got employees to stop emailing trade secrets to the wrong person, and now they're casually pasting them into ChatGPT instead.",
+        "date": "2026-09-01T08:12:10.072794+00:00"
+      },
+      {
+        "title": "Data loss prevention gets a second act as AI rewrites an old security problem",
+        "url": "https://siliconangle.com/2026/08/31/ai-powered-dlp-gets-second-act-jazz-crowdstrike-falcon/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Security vendors are rebuilding data loss prevention, or DLP, around contextual understanding rather than pattern matching \u2014 and AI-powered DLP is giving the category\u2019s most stubborn unsolved problem ",
+        "dwp_take": "Security vendors are finally ditching the old pattern-matching DLP approach that buried teams in false alarms, and replacing it with AI systems that actually understand context. This matters because digital workplace pros have been drowning in alert fatigue for two decades while legitimate work gets flagged as threats, so a smarter system could finally let them focus on real risks instead of noise. The irony is rich: we needed AI to fix the problem that dumb automation created in the first place.",
+        "date": "2026-09-01T08:12:13.903845+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [],
-    "industry-news": []
+    "tools-tech": [
+      {
+        "title": "The 10 most popular products ZDNET readers bought this month (including lots of phone cases)",
+        "url": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "From phone cases to antivirus software, these are the top tech gadgets and useful items our readers actually purchased in August.",
+        "dwp_take": "ZDNet published a rundown of what their readers actually bought in August, and it turns out phone cases dominated the list alongside the usual suspects like antivirus software. For digital workplace folks, this matters because it shows what real people are investing in for their actual work lives, not what marketing departments want them to think about. Honestly, if your workforce is buying more phone cases than collaboration tools, that tells you everything you need to know about where their priorities actually sit.",
+        "date": "2026-09-01T08:12:17.949300+00:00"
+      },
+      {
+        "title": "How an $80 accessory turned my tablet from mouse pad to productivity powerhouse",
+        "url": "https://www.zdnet.com/article/satechi-onthego-foldable-stand-hub/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "I never realized how revolutionary a simple stand could be. And the Satechi OntheGo Foldable Stand Hub does so much more than hold my tablet.",
+        "dwp_take": "Someone discovered that a $80 tablet stand with built-in USB hub actually makes their iPad useful for real work instead of just consuming content. This matters because it highlights how the right peripheral can unlock functionality that devices technically already have, saving organizations from buying unnecessary new hardware. Look, I've seen people spend thousands on collaboration tools when they really just needed to prop their tablet up at eye level and plug in a keyboard, so this is a genuinely useful reminder that sometimes the cheapest solution is the smartest one.",
+        "date": "2026-09-01T08:12:22.078142+00:00"
+      },
+      {
+        "title": "Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off",
+        "url": "https://www.computerworld.com/article/4216582/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Microsoft on Friday reported that a glitch is causing Windows to tell users that Microsoft Defender Antivirus is turned off when it is in fact fully functional, a bug that the vendor says it is workin",
+        "dwp_take": "Microsoft discovered a bug that falsely tells Windows users their Defender antivirus is disabled when it's actually running fine. This matters because your employees will stop trusting security notifications, which is exactly what attackers want and exactly what gets people compromised. Nothing says \"security culture\" like training your entire user base to ignore warning messages, so Microsoft better fix this fast before we're all conditioned to click through everything.",
+        "date": "2026-09-01T08:12:27.329033+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "Cisco may have violated the rights of pro-Palestine employees",
+        "url": "https://www.fastcompany.com/91599405/cisco-may-have-violated-the-rights-of-pro-palestine-employees?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "In June, the Equal Employment Opportunity Commission made a determination in a novel case: The agency concluded there was reasonable cause to believe Cisco had infringed on the rights of its Muslim an",
+        "dwp_take": "Cisco got flagged by the EEOC for potentially creating a hostile work environment toward Muslim, Middle Eastern, and pro-Palestine employees after complaints about their treatment. This matters because it sets precedent around what constitutes protected speech and belonging in the workplace, forcing companies to actually think through how they handle sensitive geopolitical discussions instead of just issuing bland statements. Turns out \"we value diversity\" posters don't prevent lawsuits when your actual workplace culture tells certain employees to keep their heads down.",
+        "date": "2026-09-01T08:12:31.626203+00:00"
+      }
+    ],
+    "industry-news": [
+      {
+        "title": "Google Maps Renames Lake Ontario \u2018Lake America\u2019 After Trump Order",
+        "url": "https://www.techrepublic.com/article/news-google-maps-lake-america-lake-ontario/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "Google Maps now shows Lake Ontario as \u201cLake America\u201d for US users after a Trump executive order, while Canada retains the original name. The post Google Maps Renames Lake Ontario \u2018Lake America\u2019 After ",
+        "dwp_take": "Google is showing Lake Ontario as \"Lake America\" to US users following a Trump executive order, while Canadian users still see the original name. This matters to digital workplace pros because it's a stark reminder that geolocation-based content serves different versions of reality to different audiences, which has real implications for collaboration tools, data accuracy, and cross-border teams. After three decades watching tech companies bend to political pressure, I can tell you this is what happens when we treat geography like it's up for rebranding: your international team in Toronto and Detroit are now literally looking at different maps, and nobody's happy.",
+        "date": "2026-09-01T08:12:37.335532+00:00"
+      },
+      {
+        "title": "OpenAI Purchases Tens of Thousands of Mac minis, Mac Studios",
+        "url": "https://www.techrepublic.com/article/news-openai-mac-mini-mac-studio-ai-agents/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "OpenAI is reportedly buying tens of thousands of Mac mini and Mac Studio systems as AI labs find a new use for Apple hardware. The post OpenAI Purchases Tens of Thousands of Mac minis, Mac Studios app",
+        "dwp_take": "OpenAI is bulk-buying Mac minis and Mac Studios to power their AI infrastructure instead of relying solely on traditional server hardware. This matters because it signals that Apple silicon is finally proving itself as a legitimate compute option for serious workloads, which could reshape how organizations think about their hardware strategies going forward. Funny enough, all those IT directors who dismissed Macs as toys for creatives just got quietly schooled by the company literally building the future.",
+        "date": "2026-09-01T08:12:41.259522+00:00"
+      },
+      {
+        "title": "Google Upgrades Gemini AI Video: What Omni 1.1 Changes for Creators",
+        "url": "https://www.techrepublic.com/article/news-google-gemini-omni-1-1-ai-video-control/",
+        "source": "TechRepublic",
+        "category": "industry-news",
+        "excerpt": "Google\u2019s Gemini Omni 1.1 Flash adds video extensions, frame controls, cheaper previews and upscaled 4K output for AI video creators. The post Google Upgrades Gemini AI Video: What Omni 1.1 Changes for",
+        "dwp_take": "Google rolled out Gemini Omni 1.1 Flash with new video capabilities including frame controls, cheaper preview options, and 4K upscaling for content creators. This matters because your organization's content teams now have legitimately useful AI video tools that won't require selling a kidney to experiment with, which means your digital workplace is about to get flooded with AI-generated video content whether you're ready or not. My advice: start thinking about governance now, because \"we'll figure it out later\" worked great for email and it'll work just as well for synthetic video.",
+        "date": "2026-09-01T08:12:45.662419+00:00"
+      },
+      {
+        "title": "The intelligent workplace (part 3): Technology\u2019s next transformation of work",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/the-intelligent-workplace-part-3-technologys-next-transformation-of-work",
+        "source": "ITPro",
+        "category": "industry-news",
+        "excerpt": "Emerging technologies, evolving skills, and agile workforce strategies will determine which organizations remain competitive in the workplace of 2030",
+        "dwp_take": "ITPro published the third installment of their series on intelligent workplaces, arguing that tech adoption, workforce skill development, and agile practices will separate winners from losers by 2030. Digital workplace leaders need to pay attention because this isn't just about buying new tools anymore, it's about building organizational capability across people, process, and technology simultaneously. Here's the reality check: most organizations will still be figuring out Teams governance while claiming they're \"agile,\" so the bar for actual competitive advantage is lower than the hype suggests.",
+        "date": "2026-09-01T08:12:50.290850+00:00"
+      }
+    ]
   }
 }
