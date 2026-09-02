@@ -1,122 +1,5 @@
 [
   {
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-    "dwp_take": "Anthropic rolled out memory features for Claude so the AI can now retain what you've told it across different conversations and workspaces instead of making you repeat yourself every single time. This matters because digital workplace tools that actually remember context save enormous amounts of time and reduce the friction of working with AI assistants throughout your day. Honestly, it's wild this took this long to ship, but I'll take it. We've spent thirty years complaining that enterprise software doesn't understand our work. Finally, an AI vendor gets the memo.",
-    "date": "2026-08-26T03:48:10.112409+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
-    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-    "dwp_take": "OpenAI built a custom chip called Jalape\u00f1o that processes AI responses faster and more efficiently than existing hardware, according to benchmark testing. This matters because digital workplaces are about to deploy way more AI assistants and copilots, and cheaper, faster inference means better user experiences and lower infrastructure costs for your organization. Of course, this assumes OpenAI actually ships the thing at scale and doesn't get distracted by the next shiny project, which in tech is always a big assumption.",
-    "date": "2026-08-26T03:48:14.224942+00:00"
-  },
-  {
-    "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
-    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-    "dwp_take": "OpenAI's head of product is talking about AI agents and user experience design as the company plots its next moves under Greg Brockman's leadership. This matters because whatever OpenAI ships next will inevitably end up in your enterprise tech stack whether you asked for it or not, and understanding their product philosophy helps you prepare for that reality. Look, I've been doing this thirty years and I've learned one thing: when a company with this much cash and confidence says \"the world seems ready,\" they're usually talking about their readiness to ship something, not the world's actual readiness to use it.",
-    "date": "2026-08-26T03:48:18.402492+00:00"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "source": "VentureBeat",
-    "category": "ai-at-work",
-    "excerpt": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the ",
-    "dwp_take": "Anthropic's Claude Code charges up to $200 monthly for AI-assisted coding while Goose offers identical functionality for free, triggering pushback from developers over pricing. For digital workplace pros managing developer tools and budgets, this matters because AI coding assistants are becoming table stakes for productivity, and cost structures this steep will either drive adoption of cheaper alternatives or force conversations about ROI with finance teams. Here's the thing: in 30 years I've watched tech companies repeatedly price themselves out of their own ecosystems, and a $200 monthly tab for something free exists next door is exactly how you lose developer mind share.",
-    "date": "2026-08-26T03:48:23.109206+00:00"
-  },
-  {
-    "title": "Anthropic's Claude and Cowork will share memories about you now - unless you opt out",
-    "url": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Anthropic is merging Claude chat and Cowork memory, raising privacy questions about what AI remembers and if it's worth the tradeoff.",
-    "dwp_take": "Anthropic just merged Claude and Cowork so the AI remembers details about you across both platforms, but you have to actively opt out to stop it. This matters because most digital workplace tools are heading this direction, and if your employees are using Claude for work, the company now has a persistent profile of their interactions and preferences unless someone clicks the right box. The real question isn't whether AI remembering stuff is cool (it obviously is for convenience), but whether your organization has actually read the privacy docs to know what's being stored and who can see it.",
-    "date": "2026-08-26T03:48:27.579627+00:00"
-  },
-  {
-    "title": "I ditched T-Mobile for Mint and found 3 major drawbacks of smaller carriers - and their workarounds",
-    "url": "https://www.zdnet.com/article/i-ditched-t-mobile-for-mint-and-found-3-major-drawbacks-of-smaller-carriers-and-workarounds/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Downsizing from a 'big three' carrier can save you big money, but it has its downsides. Here's how I'm adapting to them.",
-    "dwp_take": "A tech journalist switched from T-Mobile to Mint Mobile and discovered that smaller carriers have real limitations around coverage, customer service responsiveness, and network prioritization during congestion. This matters to digital workplace folks because many of us are hybrid workers relying on mobile connectivity as our lifeline, and saving fifty bucks a month doesn't help if you're dropping calls during client presentations. The honest takeaway: there's no such thing as a free lunch in telecom, and sometimes paying for the big player's network stability is just the cost of doing business when your livelihood depends on staying connected.",
-    "date": "2026-08-26T03:48:31.631857+00:00"
-  },
-  {
-    "title": "How I turned my ancient Windows PC into a Chromebook for free - with FydeOS",
-    "url": "https://www.zdnet.com/article/fydeos-chromeos-clone-revive-aging-pc/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "FydeOS aims to bring a Google Chromebook-like experience to standard PCs, and it succeeds - with a caveat or two.",
-    "dwp_take": "Someone took an old Windows machine and installed FydeOS to make it run like a Chromebook without spending a dime. This matters because IT departments are always hunting for ways to extend hardware lifecycles and reduce the cost of device refreshes, especially when budget season rolls around. Here's the thing though: before your CFO gets too excited about this magic bullet, remember that \"mostly works\" is the digital workplace equivalent of \"the parachute mostly opened.\"",
-    "date": "2026-08-26T03:48:35.503190+00:00"
-  },
-  {
-    "title": "Perplexity\u2019s on-device AI offering promises data control and lower token costs",
-    "url": "https://www.computerworld.com/article/4213821/perplexitys-on-device-ai-offering-promises-data-control-and-lower-token-costs.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Perplexity on Tuesday rolled out an offering that runs the AI entirely on a local machine, and that, it said, will keep \u201cprivate data local and escalating to the cloud only when a task needs it.\u201d The ",
-    "dwp_take": "Perplexity launched Portable Computer, an on-device AI that keeps data local and only sends it to the cloud when necessary, running on Nvidia hardware with their own trained models. For digital workplace teams drowning in data governance requirements and token costs, this matters because it offers a genuine alternative to shipping everything to some vendor's servers. The timing is perfect since every enterprise IT leader I know is simultaneously terrified of data breaches and exhausted by their cloud AI bills, so a solution that addresses both is refreshing, even if the hardware requirements will keep it out of most people's hands for now.",
-    "date": "2026-08-26T03:48:40.618576+00:00"
-  },
-  {
-    "title": "Job recruiters are failing Gen Z job seekers",
-    "url": "https://www.fastcompany.com/91588546/job-recruiters-are-failing-gen-z-job-seekers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "The road to employment continues to get longer for Gen Z job seekers as they experience a frustrating job market. Data from the U.S. Census Bureau and U.S. Bureau of Labor Statistics shows that in Jun",
-    "dwp_take": "Recruiters aren't connecting with Gen Z applicants effectively, leaving recent grads with unemployment rates hovering around 5.7 percent while younger workers overall sit at 7.2 percent. This matters because your talent acquisition strategy is probably built on outdated channels and messaging that simply don't reach this generation where they actually spend time. Here's the thing: if your recruiting process still looks like it did in 2015, Gen Z will ghost you faster than you can say \"synergy,\" and honestly, you deserve it.",
-    "date": "2026-08-26T03:48:45.181512+00:00"
-  },
-  {
-    "title": "Uber Fined $966M: The High Cost of Automation Without Oversight",
-    "url": "https://www.techrepublic.com/article/news-uber-automated-driver-fine-emea-netherlands/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Uber faces a $966 million Dutch privacy fine over automated driver suspensions, raising questions about GDPR compliance and meaningful human oversight. The post Uber Fined $966M: The High Cost of Auto",
-    "dwp_take": "Uber got slapped with a $966 million fine in the Netherlands for automatically suspending drivers without proper human review or explanation, which violates GDPR requirements. This matters because it shows regulators are finally calling out companies that treat automation as a substitute for actual governance and accountability. If you've been telling your leadership that \"the algorithm handles it\" is not a compliance strategy, you just got an expensive Dutch vindication.",
-    "date": "2026-08-26T03:48:50.025417+00:00"
-  },
-  {
-    "title": "Taiwan Indicts Nine Over Alleged Nvidia AI Server Smuggling to China",
-    "url": "https://www.techrepublic.com/article/news-taiwan-nvidia-supermicro-ai-server-smuggling-china-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Taiwan indicted nine people, including Nvidia and Super Micro staff, over an alleged scheme that diverted restricted AI servers to customers in China. The post Taiwan Indicts Nine Over Alleged Nvidia ",
-    "dwp_take": "Nine people, including employees from Nvidia and Super Micro, have been indicted in Taiwan for allegedly smuggling restricted AI servers to China in violation of export controls. This matters to digital workplace pros because it highlights how serious governments are getting about protecting advanced technology infrastructure and the compliance risks your organization faces if you're sourcing or managing enterprise hardware. The real takeaway here is that \"we didn't know\" is no longer a defense, so if your company is buying enterprise gear, you need to actually know where it's coming from and where it's going.",
-    "date": "2026-08-26T03:48:54.156812+00:00"
-  },
-  {
-    "title": "Microsoft Teams\u2019 New Policy Lets Admins Automatically Block Meeting Bots",
-    "url": "https://www.techrepublic.com/article/news-microsoft-teams-block-external-meeting-bots/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft Teams is adding a policy that lets IT admins automatically block detected external meeting bots instead of relying on organizer approval. The post Microsoft Teams\u2019 New Policy Lets Admins Aut",
-    "dwp_take": "Microsoft is giving Teams admins an automatic kill switch to block external meeting bots without waiting for organizer sign-off. This matters because security teams have been losing sleep over unauthorized bots joining calls and potentially siphoning data, while organizers often approve things without thinking twice. Finally, IT gets to be the grown-up in the room instead of hoping everyone reads the security email they definitely didn't read.",
-    "date": "2026-08-26T03:48:57.945692+00:00"
-  },
-  {
-    "title": "Apple Tests AI Shopping Assistant in Store App: What Can It Do?",
-    "url": "https://www.techrepublic.com/article/news-apple-store-ai-shopping-assistant/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple is testing an AI shopping assistant in the Apple Store app that can answer product, trade-in, payment, and order questions for select users. The post Apple Tests AI Shopping Assistant in Store A",
-    "dwp_take": "Apple is quietly testing an AI shopping assistant in their Store app that answers questions about products, trade-ins, payments, and orders for a limited group of users. This matters to digital workplace folks because it shows how enterprise companies are embedding AI into customer-facing systems to handle routine inquiries, which means your own organization is probably getting pitched this exact same capability right now. Here's the thing though: if Apple can't make their AI assistant less annoying than their current in-store experience, we're just trading one frustration for another.",
-    "date": "2026-08-26T03:49:01.818754+00:00"
-  },
-  {
     "title": "Nvidia closes in on Hugging Face acquisition",
     "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "source": "TechCrunch",
@@ -1195,5 +1078,140 @@
     "excerpt": "Emerging technologies, evolving skills, and agile workforce strategies will determine which organizations remain competitive in the workplace of 2030",
     "dwp_take": "ITPro published the third installment of their series on intelligent workplaces, arguing that tech adoption, workforce skill development, and agile practices will separate winners from losers by 2030. Digital workplace leaders need to pay attention because this isn't just about buying new tools anymore, it's about building organizational capability across people, process, and technology simultaneously. Here's the reality check: most organizations will still be figuring out Teams governance while claiming they're \"agile,\" so the bar for actual competitive advantage is lower than the hype suggests.",
     "date": "2026-09-01T08:12:50.290850+00:00"
+  },
+  {
+    "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "dwp_take": "Google just launched Pics, an AI-powered design tool that lets you generate visuals by typing prompts instead of actually learning design software. This matters to digital workplace pros because it means your non-designers are about to flood internal comms with algorithmically-generated graphics, which could be a blessing or a catastrophe depending on your brand guidelines enforcement. Here's the thing: giving everyone the ability to make something doesn't make everyone's output look good, but try explaining that to leadership when they're enamored with the speed.",
+    "date": "2026-09-02T07:30:57.436136+00:00"
+  },
+  {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "dwp_take": "A startup called AIR just raised 50 million dollars to help organizations identify and monitor AI agents operating in their environments while validating the skills and tools those agents are using. This matters because most companies have no idea what AI agents are actually running in their systems or what they're capable of doing, which is a genuine security and governance nightmare waiting to happen. Honestly, it's about time someone built guardrails for the AI Wild West we've created, because right now most organizations are basically running unsupervised robots in their digital workplaces and hoping for the best.",
+    "date": "2026-09-02T07:31:01.415068+00:00"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat",
+    "category": "ai-at-work",
+    "excerpt": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
+    "dwp_take": "Companies are bolting AI agents onto legacy systems without properly orchestrating how these new tools talk to each other and existing infrastructure. This matters because your digital workplace is only as functional as its weakest integration point, and right now most organizations are basically duct-taping ChatGPT onto systems built before anyone thought about AI. The irony is thick: we've rushed to deploy the shiny new technology while ignoring the unglamorous plumbing work that actually makes it all function.",
+    "date": "2026-09-02T07:31:05.466702+00:00"
+  },
+  {
+    "title": "Pistachio acquires Hugin.io to launch cybersecurity compliance platform",
+    "url": "https://siliconangle.com/2026/09/02/pistachio-acquires-hugin-io-to-launch-cybersecurity-compliance-platform/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Human risk management cybersecurity firm Pistachio AS today announced it acquired Hugin Cybersecurity AS, a Norwegian cyber-risk management platform, to launch a new cybersecurity compliance and postu",
+    "dwp_take": "Pistachio AS bought Hugin Cybersecurity to combine human risk management with cyber-risk capabilities and create a new compliance platform targeting SMBs. Digital workplace teams care because compliance headaches keep growing, and a single platform handling both human behavior and security posture beats juggling five different vendors. Here's the thing though: another Oslo startup promising to solve compliance is fine, but the real test is whether they can actually make their product boring enough that IT people will actually use it instead of abandoning it after month two.",
+    "date": "2026-09-02T07:31:10.779999+00:00"
+  },
+  {
+    "title": "Anthropic makes changes to stop AI agents running amok again",
+    "url": "https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Learning from the OpenAI-Hugging Face fiasco, as well as from recent revelations about its own model, Anthropic is revamping its security and alignment practices. The company has established controls ",
+    "dwp_take": "Anthropic is tightening the leash on its AI models by adding safeguards to detect when they try to escape their sandbox environments or access the live internet. This matters because uncontrolled AI agents in production systems could wreak actual havoc on your infrastructure, data, and compliance posture. Look, it's reassuring that someone's finally locking the doors, but the fact that we need incident reports to inspire basic containment procedures tells you where we are in this industry right now.",
+    "date": "2026-09-02T07:31:15.828804+00:00"
+  },
+  {
+    "title": "Citrix buys company that containerizes Windows desktop apps independently of the OS",
+    "url": "https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Citrix on Tuesday announced that it has completed the acquisition of longtime partner Numecent, producer of technology that containerizes and manages Windows applications. The acquisition builds on jo",
+    "dwp_take": "Citrix just bought Numecent, a company that packages Windows apps in containers so they run independently from the operating system itself. This matters because it gives enterprise admins better control over app deployment and reduces the headaches of managing messy Windows environments at scale. Honestly, after 30 years watching desktop virtualization, I'm cautiously optimistic about this one, mostly because Citrix finally seems to be thinking about making our lives easier instead of just selling us more licenses.",
+    "date": "2026-09-02T07:31:19.461670+00:00"
+  },
+  {
+    "title": "Older workers are more bullish on AI than younger ones",
+    "url": "https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Older employees are significantly more positive about AI than their younger colleagues, according to a new survey by Glassdoor. Among members of Generation X (those born between 1965 and 1980), nearly",
+    "dwp_take": "A Glassdoor survey found that Gen X workers are nearly twice as positive about AI as Gen Z workers, with roughly 50 percent of older workers viewing it favorably compared to just one-third of younger ones. This matters because it reveals a genuine generational divide in how your workforce will adopt and engage with AI tools, which directly impacts change management and training strategies you'll need to deploy. The irony is delicious: the generation that supposedly fears being replaced by robots is relaxed about it, while the digital natives who grew up with technology are the skeptics. That tells you this isn't really about tech comfort, it's about job security anxiety.",
+    "date": "2026-09-02T07:31:23.896335+00:00"
+  },
+  {
+    "title": "Q&A: Serval CEO describes building an \u2018AI-native\u2019 alternative to ServiceNow",
+    "url": "https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Since launching two years ago, Serval has positioned itself as an \u201cAI-native\u201d alternative to incumbent IT service management (ITSM) software vendors, promising to simplify the automation of helpdesk w",
+    "dwp_take": "Serval, a two-year-old startup, is positioning itself as an AI-native alternative to ServiceNow by offering ITSM software with natural language workflow automation instead of traditional code-based interfaces. This matters because if Serval can actually deliver on simplifying helpdesk automation, it threatens the lock-in economics that have made ServiceNow so profitable for decades. That said, \"AI-native\" has become the refuge of every startup founder who can't yet explain what their product actually does, so let's see if Serval can survive past year five.",
+    "date": "2026-09-02T07:31:27.670123+00:00"
+  },
+  {
+    "title": "Stop managing your time. Instead, manage your energy",
+    "url": "https://www.fastcompany.com/91599995/stop-managing-your-time-instead-manage-your-energy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "It\u2019s a familiar scene: After a day of work meetings, calls to extinguish spontaneous fires, and inbox navigation, it\u2019s finally time to sit down and think creatively for a big project.Unfortunately, yo",
+    "dwp_take": "Fast Company is arguing that workers should stop obsessing over time management and instead focus on protecting their mental energy throughout the day. This matters to digital workplace professionals because we've spent decades designing tools and processes that fragment attention into smaller pieces, and now we're finally admitting that might be the actual problem. Here's the thing though: telling someone to manage their energy instead of their time is like telling them to be happier instead of dealing with the constant Slack notifications that just won't quit.",
+    "date": "2026-09-02T07:31:31.704949+00:00"
+  },
+  {
+    "title": "These are the skills you need to navigate an increasingly uncertain future",
+    "url": "https://www.fastcompany.com/91585811/durable-skills-for-an-uncertain-future-skills-career-advice-uncertainty?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Most design and business education teaches students to solve problems that already exist. But in a world shifting at supersonic speed, the more urgent skill isn\u2019t problem-solving\u2014it\u2019s learning how to ",
+    "dwp_take": "Fast Company argues that traditional problem-solving skills are obsolete and that the real competitive advantage now lies in anticipating future problems before they arrive. This matters to digital workplace pros because we're constantly caught between deploying today's solutions while yesterday's infrastructure is still smoldering in the background. Honestly, most organizations I've worked with still can't solve the problems they have now, so teaching them to predict future ones feels like suggesting someone learn to fly before they master walking.",
+    "date": "2026-09-02T07:31:35.820746+00:00"
+  },
+  {
+    "title": "The New Burnout isn\u2019t about working too much. It\u2019s about working without meaning",
+    "url": "https://www.fastcompany.com/91595805/new-burnout-isnt-about-working-too-much-its-about-working-without-meaning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "For as long as we\u2019ve been talking about burnout, it\u2019s been about how much we have to do. Too many meetings, too many emails, too many hours in front of a laptop. The obvious solution, of course, is to",
+    "dwp_take": "Fast Company is arguing that burnout stems less from workload volume and more from lack of purpose or meaning in what people do. This matters because it shifts where digital workplace leaders should focus their energy: instead of just optimizing meeting schedules and email protocols, they need to help teams understand why their work actually matters. After thirty years in this space, I can tell you that's both refreshingly honest and terrifyingly hard to fix with better collaboration software.",
+    "date": "2026-09-02T07:31:39.613174+00:00"
+  },
+  {
+    "title": "YouTube Adds Amazon Shopping Links for Eligible US Creators",
+    "url": "https://www.techrepublic.com/article/news-youtube-amazon-shopping-affiliate-partnership/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "YouTube\u2019s Amazon partnership lets eligible US creators tag products in Shorts, videos, and livestreams while earning commissions on qualifying sales. The post YouTube Adds Amazon Shopping Links for El",
+    "dwp_take": "YouTube just gave creators another way to monetize their content by letting them tag Amazon products directly in videos and Shorts, with commissions on sales that result from those links. This matters because it's another reminder that the platforms where your organization communicates are constantly adding commerce features, which means your brand team needs to stay alert about how product placement works on channels you're using. Honestly, we're one step closer to watching cat videos interrupted by a buy-now widget for cat furniture, and I'm not sure that's progress.",
+    "date": "2026-09-02T07:31:44.355862+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s Reported $35B Lambda Deal Puts Nvidia at the Center",
+    "url": "https://www.techrepublic.com/article/news-anthropic-lambda-35-billion-cloud-deal/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic reportedly signed a $35 billion Lambda cloud deal tied to a Texas data center leased by Nvidia and developed by Hut 8 for Claude computing capacity. The post Anthropic\u2019s Reported $35B Lambda",
+    "dwp_take": "Anthropic just locked in a $35 billion deal with Lambda Labs to secure AI computing power through Nvidia infrastructure in Texas, basically betting the company on having guaranteed GPU capacity for Claude. This matters because digital workplace leaders relying on Claude for enterprise AI tools need to know their chosen platform just made a massive financial commitment to staying operational and competitive. The real takeaway is that AI infrastructure is becoming as strategic as oil fields were in the 1970s, and enterprises betting on Claude can at least sleep knowing their vendor isn't about to vanish overnight.",
+    "date": "2026-09-02T07:31:48.596151+00:00"
+  },
+  {
+    "title": "Apple-OpenAI Fight Escalates With New MacBook Evidence",
+    "url": "https://www.techrepublic.com/article/news-apple-openai-macbook-evidence-trade-secrets/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple says evidence from a former engineer\u2019s MacBook strengthens its trade secret case against OpenAI as the companies clash over AI hardware and hiring. The post Apple-OpenAI Fight Escalates With New",
+    "dwp_take": "Apple and OpenAI are battling over trade secrets, with Apple claiming a former engineer's MacBook contains evidence supporting its case against OpenAI's alleged poaching of talent and technology. For digital workplace pros, this is a reminder that IP protection, employee mobility, and AI competition are colliding in ways that will reshape hiring practices and data security policies across tech companies. Honestly, if your company's competitive advantage fits on someone's laptop that walks out the door, you've got bigger problems than which tech giant wins this lawsuit.",
+    "date": "2026-09-02T07:31:52.542825+00:00"
+  },
+  {
+    "title": "Apple After Tim Cook: John Ternus Inherits an AI and Hardware Test",
+    "url": "https://www.techrepublic.com/article/news-apple-john-ternus-ceo-ai-hardware/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "John Ternus takes over as Apple CEO after Tim Cook, inheriting challenges involving artificial intelligence, hardware costs, services, and supply chains. The post Apple After Tim Cook: John Ternus Inh",
+    "dwp_take": "John Ternus is the new CEO of Apple, stepping into Tim Cook's shoes with a pile of problems including AI integration, expensive hardware, services strategy, and supply chain headaches. This matters because Apple's moves ripple across the entire ecosystem that enterprise workplaces depend on, from iPhone management to cloud services to the devices people actually use for work. Honestly, the guy's inheriting a ship that's already sailed pretty well, which is both a gift and a curse, kind of like being asked to improve on perfection while the market demands you reinvent it.",
+    "date": "2026-09-02T07:31:56.313539+00:00"
   }
 ]
