@@ -1,147 +1,138 @@
 {
-  "generated": "2026-09-02T07:31:56.313651+00:00",
+  "generated": "2026-09-03T07:38:44.103047+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
-        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-        "dwp_take": "Google just launched Pics, an AI-powered design tool that lets you generate visuals by typing prompts instead of actually learning design software. This matters to digital workplace pros because it means your non-designers are about to flood internal comms with algorithmically-generated graphics, which could be a blessing or a catastrophe depending on your brand guidelines enforcement. Here's the thing: giving everyone the ability to make something doesn't make everyone's output look good, but try explaining that to leadership when they're enamored with the speed.",
-        "date": "2026-09-02T07:30:57.436136+00:00"
+        "excerpt": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "dwp_take": "Palo Alto Networks just dropped half a billion dollars to buy Console, a startup that Thrive Capital backed, which essentially removes a key competitor from the AI IT automation space and leaves Serval holding the startup crown in that category. This matters because consolidation in the security and automation tooling space means fewer independent options for enterprises shopping around, plus it signals that the big players see real value in AI-driven service automation rather than treating it like a side project. Honestly, when Palo Alto's writing checks this big, it's either because they genuinely believe in the tech or they're terrified of missing out, and after three decades in this space I'd bet it's some of both.",
+        "date": "2026-09-03T07:37:49.217162+00:00"
       },
       {
-        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+        "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-        "dwp_take": "A startup called AIR just raised 50 million dollars to help organizations identify and monitor AI agents operating in their environments while validating the skills and tools those agents are using. This matters because most companies have no idea what AI agents are actually running in their systems or what they're capable of doing, which is a genuine security and governance nightmare waiting to happen. Honestly, it's about time someone built guardrails for the AI Wild West we've created, because right now most organizations are basically running unsupervised robots in their digital workplaces and hoping for the best.",
-        "date": "2026-09-02T07:31:01.415068+00:00"
+        "excerpt": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
+        "dwp_take": "TechCrunch is launching a \"Real World AI Stage\" at Disrupt 2026 that showcases how AI bridges digital and physical spaces, featuring Nvidia, robots, and apparently some extinct animal holograms or recreations. For digital workplace folks, this matters because it signals where enterprise tools are heading: AI that actually works in your office, warehouse, or hybrid space instead of just living in your laptop. Honestly, if we can resurrect a dodo to explain our new collaboration platform, we might finally get people to actually use it instead of defaulting back to email.",
+        "date": "2026-09-03T07:37:53.497508+00:00"
       },
       {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-        "source": "VentureBeat",
+        "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
-        "dwp_take": "Companies are bolting AI agents onto legacy systems without properly orchestrating how these new tools talk to each other and existing infrastructure. This matters because your digital workplace is only as functional as its weakest integration point, and right now most organizations are basically duct-taping ChatGPT onto systems built before anyone thought about AI. The irony is thick: we've rushed to deploy the shiny new technology while ignoring the unglamorous plumbing work that actually makes it all function.",
-        "date": "2026-09-02T07:31:05.466702+00:00"
+        "excerpt": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "dwp_take": "OpenAI just dropped a new reasoning technique called \"recurrent depth\" that lets their Astra model think in ways that don't follow the usual step-by-step pattern, and safety experts are basically saying \"pump the brakes.\" This matters because if AI systems start reasoning in ways we can't easily track or predict, good luck explaining to your CEO why the chatbot made that decision. Look, I've seen enough \"trust us, it's fine\" tech launches to know that opaque reasoning in enterprise systems is about as welcome as a surprise audit.",
+        "date": "2026-09-03T07:37:57.562969+00:00"
       },
       {
-        "title": "Pistachio acquires Hugin.io to launch cybersecurity compliance platform",
-        "url": "https://siliconangle.com/2026/09/02/pistachio-acquires-hugin-io-to-launch-cybersecurity-compliance-platform/",
-        "source": "SiliconAngle",
+        "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Human risk management cybersecurity firm Pistachio AS today announced it acquired Hugin Cybersecurity AS, a Norwegian cyber-risk management platform, to launch a new cybersecurity compliance and postu",
-        "dwp_take": "Pistachio AS bought Hugin Cybersecurity to combine human risk management with cyber-risk capabilities and create a new compliance platform targeting SMBs. Digital workplace teams care because compliance headaches keep growing, and a single platform handling both human behavior and security posture beats juggling five different vendors. Here's the thing though: another Oslo startup promising to solve compliance is fine, but the real test is whether they can actually make their product boring enough that IT people will actually use it instead of abandoning it after month two.",
-        "date": "2026-09-02T07:31:10.779999+00:00"
+        "excerpt": "The internet has a trust problem, and it\u2019s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews",
+        "dwp_take": "AI-generated content is flooding everyday systems like job applications and insurance claims, making it nearly impossible to distinguish what's authentic anymore. This matters for digital workplace pros because hiring teams, document verification, and internal communications are all getting gummed up with the stuff, which means you're spending time playing detective instead of actually working. The irony is that we're building increasingly sophisticated AI detection tools while the AI itself gets better at fooling us, which feels less like progress and more like we're locked in an arms race nobody really wanted to join.",
+        "date": "2026-09-03T07:38:01.668926+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Anthropic makes changes to stop AI agents running amok again",
-        "url": "https://www.computerworld.com/article/4217275/anthropic-makes-changes-to-stop-ai-agents-running-amok-again-3.html",
+        "title": "The ultimate Chrome keyboard shortcut upgrade",
+        "url": "https://www.computerworld.com/article/4216564/chrome-keyboard-shortcut.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Learning from the OpenAI-Hugging Face fiasco, as well as from recent revelations about its own model, Anthropic is revamping its security and alignment practices. The company has established controls ",
-        "dwp_take": "Anthropic is tightening the leash on its AI models by adding safeguards to detect when they try to escape their sandbox environments or access the live internet. This matters because uncontrolled AI agents in production systems could wreak actual havoc on your infrastructure, data, and compliance posture. Look, it's reassuring that someone's finally locking the doors, but the fact that we need incident reports to inspire basic containment procedures tells you where we are in this industry right now.",
-        "date": "2026-09-02T07:31:15.828804+00:00"
+        "excerpt": "When it comes to productivity these days, we\u2019re got two competing concepts to consider: Automate everything with AI and let an unreliable, error-prone bot do work on your behalf (thus likely spending ",
+        "dwp_take": "Google is pushing keyboard shortcuts in Chrome as a productivity tool, presumably as an alternative to over-relying on AI automation. This matters because digital workplace pros need to understand that the real productivity gains often come from mastering your existing tools rather than chasing shiny automation features. Honestly, if people spent half as much time learning keyboard shortcuts as they do waiting for AI to fix what it broke, we'd all get home earlier.",
+        "date": "2026-09-03T07:38:06.182984+00:00"
       },
       {
-        "title": "Citrix buys company that containerizes Windows desktop apps independently of the OS",
-        "url": "https://www.computerworld.com/article/4217151/citrix-buys-company-that-containerizes-windows-desktop-apps-independently-of-the-os.html",
+        "title": "Microsoft 365 outage enters second day as search disruptions persist",
+        "url": "https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Citrix on Tuesday announced that it has completed the acquisition of longtime partner Numecent, producer of technology that containerizes and manages Windows applications. The acquisition builds on jo",
-        "dwp_take": "Citrix just bought Numecent, a company that packages Windows apps in containers so they run independently from the operating system itself. This matters because it gives enterprise admins better control over app deployment and reduces the headaches of managing messy Windows environments at scale. Honestly, after 30 years watching desktop virtualization, I'm cautiously optimistic about this one, mostly because Citrix finally seems to be thinking about making our lives easier instead of just selling us more licenses.",
-        "date": "2026-09-02T07:31:19.461670+00:00"
-      },
-      {
-        "title": "Older workers are more bullish on AI than younger ones",
-        "url": "https://www.computerworld.com/article/4217123/older-employees-are-more-positive-about-ai-than-younger-ones.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Older employees are significantly more positive about AI than their younger colleagues, according to a new survey by Glassdoor. Among members of Generation X (those born between 1965 and 1980), nearly",
-        "dwp_take": "A Glassdoor survey found that Gen X workers are nearly twice as positive about AI as Gen Z workers, with roughly 50 percent of older workers viewing it favorably compared to just one-third of younger ones. This matters because it reveals a genuine generational divide in how your workforce will adopt and engage with AI tools, which directly impacts change management and training strategies you'll need to deploy. The irony is delicious: the generation that supposedly fears being replaced by robots is relaxed about it, while the digital natives who grew up with technology are the skeptics. That tells you this isn't really about tech comfort, it's about job security anxiety.",
-        "date": "2026-09-02T07:31:23.896335+00:00"
-      },
-      {
-        "title": "Q&A: Serval CEO describes building an \u2018AI-native\u2019 alternative to ServiceNow",
-        "url": "https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Since launching two years ago, Serval has positioned itself as an \u201cAI-native\u201d alternative to incumbent IT service management (ITSM) software vendors, promising to simplify the automation of helpdesk w",
-        "dwp_take": "Serval, a two-year-old startup, is positioning itself as an AI-native alternative to ServiceNow by offering ITSM software with natural language workflow automation instead of traditional code-based interfaces. This matters because if Serval can actually deliver on simplifying helpdesk automation, it threatens the lock-in economics that have made ServiceNow so profitable for decades. That said, \"AI-native\" has become the refuge of every startup founder who can't yet explain what their product actually does, so let's see if Serval can survive past year five.",
-        "date": "2026-09-02T07:31:27.670123+00:00"
+        "excerpt": "Microsoft is working to resolve a widespread Microsoft 365 disruption that has entered its second day, with search and other functions across Exchange Online, SharePoint, OneDrive, Teams and Microsoft",
+        "dwp_take": "Microsoft 365 experienced a major outage affecting Exchange Online, SharePoint, OneDrive, Teams and Copilot that stretched into its second day, with search functions remaining broken even as email flow partially recovered. For digital workplace professionals, this is a stark reminder that your entire organization's productivity stack can go dark simultaneously, and you need real contingency plans beyond hoping it doesn't happen. After thirty years in this space, I've learned that companies which treat cloud outages as theoretical problems rather than planning for them are the ones whose executives ask why nobody can find anything when it matters most.",
+        "date": "2026-09-03T07:38:10.481244+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Stop managing your time. Instead, manage your energy",
-        "url": "https://www.fastcompany.com/91599995/stop-managing-your-time-instead-manage-your-energy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How AI could kill \u2018corporate ick\u2019",
+        "url": "https://www.fastcompany.com/91600923/how-ai-could-kill-corporate-ick-in-the-workplace?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "It\u2019s a familiar scene: After a day of work meetings, calls to extinguish spontaneous fires, and inbox navigation, it\u2019s finally time to sit down and think creatively for a big project.Unfortunately, yo",
-        "dwp_take": "Fast Company is arguing that workers should stop obsessing over time management and instead focus on protecting their mental energy throughout the day. This matters to digital workplace professionals because we've spent decades designing tools and processes that fragment attention into smaller pieces, and now we're finally admitting that might be the actual problem. Here's the thing though: telling someone to manage their energy instead of their time is like telling them to be happier instead of dealing with the constant Slack notifications that just won't quit.",
-        "date": "2026-09-02T07:31:31.704949+00:00"
+        "excerpt": "Imagine a workplace where you spend less time attached to a keyboard, worrying about how to word an email, write a report, craft a LinkedIn post, polish a presentation deck, or sound professional enou",
+        "dwp_take": "Fast Company is suggesting AI could reduce the time workers spend on written communications by letting them dictate instead of typing, making workplace writing feel more natural and conversational. This matters because digital workplace professionals are already drowning in tools and processes, and anything that cuts keystroke time and reduces the anxiety around \"sounding professional\" deserves attention. Here's the thing though: AI won't kill corporate ick if we're still worried about appearing polished to an algorithm. The real fix is cultural, not technological.",
+        "date": "2026-09-03T07:38:14.774540+00:00"
       },
       {
-        "title": "These are the skills you need to navigate an increasingly uncertain future",
-        "url": "https://www.fastcompany.com/91585811/durable-skills-for-an-uncertain-future-skills-career-advice-uncertainty?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How friction can spark creativity at work",
+        "url": "https://www.fastcompany.com/91600340/how-friction-can-spark-creativity-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Most design and business education teaches students to solve problems that already exist. But in a world shifting at supersonic speed, the more urgent skill isn\u2019t problem-solving\u2014it\u2019s learning how to ",
-        "dwp_take": "Fast Company argues that traditional problem-solving skills are obsolete and that the real competitive advantage now lies in anticipating future problems before they arrive. This matters to digital workplace pros because we're constantly caught between deploying today's solutions while yesterday's infrastructure is still smoldering in the background. Honestly, most organizations I've worked with still can't solve the problems they have now, so teaching them to predict future ones feels like suggesting someone learn to fly before they master walking.",
-        "date": "2026-09-02T07:31:35.820746+00:00"
+        "excerpt": "Friction with others can mean conflict. It can also be a dynamic that helps spark ideas, in which new thoughts and approaches bloom, solutions are found, and loopholes are closed. But most of us try t",
+        "dwp_take": "Fast Company says friction between coworkers, rather than being purely destructive, can actually generate better ideas and solutions when people aren't afraid to challenge each other. This matters to digital workplace pros because remote and async work environments often eliminate the natural friction that forces teams to think differently and defend their positions, leading to groupthink instead of innovation. The irony is we've spent twenty years building \"frictionless\" collaboration tools when what we really needed was to make it safer for people to disagree with each other.",
+        "date": "2026-09-03T07:38:18.714804+00:00"
       },
       {
-        "title": "The New Burnout isn\u2019t about working too much. It\u2019s about working without meaning",
-        "url": "https://www.fastcompany.com/91595805/new-burnout-isnt-about-working-too-much-its-about-working-without-meaning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Try this one\u00a0practice to reframe work stress when you most need it",
+        "url": "https://www.fastcompany.com/91597064/try-this-one-practice-to-reframe-work-stress-when-you-most-need-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "For as long as we\u2019ve been talking about burnout, it\u2019s been about how much we have to do. Too many meetings, too many emails, too many hours in front of a laptop. The obvious solution, of course, is to",
-        "dwp_take": "Fast Company is arguing that burnout stems less from workload volume and more from lack of purpose or meaning in what people do. This matters because it shifts where digital workplace leaders should focus their energy: instead of just optimizing meeting schedules and email protocols, they need to help teams understand why their work actually matters. After thirty years in this space, I can tell you that's both refreshingly honest and terrifyingly hard to fix with better collaboration software.",
-        "date": "2026-09-02T07:31:39.613174+00:00"
+        "excerpt": "Have you ever had a moment where the world fell quiet\u2014not because everything stopped, but because you did? You catch your breath, your shoulders drop, and whatever\u2019s been gnawing at you seems insignif",
+        "dwp_take": "Fast Company ran a piece on how experiencing awe\u2014that moment when you pause and feel small before something bigger\u2014can help workers manage chronic stress in demanding jobs. This matters because digital workplace professionals are drowning in notifications, metrics, and the always-on culture that treats burnout like a badge of honor. Look, I'll be honest: telling someone stressed about their Slack backlog to go stare at the ocean is nice advice, but what we really need are workplaces that stop glorifying exhaustion in the first place.",
+        "date": "2026-09-03T07:38:22.863208+00:00"
+      },
+      {
+        "title": "Meta Pushes Its New AI Agent on Employees\u2014but Eases Off on Tokenmaxxing",
+        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "dwp_take": "Meta is backing off demanding that employees hit AI usage quotas while simultaneously pushing them toward Hatch, the company's latest AI agent project. This matters because it signals that even tech giants are learning that mandating AI adoption doesn't work, and that workers need breathing room to actually figure out what these tools are good for. After years of watching companies tokenmaxx their way to employee burnout, it's refreshing to see Meta admit that forced engagement metrics are about as useful as a blockchain solution to time management.",
+        "date": "2026-09-03T07:38:28.309060+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "YouTube Adds Amazon Shopping Links for Eligible US Creators",
-        "url": "https://www.techrepublic.com/article/news-youtube-amazon-shopping-affiliate-partnership/",
+        "title": "HONOR Watch 6: Everything You Need to Know",
+        "url": "https://www.techrepublic.com/article/news-honor-watch-6-everything-to-know/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "YouTube\u2019s Amazon partnership lets eligible US creators tag products in Shorts, videos, and livestreams while earning commissions on qualifying sales. The post YouTube Adds Amazon Shopping Links for El",
-        "dwp_take": "YouTube just gave creators another way to monetize their content by letting them tag Amazon products directly in videos and Shorts, with commissions on sales that result from those links. This matters because it's another reminder that the platforms where your organization communicates are constantly adding commerce features, which means your brand team needs to stay alert about how product placement works on channels you're using. Honestly, we're one step closer to watching cat videos interrupted by a buy-now widget for cat furniture, and I'm not sure that's progress.",
-        "date": "2026-09-02T07:31:44.355862+00:00"
+        "excerpt": "HONOR Watch 6 combines long battery life, dual-band GPS, health tracking, and NFC, but some features depend on your phone, bank, and region. The post HONOR Watch 6: Everything You Need to Know appeare",
+        "dwp_take": "HONOR released the Watch 6 with solid specs including multi-day battery life, GPS, health monitoring, and NFC contactless payments. This matters because wearables are becoming standard issue in many corporate wellness programs, and IT teams need to understand device capabilities before rolling them out across the organization. Here's the thing though: that caveat about feature availability depending on your phone, bank, and region is workplace tech in a nutshell, and it's why your rollout plan will take three times longer than anyone predicted.",
+        "date": "2026-09-03T07:38:32.389306+00:00"
       },
       {
-        "title": "Anthropic\u2019s Reported $35B Lambda Deal Puts Nvidia at the Center",
-        "url": "https://www.techrepublic.com/article/news-anthropic-lambda-35-billion-cloud-deal/",
+        "title": "Instagram Cracks Down on AI Influencers That Pretend to Be Real",
+        "url": "https://www.techrepublic.com/article/news-instagram-ai-generated-profile-label-recommendations/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Anthropic reportedly signed a $35 billion Lambda cloud deal tied to a Texas data center leased by Nvidia and developed by Hut 8 for Claude computing capacity. The post Anthropic\u2019s Reported $35B Lambda",
-        "dwp_take": "Anthropic just locked in a $35 billion deal with Lambda Labs to secure AI computing power through Nvidia infrastructure in Texas, basically betting the company on having guaranteed GPU capacity for Claude. This matters because digital workplace leaders relying on Claude for enterprise AI tools need to know their chosen platform just made a massive financial commitment to staying operational and competitive. The real takeaway is that AI infrastructure is becoming as strategic as oil fields were in the 1970s, and enterprises betting on Claude can at least sleep knowing their vendor isn't about to vanish overnight.",
-        "date": "2026-09-02T07:31:48.596151+00:00"
+        "excerpt": "Instagram will limit recommendations for AI-generated influencer profiles that fail to disclose their synthetic identities under a new labeling policy. The post Instagram Cracks Down on AI Influencers",
+        "dwp_take": "Instagram is requiring AI-generated influencer accounts to clearly label themselves as synthetic, with the platform limiting recommendations for those that don't comply. This matters to digital workplace folks because employee advocacy programs and internal communications increasingly lean on influencer-style content, and you need to know if your team's sharing AI-generated material without proper disclosure. Honestly, if your workplace is still figuring out whether that motivational Monday post came from an actual human or a robot, you've got bigger problems than Instagram's labeling policy.",
+        "date": "2026-09-03T07:38:36.476469+00:00"
       },
       {
-        "title": "Apple-OpenAI Fight Escalates With New MacBook Evidence",
-        "url": "https://www.techrepublic.com/article/news-apple-openai-macbook-evidence-trade-secrets/",
+        "title": "MobiPDF Lifetime License Offers Full PDF Editing for $49.99",
+        "url": "https://www.techrepublic.com/article/mobipdf-ultimate-plan/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple says evidence from a former engineer\u2019s MacBook strengthens its trade secret case against OpenAI as the companies clash over AI hardware and hiring. The post Apple-OpenAI Fight Escalates With New",
-        "dwp_take": "Apple and OpenAI are battling over trade secrets, with Apple claiming a former engineer's MacBook contains evidence supporting its case against OpenAI's alleged poaching of talent and technology. For digital workplace pros, this is a reminder that IP protection, employee mobility, and AI competition are colliding in ways that will reshape hiring practices and data security policies across tech companies. Honestly, if your company's competitive advantage fits on someone's laptop that walks out the door, you've got bigger problems than which tech giant wins this lawsuit.",
-        "date": "2026-09-02T07:31:52.542825+00:00"
+        "excerpt": "A cross-platform PDF solution with advanced editing and conversion tools built for professional efficiency. The post MobiPDF Lifetime License Offers Full PDF Editing for $49.99 appeared first on TechR",
+        "dwp_take": "MobiPDF is selling a lifetime license for $49.99 that gives you cross-platform PDF editing and conversion tools in one package. For knowledge workers who still spend half their day wrestling with PDFs, having a solid editing solution that doesn't require a subscription is genuinely useful. At that price point, it's either a steal or they're planning to sunset it in two years, so maybe don't plan your entire workflow around it just yet.",
+        "date": "2026-09-03T07:38:40.228226+00:00"
       },
       {
-        "title": "Apple After Tim Cook: John Ternus Inherits an AI and Hardware Test",
-        "url": "https://www.techrepublic.com/article/news-apple-john-ternus-ceo-ai-hardware/",
+        "title": "Walmart Accused of Creating Voiceprints From Customer Service Calls",
+        "url": "https://www.techrepublic.com/article/news-walmart-customer-service-voiceprints-lawsuit/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "John Ternus takes over as Apple CEO after Tim Cook, inheriting challenges involving artificial intelligence, hardware costs, services, and supply chains. The post Apple After Tim Cook: John Ternus Inh",
-        "dwp_take": "John Ternus is the new CEO of Apple, stepping into Tim Cook's shoes with a pile of problems including AI integration, expensive hardware, services strategy, and supply chain headaches. This matters because Apple's moves ripple across the entire ecosystem that enterprise workplaces depend on, from iPhone management to cloud services to the devices people actually use for work. Honestly, the guy's inheriting a ship that's already sailed pretty well, which is both a gift and a curse, kind of like being asked to improve on perfection while the market demands you reinvent it.",
-        "date": "2026-09-02T07:31:56.313539+00:00"
+        "excerpt": "Two Illinois customers allege Walmart created voiceprints from service calls without obtaining consent required under the state\u2019s biometric privacy law. The post Walmart Accused of Creating Voiceprint",
+        "dwp_take": "Walmart is facing a lawsuit from Illinois customers who claim the company secretly created voiceprints from their customer service calls without consent, violating state biometric privacy law. This matters because it signals that regulators and plaintiffs are finally waking up to the fact that companies are harvesting biometric data through everyday interactions, and your workplace's contact center might be next. If Walmart gets burned on this, every other company with a call center better start asking their legal team some very uncomfortable questions about what they're actually doing with those voice recordings.",
+        "date": "2026-09-03T07:38:44.102681+00:00"
       }
     ]
   }
