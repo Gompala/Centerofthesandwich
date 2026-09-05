@@ -1,29 +1,19 @@
 {
-  "generated": "2026-09-05T12:31:06.330440+00:00",
+  "generated": "2026-09-05T12:33:15.002394+00:00",
   "categories": {
     "ai-at-work": [],
-    "tools-tech": [
+    "tools-tech": [],
+    "digital-culture": [
       {
-        "title": "Word and Outlook will stop trying to guess what you\u2019re going to type",
-        "url": "https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft\u2019s text suggestion feature will now be turned off by default in both Word and Outlook, reports The Register. The text suggestions attempt to predict which words or phrases the user intends to",
-        "dwp_take": "Microsoft is flipping text suggestions to off by default in Word and Outlook, letting users opt in instead of opt out. This matters because it finally acknowledges that forcing AI predictions on everyone regardless of workflow is annoying and productivity actually drops when software second-guesses what you're typing. After decades of watching Microsoft jam features nobody asked for into our faces, it's refreshing to see them actually listen, even if it took three decades to figure out that letting people choose their own experience is a novel concept.",
-        "date": "2026-09-05T12:31:00.257823+00:00"
+        "title": "Behind the rise of the chief productivity officer and what it means for companies and employees",
+        "url": "https://www.worklife.news/technology/behind-the-rise-of-the-chief-productivity-officer-and-what-it-means-for-companies-and-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
+        "category": "digital-culture",
+        "excerpt": "Some employers are replacing HR directors with chief productivity officers to better align people, tech and business outcomes.",
+        "dwp_take": "Some companies are ditching traditional HR director roles and replacing them with chief productivity officers who focus on connecting people, technology, and business results. This matters because it signals a fundamental shift in how organizations think about work itself: less about compliance and benefits, more about output and efficiency. Honestly, this could go either way. Smart CPOs will recognize that real productivity comes from trusting people and fixing broken processes. Bad ones will just become surveillance enthusiasts with fancier job titles.",
+        "date": "2026-09-05T12:33:14.001333+00:00"
       }
     ],
-    "digital-culture": [],
-    "industry-news": [
-      {
-        "title": "Kaseya announces new compliance and Apple device management tools for Datto RMM",
-        "url": "https://www.itpro.com/security/data-protection/kaseya-announces-new-compliance-and-apple-device-management-tools-for-datto-rmm",
-        "source": "ITPro",
-        "category": "industry-news",
-        "excerpt": "The enhancements will introduce FIPS 140-3 validated cryptography and native Apple MDM to the remote monitoring and management platform",
-        "dwp_take": "Kaseya added FIPS 140-3 cryptography and native Apple device management to Datto RMM, which basically means the platform got more secure and finally stopped making Mac users feel like second-class citizens. For digital workplace folks managing mixed environments, this cuts down on the tool sprawl and compliance headaches that come with bolting together five different platforms. It's not revolutionary stuff, but in a world where people still ask me to manage iPhones through Windows-only software, sometimes competent execution feels like innovation.",
-        "date": "2026-09-05T12:31:05.647065+00:00"
-      }
-    ]
+    "industry-news": []
   }
 }
