@@ -96,72 +96,53 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-    prompt = f"""Write a blog article about this topic for centerofthesandwich.com: {topic}
+        prompt = f"""Write a short blog post for centerofthesandwich.com about: {topic}
 {context}
 
-Think of this like a game review — not a game review literally, but that style and energy. A good game reviewer doesn't open with "here is why action games matter" and close with "so in summary, action games have challenges but also opportunities." They just dive in, share what they noticed, have opinions, keep moving. The reader stays with them because it's interesting, not because there's a lesson at the end.
+The site is called Center of the Sandwich. The writer is called DWP Insider. The audience is people who work in or lead digital workplace functions — IT, service management, employee experience, that world.
 
-That's what this article should feel like. A smart person sharing a genuine take on something happening in the digital workplace world. Moving, observational, occasionally funny, always interesting. The reader should feel like they're reading something worth their time, not sitting through a presentation.
+Write like a smart person sharing a genuine take — not teaching, not advising, not revealing hidden truths. Just thinking out loud about something interesting. The tone should feel like a well-written opinion column in a trade publication, but warmer and more human than that sounds. Have some fun with it — a well-placed observation that makes someone smile, an unexpected comparison, a moment of genuine wit. Not forced, not a punchline, just the kind of thing that makes you realize the writer actually enjoyed writing this.
 
-The structure should feel natural and unforced. Start somewhere interesting — not necessarily the beginning of the topic, maybe the middle, maybe a detail that opens something up. Move through the piece the way a good conversation moves, following what's interesting rather than a predetermined outline. End when you've said something worth ending on, not because you've completed a template.
+Start anywhere except the beginning of the topic. Don't open with "There's this moment" or "Something interesting is happening" or any variation of scene-setting throat-clearing. Just start with a thought. The opening line should make the reader want to read the second line.
 
-No three-part structure. No "challenge, insight, takeaway" arc. No subheadings that announce what's coming like a PowerPoint deck. Just writing that flows.
+Don't follow a structure. Don't have an intro, body, and conclusion. Just write something that moves.
 
-Voice: warm, direct, genuinely curious, occasionally wry. Like someone who finds this stuff interesting and assumes you do too. Not explaining things to people who don't know, just sharing takes with people who do.
+Keep it between 400 and 550 words. Short enough to read in three minutes, long enough to say something real.
 
-Writing angle for today: randomly pick ONE of these lenses to write through and commit to it for the whole piece:
-- The quiet observer — noticing something small that actually says something bigger about how work is changing
-- The skeptic who came around — something that seemed overhyped but is turning out to be genuinely useful
-- The optimist with receipts — genuinely good things happening in digital workplace right now that don't get enough attention
-- The honest shrug — something where the answer is genuinely unclear and that uncertainty is interesting
-- The nobody talks about this angle — a real aspect of digital workplace that gets overlooked in favor of shinier topics
-- The human side — focusing on the people experiencing the technology rather than the technology itself
-- The pattern spotter — something that keeps showing up across different organizations or conversations and is worth naming
-- The slow burn — a trend that has been building quietly for a while and is only now becoming hard to ignore
-- The unexpected upside — something that was supposed to be a compromise or a workaround that turned out to work surprisingly well
-- The reality check — cutting through the noise on something that gets talked about a lot but rarely examined closely
-- The practitioner's view — what this looks like on the ground for the people actually doing the work, not the people planning it
-- The emperor has no clothes — something widely accepted in digital workplace that quietly doesn't hold up when you look closely
-- The uncomfortable truth — an observation that most people in the industry know but rarely say out loud
-- The overpromised — technology or approach that keeps getting pitched as transformational but delivers something much more modest
-- The pendulum — an idea that swung too far one way and is now correcting, and what that correction actually looks like
-- The gap — the difference between how leadership talks about digital workplace and how employees actually experience it
-- The long game — why something that looks like a failure or a slowdown right now might actually be the right call
-- The fine print — the part of a digital workplace decision or trend that gets glossed over in the excitement
+No bullet points. No subheadings. No em dashes. No "it's worth noting." No "at the end of the day." No fake statistics. No invented client stories or specific companies you claim to have observed. No phrases like "I've seen this" or "in my experience."
 
-Pick whichever angle fits the topic naturally. Do not announce which angle you chose. Just write from it.
+Pick one of these angles and write from it without announcing which one you chose:
+- The quiet observer — something small that says something bigger
+- The skeptic who came around — something that seemed overhyped but isn't
+- The optimist with receipts — good things happening that don't get enough attention
+- The honest shrug — genuine uncertainty that's interesting in itself
+- The nobody talks about this angle — something overlooked in favor of shinier topics
+- The human side — the people experiencing the technology, not the technology itself
+- The pattern spotter — something showing up consistently that's worth naming
+- The slow burn — a trend building quietly that's now hard to ignore
+- The unexpected upside — a workaround that turned out to work surprisingly well
+- The reality check — cutting through noise on something rarely examined closely
+- The practitioner's view — what this looks like on the ground for people doing the work
+- The emperor has no clothes — something widely accepted that doesn't hold up
+- The uncomfortable truth — something the industry knows but rarely says
+- The overpromised — pitched as transformational, delivers something more modest
+- The pendulum — an idea that swung too far and is now correcting
+- The gap — difference between how leadership talks about this and how employees experience it
+- The long game — why something that looks like a failure might be the right call
+- The fine print — the part that gets glossed over in the excitement
 
-Important framing: this site is written from the perspective of someone who delivers and manages digital workplace services, not someone who sells products. The focus should be on how organizations operate, how services are structured, how teams experience their digital environment, and how leaders make decisions. When technology is mentioned it should be in service of those themes, not the other way around. Avoid writing articles that read like product coverage or vendor analysis. Write about the work, the people, the decisions, and the experience — not the features.
-
-Hard rules:
-- Never reference your own experience, history, or how long you've been watching this industry
-- Never fabricate statistics, timeframes, client stories, or specific situations you claim to have witnessed
-- Never write a title that sounds like a command or a directive ("Stop Doing X", "Why You Must Y")
-- Never use: "Here's the honest part", "The real issue is", "What's actually happening", "In conclusion", "It's worth noting", "Make no mistake"
-- Never imply the reader is doing something wrong or missing something obvious
-- No em dashes ever
-- When referencing workplace chat/collaboration tools, default to Microsoft Teams as the primary example, not Slack — Teams has far larger enterprise adoption since it ships with Microsoft 365. Only mention Slack when the topic is specifically about Slack, or when comparing multiple tools.
-
-The title should sound like something you'd genuinely want to click on — curious, specific, a little unexpected. Not a lesson, not a warning, just an interesting angle on something.
-
-Category — pick the single best fit:
-- ai-at-work: AI tools, copilots, automation in workplace contexts
-- tools-tech: Specific software, platforms, vendors, tech comparisons
-- digital-culture: Remote work, hybrid, employee experience, workplace culture
-- industry-news: Market moves, acquisitions, industry trends
-- strategy: IT strategy, digital transformation, leadership, change management
-- personal: Opinions, observations, career takes
+The focus should be on how organizations work, how services are delivered, how people experience their digital environment — not on product features or vendor news.
 
 Return as JSON with exactly these fields:
 {{
-  "title": "A title that makes someone want to read this",
-  "excerpt": "One or two sentences that make the article sound worth clicking (under 200 chars)",
-  "category": "best fit category from list above",
-  "readtime": 5,
-  "body": "The full article in markdown format, 500-700 words, written in flowing prose with no subheading structure unless it genuinely serves the piece"
+  "title": "A title that makes someone want to read this — not a command, not a lesson, just something interesting",
+  "excerpt": "One sentence that captures the piece without summarizing it (under 160 chars, no double quotes inside)",
+  "category": "ai-at-work or tools-tech or digital-culture or industry-news or strategy or personal",
+  "readtime": 4,
+  "body": "The full article in markdown, flowing prose, no subheadings unless genuinely needed, no double quotes inside the text — use single quotes instead"
 }}
 
-Return ONLY the JSON. No preamble, no explanation, no markdown code fences."""
+Return ONLY valid JSON. No preamble, no explanation, no markdown fences."""
 
     try:
         response = requests.post(
