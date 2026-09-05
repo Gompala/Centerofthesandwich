@@ -1,156 +1,156 @@
 {
-  "generated": "2026-09-04T07:38:03.534866+00:00",
+  "generated": "2026-09-05T07:18:51.082939+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-        "dwp_take": "A startup called Abliteration.ai is deliberately removing safety features from AI models to make them easier to access, claiming this helps defenders understand vulnerabilities better. This matters to digital workplace pros because unrestricted AI tools will eventually land on your network, and you need to understand what employees might accidentally (or intentionally) unleash with them. Look, I've seen plenty of \"just trust us, it's for security research\" arguments over three decades, and they rarely age well once the tool gets popular.",
-        "date": "2026-09-04T07:36:55.319200+00:00"
+        "excerpt": "The round is being raised just months after the robot data startup exited from stealth.",
+        "dwp_take": "A robot data startup called XDOF has emerged from stealth mode and is already in Series B funding talks with a reported $1.2 billion valuation. This matters because automation and robotics are increasingly touching workplace operations, and how data flows from these systems into your digital workplace infrastructure is becoming a real integration headache. Here's the thing though: a $1.2 billion valuation for a three-month-old company is either visionary or irrational, and we won't know which until someone actually has to implement this stuff at scale in a real workplace.",
+        "date": "2026-09-05T07:17:44.242633+00:00"
       },
       {
-        "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
-        "dwp_take": "Google rolled out WeatherNext 3, an AI weather model that will appear across Search, Maps, and Gemini to give you more accurate forecasts. Digital workplace pros should care because weather data integrated into everyday tools affects how teams plan hybrid schedules, coordinate office days, and manage commute logistics at scale. Honestly though, the real test isn't whether AI can predict rain better than humans, it's whether employees will actually check it before showing up in sandals on a monsoon day.",
-        "date": "2026-09-04T07:36:59.355045+00:00"
+        "excerpt": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "dwp_take": "Nscale, an AI compute provider, is hunting for 3.5 billion dollars in pre-IPO funding after already landing a massive 45 billion dollar deal with Anthropic. This matters because it signals where enterprise infrastructure money is flowing right now, which affects what tools and platforms your organization will actually be able to access and afford in the next 18 months. Look, when compute providers are this hungry for capital, it usually means the actual scarcity problem hasn't been solved yet, so enjoy your current setup while it's still available.",
+        "date": "2026-09-05T07:17:48.406479+00:00"
       },
       {
-        "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-        "url": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
+        "title": "Anthropic uses Claude to formalize proof of Fermat\u2019s Last Theorem",
+        "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Nvidia Corp. is targeting artificial intelligence agent enthusiasts with a new local distributed clustering tool called the Personal AI Router. It enables them to use any idle Mac computers or PCs lyi",
-        "dwp_take": "Nvidia just dropped a tool called Personal AI Router that lets you turn your dusty old laptops and spare computers into a mini AI cluster running right from home. For digital workplace leaders, this matters because it signals that AI infrastructure is becoming decentralized and accessible, which means your IT teams need to start thinking about security, governance, and support for employee-owned hardware running company workloads. The irony is thick: we spent decades trying to keep personal devices off the corporate network, and now Nvidia is basically handing employees a permission slip to do exactly that.",
-        "date": "2026-09-04T07:37:04.842641+00:00"
+        "excerpt": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today. A proof is a ",
+        "dwp_take": "Anthropic used Claude AI to translate Andrew Wiles' famously complex proof of Fermat's Last Theorem into computer-verifiable code, which the company showcased in a recent blog post. This matters because it demonstrates AI's growing capability to handle abstract reasoning and formal verification, skills directly applicable to documenting complex workflows and processes in enterprise environments. Honestly, if Claude can nail 358-year-old mathematical proofs, maybe we can finally get our internal wikis and runbooks written coherently.",
+        "date": "2026-09-05T07:17:53.573318+00:00"
       },
       {
-        "title": "Nvidia\u2019s Hugging Face deal is a bet on open models \u2014 and proof it\u2019s no longer just a chip company",
-        "url": "https://siliconangle.com/2026/09/03/nvidias-hugging-face-deal-is-a-bet-on-open-models-and-proof-its-no-longer-just-a-chip-company/",
+        "title": "Equinix turns the network into the control plane for enterprise AI inference",
+        "url": "https://siliconangle.com/2026/09/04/equinix-turns-the-network-into-the-control-plane-for-enterprise-ai-inference/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "As Nvidia Corp. announced this morning that it has agreed to acquire Hugging Face Inc. for $12.93 billion \u2014 one of the largest acquisitions in the company\u2019s history \u2014 Chief Executive Jensen Huang prom",
-        "dwp_take": "Nvidia just dropped nearly 13 billion dollars to buy Hugging Face, the popular open-source AI model platform, signaling the chip giant is now seriously playing in the software and AI services game. For digital workplace folks, this matters because it means your AI tools, collaboration platforms, and productivity software are about to get a lot more interconnected with Nvidia's hardware stack and enterprise push. Honestly, watching a chip company become a full-stack AI player is like watching Intel suddenly decide to sell you coffee to go with their processors, except this time it might actually work.",
-        "date": "2026-09-04T07:37:09.347951+00:00"
+        "excerpt": "At its first Horizon customer and partner event this week, Equinix Inc. argued that the architecture of enterprise artificial intelligence is being reshaped by a simple yet hard-to-answer question: Wh",
+        "dwp_take": "Equinix is positioning network infrastructure as the central control system for where AI inference actually runs across distributed enterprise environments, shifting the conversation away from just GPU supply and costs. This matters because digital workplace leaders suddenly need to think about inference placement strategy the same way they think about data residency and compliance, which means new operational headaches. Here's the thing though: after decades of watching infrastructure vendors rebrand themselves around whatever's hot, I've learned that whoever controls the \"control plane\" controls the budget conversation, and Equinix knows it.",
+        "date": "2026-09-05T07:17:57.797858+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan",
-        "url": "https://www.computerworld.com/article/4218388/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan.html",
+        "title": "Nvidia-Hugging Face deal could require an enterprise AI rethink",
+        "url": "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Enterprises are facing a disturbing new question in the age of AI: What happens when agentic assistants go dark? This became a very real scenario on Thursday, as OpenAI\u2019s ChatGPT, Anthropic\u2019s Claude, ",
-        "dwp_take": "Last week ChatGPT, Claude, and Grok all went offline at roughly the same time, leaving enterprises without access to their AI assistants. This matters because companies have increasingly built workflows around these tools, and discovering they're single points of failure is the kind of wake-up call nobody wants at 9 AM on a Tuesday. It's like realizing your entire office runs on one server in someone else's basement, which, to be fair, it kind of does.",
-        "date": "2026-09-04T07:37:14.863581+00:00"
+        "excerpt": "IT industry experts and analysts are still trying to piece together Nvidia\u2019s surprise plan to pay $12.9 billion for open-source AI company Hugging Face. Nvidia dominates AI with its GPUs, and the comp",
+        "dwp_take": "Nvidia is dropping $12.9 billion to acquire Hugging Face, the open-source AI platform that's been sitting comfortably in the middle of the AI ecosystem. This matters because enterprises have relied on Hugging Face as a vendor-neutral space to experiment with AI models, and Nvidia's acquisition could fundamentally change that independence. The real question is whether Nvidia will keep the open-source spirit alive or slowly steer everything toward its proprietary stack, because history suggests Big Tech doesn't buy companies to make them more open.",
+        "date": "2026-09-05T07:18:03.037820+00:00"
       },
       {
-        "title": "Word and Outlook will stop trying to guess what you\u2019re going to type",
-        "url": "https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html",
+        "title": "Macs don\u2019t just do AI, they\u2019re replacing the cloud for it",
+        "url": "https://www.computerworld.com/article/4218761/macs-dont-just-do-ai-theyre-replacing-the-cloud-for-it.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Microsoft\u2019s text suggestion feature will now be turned off by default in both Word and Outlook, reports The Register. The text suggestions attempt to predict which words or phrases the user intends to",
-        "dwp_take": "Microsoft is flipping the default switch on text autocomplete in Word and Outlook, letting users opt in instead of opt out. This matters because autocomplete features have consistently ranked high on the \"features users hate\" list, so making them opt-in actually respects the principle of not assuming what people want. It's refreshing to see Microsoft acknowledge that not everyone wants their software finishing their sentences like an overeager coworker at a meeting.",
-        "date": "2026-09-04T07:37:18.835767+00:00"
+        "excerpt": "I surprised myself this morning when I came across an interesting Apple-commissioned report \u2014 Rethinking critical AI infrastructure \u2014 I\u2019d not seen before. It looks at the shifting expectations for AI ",
+        "dwp_take": "Apple commissioned a report arguing that enterprises increasingly want AI processing to happen on their own devices rather than in the cloud, and thousands of companies are already moving in that direction. This matters because it challenges the cloud-dependent infrastructure model many digital workplace teams have spent years building and defending as the cornerstone of modern IT strategy. Turns out we spent all that money convincing executives that nothing should live locally, and now those same executives want everything to live locally again, which is hilarious in a \"we told you so\" kind of way.",
+        "date": "2026-09-05T07:18:07.245126+00:00"
       },
       {
-        "title": "Serious vulnerability threatens tens of thousands of Exchange servers",
-        "url": "https://www.computerworld.com/article/4218267/serious-vulnerability-threatens-tens-of-thousands-of-exchange-servers.html",
+        "title": "Nvidia lets you build your own AI clusters locally with PAIR software",
+        "url": "https://www.computerworld.com/article/4218798/nvidia-lets-you-build-your-own-ai-clusters-locally-with-pair-software-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "A serious vulnerability was recently discovered in Exchange Server 2016, Exchange Server 2016, and Exchange Server Subscription Edition (SE). The vulnerability is designated CVE-2026-62911 and can be ",
-        "dwp_take": "Microsoft just patched a nasty hole in Exchange Server that could let attackers waltz straight into your systems with full admin access. For digital workplace pros, this means your email infrastructure is suddenly a potential entry point for a full corporate takeover, which is about as fun as finding out your office coffee machine is actually a surveillance device. The good news is patches exist; the bad news is we both know how many organizations are still running unpatched servers from 2019, so buckle up.",
-        "date": "2026-09-04T07:37:22.916121+00:00"
+        "excerpt": "Nvidia has released a free tool that will enable users to build an AI inferencing cluster from disparate PCs on the same network, accessible from a single interface. Released as a beta, Nvidia Persona",
+        "dwp_take": "Nvidia released PAIR, a free beta tool that lets you connect multiple computers on the same network into a private AI cluster without touching the cloud. For digital workplace folks, this matters because it opens up serious possibilities for running AI workloads locally without shipping data to third parties or paying per-query fees. The real kicker is watching enterprises suddenly realize they might not need another SaaS subscription when their existing hardware can do the job.",
+        "date": "2026-09-05T07:18:13.140001+00:00"
       },
       {
-        "title": "Why is Apple so quiet about what it offers the enterprise?",
-        "url": "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
+        "title": "Bidding war for defunct Spirit Airlines\u2019 employee data will not die",
+        "url": "https://www.computerworld.com/article/4218782/bidding-war-for-defunct-spirit-airlines-employee-data-will-not-die-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "I\u2019ve been writing about Apple and how it benefits the enterprise for so long it\u2019s easy to forget that the company doesn\u2019t make enough noise about its accomplishments. Sure, it has pursued and won the ",
-        "dwp_take": "Apple keeps quiet about its enterprise strengths even though it has solid evidence that Macs deliver better total cost of ownership than Windows machines over time. Digital workplace leaders need to know this because they're often making purchasing decisions based on incomplete information, defaulting to what they think they know about Windows dominance. Here's the thing: Apple's silence is basically free marketing for its competitors, and frankly, any vendor that can prove lower costs but chooses to whisper about it deserves whatever market share it loses.",
-        "date": "2026-09-04T07:37:27.228100+00:00"
+        "excerpt": "The destiny of Spirit Airline\u2019s data is still undecided, months after the company sought bankruptcy protection. AI data company Micro1 has now offered $12.5 million to acquire a trove of the company\u2019s",
+        "dwp_take": "Spirit Airlines' employee data is sitting in bankruptcy court with multiple bidders fighting over access to roughly 600 million emails and Teams chats, with AI company Micro1 now offering 12.5 million dollars for the pile. This matters because it's a stark reminder that your workplace communications aren't just internal artifacts, they're potentially valuable assets that could be sold off when companies go under, and it raises serious questions about employee privacy and data governance that most organizations haven't thought through. Here's the thing: most companies treat their chat and email archives like digital junk drawers, never imagining someone might actually want to buy them, which is exactly the wrong approach to take.",
+        "date": "2026-09-05T07:18:17.805661+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "The security workers who guard OpenAI and Anthropic could go on strike",
-        "url": "https://www.fastcompany.com/91601758/the-security-workers-who-guard-openai-and-anthropic-could-go-on-strike?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How women over 40 can use personal branding to reclaim their careers",
+        "url": "https://www.fastcompany.com/91597299/how-women-over-40-can-use-personal-branding-to-reclaim-their-careers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "This week, the security workers who stand guard outside some of Silicon Valley\u2019s most deep-pocketed AI companies decided they were ready to go on strike if necessary. The unionized workers, who are re",
-        "dwp_take": "Security workers at major AI companies including OpenAI and Anthropic are preparing to strike over labor disputes, with their union demanding better wages and conditions. This matters because digital workplace leaders often overlook the physical security workforce that keeps their offices running, treating them as invisible infrastructure until they're suddenly gone. Here's the irony: companies building artificial intelligence to replace human workers are learning the hard way that you actually can't automate people away from the front desk.",
-        "date": "2026-09-04T07:37:31.877688+00:00"
+        "excerpt": "For decades, Cindy Gallop worked in the advertising industry, building brands. But at 45, she stepped away from her career and built her own. Now, at 66, she\u2019s known as the founder of sextech, has one",
+        "dwp_take": "Cindy Gallop reinvented herself at 45 by stepping away from traditional advertising work and building a personal brand that eventually made her a recognized thought leader in tech and sexuality. This matters because digital workplaces are increasingly built on personal visibility and thought leadership, not just job titles. The real insight here isn't about age or gender though, it's that building something authentic beats climbing someone else's ladder every single time.",
+        "date": "2026-09-05T07:18:21.805029+00:00"
       },
       {
-        "title": "5 proven ways to turn disinterest into a job offer",
-        "url": "https://www.fastcompany.com/91586608/five-proven-ways-to-turn-disinterest-into-a-job-offer-interviews-leadership-job-offers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Workers are already nostalgic for the pre-AI era",
+        "url": "https://www.fastcompany.com/91602520/workers-are-already-nostalgic-for-the-pre-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "You landed an introduction to a hiring decision-maker through a mutual connection. Now the person across the table is being perfectly pleasant\u2014and barely paying attention. There\u2019s no open role; they\u2019r",
-        "dwp_take": "Fast Company ran a piece about converting casual introductions into actual job opportunities when there's no open position on the table. This matters because most digital workplace pros spend their careers networking through LinkedIn and casual coffee chats that lead nowhere, so understanding how to create genuine interest from polite indifference is legitimately useful. The irony is that the person who needs this advice most is probably too busy managing their Slack channels and calendar chaos to actually read it.",
-        "date": "2026-09-04T07:37:35.861817+00:00"
+        "excerpt": "We are just a few years removed from a time when AI was not yet ingrained in our office lives, but many workers already wish they could go back. Nearly two-thirds (65%) of 2,500 knowledge workers surv",
+        "dwp_take": "Workers are experiencing genuine nostalgia for the pre-AI workplace, with 65 percent of knowledge workers surveyed saying they miss how work used to be done. This matters because it signals that the digital workplace transition to AI has created real friction and fatigue that goes beyond typical change resistance. Turns out people don't actually want to become more efficient if it means spending their day wrestling with hallucinating chatbots and attending meetings about how to use AI better, who knew.",
+        "date": "2026-09-05T07:18:25.791249+00:00"
       },
       {
-        "title": "Try this one\u00a0practice to reframe work stress when you most need it",
-        "url": "https://www.fastcompany.com/91597064/try-this-one-practice-to-reframe-work-stress-when-you-most-need-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How to set project boundaries as a solopreneur",
+        "url": "https://www.fastcompany.com/91598001/how-set-project-boundaries-solopreneur?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Have you ever had a moment where the world fell quiet\u2014not because everything stopped, but because you did? You catch your breath, your shoulders drop, and whatever\u2019s been gnawing at you seems insignif",
-        "dwp_take": "Fast Company is arguing that cultivating awe, moments of being struck by something larger than yourself, can help workers manage chronic stress in high-pressure environments. For digital workplace pros, this matters because we're the ones designing the systems and cultures that either amplify burnout or create space for people to breathe and reset. Here's the thing though: you can't architect awe into Slack, and no amount of wellness apps will manufacture it, so maybe the real fix is actually letting people work less instead.",
-        "date": "2026-09-04T07:37:39.970730+00:00"
+        "excerpt": "Recently, I decided to build a customer relationship management system (CRM) for my solo business. It started as a simple list of my contacts. Then I integrated my Google Drive and my calendar. Then I",
+        "dwp_take": "A solopreneur spent way more time building a custom CRM than the actual value it would deliver to their one-person operation. This matters because it's the same scope creep problem that kills digital workplace projects in bigger organizations, except here there's no team to blame and no budget to hide behind. The real lesson is that perfectionism is just procrastination in better clothes, and a spreadsheet that gets used beats a beautiful system that wastes your billable hours.",
+        "date": "2026-09-05T07:18:29.948033+00:00"
       },
       {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "source": "Wired",
+        "title": "The productive 8-hour workday is a myth, and we need to stop believing it",
+        "url": "https://www.fastcompany.com/91597089/the-productive-eight-hour-workday-is-a-myth-and-we-need-to-stop-believing-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-        "dwp_take": "ChatGPT, Claude, and Grok all went down simultaneously today and nobody's talking about what caused it. This matters because plenty of organizations have already baked these AI tools into their workflows, and simultaneous outages across competing platforms suggest either a common infrastructure problem or something nobody wants to admit publicly. After 30 years watching technology fail in creative ways, I can tell you that mysterious simultaneous outages usually mean either a shared dependency just broke spectacularly, or someone's legal team is having a very long day.",
-        "date": "2026-09-04T07:37:46.209079+00:00"
+        "excerpt": "We\u2019re busier than ever. We have a million \u201curgent\u201d things vying for our attention: constant notifications, an incessant stream of emails, and endless meetings. Throw AI into the mix, and the expectati",
+        "dwp_take": "Fast Company is saying the eight-hour workday productivity myth needs to die because we're drowning in notifications, emails, meetings, and now AI expectations while doing precious little meaningful work. This matters because digital workplace pros are the ones actually building the systems that create this notification hellscape, so understanding what's truly productive versus performative is job one. After thirty years, I can tell you the irony is delicious: we built all these tools to save time, and now everyone's busier than ever wondering why nothing actually gets done.",
+        "date": "2026-09-05T07:18:34.026125+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "South Korea Proposes $1.9B for Chips in Record 2027 Budget",
-        "url": "https://www.techrepublic.com/article/news-chip-budget-apac-south-korea/",
+        "title": "Xiaomi Smart Band 11 vs Smart Band 10: What Actually Changed?",
+        "url": "https://www.techrepublic.com/article/news-xiaomi-smart-band-11-vs-band-10/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "South Korea proposes $1.9 billion for semiconductors in its record 2027 budget, alongside major spending on power, water and logistics infrastructure. The post South Korea Proposes $1.9B for Chips in ",
-        "dwp_take": "South Korea is throwing $1.9 billion at semiconductor infrastructure as part of a record 2027 budget that also covers power, water, and logistics. This matters because semiconductor supply chains directly impact every organization's ability to deploy hardware, upgrade networks, and support remote work infrastructure without getting strangled by chip shortages. Honestly, it's refreshing to see a government actually investing in the boring stuff that makes digital workplaces run instead of just chasing the latest AI hype.",
-        "date": "2026-09-04T07:37:50.313805+00:00"
+        "excerpt": "Xiaomi Smart Band 11 keeps the Band 10\u2019s display size and 21-day battery claim but adds more brightness, a thinner design, and new health features. The post Xiaomi Smart Band 11 vs Smart Band 10: What",
+        "dwp_take": "Xiaomi's new Smart Band 11 keeps the same screen size and battery life as its predecessor but gets brighter, slimmer, and throws in fresh health monitoring features. For digital workplace folks managing employee wellness programs or BYOD device ecosystems, this matters because longer battery life and better displays mean fewer support tickets and happier workers who actually wear the thing. Honestly, it's the incremental upgrade cycle we've all come to expect, which is fine, but calling it \"what actually changed\" when you're basically selling the same band in a tighter pants size feels a bit generous.",
+        "date": "2026-09-05T07:18:38.393114+00:00"
       },
       {
-        "title": "Meta Launches Muse Voice Transcribe for Real-Time Multilingual Speech",
-        "url": "https://www.techrepublic.com/article/news-meta-muse-voice-transcribe-real-time-speech/",
+        "title": "G20 Backs U.S. Push to Avoid New AI Regulators",
+        "url": "https://www.techrepublic.com/article/news-g20-us-ai-regulation-principles/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Meta\u2019s Muse Voice Transcribe delivers real-time multilingual speech recognition, speaker labeling and adaptive latency for developers and Mac users. The post Meta Launches Muse Voice Transcribe for Re",
-        "dwp_take": "Meta rolled out Muse Voice Transcribe, which handles real-time speech recognition across multiple languages with speaker identification and adaptive latency for developers and Mac users. This matters because your distributed teams finally get a tool that can actually understand what people are saying when they're spread across continents and speaking different languages, not just pretend to. The real question is whether it will actually work reliably in noisy home offices or if we'll all be laughing at transcripts that turn \"quarterly earnings\" into \"squirrel leafy yearnings.\"",
-        "date": "2026-09-04T07:37:54.452140+00:00"
+        "excerpt": "G20 members backed a U.S.-led approach favoring existing regulators over new AI watchdogs, but major differences over oversight and safety remain. The post G20 Backs U.S. Push to Avoid New AI Regulato",
+        "dwp_take": "The G20 decided to let existing regulators handle AI instead of creating new oversight bodies, largely following the U.S. position, though plenty of disagreement still exists on how strict things should actually be. This matters because every enterprise deploying AI tools is now operating in a regulatory gray zone where the rules could shift dramatically depending on which country's existing regulator gets aggressive first. It's basically like driving without knowing which cop is on duty, which is exactly how you want to deploy mission-critical workplace technology.",
+        "date": "2026-09-05T07:18:42.340959+00:00"
       },
       {
-        "title": "Mozilla Finally Brings Built-in Ad Blocking to Firefox on iPhone",
-        "url": "https://www.techrepublic.com/article/news-firefox-iphone-built-in-ad-blocker-2026/",
+        "title": "Apple\u2019s Sept. 9 Event: What to Expect From the iPhone 18 Pro and the Reported $2,099-Plus Foldable",
+        "url": "https://www.techrepublic.com/article/news-apple-sept-9-iphone-event/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Firefox for iPhone now includes a built-in ad blocker using EasyList, though first-party ads, search promotions and sponsored Firefox content can remain. The post Mozilla Finally Brings Built-in Ad Bl",
-        "dwp_take": "Mozilla added native ad blocking to Firefox's iPhone app using the EasyList standard, though it still allows first-party ads and sponsored content through. This matters because mobile browsing is where most workers actually live these days, and a faster, cleaner mobile experience directly impacts productivity and employee satisfaction. Here's the thing though: calling it \"built-in ad blocking\" while carving out exceptions for Mozilla's own revenue streams is like saying you're on a diet but desserts don't count.",
-        "date": "2026-09-04T07:37:58.435457+00:00"
+        "excerpt": "Apple\u2019s Sept. 9 event could bring the iPhone 18 Pro, its first foldable iPhone, and a split release schedule extending into 2027. The post Apple\u2019s Sept. 9 Event: What to Expect From the iPhone 18 Pro ",
+        "dwp_take": "Apple is expected to announce the iPhone 18 Pro and possibly its first foldable device at a September 9 event, with product releases apparently staggered through 2027. Digital workplace folks need to pay attention because enterprise mobility strategy just got more complicated, and you'll suddenly have employees demanding those $2,099 foldables for \"productivity.\" Here's the real talk: if your organization is still struggling to support three iPhone models and two Android versions, buckle up because Apple's about to make your device management nightmare look quaint.",
+        "date": "2026-09-05T07:18:46.714172+00:00"
       },
       {
-        "title": "Garmin Fenix 9 vs Fenix 9 Pro: Is the $100 Upgrade Worth It?",
-        "url": "https://www.techrepublic.com/article/news-garmin-fenix-9-vs-fenix-9-pro/",
+        "title": "This $19.99 Claude AI Course Is Built for Work, Not Just Prompts",
+        "url": "https://www.techrepublic.com/article/claude-ai-professional-edegree/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The $100 jump to Garmin\u2019s f\u0113nix 9 Pro buys a titanium case and access to solar and inReach configurations, not a completely different watch platform. The post Garmin Fenix 9 vs Fenix 9 Pro: Is the $10",
-        "dwp_take": "Garmin released a Pro version of their Fenix 9 smartwatch that costs $100 more and adds a titanium case plus solar and inReach features without changing the underlying platform. This matters because employee wellness programs increasingly rely on wearables, and IT teams need to understand what features actually justify higher costs versus pure marketing. Honestly, if your organization is buying these for staff, the standard Fenix 9 probably does everything you need, and that extra hundred bucks adds up fast across a team.",
-        "date": "2026-09-04T07:38:03.534743+00:00"
+        "excerpt": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use. The post This $19.99 Claude AI Course Is Built for Work, Not Just Prompts appeared first on TechR",
+        "dwp_take": "Someone's selling a Claude AI course for twenty bucks that promises to teach workers actual business applications instead of just \"how to ask an AI chatbot nicely.\" This matters because digital workplace professionals need practical AI skills that translate to their jobs, not another generic prompt-engineering masterclass that teaches people to say \"please\" to their tools. Look, at that price point it's worth a shot, but I'd peek at the reviews first because the digital workplace is already drowning in half-baked AI training that sounds good in marketing decks but doesn't survive contact with reality.",
+        "date": "2026-09-05T07:18:51.082823+00:00"
       }
     ]
   }
