@@ -1240,5 +1240,23 @@
     "excerpt": "Greater vendor transparency is needed in the wake of outages at OpenAI, Anthropic, and xAI",
     "dwp_take": "Three major AI services went down simultaneously yesterday, exposing how quickly enterprises have woven these tools into their core operations without proper redundancy or fallback plans. Digital workplace teams now have to answer uncomfortable questions from leadership about whether their AI-dependent workflows can survive a bad day at the vendor's data center. After 30 years watching technology adoptions, I can tell you that betting your company's Monday morning on someone else's infrastructure is how you end up explaining downtime to the board instead of doing actual work.",
     "date": "2026-09-05T12:23:05.890331+00:00"
+  },
+  {
+    "title": "Word and Outlook will stop trying to guess what you\u2019re going to type",
+    "url": "https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft\u2019s text suggestion feature will now be turned off by default in both Word and Outlook, reports The Register. The text suggestions attempt to predict which words or phrases the user intends to",
+    "dwp_take": "Microsoft is flipping text suggestions to off by default in Word and Outlook, letting users opt in instead of opt out. This matters because it finally acknowledges that forcing AI predictions on everyone regardless of workflow is annoying and productivity actually drops when software second-guesses what you're typing. After decades of watching Microsoft jam features nobody asked for into our faces, it's refreshing to see them actually listen, even if it took three decades to figure out that letting people choose their own experience is a novel concept.",
+    "date": "2026-09-05T12:31:00.257823+00:00"
+  },
+  {
+    "title": "Kaseya announces new compliance and Apple device management tools for Datto RMM",
+    "url": "https://www.itpro.com/security/data-protection/kaseya-announces-new-compliance-and-apple-device-management-tools-for-datto-rmm",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "The enhancements will introduce FIPS 140-3 validated cryptography and native Apple MDM to the remote monitoring and management platform",
+    "dwp_take": "Kaseya added FIPS 140-3 cryptography and native Apple device management to Datto RMM, which basically means the platform got more secure and finally stopped making Mac users feel like second-class citizens. For digital workplace folks managing mixed environments, this cuts down on the tool sprawl and compliance headaches that come with bolting together five different platforms. It's not revolutionary stuff, but in a world where people still ask me to manage iPhones through Windows-only software, sometimes competent execution feels like innovation.",
+    "date": "2026-09-05T12:31:05.647065+00:00"
   }
 ]
