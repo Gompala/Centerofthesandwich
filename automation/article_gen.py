@@ -96,7 +96,7 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-        prompt = f"""Write a short blog post for centerofthesandwich.com about: {topic}
+    prompt = f"""Write a short blog post for centerofthesandwich.com about: {topic}
 {context}
 
 The site is called Center of the Sandwich. The writer is called DWP Insider. The audience is people who work in or lead digital workplace functions — IT, service management, employee experience, that world.
