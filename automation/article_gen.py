@@ -96,47 +96,31 @@ def generate_article(topic, source_story=None):
     if source_story:
         context = f"\nThis is inspired by a news story: {source_story['title']}\nExcerpt: {source_story['excerpt']}\nSource: {source_story['source']}\n"
 
-    prompt = f"""Write a short blog post for centerofthesandwich.com about: {topic}
+        prompt = f"""Write a short blog post for centerofthesandwich.com about: {topic}
 {context}
 
 The site is called Center of the Sandwich. The writer is called DWP Insider. The audience is people who work in or lead digital workplace functions — IT, service management, employee experience, that world.
 
-Write like a smart person sharing a genuine take — not teaching, not advising, not revealing hidden truths. Just thinking out loud about something interesting. The tone should feel like a well-written opinion column in a trade publication, but warmer and more human than that sounds. Have some fun with it — a well-placed observation that makes someone smile, an unexpected comparison, a moment of genuine wit. Not forced, not a punchline, just the kind of thing that makes you realize the writer actually enjoyed writing this.
+The tone is warm, genuine, and positive. Write like someone who finds this topic genuinely interesting and wants to share that enthusiasm with a peer. No cynicism, no implied problems, no surprises that things are working. Just a thoughtful, friendly take on something worth thinking about.
 
-Start anywhere except the beginning of the topic. Don't open with "There's this moment" or "Something interesting is happening" or any variation of scene-setting throat-clearing. Just start with a thought. The opening line should make the reader want to read the second line.
+Have some fun with it — a moment of warmth, a light observation, something that makes the reader feel good about having spent three minutes on this. Not a punchline, just good writing that clearly came from someone who enjoyed writing it.
 
-Don't follow a structure. Don't have an intro, body, and conclusion. Just write something that moves.
+Start with a confident, interesting first sentence. Not scene-setting, not a question, not "there's something happening." Just a good first line that makes the reader want the second one.
 
-Keep it between 400 and 550 words. Short enough to read in three minutes, long enough to say something real.
+Write in flowing prose. No structure, no intro-body-conclusion arc, no subheadings. Just good writing that moves naturally from one thought to the next.
 
-No bullet points. No subheadings. No em dashes. No "it's worth noting." No "at the end of the day." No fake statistics. No invented client stories or specific companies you claim to have observed. No phrases like "I've seen this" or "in my experience."
+Keep it between 400 and 550 words.
 
-Pick one of these angles and write from it without announcing which one you chose:
-- The quiet observer — something small that says something bigger
-- The skeptic who came around — something that seemed overhyped but isn't
-- The optimist with receipts — good things happening that don't get enough attention
-- The honest shrug — genuine uncertainty that's interesting in itself
-- The nobody talks about this angle — something overlooked in favor of shinier topics
-- The human side — the people experiencing the technology, not the technology itself
-- The pattern spotter — something showing up consistently that's worth naming
-- The slow burn — a trend building quietly that's now hard to ignore
-- The unexpected upside — a workaround that turned out to work surprisingly well
-- The reality check — cutting through noise on something rarely examined closely
-- The practitioner's view — what this looks like on the ground for people doing the work
-- The emperor has no clothes — something widely accepted that doesn't hold up
-- The uncomfortable truth — something the industry knows but rarely says
-- The overpromised — pitched as transformational, delivers something more modest
-- The pendulum — an idea that swung too far and is now correcting
-- The gap — difference between how leadership talks about this and how employees experience it
-- The long game — why something that looks like a failure might be the right call
-- The fine print — the part that gets glossed over in the excitement
+No bullet points. No em dashes. No "it's worth noting." No "at the end of the day." No fake statistics. No invented stories or specific organizations you claim to have observed. No "I've seen this" or "in my experience." No implying things used to be worse. No implying management resisted or was wrong. No framing anything as a surprise or a revelation.
 
-The focus should be on how organizations work, how services are delivered, how people experience their digital environment — not on product features or vendor news.
+Write about this topic the way someone who genuinely finds it interesting would write about it. Warm, curious, positive. The reader should finish feeling good about the topic and good about having read it.
+
+The focus is on how organizations work, how services are delivered, how people experience their digital environment — not on product features or vendor news.
 
 Return as JSON with exactly these fields:
 {{
-  "title": "A title that makes someone want to read this — not a command, not a lesson, just something interesting",
-  "excerpt": "One sentence that captures the piece without summarizing it (under 160 chars, no double quotes inside)",
+  "title": "A warm, curious title that makes someone want to read this — not a command, not a lesson, just an interesting angle on the topic",
+  "excerpt": "One sentence that captures the piece with warmth and curiosity (under 160 chars, no double quotes inside)",
   "category": "ai-at-work or tools-tech or digital-culture or industry-news or strategy or personal",
   "readtime": 4,
   "body": "The full article in markdown, flowing prose, no subheadings unless genuinely needed, no double quotes inside the text — use single quotes instead"
