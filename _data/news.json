@@ -1,129 +1,147 @@
 {
-  "generated": "2026-09-08T07:42:51.724469+00:00",
+  "generated": "2026-09-09T07:46:26.504698+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "dwp_take": "TechCrunch published a glossary to decode the growing mountain of AI terminology that's now flooding workplace conversations. This matters because your C-suite is throwing around \"opaque recurrence\" and \"prompt injection\" like they invented them, and someone needs to actually understand what gets implemented in your collaboration tools and knowledge management systems. Here's the real talk: if you can't explain the technology your organization is betting on, you're already behind the eight ball on governance, risk, and making sure AI actually solves problems instead of creating new ones.",
-        "date": "2026-09-08T07:41:56.920744+00:00"
+        "excerpt": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "dwp_take": "Someone figured out that their Claude subscription was burning through tokens when they weren't even using it, which led Anthropic to issue a security warning about token theft. This matters because if your AI subscription credentials get compromised, bad actors can run up your bill faster than you can say \"unauthorized API call.\" Here's the thing: people still use the same password for Claude as they do for their email and banking, so this is less a Claude problem and more a \"please use a password manager and enable 2FA\" wake-up call.",
+        "date": "2026-09-09T07:45:26.424569+00:00"
       },
       {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-        "dwp_take": "Authors are fighting back against publishers and literary agents who appear to be pocketing a larger cut of the Anthropic settlement than the authors themselves deserve. This matters to digital workplace pros because it's a live case study in how AI training disputes will likely play out across industries, and your organization probably has similar questions about data ownership and fair compensation buried somewhere in your employment agreements right now. Honestly, this feels less like a tech problem and more like a good old fashioned \"who gets paid\" argument that's been happening since the printing press, just with better lawyers this time around.",
-        "date": "2026-09-08T07:42:01.102586+00:00"
+        "excerpt": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "dwp_take": "Google Cloud signed a deal with Accenture to station engineers inside client organizations, aiming to accelerate enterprise AI implementations and close the gap with AWS and Microsoft. This matters because digital workplace leaders are drowning in AI promises but starving for actual deployment expertise, so having dedicated resources on site could finally turn those pilot projects into real productivity gains. The move is basically Google admitting that selling AI is easy but getting companies to actually use it without blowing up their operations is the hard part, which should tell you everything about where we really are in this cycle.",
+        "date": "2026-09-09T07:45:31.000678+00:00"
       },
       {
-        "title": "OpenAI chief scientist argues for AI research slowdown",
-        "url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
-        "source": "SiliconAngle",
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI Group PBC Chief Scientist Jakub Pachocki called for an artificial intelligence research slowdown in an essay published on Sunday, after other prominent industry figures have expressed similar v",
-        "dwp_take": "Jakub Pachocki from OpenAI is arguing that AI labs should voluntarily pump the brakes on model development instead of racing full throttle ahead. For digital workplace pros, this matters because generative AI tools are already embedded in your collaboration platforms and email, so the pace of capability changes directly affects what skills your workforce needs and how quickly you need to retrain people. Honestly, watching a tech exec call for slowdowns is like watching a race car driver suggest lower speed limits, but at least someone inside the tent is pointing out we might want to see where we're going before the next sharp turn.",
-        "date": "2026-09-08T07:42:06.893993+00:00"
+        "excerpt": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
+        "dwp_take": "Google is doubling Chrome's update frequency from monthly to every two weeks to address security threats and ship AI-powered features more rapidly. This matters because most organizations manage Chrome deployments, and faster release cycles mean IT teams need tighter testing and approval workflows to keep pace without creating security gaps. The real question is whether your infrastructure can handle this cadence, or if you'll end up running outdated builds because you're still treating browser updates like they're quarterly business reviews.",
+        "date": "2026-09-09T07:45:35.096790+00:00"
       },
       {
-        "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
-        "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
+        "title": "Meta debuts its \u2018secure by design\u2019 personal AI agent Muse",
+        "url": "https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Hackers stole about $320 million worth of bitcoin over the weekend from a blockchain platform called the Liquid Network. In a somewhat unusual development, the attackers returned most of the haul earl",
-        "dwp_take": "Hackers grabbed $320 million in bitcoin from Liquid Network but handed back most of it, keeping about $47 million as what you might call a \"consulting fee.\" This matters because your workplace probably stores sensitive data on blockchain platforms or crypto exchanges, and this shows even specialized networks have holes that can be exploited at massive scale. The fact that thieves felt generous enough to return 85 percent of the loot is either a sign they're honorable by criminal standards or they realized someone was about to patch the vulnerability anyway.",
-        "date": "2026-09-08T07:42:10.907075+00:00"
+        "excerpt": "Meta Platforms Inc. is betting that people will be more willing to adopt artificial intelligence agents if they\u2019re simpler to use and they can be trusted. The social media giant today announced Muse, ",
+        "dwp_take": "Meta launched Muse, a personal AI agent designed to automate digital tasks through a dedicated app with a focus on security and ease of use. For digital workplace folks, this matters because employee adoption of AI tools hinges on trust and simplicity, and Meta's betting that \"secure by design\" messaging will move the needle on both fronts. Here's the thing though: we've heard the security promise before, and what really drives adoption is whether Muse actually saves people time on work they hate doing, not marketing language about how safe it is.",
+        "date": "2026-09-09T07:45:40.317370+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Sam Altman calls GPT-6 Astra rollout \u2018messy\u2019 as enterprise users wait for access",
-        "url": "https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html",
+        "title": "Swiss government explores replacing Microsoft 365 with open-source software",
+        "url": "https://www.computerworld.com/article/4219743/swiss-authorities-want-to-replace-microsoft-365-with-open-source-software.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "OpenAI\u2019s rollout of its GPT-6 Astra model ran into early access issues after paying ChatGPT users were unable to use the system shortly after launch, prompting CEO Sam Altman to apologize and say the ",
-        "dwp_take": "OpenAI bungled the launch of GPT-6 Astra, leaving paid users locked out and forcing CEO Sam Altman to apologize for the \"messy\" rollout. This matters because enterprise teams are betting on these tools for productivity gains, and launch failures erode confidence in vendor reliability when your whole workflow depends on something actually working. After 30 years watching software launches, I can tell you that a CEO apologizing on X is corporate speak for \"our infrastructure wasn't ready but we're shipping it anyway\" \u2014 which is basically the tech industry's greatest hits album.",
-        "date": "2026-09-08T07:42:16.485460+00:00"
+        "excerpt": "Swiss authorities have launched a pilot project to determine whether it is possible to replace Microsoft 365 with similar open-source services, RTS reports. This follows a proof-of-concept project in ",
+        "dwp_take": "Switzerland is running a pilot to ditch Microsoft 365 for open-source alternatives like openDesk, having already tested it with 172 government workers. This matters because if a major government actually pulls off this migration, it proves enterprises can escape vendor lock-in and reclaim some control over their digital infrastructure. Personally, I'll believe it when I see the whole thing running smoothly after year two, but good on them for at least trying what most organizations are too nervous to attempt.",
+        "date": "2026-09-09T07:45:45.304979+00:00"
       },
       {
-        "title": "16 Gmail power moves for more efficient inbox management",
-        "url": "https://www.computerworld.com/article/1689055/gmail-tips-snoozing-shortcuts-and-other-time-savers.html",
+        "title": "Judge spares Google\u2019s ad-tech business from a breakup",
+        "url": "https://www.computerworld.com/article/4218844/judge-spares-googles-ad-tech-business-from-a-breakup.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "You might not know it from looking, but Gmail is jam-packed with time-saving tricks. Some of \u2019em are right there in front of your face, if you know how to find \u2019em \u2014 while others require a teensy bit ",
-        "dwp_take": "Computerworld rounded up 16 Gmail features and settings that can help users manage email more efficiently, ranging from visible options to hidden settings that need activation. Digital workplace professionals need to know these tricks because email management directly impacts productivity, and most people are leaving performance on the table by using Gmail like it's still 2005. After three decades watching people drown in their inboxes, I can tell you that half these \"power moves\" are probably things everyone should have learned on day one, but hey, at least someone's finally documenting them.",
-        "date": "2026-09-08T07:42:20.787306+00:00"
+        "excerpt": "Back in April 2025, the US Department of Justice (DoJ) proudly proclaimed that it had prevailed in a landmark antitrust case against Google\u2019s ad business. Yeah. Right. You see, just last week, US Dist",
+        "dwp_take": "A federal judge blocked the Department of Justice's attempt to force Google to divest its AdX ad exchange, effectively gutting what was billed as a landmark antitrust win against the company's ad-tech dominance. This matters to digital workplace pros because Google's ad ecosystem directly affects how organizations buy digital advertising, manage marketing budgets, and compete for visibility online. After years of litigation, the DoJ's \"major victory\" just became a participation trophy, which tells you everything you need to know about how hard it actually is to rein in tech giants through antitrust action.",
+        "date": "2026-09-09T07:45:49.517579+00:00"
+      },
+      {
+        "title": "BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA",
+        "url": "https://www.computerworld.com/article/4219614/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "A phishing-as-a-service operation targeting Microsoft 365 users has harvested thousands of session cookies that could be used to hijack authenticated sessions after victims complete multifactor authen",
+        "dwp_take": "Researchers discovered BigBear 2.0, a phishing operation that steals Microsoft 365 session cookies to hijack accounts even after users complete multifactor authentication. This matters because it means MFA alone won't protect your organization if attackers can grab the session token that proves you're already logged in. After three decades watching security theater, I'll say it plainly: if your people are clicking phishing links, no amount of authentication factors will save you from a determined adversary.",
+        "date": "2026-09-09T07:45:53.507756+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "I coach world No. 1 tennis player Aryna Sabalenka. Here\u2019s what productivity culture gets completely wrong about pressure",
-        "url": "https://www.fastcompany.com/91582582/i-coach-the-worlds-no-1-tennis-player-heres-what-productivity-culture-gets-completely-wrong-about-pressure-performance-pressure-tennis-aryna-sabalenka?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "This \u2018union-busting\u2019 calculator arms workers with information",
+        "url": "https://www.fastcompany.com/91603516/this-union-busting-calculator-arms-workers-with-information?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "I learned to perform under pressure at thirteen, sleeping rough on the street, where reading a room wrong could cost you far more than a meal\u2014sometimes it was the difference between making it through ",
-        "dwp_take": "Aryna Sabalenka's coach argues that mainstream productivity culture doesn't hold up when real pressure hits, drawing from his experience managing performance in high-stakes tennis and surviving street hardship. This matters because digital workplace folks love selling stress management frameworks and productivity systems that sound great in theory but crumble the moment a major client deadline or crisis actually lands. The hard truth he's pointing at is that most of our fancy workplace wellness initiatives are built for comfort, not for the actual chaos of real work, which should make every workplace leader uncomfortable in exactly the right way.",
-        "date": "2026-09-08T07:42:25.544024+00:00"
+        "excerpt": "When employees dare to organize their workplace, a $1.7 billion industry of consultants and law firms springs into action. According to the Labor Department, something like 75% of employers enlist uni",
+        "dwp_take": "A startup built a calculator that helps workers understand unionization costs and benefits, directly countering the advice from the 75% of employers dropping millions on union avoidance consultants. This matters because digital workplace professionals often find themselves caught between management directives and employee trust, and transparency tools like this shift the information balance in ways your typical internal comms campaign can't touch. Funny how a spreadsheet can do what millions in consultant fees are designed to prevent, but then again, workers have always been smarter than management gives them credit for.",
+        "date": "2026-09-09T07:45:57.880919+00:00"
       },
       {
-        "title": "\u2018Did you use AI?\u2019 is the wrong question. Ask \u2018What did you use AI for?\u2019",
-        "url": "https://www.fastcompany.com/91600126/did-you-use-ai-is-the-wrong-question-ask-what-did-you-use-ai-for?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Like working from home? In Australia, it could become the law",
+        "url": "https://www.fastcompany.com/91603687/like-working-from-home-in-australia-it-could-become-the-law?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "At the end of July, a debut crime novel became the most expensive casualty so far in the publishing industry\u2019s war over AI. Fourteen publishing houses had bid for the manuscript, with the winning offe",
-        "dwp_take": "The publishing industry torched a $2 million deal when an author admitted using AI to write parts of his debut crime novel, sparking the usual panic about AI contamination. Digital workplace leaders need to stop treating AI like a virus and start building actual policies around how it gets used, because blanket \"no AI\" rules just push the problem underground. Turns out people care less about the tool and more about whether you used it to actually think or just to avoid doing your job, which seems like a lesson worth learning before your entire organization implodes over a chatbot.",
-        "date": "2026-09-08T07:42:30.004821+00:00"
+        "excerpt": "In some places, the next battle in the war over remote work may be fought in legislatures, not HR departments. The United Kingdom, Ireland, and New Zealand have already passed laws giving workers the ",
+        "dwp_take": "Australia is moving toward legislation that would give workers a legal right to request remote work arrangements, following similar moves in the UK, Ireland, New Zealand, Canada, and the EU. This matters because it signals that employee choice around work location is shifting from a perk HR can revoke to a protected worker right that companies must defend in court. I've watched companies use \"return to office\" as a cudgel for fifteen years, so watching legislatures basically say \"nice try\" is genuinely satisfying.",
+        "date": "2026-09-09T07:46:01.962480+00:00"
       },
       {
-        "title": "America\u2019s disposable workforce is growing. It comes with hidden costs",
-        "url": "https://www.fastcompany.com/91595370/america-disposable-workforce-growing-hidden-costs?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Best Workplaces for Innovators 2026: Advertising, marketing, and PR category winners",
+        "url": "https://www.fastcompany.com/91590135/advertising-marketing-pr-best-workplaces-for-innovators-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Below, Paul Osterman shares five key insights from his new book, Disposable Workers: The Transformation of Employment. Paul is a Professor Emeritus of Human Resources and Management at the MIT Sloan S",
-        "dwp_take": "Companies are increasingly shifting to temporary, contract, and gig work to dodge benefits, training, and long-term commitment while pocketing short-term savings. Digital workplace pros need to care because managing a transient workforce tanks knowledge retention, collaboration, and institutional memory, which no amount of Slack channels can fix. The real kicker is that executives saving money on benefits today are quietly building tomorrow's productivity problem, and no amount of workplace technology will paper over workers who have zero incentive to stick around.",
-        "date": "2026-09-08T07:42:34.204516+00:00"
+        "excerpt": "These eight companies stood out to Fast Company\u2019s Best Workplaces for Innovators 2026 judges for enabling employees to innovate with new technologies and effective processes. The integrated PR and mar",
+        "dwp_take": "Fast Company named eight advertising, marketing, and PR firms as best workplaces for innovation, highlighting companies like Autumn Communications and David&Goliath that invest in employee development and creative processes. For digital workplace pros, this matters because it shows competitive employers are betting on experience design and mobility as retention tools, not just ping pong tables and free coffee. Honestly, a two day bicoastal office swap sounds nice, but let's see if these companies are actually letting people work asynchronously or if innovation just means showing up to a fancier office.",
+        "date": "2026-09-09T07:46:06.214366+00:00"
+      },
+      {
+        "title": "Best Workplaces for Innovators 2026: AI, automation, and machine learning excellence category winners",
+        "url": "https://www.fastcompany.com/91590143/ai-automation-machine-learning-excellence-best-workplaces-for-innovators-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "From global giants (Google, Lenovo) to household names (Match Group, Williams-Sonoma) to cheekily named upstarts (Kiss My Apps), these 20 companies impressed Fast Company judges with their efforts to ",
+        "dwp_take": "Fast Company named 20 companies as best workplaces for innovators, recognizing their use of AI, automation, and machine learning to empower employees. This matters because it signals that investors and media gatekeepers now view technology adoption as a core workplace benefit, not just a cost center play. Here's the thing though: calling yourself innovative on an awards list is easy; actually getting your people to use these tools without losing their minds is the hard part that nobody writes about.",
+        "date": "2026-09-09T07:46:10.115812+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Philippines\u2019 BSP Proposes 12-Month Payment Operator Freeze as QR Rules Tighten",
-        "url": "https://www.techrepublic.com/article/news-bsp-payment-operator-freeze-apac-philippines/",
+        "title": "UN Rights Chief Warns Advanced AI Could Threaten Humanity",
+        "url": "https://www.techrepublic.com/article/news-un-rights-chief-advanced-ai-threat-humanity/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The BSP is proposing a 12-month pause on new payment system operators as it tightens QR merchant identification and transaction-tracing rules. The post Philippines\u2019 BSP Proposes 12-Month Payment Opera",
-        "dwp_take": "The Philippines' central bank is hitting pause on new payment operators for a year while it strengthens rules around QR codes and transaction tracking. This matters because compliance complexity directly impacts how your organization handles digital payments, vendor integrations, and financial workflows in that market. Honestly, this is what happens when regulators play catch-up: they freeze everything while they figure out what they should have required from the start.",
-        "date": "2026-09-08T07:42:38.835613+00:00"
+        "excerpt": "UN rights chief Volker T\u00fcrk warns advanced AI could threaten humanity without binding safeguards, independent oversight and firm global limits. The post UN Rights Chief Warns Advanced AI Could Threate",
+        "dwp_take": "The UN's top human rights official is raising alarms about advanced AI potentially threatening humanity unless we implement binding safeguards, independent oversight, and global limits on its development. For digital workplace professionals, this matters because we're the ones actually deploying AI tools in production environments right now, and regulation is coming whether we like it or not. Look, I've seen a lot of technology cycles come and go, and the one thing I know for sure is that waiting for perfect global consensus while you're already using AI in your HR systems is a losing strategy.",
+        "date": "2026-09-09T07:46:14.206405+00:00"
       },
       {
-        "title": "Cancel Microsoft 365 and Get Microsoft Office for Life for $50",
-        "url": "https://www.techrepublic.com/article/microsoft-office-2024-professional-plus-lifetime/",
+        "title": "Anthropic Walks Away From Reported $6B Decart AI Deal",
+        "url": "https://www.techrepublic.com/article/news-anthropic-walks-away-decart-ai-6-billion-deal/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft 365 costs $99.99/year, but Microsoft Office Pro gives you the same apps for life for only $49.97. The post Cancel Microsoft 365 and Get Microsoft Office for Life for $50 appeared first on Te",
-        "dwp_take": "Someone's selling perpetual Microsoft Office licenses for fifty bucks, which is half of what Microsoft charges annually for 365. This matters because it highlights the tension between subscription models and one-time purchases, and whether your organization's licensing strategy actually makes sense anymore. Here's the thing though: that \"office for life\" comes with no cloud sync, no AI features, no updates, and zero support from Microsoft, so calling it the same app is marketing fiction dressed up as a deal.",
-        "date": "2026-09-08T07:42:43.032970+00:00"
+        "excerpt": "Anthropic reportedly ended talks to acquire Decart AI for $6 billion after due diligence, though the companies could still pursue a future partnership. The post Anthropic Walks Away From Reported $6B ",
+        "dwp_take": "Anthropic pulled the plug on a reported $6 billion acquisition of Decart AI after getting deep into due diligence, though both sides left the door open for future partnerships instead. This matters because workplace AI tools are consolidating fast, and when major players walk away from expensive deals, it signals either real problems with the target company or a shift in acquisition strategy that affects what tools actually land in your tech stack. Guess even AI companies occasionally remember that throwing billions at a problem doesn't always solve it, which is refreshingly honest compared to most tech industry behavior.",
+        "date": "2026-09-09T07:46:18.565513+00:00"
       },
       {
-        "title": "This No-Code App Builder is Only $100 for Life",
-        "url": "https://www.techrepublic.com/article/swiftspeed-ai-app-builder-pro/",
+        "title": "China Is Turning Its Humanoid Robot Boom Toward the Battlefield",
+        "url": "https://www.techrepublic.com/article/news-china-military-humanoid-robots-urban-warfare-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Swiftspeed's AI app builder lets teams ship native Android and iOS apps with no coding and no developer hire. The post This No-Code App Builder is Only $100 for Life appeared first on TechRepublic.",
-        "dwp_take": "A company called Swiftspeed is selling lifetime access to their AI-powered no-code app builder for a one-time $100 payment, letting teams build native Android and iOS apps without hiring developers. This matters because it democratizes app development for workplace teams who've been priced out by traditional tools, potentially shifting how organizations think about internal app budgets. That said, I'd read the fine print carefully and test it thoroughly before betting your business on a hundred-dollar lifetime license, because these deals have a way of disappearing when the company realizes their math doesn't work.",
-        "date": "2026-09-08T07:42:47.335284+00:00"
+        "excerpt": "China\u2019s military is exploring humanoid robots for urban combat as the country\u2019s commercial robotics industry dominates global shipments and manufacturing. The post China Is Turning Its Humanoid Robot ",
+        "dwp_take": "China is weaponizing its booming humanoid robot industry by exploring military applications for urban combat scenarios. For digital workplace professionals, this signals a massive acceleration in automation technology that will reshape labor markets and workplace skill requirements faster than most organizations can adapt. Honestly, if your company is still debating whether to invest in basic workplace AI, you're about to get lapped by nations treating robotics like the next arms race, which they kind of are.",
+        "date": "2026-09-09T07:46:22.323035+00:00"
       },
       {
-        "title": "TIOBE Index for September 2026: Python Drops Below 18% as Julia Nears Top 20",
-        "url": "https://www.techrepublic.com/article/news-tiobe-september-2026-julia-nears-top-20/",
+        "title": "Australia Proposes to Make Social Media Algorithms Optional",
+        "url": "https://www.techrepublic.com/article/news-australia-social-media-algorithms-optional-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "September 2026 TIOBE Index keeps the top 10 unchanged, as Python falls below 18%, C++ widens its lead over Java, and Julia nears the top 20. The post TIOBE Index for September 2026: Python Drops Below",
-        "dwp_take": "Python's market share dropped below 18 percent in the latest TIOBE rankings while Julia climbed toward the top 20, though the top 10 languages remained stable overall. For digital workplace folks, this matters because it signals shifting developer preferences and skill demands that affect hiring, training programs, and internal tool development strategies. Honestly, Python losing ground after years of dominance is like watching your favorite coffee shop finally get some real competition, except the new place serves actual science instead of just hype.",
-        "date": "2026-09-08T07:42:51.724332+00:00"
+        "excerpt": "Australia plans to let social media users choose algorithmic or follow-only feeds under new digital safety rules targeting platform design and control. The post Australia Proposes to Make Social Media",
+        "dwp_take": "Australia is proposing new digital safety rules that would let users toggle between algorithmic feeds and chronological follow-only feeds on social media platforms. This matters to digital workplace pros because it signals a regulatory shift toward user control that could reshape how internal social platforms, employee communication tools, and enterprise networks operate if similar rules spread globally. Honestly, it's refreshing to see someone finally ask users what they actually want instead of assuming we all need an algorithm telling us what to think, but watch how quickly platforms find loopholes when forced choice cuts into engagement metrics.",
+        "date": "2026-09-09T07:46:26.504592+00:00"
       }
     ]
   }
