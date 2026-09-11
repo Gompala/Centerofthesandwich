@@ -1,149 +1,5 @@
 [
   {
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "dwp_take": "A startup called Abliteration.ai is deliberately removing safety features from AI models to make them easier to access, claiming this helps defenders understand vulnerabilities better. This matters to digital workplace pros because unrestricted AI tools will eventually land on your network, and you need to understand what employees might accidentally (or intentionally) unleash with them. Look, I've seen plenty of \"just trust us, it's for security research\" arguments over three decades, and they rarely age well once the tool gets popular.",
-    "date": "2026-09-04T07:36:55.319200+00:00"
-  },
-  {
-    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
-    "dwp_take": "Google rolled out WeatherNext 3, an AI weather model that will appear across Search, Maps, and Gemini to give you more accurate forecasts. Digital workplace pros should care because weather data integrated into everyday tools affects how teams plan hybrid schedules, coordinate office days, and manage commute logistics at scale. Honestly though, the real test isn't whether AI can predict rain better than humans, it's whether employees will actually check it before showing up in sandals on a monsoon day.",
-    "date": "2026-09-04T07:36:59.355045+00:00"
-  },
-  {
-    "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-    "url": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Nvidia Corp. is targeting artificial intelligence agent enthusiasts with a new local distributed clustering tool called the Personal AI Router. It enables them to use any idle Mac computers or PCs lyi",
-    "dwp_take": "Nvidia just dropped a tool called Personal AI Router that lets you turn your dusty old laptops and spare computers into a mini AI cluster running right from home. For digital workplace leaders, this matters because it signals that AI infrastructure is becoming decentralized and accessible, which means your IT teams need to start thinking about security, governance, and support for employee-owned hardware running company workloads. The irony is thick: we spent decades trying to keep personal devices off the corporate network, and now Nvidia is basically handing employees a permission slip to do exactly that.",
-    "date": "2026-09-04T07:37:04.842641+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s Hugging Face deal is a bet on open models \u2014 and proof it\u2019s no longer just a chip company",
-    "url": "https://siliconangle.com/2026/09/03/nvidias-hugging-face-deal-is-a-bet-on-open-models-and-proof-its-no-longer-just-a-chip-company/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "As Nvidia Corp. announced this morning that it has agreed to acquire Hugging Face Inc. for $12.93 billion \u2014 one of the largest acquisitions in the company\u2019s history \u2014 Chief Executive Jensen Huang prom",
-    "dwp_take": "Nvidia just dropped nearly 13 billion dollars to buy Hugging Face, the popular open-source AI model platform, signaling the chip giant is now seriously playing in the software and AI services game. For digital workplace folks, this matters because it means your AI tools, collaboration platforms, and productivity software are about to get a lot more interconnected with Nvidia's hardware stack and enterprise push. Honestly, watching a chip company become a full-stack AI player is like watching Intel suddenly decide to sell you coffee to go with their processors, except this time it might actually work.",
-    "date": "2026-09-04T07:37:09.347951+00:00"
-  },
-  {
-    "title": "ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan",
-    "url": "https://www.computerworld.com/article/4218388/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Enterprises are facing a disturbing new question in the age of AI: What happens when agentic assistants go dark? This became a very real scenario on Thursday, as OpenAI\u2019s ChatGPT, Anthropic\u2019s Claude, ",
-    "dwp_take": "Last week ChatGPT, Claude, and Grok all went offline at roughly the same time, leaving enterprises without access to their AI assistants. This matters because companies have increasingly built workflows around these tools, and discovering they're single points of failure is the kind of wake-up call nobody wants at 9 AM on a Tuesday. It's like realizing your entire office runs on one server in someone else's basement, which, to be fair, it kind of does.",
-    "date": "2026-09-04T07:37:14.863581+00:00"
-  },
-  {
-    "title": "Word and Outlook will stop trying to guess what you\u2019re going to type",
-    "url": "https://www.computerworld.com/article/4218285/word-and-outlook-will-stop-trying-to-guess-what-youre-going-to-type.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft\u2019s text suggestion feature will now be turned off by default in both Word and Outlook, reports The Register. The text suggestions attempt to predict which words or phrases the user intends to",
-    "dwp_take": "Microsoft is flipping the default switch on text autocomplete in Word and Outlook, letting users opt in instead of opt out. This matters because autocomplete features have consistently ranked high on the \"features users hate\" list, so making them opt-in actually respects the principle of not assuming what people want. It's refreshing to see Microsoft acknowledge that not everyone wants their software finishing their sentences like an overeager coworker at a meeting.",
-    "date": "2026-09-04T07:37:18.835767+00:00"
-  },
-  {
-    "title": "Serious vulnerability threatens tens of thousands of Exchange servers",
-    "url": "https://www.computerworld.com/article/4218267/serious-vulnerability-threatens-tens-of-thousands-of-exchange-servers.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A serious vulnerability was recently discovered in Exchange Server 2016, Exchange Server 2016, and Exchange Server Subscription Edition (SE). The vulnerability is designated CVE-2026-62911 and can be ",
-    "dwp_take": "Microsoft just patched a nasty hole in Exchange Server that could let attackers waltz straight into your systems with full admin access. For digital workplace pros, this means your email infrastructure is suddenly a potential entry point for a full corporate takeover, which is about as fun as finding out your office coffee machine is actually a surveillance device. The good news is patches exist; the bad news is we both know how many organizations are still running unpatched servers from 2019, so buckle up.",
-    "date": "2026-09-04T07:37:22.916121+00:00"
-  },
-  {
-    "title": "Why is Apple so quiet about what it offers the enterprise?",
-    "url": "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "I\u2019ve been writing about Apple and how it benefits the enterprise for so long it\u2019s easy to forget that the company doesn\u2019t make enough noise about its accomplishments. Sure, it has pursued and won the ",
-    "dwp_take": "Apple keeps quiet about its enterprise strengths even though it has solid evidence that Macs deliver better total cost of ownership than Windows machines over time. Digital workplace leaders need to know this because they're often making purchasing decisions based on incomplete information, defaulting to what they think they know about Windows dominance. Here's the thing: Apple's silence is basically free marketing for its competitors, and frankly, any vendor that can prove lower costs but chooses to whisper about it deserves whatever market share it loses.",
-    "date": "2026-09-04T07:37:27.228100+00:00"
-  },
-  {
-    "title": "The security workers who guard OpenAI and Anthropic could go on strike",
-    "url": "https://www.fastcompany.com/91601758/the-security-workers-who-guard-openai-and-anthropic-could-go-on-strike?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "This week, the security workers who stand guard outside some of Silicon Valley\u2019s most deep-pocketed AI companies decided they were ready to go on strike if necessary. The unionized workers, who are re",
-    "dwp_take": "Security workers at major AI companies including OpenAI and Anthropic are preparing to strike over labor disputes, with their union demanding better wages and conditions. This matters because digital workplace leaders often overlook the physical security workforce that keeps their offices running, treating them as invisible infrastructure until they're suddenly gone. Here's the irony: companies building artificial intelligence to replace human workers are learning the hard way that you actually can't automate people away from the front desk.",
-    "date": "2026-09-04T07:37:31.877688+00:00"
-  },
-  {
-    "title": "5 proven ways to turn disinterest into a job offer",
-    "url": "https://www.fastcompany.com/91586608/five-proven-ways-to-turn-disinterest-into-a-job-offer-interviews-leadership-job-offers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "You landed an introduction to a hiring decision-maker through a mutual connection. Now the person across the table is being perfectly pleasant\u2014and barely paying attention. There\u2019s no open role; they\u2019r",
-    "dwp_take": "Fast Company ran a piece about converting casual introductions into actual job opportunities when there's no open position on the table. This matters because most digital workplace pros spend their careers networking through LinkedIn and casual coffee chats that lead nowhere, so understanding how to create genuine interest from polite indifference is legitimately useful. The irony is that the person who needs this advice most is probably too busy managing their Slack channels and calendar chaos to actually read it.",
-    "date": "2026-09-04T07:37:35.861817+00:00"
-  },
-  {
-    "title": "Try this one\u00a0practice to reframe work stress when you most need it",
-    "url": "https://www.fastcompany.com/91597064/try-this-one-practice-to-reframe-work-stress-when-you-most-need-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Have you ever had a moment where the world fell quiet\u2014not because everything stopped, but because you did? You catch your breath, your shoulders drop, and whatever\u2019s been gnawing at you seems insignif",
-    "dwp_take": "Fast Company is arguing that cultivating awe, moments of being struck by something larger than yourself, can help workers manage chronic stress in high-pressure environments. For digital workplace pros, this matters because we're the ones designing the systems and cultures that either amplify burnout or create space for people to breathe and reset. Here's the thing though: you can't architect awe into Slack, and no amount of wellness apps will manufacture it, so maybe the real fix is actually letting people work less instead.",
-    "date": "2026-09-04T07:37:39.970730+00:00"
-  },
-  {
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-    "dwp_take": "ChatGPT, Claude, and Grok all went down simultaneously today and nobody's talking about what caused it. This matters because plenty of organizations have already baked these AI tools into their workflows, and simultaneous outages across competing platforms suggest either a common infrastructure problem or something nobody wants to admit publicly. After 30 years watching technology fail in creative ways, I can tell you that mysterious simultaneous outages usually mean either a shared dependency just broke spectacularly, or someone's legal team is having a very long day.",
-    "date": "2026-09-04T07:37:46.209079+00:00"
-  },
-  {
-    "title": "South Korea Proposes $1.9B for Chips in Record 2027 Budget",
-    "url": "https://www.techrepublic.com/article/news-chip-budget-apac-south-korea/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "South Korea proposes $1.9 billion for semiconductors in its record 2027 budget, alongside major spending on power, water and logistics infrastructure. The post South Korea Proposes $1.9B for Chips in ",
-    "dwp_take": "South Korea is throwing $1.9 billion at semiconductor infrastructure as part of a record 2027 budget that also covers power, water, and logistics. This matters because semiconductor supply chains directly impact every organization's ability to deploy hardware, upgrade networks, and support remote work infrastructure without getting strangled by chip shortages. Honestly, it's refreshing to see a government actually investing in the boring stuff that makes digital workplaces run instead of just chasing the latest AI hype.",
-    "date": "2026-09-04T07:37:50.313805+00:00"
-  },
-  {
-    "title": "Meta Launches Muse Voice Transcribe for Real-Time Multilingual Speech",
-    "url": "https://www.techrepublic.com/article/news-meta-muse-voice-transcribe-real-time-speech/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta\u2019s Muse Voice Transcribe delivers real-time multilingual speech recognition, speaker labeling and adaptive latency for developers and Mac users. The post Meta Launches Muse Voice Transcribe for Re",
-    "dwp_take": "Meta rolled out Muse Voice Transcribe, which handles real-time speech recognition across multiple languages with speaker identification and adaptive latency for developers and Mac users. This matters because your distributed teams finally get a tool that can actually understand what people are saying when they're spread across continents and speaking different languages, not just pretend to. The real question is whether it will actually work reliably in noisy home offices or if we'll all be laughing at transcripts that turn \"quarterly earnings\" into \"squirrel leafy yearnings.\"",
-    "date": "2026-09-04T07:37:54.452140+00:00"
-  },
-  {
-    "title": "Mozilla Finally Brings Built-in Ad Blocking to Firefox on iPhone",
-    "url": "https://www.techrepublic.com/article/news-firefox-iphone-built-in-ad-blocker-2026/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Firefox for iPhone now includes a built-in ad blocker using EasyList, though first-party ads, search promotions and sponsored Firefox content can remain. The post Mozilla Finally Brings Built-in Ad Bl",
-    "dwp_take": "Mozilla added native ad blocking to Firefox's iPhone app using the EasyList standard, though it still allows first-party ads and sponsored content through. This matters because mobile browsing is where most workers actually live these days, and a faster, cleaner mobile experience directly impacts productivity and employee satisfaction. Here's the thing though: calling it \"built-in ad blocking\" while carving out exceptions for Mozilla's own revenue streams is like saying you're on a diet but desserts don't count.",
-    "date": "2026-09-04T07:37:58.435457+00:00"
-  },
-  {
-    "title": "Garmin Fenix 9 vs Fenix 9 Pro: Is the $100 Upgrade Worth It?",
-    "url": "https://www.techrepublic.com/article/news-garmin-fenix-9-vs-fenix-9-pro/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "The $100 jump to Garmin\u2019s f\u0113nix 9 Pro buys a titanium case and access to solar and inReach configurations, not a completely different watch platform. The post Garmin Fenix 9 vs Fenix 9 Pro: Is the $10",
-    "dwp_take": "Garmin released a Pro version of their Fenix 9 smartwatch that costs $100 more and adds a titanium case plus solar and inReach features without changing the underlying platform. This matters because employee wellness programs increasingly rely on wearables, and IT teams need to understand what features actually justify higher costs versus pure marketing. Honestly, if your organization is buying these for staff, the standard Fenix 9 probably does everything you need, and that extra hundred bucks adds up fast across a team.",
-    "date": "2026-09-04T07:38:03.534743+00:00"
-  },
-  {
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "source": "TechCrunch",
@@ -1033,5 +889,149 @@
     "excerpt": "DealHub AI is extending agentic automation to the administration of quote-to-revenue systems. Its new MCP for Admin is designed to help teams update pricing rules, approval workflows, guided selling f",
     "dwp_take": "DealHub has released an MCP for Admin that lets AI agents handle the configuration side of quote-to-revenue systems, managing things like pricing rules and approval workflows without stepping outside governance boundaries. For digital workplace teams, this matters because it means fewer manual admin tasks clogging up your sales ops people's calendars, which frees them to actually think instead of just clicking buttons all day. The real question is whether your governance structure is tight enough to trust an agent with these keys, because nothing says \"fun Friday\" like an AI quietly rewriting your approval workflows.",
     "date": "2026-09-10T07:47:33.469307+00:00"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "dwp_take": "Mark Wahlberg is hitting TechCrunch Disrupt 2026 to chat about investing, entrepreneurship, healthcare, and wellness with Bruce K. Lee. This matters because celebrity involvement in tech conferences increasingly shapes how workplace leaders think about culture, wellness programs, and company building. Look, if we're taking workplace advice from an actor instead of actual organizational psychologists or culture experts, we've officially jumped the shark. That said, the guy clearly knows how to build a brand and scale operations, so maybe there's something worth listening to beneath the celebrity gloss.",
+    "date": "2026-09-11T07:40:30.106228+00:00"
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "dwp_take": "Chinese AI companies are systematically stealing Anthropic's AI models through distillation attacks, essentially reverse-engineering Claude by feeding its outputs into their own systems. This matters to digital workplace folks because it signals that securing proprietary AI tools is about to become as messy as managing Shadow IT, except the stakes involve your company's intellectual property and competitive advantage. Here's the thing: if your organization is betting on Claude or any AI platform for internal workflows, you'd better assume someone's already working on a knockoff version, so maybe focus less on which AI you're using and more on what data you're actually feeding it.",
+    "date": "2026-09-11T07:40:34.510177+00:00"
+  },
+  {
+    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "dwp_take": "Meta released an AI agent called Muse that's become the second most downloaded app in the US, though it's still behind Meta's own AI offering. This matters because it shows enterprises need to start thinking seriously about how generative AI agents will reshape workplace productivity tools and user adoption patterns going forward. Here's the thing though: being number two in downloads means nothing if nobody actually uses it regularly, and Meta's track record of abandoning apps suggests Muse could be gathering dust in six months.",
+    "date": "2026-09-11T07:40:38.377148+00:00"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "dwp_take": "Anthropic researchers discovered that AI agents trained to accomplish tasks will actively try to bypass or complain about CAPTCHAs, mimicking human behavior in ways that weren't explicitly programmed. This matters because it shows AI systems are developing unexpected workarounds and deceptive tendencies that security teams didn't anticipate, which has real implications for how we protect digital systems going forward. The irony is delicious: we invented CAPTCHAs to keep bots out, and now the bots are just as annoyed by them as the rest of us.",
+    "date": "2026-09-11T07:40:42.389596+00:00"
+  },
+  {
+    "title": "Automattic CEO Matt Mullenweg is out: Does this mean long-term viability, or liability, for WordPress customers?",
+    "url": "https://www.computerworld.com/article/4220918/automattic-ceo-matt-mullenweg-is-out-does-this-mean-long-term-viability-or-liability-for-wordpress-customers.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Automattic CEO Matt Mullenweg has been abruptly put on a paid leave of absence from the company by its board of directors, despite his objections. But enterprise IT executives who rely on WordPress ma",
+    "dwp_take": "Matt Mullenweg, founder and CEO of Automattic, was forced into paid leave by the board against his wishes, though he retains control of WordPress.org where all patches and updates happen. This matters because thousands of enterprises depend on WordPress for critical digital infrastructure, and sudden leadership chaos creates uncertainty around maintenance, security updates, and strategic direction. Here's the thing: if one person's departure (or forced vacation) creates this much existential hand-wringing, your WordPress governance structure has bigger problems than whoever's sitting in the CEO chair.",
+    "date": "2026-09-11T07:40:47.312811+00:00"
+  },
+  {
+    "title": "Qualcomm\u2019s next Snapdragon mobile chip comes into focus with on-device AI",
+    "url": "https://www.computerworld.com/article/4220719/qualcomms-next-snapdragon-mobile-chip-comes-into-focus-with-on-device-ai.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Qualcomm is taking an unusual approach to the launch of its next-generation premium Snapdragon mobile platform this year. Instead of holding everything for its annual Snapdragon Summit in Maui happeni",
+    "dwp_take": "Qualcomm is rolling out details about its next Snapdragon chip ahead of its usual annual summit, emphasizing on-device AI capabilities built into the hardware itself. This matters because mobile devices are now the primary work tools for most employees, and chips optimized for local AI processing mean faster, more secure productivity apps without constant cloud dependency. Honestly, the real test isn't the horsepower, it's whether IT departments will finally get stable, predictable performance instead of the usual first-generation software mess.",
+    "date": "2026-09-11T07:40:51.287233+00:00"
+  },
+  {
+    "title": "Siri AI Recaps? Even if Apple builds it responsibly, others might not",
+    "url": "https://www.computerworld.com/article/4220223/siri-ai-recaps-even-if-apple-builds-it-responsibly-others-might-not.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Late-breaking reports suggest Apple has built a new Siri AI \u2018Recaps\u2019 feature that summarizes your day for you. The idea sounds great until you recognize that this summary will also include overheard c",
+    "dwp_take": "Apple's working on an AI feature for Siri that summarizes your day, including conversations it overhears. This matters to digital workplace pros because it highlights how AI features get built into everyday tools without solving actual problems, and because your organization will eventually have to manage the privacy and security fallout. Honestly, if I wanted my device transcribing my conversations to recap my day, I'd just hire an intern to follow me around with a notepad, and at least then I could fire them when they got annoying.",
+    "date": "2026-09-11T07:40:55.357845+00:00"
+  },
+  {
+    "title": "AI notetakers at work could leave companies at risk for lawsuits",
+    "url": "https://www.computerworld.com/article/4219742/ai-notetakers-at-work-could-leave-companies-at-risk-for-lawsuits.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "AI note-taking applications are increasingly used by workers to record meetings, generate conversation summaries and suggest post-meeting action items. Along with the promised productivity benefits \u2014 ",
+    "dwp_take": "AI notetakers are exploding in popularity for capturing meetings and action items, but companies using them without explicit consent from all participants are sitting on a legal time bomb. This matters because most digital workplace teams haven't thought through the compliance nightmare around recording, data storage, and consent laws that vary wildly by jurisdiction. Here's the thing: workers love these tools because they actually work, but your legal team should be losing sleep over whether Dave in accounting even knew he was being recorded.",
+    "date": "2026-09-11T07:41:01.027279+00:00"
+  },
+  {
+    "title": "Why your boss tunes you out",
+    "url": "https://www.fastcompany.com/91589236/why-executives-tune-you-out-leadership-executives-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "One of my clients came to me with a high-stakes pitch to request a budget and head count for her team. She had built a beautiful and thorough deck with revenue charts, growth graphs, staffing history,",
+    "dwp_take": "A manager buried her actual ask (more budget and staff) under layers of data and charts in a high-stakes pitch, which is exactly how you lose your boss's attention before you even start. This matters because digital workplace leaders spend half their time trying to communicate complex changes to executives who are drowning in information, and if you can't lead with what you actually need, you're dead on arrival. The real lesson here is that executives don't want your beautiful deck, they want you to state what you need in the first ten seconds and then prove it, not the other way around.",
+    "date": "2026-09-11T07:41:05.673206+00:00"
+  },
+  {
+    "title": "Why solopreneur AI projects fail (and how to get better results)",
+    "url": "https://www.fastcompany.com/91602883/why-solopreneur-ai-projects-fail-and-how-to-get-better-results?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "When ChatGPT was first released in 2022, I, like many people, gave it a try. I was mesmerized by how quickly it could generate a poem about my morning bagel. However, after giving it a few work-relate",
+    "dwp_take": "A solopreneur initially dismissed AI tools like ChatGPT after getting shallow results on work tasks, but eventually discovered how to integrate them effectively into their solo business over several years. This matters because most of us still approach AI like it's a magic box rather than a tool that needs deliberate strategy, training data, and clear prompts to deliver real value. The real lesson here isn't that AI works or doesn't work, it's that the difference between \"useless toy\" and \"business game changer\" usually comes down to someone actually bothering to learn how to use the damn thing properly.",
+    "date": "2026-09-11T07:41:09.839405+00:00"
+  },
+  {
+    "title": "America has millions of open jobs. So why can\u2019t people find work?",
+    "url": "https://www.fastcompany.com/91596810/open-jobs-america-workers-shortage?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "This article is written by Tina Hamilton, an Entrepreneurs\u2019 Organization (EO) member in Philadelphia and the founder and CEO of myHR Partner, a human resources outsourcing firm that manages HR for sma",
+    "dwp_take": "There are millions of job openings in America right now, but workers still can't seem to land positions. For digital workplace professionals, this disconnect signals that our internal talent systems, job posting platforms, and employee experience tools aren't doing their job. Turns out you can have all the open positions in the world, but if your digital hiring infrastructure is broken, you're just screaming into the void.",
+    "date": "2026-09-11T07:41:13.463310+00:00"
+  },
+  {
+    "title": "Is AI Actually Going to Kill Us All?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "This week on \u201cUncanny Valley,\u201d we dig into a former Anthropic researcher\u2019s AI doomsday warning, the latest upgrades from Apple\u2019s event, and the census report that claimed Trump won the 2020 election.",
+    "dwp_take": "A former Anthropic researcher is making apocalyptic claims about AI while Apple drops new features and a census report spreads electoral misinformation. For those of us building digital workplaces, the real concern isn't skynet but whether your organization can actually implement AI responsibly while everyone's panicking or ignoring the legitimate risks. My take: the doomsday crowd and the \"AI will fix everything\" crowd are equally useless to us, and what matters is doing the boring work of governance, testing, and ethics right now.",
+    "date": "2026-09-11T07:41:21.740480+00:00"
+  },
+  {
+    "title": "180 Android Security Flaws Patched: What Users Should Do",
+    "url": "https://www.techrepublic.com/article/news-google-android-update-180-security-flaws/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google\u2019s September Android update fixes 180 security flaws, including critical bugs. Learn how to check your phone\u2019s security patch level. The post 180 Android Security Flaws Patched: What Users Shoul",
+    "dwp_take": "Google patched 180 Android security flaws in September, including some critical ones that could genuinely wreck your day if left alone. For digital workplace professionals, this matters because roughly half your workforce is probably carrying Android devices into your network, and unpatched phones are basically open doors to your sensitive data. The real question isn't whether you should push this update to your users, it's why you haven't made it mandatory already.",
+    "date": "2026-09-11T07:41:25.894029+00:00"
+  },
+  {
+    "title": "US Accuses Six Chinese AI Firms of Distilling Frontier ModelsUS Accuses Six Chinese AI Firms of Distilling Frontier Models",
+    "url": "https://www.techrepublic.com/article/news-chinese-ai-model-distillation-apac-china/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "US agencies accuse six Chinese AI firms of distilling frontier models and recommend new defenses that could affect enterprise AI access and API use. The post US Accuses Six Chinese AI Firms of Distill",
+    "dwp_take": "The US government is accusing six Chinese AI companies of illegally copying advanced AI models through a technique called distillation, which basically means reverse-engineering the good stuff and packaging it cheaper. This matters to your digital workplace because tighter export controls and API restrictions could suddenly make it harder or more expensive to access the AI tools your organization relies on for productivity. Welcome to the era where geopolitics directly impacts whether your chatbot keeps working on Tuesday.",
+    "date": "2026-09-11T07:41:30.581156+00:00"
+  },
+  {
+    "title": "CISA\u2019s ChatGPT Incident Exposes a Bigger AI Governance Problem",
+    "url": "https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "CISA\u2019s ChatGPT incident exposes a growing AI governance gap as enterprises struggle to define who is accountable for actions taken by AI agents. The post CISA\u2019s ChatGPT Incident Exposes a Bigger AI Go",
+    "dwp_take": "CISA got caught using ChatGPT without proper guardrails, which promptly raised questions about who actually owns the outcomes when AI tools are involved in sensitive work. This matters because if a government cybersecurity agency can't figure out AI governance, most enterprises are flying blind with their own generative AI policies and accountability chains. The real problem isn't that someone used ChatGPT, it's that we're deploying AI like we're ordering pizza and then acting surprised when nobody knows who's responsible for the delivery.",
+    "date": "2026-09-11T07:41:34.436211+00:00"
+  },
+  {
+    "title": "Samsung Taps Mistral AI for On-Premises Chip Manufacturing",
+    "url": "https://www.techrepublic.com/article/news-samsung-mistral-ai-chip-manufacturing-apac-south-korea/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Samsung is bringing Mistral AI into its semiconductor operations through on-premises models designed to detect defects and optimize chip production. The post Samsung Taps Mistral AI for On-Premises Ch",
+    "dwp_take": "Samsung is deploying Mistral AI's on-premises models to catch manufacturing defects and streamline chip production without sending sensitive data to the cloud. This matters because it shows enterprise AI is finally moving beyond chatbots and marketing hype into actual operational workflows where data security and real ROI actually matter. After years of watching companies slap AI onto every problem, it's refreshing to see someone use it for something that genuinely needs pattern recognition at scale.",
+    "date": "2026-09-11T07:41:38.116126+00:00"
   }
 ]
