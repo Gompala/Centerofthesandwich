@@ -1,140 +1,5 @@
 [
   {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "dwp_take": "Someone figured out that their Claude subscription was burning through tokens when they weren't even using it, which led Anthropic to issue a security warning about token theft. This matters because if your AI subscription credentials get compromised, bad actors can run up your bill faster than you can say \"unauthorized API call.\" Here's the thing: people still use the same password for Claude as they do for their email and banking, so this is less a Claude problem and more a \"please use a password manager and enable 2FA\" wake-up call.",
-    "date": "2026-09-09T07:45:26.424569+00:00"
-  },
-  {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-    "dwp_take": "Google Cloud signed a deal with Accenture to station engineers inside client organizations, aiming to accelerate enterprise AI implementations and close the gap with AWS and Microsoft. This matters because digital workplace leaders are drowning in AI promises but starving for actual deployment expertise, so having dedicated resources on site could finally turn those pilot projects into real productivity gains. The move is basically Google admitting that selling AI is easy but getting companies to actually use it without blowing up their operations is the hard part, which should tell you everything about where we really are in this cycle.",
-    "date": "2026-09-09T07:45:31.000678+00:00"
-  },
-  {
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
-    "dwp_take": "Google is doubling Chrome's update frequency from monthly to every two weeks to address security threats and ship AI-powered features more rapidly. This matters because most organizations manage Chrome deployments, and faster release cycles mean IT teams need tighter testing and approval workflows to keep pace without creating security gaps. The real question is whether your infrastructure can handle this cadence, or if you'll end up running outdated builds because you're still treating browser updates like they're quarterly business reviews.",
-    "date": "2026-09-09T07:45:35.096790+00:00"
-  },
-  {
-    "title": "Meta debuts its \u2018secure by design\u2019 personal AI agent Muse",
-    "url": "https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Meta Platforms Inc. is betting that people will be more willing to adopt artificial intelligence agents if they\u2019re simpler to use and they can be trusted. The social media giant today announced Muse, ",
-    "dwp_take": "Meta launched Muse, a personal AI agent designed to automate digital tasks through a dedicated app with a focus on security and ease of use. For digital workplace folks, this matters because employee adoption of AI tools hinges on trust and simplicity, and Meta's betting that \"secure by design\" messaging will move the needle on both fronts. Here's the thing though: we've heard the security promise before, and what really drives adoption is whether Muse actually saves people time on work they hate doing, not marketing language about how safe it is.",
-    "date": "2026-09-09T07:45:40.317370+00:00"
-  },
-  {
-    "title": "Swiss government explores replacing Microsoft 365 with open-source software",
-    "url": "https://www.computerworld.com/article/4219743/swiss-authorities-want-to-replace-microsoft-365-with-open-source-software.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Swiss authorities have launched a pilot project to determine whether it is possible to replace Microsoft 365 with similar open-source services, RTS reports. This follows a proof-of-concept project in ",
-    "dwp_take": "Switzerland is running a pilot to ditch Microsoft 365 for open-source alternatives like openDesk, having already tested it with 172 government workers. This matters because if a major government actually pulls off this migration, it proves enterprises can escape vendor lock-in and reclaim some control over their digital infrastructure. Personally, I'll believe it when I see the whole thing running smoothly after year two, but good on them for at least trying what most organizations are too nervous to attempt.",
-    "date": "2026-09-09T07:45:45.304979+00:00"
-  },
-  {
-    "title": "Judge spares Google\u2019s ad-tech business from a breakup",
-    "url": "https://www.computerworld.com/article/4218844/judge-spares-googles-ad-tech-business-from-a-breakup.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Back in April 2025, the US Department of Justice (DoJ) proudly proclaimed that it had prevailed in a landmark antitrust case against Google\u2019s ad business. Yeah. Right. You see, just last week, US Dist",
-    "dwp_take": "A federal judge blocked the Department of Justice's attempt to force Google to divest its AdX ad exchange, effectively gutting what was billed as a landmark antitrust win against the company's ad-tech dominance. This matters to digital workplace pros because Google's ad ecosystem directly affects how organizations buy digital advertising, manage marketing budgets, and compete for visibility online. After years of litigation, the DoJ's \"major victory\" just became a participation trophy, which tells you everything you need to know about how hard it actually is to rein in tech giants through antitrust action.",
-    "date": "2026-09-09T07:45:49.517579+00:00"
-  },
-  {
-    "title": "BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA",
-    "url": "https://www.computerworld.com/article/4219614/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A phishing-as-a-service operation targeting Microsoft 365 users has harvested thousands of session cookies that could be used to hijack authenticated sessions after victims complete multifactor authen",
-    "dwp_take": "Researchers discovered BigBear 2.0, a phishing operation that steals Microsoft 365 session cookies to hijack accounts even after users complete multifactor authentication. This matters because it means MFA alone won't protect your organization if attackers can grab the session token that proves you're already logged in. After three decades watching security theater, I'll say it plainly: if your people are clicking phishing links, no amount of authentication factors will save you from a determined adversary.",
-    "date": "2026-09-09T07:45:53.507756+00:00"
-  },
-  {
-    "title": "This \u2018union-busting\u2019 calculator arms workers with information",
-    "url": "https://www.fastcompany.com/91603516/this-union-busting-calculator-arms-workers-with-information?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "When employees dare to organize their workplace, a $1.7 billion industry of consultants and law firms springs into action. According to the Labor Department, something like 75% of employers enlist uni",
-    "dwp_take": "A startup built a calculator that helps workers understand unionization costs and benefits, directly countering the advice from the 75% of employers dropping millions on union avoidance consultants. This matters because digital workplace professionals often find themselves caught between management directives and employee trust, and transparency tools like this shift the information balance in ways your typical internal comms campaign can't touch. Funny how a spreadsheet can do what millions in consultant fees are designed to prevent, but then again, workers have always been smarter than management gives them credit for.",
-    "date": "2026-09-09T07:45:57.880919+00:00"
-  },
-  {
-    "title": "Like working from home? In Australia, it could become the law",
-    "url": "https://www.fastcompany.com/91603687/like-working-from-home-in-australia-it-could-become-the-law?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "In some places, the next battle in the war over remote work may be fought in legislatures, not HR departments. The United Kingdom, Ireland, and New Zealand have already passed laws giving workers the ",
-    "dwp_take": "Australia is moving toward legislation that would give workers a legal right to request remote work arrangements, following similar moves in the UK, Ireland, New Zealand, Canada, and the EU. This matters because it signals that employee choice around work location is shifting from a perk HR can revoke to a protected worker right that companies must defend in court. I've watched companies use \"return to office\" as a cudgel for fifteen years, so watching legislatures basically say \"nice try\" is genuinely satisfying.",
-    "date": "2026-09-09T07:46:01.962480+00:00"
-  },
-  {
-    "title": "Best Workplaces for Innovators 2026: Advertising, marketing, and PR category winners",
-    "url": "https://www.fastcompany.com/91590135/advertising-marketing-pr-best-workplaces-for-innovators-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "These eight companies stood out to Fast Company\u2019s Best Workplaces for Innovators 2026 judges for enabling employees to innovate with new technologies and effective processes. The integrated PR and mar",
-    "dwp_take": "Fast Company named eight advertising, marketing, and PR firms as best workplaces for innovation, highlighting companies like Autumn Communications and David&Goliath that invest in employee development and creative processes. For digital workplace pros, this matters because it shows competitive employers are betting on experience design and mobility as retention tools, not just ping pong tables and free coffee. Honestly, a two day bicoastal office swap sounds nice, but let's see if these companies are actually letting people work asynchronously or if innovation just means showing up to a fancier office.",
-    "date": "2026-09-09T07:46:06.214366+00:00"
-  },
-  {
-    "title": "Best Workplaces for Innovators 2026: AI, automation, and machine learning excellence category winners",
-    "url": "https://www.fastcompany.com/91590143/ai-automation-machine-learning-excellence-best-workplaces-for-innovators-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "From global giants (Google, Lenovo) to household names (Match Group, Williams-Sonoma) to cheekily named upstarts (Kiss My Apps), these 20 companies impressed Fast Company judges with their efforts to ",
-    "dwp_take": "Fast Company named 20 companies as best workplaces for innovators, recognizing their use of AI, automation, and machine learning to empower employees. This matters because it signals that investors and media gatekeepers now view technology adoption as a core workplace benefit, not just a cost center play. Here's the thing though: calling yourself innovative on an awards list is easy; actually getting your people to use these tools without losing their minds is the hard part that nobody writes about.",
-    "date": "2026-09-09T07:46:10.115812+00:00"
-  },
-  {
-    "title": "UN Rights Chief Warns Advanced AI Could Threaten Humanity",
-    "url": "https://www.techrepublic.com/article/news-un-rights-chief-advanced-ai-threat-humanity/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "UN rights chief Volker T\u00fcrk warns advanced AI could threaten humanity without binding safeguards, independent oversight and firm global limits. The post UN Rights Chief Warns Advanced AI Could Threate",
-    "dwp_take": "The UN's top human rights official is raising alarms about advanced AI potentially threatening humanity unless we implement binding safeguards, independent oversight, and global limits on its development. For digital workplace professionals, this matters because we're the ones actually deploying AI tools in production environments right now, and regulation is coming whether we like it or not. Look, I've seen a lot of technology cycles come and go, and the one thing I know for sure is that waiting for perfect global consensus while you're already using AI in your HR systems is a losing strategy.",
-    "date": "2026-09-09T07:46:14.206405+00:00"
-  },
-  {
-    "title": "Anthropic Walks Away From Reported $6B Decart AI Deal",
-    "url": "https://www.techrepublic.com/article/news-anthropic-walks-away-decart-ai-6-billion-deal/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Anthropic reportedly ended talks to acquire Decart AI for $6 billion after due diligence, though the companies could still pursue a future partnership. The post Anthropic Walks Away From Reported $6B ",
-    "dwp_take": "Anthropic pulled the plug on a reported $6 billion acquisition of Decart AI after getting deep into due diligence, though both sides left the door open for future partnerships instead. This matters because workplace AI tools are consolidating fast, and when major players walk away from expensive deals, it signals either real problems with the target company or a shift in acquisition strategy that affects what tools actually land in your tech stack. Guess even AI companies occasionally remember that throwing billions at a problem doesn't always solve it, which is refreshingly honest compared to most tech industry behavior.",
-    "date": "2026-09-09T07:46:18.565513+00:00"
-  },
-  {
-    "title": "China Is Turning Its Humanoid Robot Boom Toward the Battlefield",
-    "url": "https://www.techrepublic.com/article/news-china-military-humanoid-robots-urban-warfare-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "China\u2019s military is exploring humanoid robots for urban combat as the country\u2019s commercial robotics industry dominates global shipments and manufacturing. The post China Is Turning Its Humanoid Robot ",
-    "dwp_take": "China is weaponizing its booming humanoid robot industry by exploring military applications for urban combat scenarios. For digital workplace professionals, this signals a massive acceleration in automation technology that will reshape labor markets and workplace skill requirements faster than most organizations can adapt. Honestly, if your company is still debating whether to invest in basic workplace AI, you're about to get lapped by nations treating robotics like the next arms race, which they kind of are.",
-    "date": "2026-09-09T07:46:22.323035+00:00"
-  },
-  {
-    "title": "Australia Proposes to Make Social Media Algorithms Optional",
-    "url": "https://www.techrepublic.com/article/news-australia-social-media-algorithms-optional-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Australia plans to let social media users choose algorithmic or follow-only feeds under new digital safety rules targeting platform design and control. The post Australia Proposes to Make Social Media",
-    "dwp_take": "Australia is proposing new digital safety rules that would let users toggle between algorithmic feeds and chronological follow-only feeds on social media platforms. This matters to digital workplace pros because it signals a regulatory shift toward user control that could reshape how internal social platforms, employee communication tools, and enterprise networks operate if similar rules spread globally. Honestly, it's refreshing to see someone finally ask users what they actually want instead of assuming we all need an algorithm telling us what to think, but watch how quickly platforms find loopholes when forced choice cuts into engagement metrics.",
-    "date": "2026-09-09T07:46:26.504592+00:00"
-  },
-  {
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
     "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "source": "TechCrunch",
@@ -871,5 +736,149 @@
     "excerpt": "PDNob Pro gives IT teams and business professionals lifetime license to AI-powered PDF tools for just $34.97. The post Stop Overpaying for Adobe Acrobat: $35 PDF Editor Has AI Built In appeared first ",
     "dwp_take": "A $35 lifetime PDF editor with AI features is being positioned as a cheaper alternative to Adobe's subscription model. This matters because digital workplace budgets are getting hammered by SaaS sprawl, and any tool that consolidates costs without sacrificing core functionality deserves a look. That said, I've seen enough \"Adobe killers\" come and go to know that lifetime licenses sound great until the vendor disappears or stops updating the software, so proceed with open eyes and a backup plan.",
     "date": "2026-09-15T08:18:58.824513+00:00"
+  },
+  {
+    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "dwp_take": "Jensen Huang says companies like Nvidia don't need government regulation on AI because they can self-regulate safety through engineering. This matters to digital workplace pros because AI tools are already embedded in your collaboration platforms, content management systems, and employee communications, so whether safety standards exist at the industry or regulatory level directly impacts what your organization can actually trust and deploy. I've been doing this for 30 years, and I've never seen \"leave it to the vendors to police themselves\" work out well, especially when quarterly earnings are on the line.",
+    "date": "2026-09-16T08:11:30.556477+00:00"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "dwp_take": "The three biggest AI labs have been quietly coordinating on safety standards while the incoming administration dismisses those very concerns as obstacles to competition. This matters because digital workplace professionals will be deploying these tools into their organizations, and whoever sets the safety baseline now shapes what risks land on your desk later. It's like watching three pilots agree on how to maintain the plane while someone in the cockpit yells to just fly faster and ignore the warning lights.",
+    "date": "2026-09-16T08:11:34.571220+00:00"
+  },
+  {
+    "title": "Cohesity\u2019s new Agent Resilience lets companies roll back AI agents that go wrong",
+    "url": "https://siliconangle.com/2026/09/16/cohesitys-new-agent-resilience-lets-companies-roll-back-ai-agents-that-go-wrong/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Data security company Cohesity Inc. today introduced Cohesity Agent Resilience at its Catalyst conference. The new Cohesity Data Cloud capability backs up the memory and configuration of enterprise ar",
+    "dwp_take": "Cohesity just released a backup and rollback feature for AI agents, letting companies revert them to a known good state when they inevitably go haywire. This matters because we're about to deploy a lot of AI agents into our digital workplaces, and having a panic button when they start making weird decisions feels pretty essential. Finally, someone's building the undo button we all knew we'd need the moment we started letting machines make autonomous choices in production.",
+    "date": "2026-09-16T08:11:39.562076+00:00"
+  },
+  {
+    "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety",
+    "url": "https://siliconangle.com/2026/09/15/openai-anthropic-and-google-secretly-joined-forces-to-collaborate-on-ai-safety/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI Group PBC\u2019s global head of policy Chris Lehane said today that his company has been working closely with rivals Anthropic PBC and Google LLC\u2019s DeepMind research lab to try to devise a framework",
+    "dwp_take": "Three major AI companies quietly started working together on safety frameworks instead of competing on this critical issue. This matters because whatever safety standards these giants agree on will likely become the de facto baseline for AI tools flooding into enterprise environments, whether your IT team likes it or not. Secretly collaborating on safety is refreshingly honest, though calling it \"secret\" while announcing it at a press conference is like sneaking into a party and immediately telling everyone.",
+    "date": "2026-09-16T08:11:43.346904+00:00"
+  },
+  {
+    "title": "The latest Windows 11 update may mess with your device\u2019s audio \u2013 here\u2019s the workaround",
+    "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+    "dwp_take": "Microsoft's September Patch Tuesday update is breaking audio on some USB devices, and users are left hunting for workarounds instead of getting a proper fix. For digital workplace pros, this matters because audio issues directly tank video calls, training sessions, and conference presentations, which suddenly become everyone's problem when they happen at scale across your organization. After three decades watching Microsoft patch cycles, I can tell you this is peak tech comedy: they release an update to fix security holes, punch new ones in audio, then ask you to play detective in your spare time.",
+    "date": "2026-09-16T08:11:48.127600+00:00"
+  },
+  {
+    "title": "Tech layoffs: A 2026 timeline",
+    "url": "https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Among a range of factors leading to a wave of tech sector layoffs in 2026 is the rapid rise of artificial intelligence and automation. Companies are reconfiguring their workforces to leverage AI for i",
+    "dwp_take": "Tech companies are laying off workers in 2026 despite strong profits, driven mostly by AI adoption and automation replacing human roles. Digital workplace leaders need to understand this isn't temporary belt-tightening but structural change, which means your tech stack, employee experience strategy, and internal communications approach all need rethinking. Here's the thing though: companies cutting staff while posting record earnings aren't being forced into it by market conditions, they're choosing it, and that tells you everything you need to know about where priorities actually sit.",
+    "date": "2026-09-16T08:11:53.575948+00:00"
+  },
+  {
+    "title": "Tech CEOs used to fear their boards. No more",
+    "url": "https://www.computerworld.com/article/4221874/tech-ceos-used-to-fear-their-boards-no-more.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The colorful CEO of Automattic, which controls WordPress, was forced out last Thursday by his board of directors, which put him on a leave of absence. He used his system access to remove the accounts ",
+    "dwp_take": "Matt Mullenweg got booted from Automattic's CEO role by his board, used admin access to remove rival executives' accounts, and then got reinstated within days anyway. This matters because it shows boards have completely lost the ability to enforce accountability at the top, which sets a terrible precedent for governance and employee trust across tech companies. When a CEO can literally sabotage his own company's systems and face zero real consequences, you know the inmates are running the asylum.",
+    "date": "2026-09-16T08:11:57.530182+00:00"
+  },
+  {
+    "title": "General Robotics takes a new approach to building a robotic brain",
+    "url": "https://www.computerworld.com/article/4221292/general-robotics-takes-a-new-approach-to-building-a-robotic-brain.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "When it comes to building robotic brains, many companies in the industry focus on putting intelligence directly into their robots. General Robotics is taking an alternate approach. The Redmond, WA com",
+    "dwp_take": "General Robotics is moving robotic intelligence from individual machines into the cloud with their GRID system, letting remote robots tap into centralized AI brains rather than carrying their own processing power. This matters to us because it's the same architectural shift we're seeing in workplace tech generally, where local processing gives way to cloud-hosted intelligence that scales faster and updates everywhere simultaneously. The irony is thick though: we spent decades moving compute closer to users for speed, and now we're sending it back to the cloud because that's where the actual brains live.",
+    "date": "2026-09-16T08:12:01.699945+00:00"
+  },
+  {
+    "title": "A manager rejected a top candidate over one tool. It backfired immediately",
+    "url": "https://www.fastcompany.com/91603431/manager-rejected-top-candidate-over-1-tool-backfired-immediately?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Hiring the right person is hard. Learning to be an end user on most commercially available software is not hard. Bryan Creely, a former recruiter and currently cofounder and CEO of Soor, shared a time",
+    "dwp_take": "A manager rejected a top candidate because they lacked experience with a specific software tool, even though the candidate was otherwise perfectly qualified for the role. This matters to digital workplace folks because it highlights how poorly we've calibrated our hiring filters: we're optimizing for tool proficiency instead of capability and adaptability, which is backwards. Here's the truth: if you're passing on talented people because they haven't used your particular flavor of project management software, you deserve the mediocre team you're about to build.",
+    "date": "2026-09-16T08:12:05.960216+00:00"
+  },
+  {
+    "title": "Sabbaticals are a powerful retention tool. Here\u2019s the research to prove it",
+    "url": "https://www.fastcompany.com/91591090/sabbaticals-are-a-powerful-retention-tool-heres-the-research-to-prove-it-sabbaticals-work-life-balance?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Formal sabbatical policies are increasingly attractive for employees, but are often misunderstood by companies considering them. Giving employees more than a vacation\u2014months, not days or weeks\u2014provide",
+    "dwp_take": "A new study shows that formal sabbatical programs (we're talking months, not weeks) actually reduce burnout and improve retention better than traditional vacation policies. This matters because digital workplace leaders are finally realizing that burnt-out employees don't engage with your shiny new collaboration tools no matter how good they are. Honestly, it's wild that we needed research to prove that letting people actually rest makes them want to stick around, but here we are.",
+    "date": "2026-09-16T08:12:09.681992+00:00"
+  },
+  {
+    "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+    "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+    "dwp_take": "Companies are finally admitting that they need better workforce data and smarter ways to integrate AI into their operations to stay competitive in 2025. This matters because digital workplace pros have been drowning in disconnected systems and half-baked AI implementations for years, and now leadership is actually willing to fund solutions that might actually work. Of course, the real question is whether these same people managers will still be using Excel spreadsheets and asking HR to manually count heads by next November.",
+    "date": "2026-09-16T08:12:14.570629+00:00"
+  },
+  {
+    "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
+    "url": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
+    "dwp_take": "A bunch of tech billionaires who got burned by their own hiring and firing disasters figured out that Democratic politicians weren't going to be their cheerleaders anymore, so they pivoted hard toward Trump. This matters because it signals how quickly tech money and influence can realign when business conditions shift and political winds change, which affects everything from regulation to talent policy. Here's the thing: these billionaires didn't suddenly become principled conservatives. They just realized their previous political bets weren't paying dividends, so they're shopping around like everyone else.",
+    "date": "2026-09-16T08:12:21.984151+00:00"
+  },
+  {
+    "title": "Best Budget Laptops for 2026: 5 Picks Under $800",
+    "url": "https://www.techrepublic.com/article/news-best-budget-laptops-2026-under-800/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Five budget laptops under $800 stand out for different reasons, from OLED displays and 16GB RAM to long battery life and premium portable designs. The post Best Budget Laptops for 2026: 5 Picks Under ",
+    "dwp_take": "TechRepublic rounded up five solid budget laptops under $800 that offer decent specs like OLED screens, 16GB RAM, and reasonable battery life without breaking the bank. This matters because IT procurement teams and individual workers are still dealing with the reality that good equipment doesn't require spending $2,000, which means your tech budgets can actually stretch further. Here's the thing though: every year we get the same article with basically the same message, which tells me the real problem isn't finding a good cheap laptop, it's convincing finance that you need one in the first place.",
+    "date": "2026-09-16T08:12:26.399775+00:00"
+  },
+  {
+    "title": "Best Conversation Intelligence Software for Sales Teams in 2026",
+    "url": "https://www.techrepublic.com/article/best-conversation-intelligence-software/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "I compared the best conversation intelligence software for analyzing sales calls, coaching reps, identifying deal risk, and turning buyer conversations into action. The post Best Conversation Intellig",
+    "dwp_take": "TechRepublic rounded up conversation intelligence tools that help sales teams analyze calls, coach reps, and spot deal risk before it's too late. This matters to digital workplace folks because these systems sit at the intersection of collaboration, analytics, and employee development, and they're becoming table stakes for distributed sales organizations. Honestly though, if your sales team needs AI to tell them why deals are dying, you've probably got bigger problems than software can fix.",
+    "date": "2026-09-16T08:12:30.246782+00:00"
+  },
+  {
+    "title": "Samsung Galaxy Watch Body Composition: How Much Can You Trust the Numbers?",
+    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-body-composition-accuracy/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "How accurate is Samsung Galaxy Watch body composition? Research finds strong agreement for body-fat estimates but weaker results for skeletal muscle. The post Samsung Galaxy Watch Body Composition: Ho",
+    "dwp_take": "Samsung's Galaxy Watch body composition feature shows decent accuracy for body fat but struggles with skeletal muscle measurements, according to recent research. This matters because if your organization is pushing wearables as part of employee wellness programs, you need to know whether the data your people are relying on is actually trustworthy or just expensive theater. Here's the thing: don't let a shiny watch with flashy health metrics become the foundation of your wellness strategy, because half-accurate data is basically just guesswork that costs more and looks fancier.",
+    "date": "2026-09-16T08:12:34.578067+00:00"
+  },
+  {
+    "title": "iPhone Duo\u2019s iOS 27 Is Different: 6 Features Built for a Foldable iPhone",
+    "url": "https://www.techrepublic.com/article/news-iphone-duo-ios-27-foldable-features/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple rebuilt parts of iOS 27 for the iPhone Duo, adding fold-aware layouts, vertical controls, Split View, dual Home Screens, and expanded StandBy. The post iPhone Duo\u2019s iOS 27 Is Different: 6 Featur",
+    "dwp_take": "Apple redesigned iOS 27 specifically for the iPhone Duo foldable device, adding fold-aware layouts, dual Home Screens, Split View, vertical controls, and an expanded StandBy mode. This matters because it signals that foldables are moving from niche gadgets to mainstream enterprise devices, meaning IT teams need to start thinking about how these screen configurations affect everything from video calls to document handling. Honestly, after years of watching companies pretend foldables don't exist in the workplace, Apple finally admitting the screen actually folds in half is refreshingly pragmatic.",
+    "date": "2026-09-16T08:12:38.673678+00:00"
   }
 ]
