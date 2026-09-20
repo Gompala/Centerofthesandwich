@@ -1,147 +1,111 @@
 {
-  "generated": "2026-09-19T07:44:40.546678+00:00",
+  "generated": "2026-09-20T08:12:28.994871+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-        "dwp_take": "Anthropic opened a biology lab to run actual experiments, putting their money where their mouth is on AI solving real problems like disease. This matters because every enterprise betting on AI-as-cure-all suddenly has a reference point for what responsible deployment actually looks like beyond the PowerPoint slides. Here's the thing though: if an AI safety company has to run their own lab to prove AI works in biology, what does that say about all the other vendors promising miracles without breaking a sweat or funding actual research?",
-        "date": "2026-09-19T07:43:38.899651+00:00"
+        "excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "dwp_take": "Flock is offering voluntary buyouts to employees rather than doing straight layoffs, which TechCrunch reports the company says it would otherwise have to do. This matters because it signals how even workplace collaboration platforms are struggling with unit economics and the post-pandemic hiring hangover that hit the entire sector. Look, offering buyouts instead of pink slips is objectively nicer, but let's be honest: when a company that's supposed to help you communicate is quietly shrinking, someone's already made the hard decision about their burn rate.",
+        "date": "2026-09-20T08:11:43.909311+00:00"
       },
       {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-        "dwp_take": "OpenAI researchers have released Jev, a new AI model that promises to deliver software intelligence at a lower cost and faster speed than current options. For digital workplace teams building internal tools, chatbots, and automation features, this matters because it directly impacts your budget and deployment timelines when you're trying to actually ship something. Here's the reality though: cheaper and faster AI is great until you realize you're solving problems your users didn't ask you to solve in the first place.",
-        "date": "2026-09-19T07:43:42.548056+00:00"
-      },
-      {
-        "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
-        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-        "dwp_take": "Disney just hired a former CEO from Character.AI as its first CTO, which is the same company Disney once threatened with legal action for allegedly copying Disney characters. This matters because it shows how the entertainment industry's relationship with AI startups is shifting from adversarial to collaborative, and it suggests Disney sees real strategic value in understanding generative AI from the inside. The irony is almost too perfect: Disney went from \"cease and desist\" to \"please come run our tech strategy,\" which either speaks to Character.AI's legitimacy or Disney's pragmatism, probably both.",
-        "date": "2026-09-19T07:43:46.564890+00:00"
-      },
-      {
-        "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
-        "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
+        "title": "AI governance moves from observability to provable control",
+        "url": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Nscale Global Holdings Ltd. today filed to go public on the New York Stock Exchange. The company, which builds data centers optimized for artificial intelligence workloads, didn\u2019t reveal how much it h",
-        "dwp_take": "Nscale, a data center builder focused on AI infrastructure, just filed for an IPO after landing a massive deal with Anthropic and hitting a $14.6 billion valuation. This matters because digital workplace teams need to understand where the actual compute power behind their AI tools is coming from, and who's profiting from the infrastructure boom fueling enterprise AI adoption. Here's the thing though: everyone's racing to build data centers for AI while we still can't get our internal collaboration platforms to work properly without three separate vendors and a prayer.",
-        "date": "2026-09-19T07:43:51.889053+00:00"
+        "excerpt": "As artificial intelligence agents move from experimental tools into production systems, enterprise governance is being forced to answer a harder question. It is no longer enough to know what an agent ",
+        "dwp_take": "Companies are shifting from just watching what their AI systems do to actually proving they're authorized to do it, with documented reasons for every action. This matters because digital workplace leaders are now accountable for AI decisions in ways they weren't before, which means audit trails and governance frameworks just became mandatory, not optional. Welcome to the compliance theater version of AI, where your AI's permission slip is just as important as what it actually accomplishes.",
+        "date": "2026-09-20T08:11:48.934403+00:00"
+      },
+      {
+        "title": "What to expect during Oracle\u2019s \u2018AI Cyberattacks Are Escalating: How to Secure Your Data Now\u2019 event: Join theCUBE on Sept. 22",
+        "url": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "At a time when AI is introducing new risks to global systems, Oracle Corp. is shifting enterprise security toward the data layer. This approach, based on a three-pronged strategy to secure at source, ",
+        "dwp_take": "Oracle is hosting a webinar on September 22nd where they'll pitch their data-layer security approach to counter AI-driven cyberattacks, focusing on securing data at source, in motion, and through resilience. This matters because AI is genuinely making attacks faster and more sophisticated, so digital workplace leaders need to understand where their actual vulnerabilities sit. Here's the thing though: Oracle selling you a three-pronged security strategy is like a locksmith telling you that locks are the answer to crime. The real work is figuring out which prong actually applies to your mess.",
+        "date": "2026-09-20T08:11:53.017514+00:00"
+      },
+      {
+        "title": "At AGNTCon Europe, ensuring AI agents don\u2019t kill us all",
+        "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "At this past week\u2019s AGNTCon + MCPCon Europe 2026 conference in Amsterdam, the buzz around agentic artificial intelligence was palpable \u2013 but nobody was particularly worried that AI was going to kill u",
+        "dwp_take": "A bunch of people gathered in Amsterdam last week to talk about AI agents actually doing useful work instead of destroying humanity, and somehow the frontier model vendors who would actually know what's happening couldn't be bothered to show up. This matters because digital workplace leaders need to understand the gap between AI hype and what's actually deployable today, and that gap apparently includes the people building the most advanced models. Look, when the people most responsible for AI safety are too busy with their own boardrooms to attend a conference about making AI work safely, you know we're in that special moment where everyone's building the plane while flying it.",
+        "date": "2026-09-20T08:11:57.466292+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Microsoft mops up after Patch Tuesday broke logins, audio, Excel",
-        "url": "https://www.computerworld.com/article/4223945/microsoft-mops-up-after-patch-tuesday-broke-logins-audio-excel.html",
+        "title": "5 internet-improving Chrome extensions worth trying on Android",
+        "url": "https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Microsoft fixed hundreds of security flaws in its September Patch Tuesday software updates \u2014 but it also introduced some annoying bugs. Now it has fixed some of them with a series of out-of-band updat",
-        "dwp_take": "Microsoft's September Patch Tuesday updates fixed security holes but broke logins, audio, and Excel paste functions, forcing the company to release emergency hotfixes days later. This matters because broken core functionality after mandatory security patches puts IT teams in an impossible bind: apply patches and deal with user complaints, or delay patches and accept security risk. After three decades watching this cycle repeat, I can confidently say Microsoft's quality control has the consistency of a Windows update progress bar.",
-        "date": "2026-09-19T07:43:57.041035+00:00"
-      },
-      {
-        "title": "GhostCode attackers abuse device codes to take over Microsoft 365 accounts",
-        "url": "https://www.computerworld.com/article/4223889/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft 365 users are being tricked into handing over access to their accounts by a new phishing kit, GhostCode, that exploits a weakness in a legitimate device authorization flow. Researchers in eS",
-        "dwp_take": "Attackers are using a phishing kit called GhostCode to trick Microsoft 365 users into giving up account access by exploiting the device code authentication flow that Microsoft designed to make login easier. This matters because device code flows are everywhere now, especially for headless applications and mobile scenarios, which means your users are increasingly exposed to this exact social engineering vector. The irony here is thick: Microsoft built this feature to improve security and user experience, and now it's become another way to get people to hand over the keys to the kingdom.",
-        "date": "2026-09-19T07:44:01.122063+00:00"
-      },
-      {
-        "title": "With Siri Recap, Apple threw a punch at OpenAI no one saw coming",
-        "url": "https://www.computerworld.com/article/4223856/with-siri-recap-apple-threw-a-punch-at-openai-no-one-saw-coming.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "John Ternus\u2019 Apple threw a curveball at OpenAI with Siri Recap on Apple Watch, accelerating a conversation about privacy and data protection in an AI-augmented digital era. It\u2019s a move that may yet co",
-        "dwp_take": "Apple launched Siri Recap on Apple Watch, a feature that summarizes your day using on-device AI rather than sending data to external servers like OpenAI's solutions do. For digital workplace folks, this matters because it signals that privacy-first AI processing is becoming table stakes, not a nice-to-have, which will reshape how we think about employee data and compliance. Honestly, watching Apple use privacy as a competitive weapon against OpenAI is the plot twist nobody expected, and it might finally force the industry to stop treating user data like it's just sitting there for the taking.",
-        "date": "2026-09-19T07:44:05.222680+00:00"
-      },
-      {
-        "title": "More and more people believe that AI will take away jobs rather than create new ones",
-        "url": "https://www.computerworld.com/article/4223962/more-and-more-people-believe-that-ai-will-take-away-jobs-rather-than-create-new-ones.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "A new survey from the Pew Research Center shows that a majority of people worldwide now expect artificial intelligence to lead to fewer jobs rather than more. The survey is based on responses from 37 ",
-        "dwp_take": "Most people surveyed across 37 countries believe AI will destroy jobs rather than create them, with wealthier nations most pessimistic about the outlook. Digital workplace leaders need to take this seriously because workforce anxiety directly impacts adoption, engagement, and the change management burden you're already carrying. Here's the thing: people aren't wrong to worry, but pretending everything will be fine while doing nothing to reskill your workforce is how you guarantee the bad outcomes everyone fears.",
-        "date": "2026-09-19T07:44:09.105902+00:00"
+        "excerpt": "Browsing the web on Android sure ain\u2019t what it used to be. Earlier this week, we talked about how the Vivaldi web browser is bringing support for Chrome extensions to Android. Vivaldi has the same Chr",
+        "dwp_take": "Vivaldi browser just brought Chrome extension support to Android, which means mobile users can finally customize their browsing experience the way desktop users have for years. For digital workplace folks, this matters because remote workers relying on mobile devices can now use productivity extensions like password managers, ad blockers, and collaboration tools on the go. Honestly, it's wild that this took so long to happen, but better late than never when your team is juggling work across five different devices.",
+        "date": "2026-09-20T08:12:03.078946+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Thousands of security workers for Big Tech companies are on strike in California",
-        "url": "https://www.fastcompany.com/91609749/thousands-of-security-workers-for-major-tech-companies-are-on-strike?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "I use AI to save time. So why am I working more?",
+        "url": "https://www.fastcompany.com/91606699/i-use-ai-to-save-time-so-why-am-i-working-more?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Security officers at some of the most prominent tech companies in Silicon Valley have been poised to walk off the job since voting to authorize a strike earlier this month. The workers have been in ta",
-        "dwp_take": "Fourteen thousand security workers at major tech companies across Silicon Valley have voted to strike over stalled contract negotiations with security contractors. This matters because your digital workplace is only as secure as the people protecting it, and when those folks are underpaid and frustrated, your physical security posture starts crumbling. Here's the thing: tech companies spent billions on firewalls and AI security tools while the actual humans standing at the gates couldn't afford rent in the Bay Area. That's not a strategy, that's just asking for trouble.",
-        "date": "2026-09-19T07:44:13.128662+00:00"
+        "excerpt": "This year, I\u2019ve been building an AI social media production pipeline to promote the 25+ shows on the Autistic Culture Podcast Network. It took me a week of effort, but I managed to program Claude Code",
+        "dwp_take": "Someone built an AI pipeline that cut their social media posting from a full day down to background automation, yet they're somehow working more hours overall. The digital workplace keeps falling into the same trap: efficiency gains get consumed by scope creep, not reclaimed as actual time off. Here's the real insight nobody wants to hear: AI didn't save them time, it just made them better equipped to say yes to more work.",
+        "date": "2026-09-20T08:12:07.338268+00:00"
       },
       {
-        "title": "Barclays workers in the U.K. demand extra pay to return to office",
-        "url": "https://www.fastcompany.com/91609710/barclays-workers-in-the-uk-demand-extra-pay-to-return-to-office?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Barclays workers in the United Kingdom are protesting the bank\u2019s move from two office days a week to three (with senior staff expected four days) and demanding that the firm cover costs associated wit",
-        "dwp_take": "Barclays UK employees signed an open letter demanding extra pay to offset the costs of increasing office days from two to three per week, with senior staff expected to be in four days starting October. This matters because it shows workers are finally doing the math on RTO costs and willing to push back collectively, which means companies can't just mandate office time without factoring in actual employee expenses. Here's the thing: Barclays probably thought three days was a reasonable compromise, but employees asking for hazard pay to commute is a sign they've stopped accepting RTO as a benign productivity play.",
-        "date": "2026-09-19T07:44:17.287879+00:00"
-      },
-      {
-        "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-        "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+        "title": "Join the WIRED World Fair in Miami on November 4",
+        "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Anthropic\u2019s CEO says that safety hinges on understanding how AI \u201cthinks.\u201d So far the evidence is disturbing.",
-        "dwp_take": "Anthropic's CEO admitted the AI industry doesn't actually understand how large language models work internally, yet keeps deploying them at scale anyway. This matters to digital workplace folks because you're about to inherit AI tools that your vendors can't fully explain, which makes governance, risk management, and trust conversations nearly impossible. Here's the thing: we spent decades building enterprise software with documented architecture and audit trails, and now we're supposed to confidently deploy black boxes that even their creators don't fully comprehend.",
-        "date": "2026-09-19T07:44:22.251896+00:00"
+        "excerpt": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+        "dwp_take": "WIRED is hosting a one-day conference in Miami on November 4 to showcase emerging technologies and the people shaping them. For digital workplace pros, these events are solid networking opportunities where you can actually talk to practitioners instead of reading another LinkedIn post about the future of work. That said, if you're paying conference prices to hear someone explain AI again, you might want to check the actual schedule first because \"transforming our world\" sounds like every tech event since 2016.",
+        "date": "2026-09-20T08:12:13.115462+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Zuckerberg, Musk and Huang Reportedly Urged Trump to Reject AI Regulator",
-        "url": "https://www.techrepublic.com/article/news-zuckerberg-musk-huang-trump-ai-regulator/",
+        "title": "Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets Lower AI Costs",
+        "url": "https://www.techrepublic.com/article/news-meta-mtia-450-arke-ai-chip-inference/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Zuckerberg, Musk, and Huang reportedly urged President Trump to reject an industry-funded AI regulator as debate over frontier AI oversight intensifies. The post Zuckerberg, Musk and Huang Reportedly ",
-        "dwp_take": "Three tech billionaires lobbied Trump to block an industry-funded AI regulatory body, effectively pushing for lighter oversight of frontier AI development. This matters because workplace AI tools are rapidly becoming central to how we collaborate, communicate, and get work done, and the regulatory environment will directly shape what gets built and how safe it actually is. The irony here is thick: the same folks who've spent years saying they want \"responsible AI\" are apparently more interested in moving fast and breaking things, which is basically the startup motto that got us into most of the regulatory messes we have today.",
-        "date": "2026-09-19T07:44:26.356759+00:00"
+        "excerpt": "Meta plans to deploy its MTIA 450 Arke AI chip in 2027 as it looks to cut inference costs, energy use and reliance on general-purpose GPUs. The post Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets ",
+        "dwp_take": "Meta is building its own AI chip called Arke, due in 2027, designed to reduce inference costs and energy consumption while cutting dependence on third-party GPUs. This matters because it signals the end of the GPU monopoly era, meaning organizations will soon have real alternatives that could reshape AI infrastructure budgets and availability. Here's the thing though: 2027 is forever in tech time, so don't cancel your Nvidia contracts just yet.",
+        "date": "2026-09-20T08:12:17.105438+00:00"
       },
       {
-        "title": "Samsung\u2019s New Patent Reveals How a Galaxy Watch Could Measure Blood Sugar",
-        "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-blood-sugar-patent-sept-2026/",
+        "title": "Anthropic\u2019s Next Claude Feature Could Reach Into Your Bank Account",
+        "url": "https://www.techrepublic.com/article/news-anthropic-claude-money-bank-accounts/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "A new Samsung patent reveals how wearable glucose measurement could work as the company continues researching noninvasive blood sugar monitoring. The post Samsung\u2019s New Patent Reveals How a Galaxy Wat",
-        "dwp_take": "Samsung filed a patent for noninvasive blood sugar monitoring on a Galaxy Watch using wearable technology. For digital workplace professionals, this matters because employee wellness programs are moving from the break room to the wrist, and companies will soon be wrestling with data privacy questions they haven't even thought about yet. Here's the thing: just because we can measure someone's glucose on their smartwatch doesn't mean we should collect it all in an HR system, but I guarantee someone's already pitching that exact feature to their CHRO.",
-        "date": "2026-09-19T07:44:30.525188+00:00"
+        "excerpt": "Anthropic appears to be testing Claude Money, a feature that could connect bank accounts to Claude for spending analysis and financial planning. The post Anthropic\u2019s Next Claude Feature Could Reach In",
+        "dwp_take": "Anthropic is testing a Claude feature that would let the AI access your bank account for spending analysis and financial planning. This matters to digital workplace pros because it signals how AI assistants are moving from information tools to transaction tools, which means your workplace security and compliance teams need to start thinking about AI access governance right now. Look, I've seen enough data breaches to know that connecting your bank account to any AI system is basically handing a loaded gun to a toddler and hoping for the best.",
+        "date": "2026-09-20T08:12:20.973005+00:00"
       },
       {
-        "title": "AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech",
-        "url": "https://www.techrepublic.com/article/ai-expansion-robot-factories-and-escalating-security-threats-define-this-week-in-tech/",
+        "title": "Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook",
+        "url": "https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from Sept. 14\u201318. The post AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech appeared first on TechRepublic.",
-        "dwp_take": "AI is expanding across industries, robot factories are scaling up, and security threats are getting worse, according to TechRepublic's weekly roundup. Digital workplace pros need to care because these three trends are colliding directly over your infrastructure: smarter AI tools mean more data flying around, automated systems create new attack surfaces, and bad actors are getting better at exploiting both. Honestly, if your security team isn't already sweating through meetings about this convergence, they should be, because defending a workplace full of AI tools and connected robots is like securing a building where the locks keep learning new ways to open themselves.",
-        "date": "2026-09-19T07:44:36.663822+00:00"
+        "excerpt": "Microsoft warns attackers are using passkey and MFA update requests to phish employees, hijack sessions, and access Microsoft 365 data. The post Hackers Are Using Passkey Updates as a New Microsoft Ph",
+        "dwp_take": "Criminals are now baiting employees with fake passkey and MFA update notifications to steal credentials and break into Microsoft 365 accounts. This matters because your workplace security posture depends on people actually recognizing the difference between real security upgrades and social engineering attacks, and right now that's getting harder. The irony is thick: we push passkeys as the more secure option, but users still can't tell a real update from a convincing fake, which means we're just giving hackers a shinier lure to cast.",
+        "date": "2026-09-20T08:12:25.001362+00:00"
       },
       {
-        "title": "Vietnam Offers Businesses About $114K for AI Projects \u2014 Who Qualifies?",
-        "url": "https://www.techrepublic.com/article/news-ai-funding-businesses-apac-vietnam/",
+        "title": "UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day",
+        "url": "https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Vietnam's NATIF is offering businesses up to about $114,000 for AI projects, with applications open through Oct. 10, 2026. The post Vietnam Offers Businesses About $114K for AI Projects \u2014 Who Qualifie",
-        "dwp_take": "Vietnam's government is dangling $114K in subsidies for businesses willing to develop AI projects before October 2026. Digital workplace teams should care because this signals how seriously some governments are pushing AI adoption and funding innovation, which affects the global competitive landscape you're operating in. Look, free money for AI is great, but the real question is whether your organization actually has a legitimate AI problem to solve or if you're just chasing subsidies to build another chatbot nobody needs.",
-        "date": "2026-09-19T07:44:40.546582+00:00"
+        "excerpt": "The UAE faced 640,000 cyberattacks in one day, its cyber chief says, highlighting risks from unpatched software, ransomware, and deepfakes. The post UAE Cyber Chief Says Country Faced 640,000 Cyberatt",
+        "dwp_take": "The UAE's cyber chief reported their country absorbed 640,000 cyberattacks in a single day, with vulnerabilities stemming from unpatched software, ransomware campaigns, and deepfake threats. Digital workplace pros need to care because this scale of attack activity shows that security isn't some IT department problem anymore, it's a workplace infrastructure crisis that affects every employee and system. Here's the thing though: if your organization's response to hearing that number is \"yikes\" rather than \"let's audit our patch management tomorrow,\" you're already losing.",
+        "date": "2026-09-20T08:12:28.994787+00:00"
       }
     ]
   }

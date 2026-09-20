@@ -1,95 +1,5 @@
 [
   {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "dwp_take": "Anthropic's leadership wants the AI industry to deliberately slow down its development pace rather than race headlong into the next breakthrough. For digital workplace leaders, this matters because it signals that the tools reshaping how we work might actually get a safety review before landing on your employees' desks. Honestly, after thirty years watching tech companies promise restraint while sprinting toward deployment, I'll believe it when I see it, but at least someone's talking about the brakes.",
-    "date": "2026-09-13T07:54:13.850613+00:00"
-  },
-  {
-    "title": "Researchers link another hacking campaign to OpenAI agents",
-    "url": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year. The Wall Street Journal detailed the breach today. The malicious activity wa",
-    "dwp_take": "Researchers have linked multiple hacking campaigns to OpenAI agents, including breaches of code hosting services discovered earlier this year. This matters because if AI agents are being weaponized for cyberattacks, your organization's security posture just got a lot more complicated and your vendors' safety claims need serious scrutiny. Welcome to the future where we're not just worried about human hackers anymore, we're worried about the AI we built to help us.",
-    "date": "2026-09-13T07:54:19.069739+00:00"
-  },
-  {
-    "title": "Salesforce introduces new AI agents to automate sales, support tasks",
-    "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive. The agents are rolling out alongside a new version of Ag",
-    "dwp_take": "Salesforce is releasing AI agents designed to handle routine sales and support work, with most features available now and others coming later. This matters because if these tools actually work as promised, your teams could finally stop drowning in busywork and spend time on things that require actual human judgment. I'll believe it when I see it deployed at a real company for six months without someone declaring it broken and going back to spreadsheets.",
-    "date": "2026-09-13T07:54:22.823217+00:00"
-  },
-  {
-    "title": "Dynatrace and Arize AI push observability from detection toward action",
-    "url": "https://siliconangle.com/2026/09/11/observability-ai-agents-dynatrace-arize-appdevangle/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Enterprise observability is entering a new phase as artificial intelligence changes both the applications companies need to monitor and the way operations teams respond when something goes wrong. Trad",
-    "dwp_take": "Dynatrace and Arize AI are partnering to move observability beyond just spotting problems toward actually fixing them, with AI doing the heavy lifting on both the detection and response sides. This matters because most ops teams are still stuck in the old \"alert and wait for humans to respond\" model while their companies are already shipping AI applications that don't play by traditional monitoring rules. Honestly, if your observability platform still thinks it's 2015, you're about to get schooled by systems that can diagnose and heal themselves.",
-    "date": "2026-09-13T07:54:26.724677+00:00"
-  },
-  {
-    "title": "How to use humor at work effectively",
-    "url": "https://www.fastcompany.com/91603629/how-to-use-humor-at-work-effectively?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "A finance director stands in front of hundreds of employees to reveal the annual figures. No, it\u2019s not the start of the most corporate joke ever, but something I saw a few weeks ago. Right away, he re",
-    "dwp_take": "Fast Company ran a piece about using humor effectively in workplace communication, with an example of a finance director breaking the ice by admitting nervousness and sharing a personal anecdote about his high school theater days. This matters because most digital workplace professionals are drowning in sterile internal communications and could actually benefit from authentic human moments instead of corporate talking points. The irony is that many organizations spend thousands on \"engagement strategies\" when all they really need is a leader brave enough to admit they're nervous and share something real, not rehearsed.",
-    "date": "2026-09-13T07:54:32.675165+00:00"
-  },
-  {
-    "title": "4 things you can do to protect yourself from the rising threat of AI",
-    "url": "https://www.fastcompany.com/91605985/4-things-you-can-do-to-protect-yourself-from-the-rising-threat-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "For more than 25 years, I\u2019ve been the \u201cComputer Guy\u201d for friends, family, and colleagues who call when something digital goes sideways. Lately, those calls have changed. The questions used to be about",
-    "dwp_take": "Fast Company ran a piece about how everyday people are increasingly worried about AI threats, with a cybersecurity expert noting that his tech support calls have shifted from password resets to AI-related anxiety. This matters because if end users are this spooked, your digital workplace strategy needs to include serious AI literacy and security training or you'll have a workforce that's either paralyzed by fear or dangerously careless. The irony is that most people are more worried about AI becoming Skynet than about the actual risks, which are usually just old threats wearing a robot costume.",
-    "date": "2026-09-13T07:54:36.923894+00:00"
-  },
-  {
-    "title": "AppleCare One Family Covers Six People for $49.99 a Month",
-    "url": "https://www.techrepublic.com/article/news-applecare-one-family-plan-price-coverage/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "AppleCare One Family covers eligible devices for up to six people at $49.99 monthly. Compare its benefits, claim limits and potential savings. The post AppleCare One Family Covers Six People for $49.9",
-    "dwp_take": "Apple just launched a family plan for device coverage that spreads the cost across six people for about fifty bucks a month. For IT departments managing Apple ecosystems across entire teams, this changes the math on device protection budgets and could simplify how you handle accidental damage claims across your workforce. Honestly, if your organization is already knee-deep in Apple gear, this is the kind of thing that makes a CFO slightly less grumpy at budget review time.",
-    "date": "2026-09-13T07:54:46.909744+00:00"
-  },
-  {
-    "title": "Trump on AI Extinction: Beating China Is the Bigger Concern",
-    "url": "https://www.techrepublic.com/article/news-trump-ai-extinction-china-race/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Trump dismisses AI extinction warnings and says beating China is the priority as researchers and lawmakers call for stronger safeguards on advanced systems. The post Trump on AI Extinction: Beating Ch",
-    "dwp_take": "Trump has dismissed warnings about AI posing existential risks to humanity, arguing that beating China in AI development should be the priority instead of implementing safety safeguards. This matters to digital workplace professionals because it signals potential policy directions that could affect how AI tools get deployed in enterprise environments, from governance frameworks to regulatory oversight. Look, I've seen plenty of technology adoption driven by competitive panic rather than thoughtful implementation, and it rarely ends well for the poor souls trying to actually manage it on the ground.",
-    "date": "2026-09-13T07:54:50.824557+00:00"
-  },
-  {
-    "title": "Samsung Ends Galaxy Z Fold 3 and Flip 3 Updates: Is It Time to Upgrade?",
-    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-z-fold-3-flip-3-security-updates-end/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Samsung has ended guaranteed security updates for the Galaxy Z Fold 3 and Z Flip 3. Here\u2019s what owners should know and whether it\u2019s time to upgrade. The post Samsung Ends Galaxy Z Fold 3 and Flip 3 Up",
-    "dwp_take": "Samsung stopped pushing security updates to the Galaxy Z Fold 3 and Z Flip 3, which means those phones won't receive patches for newly discovered vulnerabilities. For digital workplace teams managing mobile device policies, this is a hard deadline to plan around: unsupported phones become security liabilities the moment updates stop. The real question isn't whether it's time to upgrade, it's how many employees are still carrying these things into your office pretending they're fine.",
-    "date": "2026-09-13T07:54:54.626116+00:00"
-  },
-  {
-    "title": "DeepSeek Launches V4.1-Flash With Lower Memory and API Costs",
-    "url": "https://www.techrepublic.com/article/news-deepseek-v4-1-flash-costs-apac-china/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "DeepSeek V4.1-Flash promises lower memory use and API costs, but buyers should test its performance, compatibility and total deployment expenses. The post DeepSeek Launches V4.1-Flash With Lower Memor",
-    "dwp_take": "DeepSeek just dropped V4.1-Flash, a stripped-down AI model that uses less memory and costs less to run via API. This matters because plenty of organizations are scrambling to deploy AI tools without blowing up their infrastructure budgets, and cheaper options mean more teams can actually experiment. That said, the warning about testing total deployment costs is solid advice, because sometimes \"cheaper per call\" turns into expensive when you're running it at scale, so don't just buy the headline.",
-    "date": "2026-09-13T07:54:58.583069+00:00"
-  },
-  {
     "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
     "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "source": "TechCrunch",
@@ -889,5 +799,104 @@
     "excerpt": "Vietnam's NATIF is offering businesses up to about $114,000 for AI projects, with applications open through Oct. 10, 2026. The post Vietnam Offers Businesses About $114K for AI Projects \u2014 Who Qualifie",
     "dwp_take": "Vietnam's government is dangling $114K in subsidies for businesses willing to develop AI projects before October 2026. Digital workplace teams should care because this signals how seriously some governments are pushing AI adoption and funding innovation, which affects the global competitive landscape you're operating in. Look, free money for AI is great, but the real question is whether your organization actually has a legitimate AI problem to solve or if you're just chasing subsidies to build another chatbot nobody needs.",
     "date": "2026-09-19T07:44:40.546582+00:00"
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "dwp_take": "Flock is offering voluntary buyouts to employees rather than doing straight layoffs, which TechCrunch reports the company says it would otherwise have to do. This matters because it signals how even workplace collaboration platforms are struggling with unit economics and the post-pandemic hiring hangover that hit the entire sector. Look, offering buyouts instead of pink slips is objectively nicer, but let's be honest: when a company that's supposed to help you communicate is quietly shrinking, someone's already made the hard decision about their burn rate.",
+    "date": "2026-09-20T08:11:43.909311+00:00"
+  },
+  {
+    "title": "AI governance moves from observability to provable control",
+    "url": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "As artificial intelligence agents move from experimental tools into production systems, enterprise governance is being forced to answer a harder question. It is no longer enough to know what an agent ",
+    "dwp_take": "Companies are shifting from just watching what their AI systems do to actually proving they're authorized to do it, with documented reasons for every action. This matters because digital workplace leaders are now accountable for AI decisions in ways they weren't before, which means audit trails and governance frameworks just became mandatory, not optional. Welcome to the compliance theater version of AI, where your AI's permission slip is just as important as what it actually accomplishes.",
+    "date": "2026-09-20T08:11:48.934403+00:00"
+  },
+  {
+    "title": "What to expect during Oracle\u2019s \u2018AI Cyberattacks Are Escalating: How to Secure Your Data Now\u2019 event: Join theCUBE on Sept. 22",
+    "url": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "At a time when AI is introducing new risks to global systems, Oracle Corp. is shifting enterprise security toward the data layer. This approach, based on a three-pronged strategy to secure at source, ",
+    "dwp_take": "Oracle is hosting a webinar on September 22nd where they'll pitch their data-layer security approach to counter AI-driven cyberattacks, focusing on securing data at source, in motion, and through resilience. This matters because AI is genuinely making attacks faster and more sophisticated, so digital workplace leaders need to understand where their actual vulnerabilities sit. Here's the thing though: Oracle selling you a three-pronged security strategy is like a locksmith telling you that locks are the answer to crime. The real work is figuring out which prong actually applies to your mess.",
+    "date": "2026-09-20T08:11:53.017514+00:00"
+  },
+  {
+    "title": "At AGNTCon Europe, ensuring AI agents don\u2019t kill us all",
+    "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "At this past week\u2019s AGNTCon + MCPCon Europe 2026 conference in Amsterdam, the buzz around agentic artificial intelligence was palpable \u2013 but nobody was particularly worried that AI was going to kill u",
+    "dwp_take": "A bunch of people gathered in Amsterdam last week to talk about AI agents actually doing useful work instead of destroying humanity, and somehow the frontier model vendors who would actually know what's happening couldn't be bothered to show up. This matters because digital workplace leaders need to understand the gap between AI hype and what's actually deployable today, and that gap apparently includes the people building the most advanced models. Look, when the people most responsible for AI safety are too busy with their own boardrooms to attend a conference about making AI work safely, you know we're in that special moment where everyone's building the plane while flying it.",
+    "date": "2026-09-20T08:11:57.466292+00:00"
+  },
+  {
+    "title": "5 internet-improving Chrome extensions worth trying on Android",
+    "url": "https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Browsing the web on Android sure ain\u2019t what it used to be. Earlier this week, we talked about how the Vivaldi web browser is bringing support for Chrome extensions to Android. Vivaldi has the same Chr",
+    "dwp_take": "Vivaldi browser just brought Chrome extension support to Android, which means mobile users can finally customize their browsing experience the way desktop users have for years. For digital workplace folks, this matters because remote workers relying on mobile devices can now use productivity extensions like password managers, ad blockers, and collaboration tools on the go. Honestly, it's wild that this took so long to happen, but better late than never when your team is juggling work across five different devices.",
+    "date": "2026-09-20T08:12:03.078946+00:00"
+  },
+  {
+    "title": "I use AI to save time. So why am I working more?",
+    "url": "https://www.fastcompany.com/91606699/i-use-ai-to-save-time-so-why-am-i-working-more?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "This year, I\u2019ve been building an AI social media production pipeline to promote the 25+ shows on the Autistic Culture Podcast Network. It took me a week of effort, but I managed to program Claude Code",
+    "dwp_take": "Someone built an AI pipeline that cut their social media posting from a full day down to background automation, yet they're somehow working more hours overall. The digital workplace keeps falling into the same trap: efficiency gains get consumed by scope creep, not reclaimed as actual time off. Here's the real insight nobody wants to hear: AI didn't save them time, it just made them better equipped to say yes to more work.",
+    "date": "2026-09-20T08:12:07.338268+00:00"
+  },
+  {
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "dwp_take": "WIRED is hosting a one-day conference in Miami on November 4 to showcase emerging technologies and the people shaping them. For digital workplace pros, these events are solid networking opportunities where you can actually talk to practitioners instead of reading another LinkedIn post about the future of work. That said, if you're paying conference prices to hear someone explain AI again, you might want to check the actual schedule first because \"transforming our world\" sounds like every tech event since 2016.",
+    "date": "2026-09-20T08:12:13.115462+00:00"
+  },
+  {
+    "title": "Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets Lower AI Costs",
+    "url": "https://www.techrepublic.com/article/news-meta-mtia-450-arke-ai-chip-inference/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Meta plans to deploy its MTIA 450 Arke AI chip in 2027 as it looks to cut inference costs, energy use and reliance on general-purpose GPUs. The post Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets ",
+    "dwp_take": "Meta is building its own AI chip called Arke, due in 2027, designed to reduce inference costs and energy consumption while cutting dependence on third-party GPUs. This matters because it signals the end of the GPU monopoly era, meaning organizations will soon have real alternatives that could reshape AI infrastructure budgets and availability. Here's the thing though: 2027 is forever in tech time, so don't cancel your Nvidia contracts just yet.",
+    "date": "2026-09-20T08:12:17.105438+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s Next Claude Feature Could Reach Into Your Bank Account",
+    "url": "https://www.techrepublic.com/article/news-anthropic-claude-money-bank-accounts/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic appears to be testing Claude Money, a feature that could connect bank accounts to Claude for spending analysis and financial planning. The post Anthropic\u2019s Next Claude Feature Could Reach In",
+    "dwp_take": "Anthropic is testing a Claude feature that would let the AI access your bank account for spending analysis and financial planning. This matters to digital workplace pros because it signals how AI assistants are moving from information tools to transaction tools, which means your workplace security and compliance teams need to start thinking about AI access governance right now. Look, I've seen enough data breaches to know that connecting your bank account to any AI system is basically handing a loaded gun to a toddler and hoping for the best.",
+    "date": "2026-09-20T08:12:20.973005+00:00"
+  },
+  {
+    "title": "Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook",
+    "url": "https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft warns attackers are using passkey and MFA update requests to phish employees, hijack sessions, and access Microsoft 365 data. The post Hackers Are Using Passkey Updates as a New Microsoft Ph",
+    "dwp_take": "Criminals are now baiting employees with fake passkey and MFA update notifications to steal credentials and break into Microsoft 365 accounts. This matters because your workplace security posture depends on people actually recognizing the difference between real security upgrades and social engineering attacks, and right now that's getting harder. The irony is thick: we push passkeys as the more secure option, but users still can't tell a real update from a convincing fake, which means we're just giving hackers a shinier lure to cast.",
+    "date": "2026-09-20T08:12:25.001362+00:00"
+  },
+  {
+    "title": "UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day",
+    "url": "https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The UAE faced 640,000 cyberattacks in one day, its cyber chief says, highlighting risks from unpatched software, ransomware, and deepfakes. The post UAE Cyber Chief Says Country Faced 640,000 Cyberatt",
+    "dwp_take": "The UAE's cyber chief reported their country absorbed 640,000 cyberattacks in a single day, with vulnerabilities stemming from unpatched software, ransomware campaigns, and deepfake threats. Digital workplace pros need to care because this scale of attack activity shows that security isn't some IT department problem anymore, it's a workplace infrastructure crisis that affects every employee and system. Here's the thing though: if your organization's response to hearing that number is \"yikes\" rather than \"let's audit our patch management tomorrow,\" you're already losing.",
+    "date": "2026-09-20T08:12:28.994787+00:00"
   }
 ]
