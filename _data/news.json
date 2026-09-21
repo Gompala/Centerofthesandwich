@@ -1,111 +1,82 @@
 {
-  "generated": "2026-09-20T08:12:28.994871+00:00",
+  "generated": "2026-09-21T08:29:11.674241+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-        "dwp_take": "Flock is offering voluntary buyouts to employees rather than doing straight layoffs, which TechCrunch reports the company says it would otherwise have to do. This matters because it signals how even workplace collaboration platforms are struggling with unit economics and the post-pandemic hiring hangover that hit the entire sector. Look, offering buyouts instead of pink slips is objectively nicer, but let's be honest: when a company that's supposed to help you communicate is quietly shrinking, someone's already made the hard decision about their burn rate.",
-        "date": "2026-09-20T08:11:43.909311+00:00"
-      },
-      {
-        "title": "AI governance moves from observability to provable control",
-        "url": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
+        "title": "Trump says he\u2019s planning to create an \u2018AI Force\u2019 and hire a new AI czar",
+        "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "As artificial intelligence agents move from experimental tools into production systems, enterprise governance is being forced to answer a harder question. It is no longer enough to know what an agent ",
-        "dwp_take": "Companies are shifting from just watching what their AI systems do to actually proving they're authorized to do it, with documented reasons for every action. This matters because digital workplace leaders are now accountable for AI decisions in ways they weren't before, which means audit trails and governance frameworks just became mandatory, not optional. Welcome to the compliance theater version of AI, where your AI's permission slip is just as important as what it actually accomplishes.",
-        "date": "2026-09-20T08:11:48.934403+00:00"
+        "excerpt": "U.S. President Donald Trump said on Saturday that he is going to establish an \u201cAI Force\u201d and will also appoint a new AI czar, while dismissing concerns raised about the potential dangers of artificial",
+        "dwp_take": "Trump announced plans to create an \"AI Force\" and appoint an AI czar while dismissing AI safety concerns as a hoax. Digital workplace leaders need to pay attention because government AI policy directly shapes what tools, regulations, and workforce strategies will actually be available to us in the next few years. Here's the thing: whether you think this is great or terrible, one AI czar isn't going to solve the messy reality that most organizations are still figuring out how to use AI without accidentally firing their best people or creating legal nightmares.",
+        "date": "2026-09-21T08:28:38.751900+00:00"
       },
       {
-        "title": "What to expect during Oracle\u2019s \u2018AI Cyberattacks Are Escalating: How to Secure Your Data Now\u2019 event: Join theCUBE on Sept. 22",
-        "url": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity/",
+        "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
+        "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "At a time when AI is introducing new risks to global systems, Oracle Corp. is shifting enterprise security toward the data layer. This approach, based on a three-pronged strategy to secure at source, ",
-        "dwp_take": "Oracle is hosting a webinar on September 22nd where they'll pitch their data-layer security approach to counter AI-driven cyberattacks, focusing on securing data at source, in motion, and through resilience. This matters because AI is genuinely making attacks faster and more sophisticated, so digital workplace leaders need to understand where their actual vulnerabilities sit. Here's the thing though: Oracle selling you a three-pronged security strategy is like a locksmith telling you that locks are the answer to crime. The real work is figuring out which prong actually applies to your mess.",
-        "date": "2026-09-20T08:11:53.017514+00:00"
+        "excerpt": "Stripe Inc.\u2019s planned acquisition of OpenRouter Inc. put a spotlight on dynamic model routing. Information technology organizations need to understand what dynamic model routing is all about, as it wi",
+        "dwp_take": "Stripe is buying OpenRouter, a dynamic model routing platform that intelligently directs AI requests to different large language models based on cost and performance. Digital workplace pros need to pay attention because this tech will reshape how companies deploy AI tools across their workforce, affecting everything from chatbot reliability to cloud spending. Here's the thing: after decades of watching IT chase the latest shiny object, I'll believe enterprises actually implement smart routing instead of just throwing everything at GPT-4 when I see it happen at scale.",
+        "date": "2026-09-21T08:28:42.863718+00:00"
       },
       {
-        "title": "At AGNTCon Europe, ensuring AI agents don\u2019t kill us all",
-        "url": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+        "title": "Why AI inference must become a commodity",
+        "url": "https://siliconangle.com/2026/09/20/why-ai-inference-must-become-a-commodity/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "At this past week\u2019s AGNTCon + MCPCon Europe 2026 conference in Amsterdam, the buzz around agentic artificial intelligence was palpable \u2013 but nobody was particularly worried that AI was going to kill u",
-        "dwp_take": "A bunch of people gathered in Amsterdam last week to talk about AI agents actually doing useful work instead of destroying humanity, and somehow the frontier model vendors who would actually know what's happening couldn't be bothered to show up. This matters because digital workplace leaders need to understand the gap between AI hype and what's actually deployable today, and that gap apparently includes the people building the most advanced models. Look, when the people most responsible for AI safety are too busy with their own boardrooms to attend a conference about making AI work safely, you know we're in that special moment where everyone's building the plane while flying it.",
-        "date": "2026-09-20T08:11:57.466292+00:00"
-      }
-    ],
-    "tools-tech": [
-      {
-        "title": "5 internet-improving Chrome extensions worth trying on Android",
-        "url": "https://www.computerworld.com/article/4222361/chrome-android-extensions-internet.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Browsing the web on Android sure ain\u2019t what it used to be. Earlier this week, we talked about how the Vivaldi web browser is bringing support for Chrome extensions to Android. Vivaldi has the same Chr",
-        "dwp_take": "Vivaldi browser just brought Chrome extension support to Android, which means mobile users can finally customize their browsing experience the way desktop users have for years. For digital workplace folks, this matters because remote workers relying on mobile devices can now use productivity extensions like password managers, ad blockers, and collaboration tools on the go. Honestly, it's wild that this took so long to happen, but better late than never when your team is juggling work across five different devices.",
-        "date": "2026-09-20T08:12:03.078946+00:00"
-      }
-    ],
-    "digital-culture": [
-      {
-        "title": "I use AI to save time. So why am I working more?",
-        "url": "https://www.fastcompany.com/91606699/i-use-ai-to-save-time-so-why-am-i-working-more?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "This year, I\u2019ve been building an AI social media production pipeline to promote the 25+ shows on the Autistic Culture Podcast Network. It took me a week of effort, but I managed to program Claude Code",
-        "dwp_take": "Someone built an AI pipeline that cut their social media posting from a full day down to background automation, yet they're somehow working more hours overall. The digital workplace keeps falling into the same trap: efficiency gains get consumed by scope creep, not reclaimed as actual time off. Here's the real insight nobody wants to hear: AI didn't save them time, it just made them better equipped to say yes to more work.",
-        "date": "2026-09-20T08:12:07.338268+00:00"
+        "excerpt": "The future of artificial intelligence inference isn\u2019t premium; it\u2019s ubiquitous and commoditized. That may sound odd coming from someone in the AI semiconductor business. Conventional wisdom suggests c",
+        "dwp_take": "Here's my take:\n\nAI inference costs are dropping fast enough that it'll soon be as cheap and standard as computing power itself. This matters to workplace tech because it means AI features won't be locked behind expensive enterprise licensing deals anymore, so your tools will actually get smarter without your CFO having a heart attack. The irony here is delicious: the people selling you AI chips are basically saying \"buy our stuff so it becomes worthless,\" but they're right because adoption at scale beats fat margins every time.",
+        "date": "2026-09-21T08:28:47.744991+00:00"
       },
       {
-        "title": "Join the WIRED World Fair in Miami on November 4",
-        "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-        "dwp_take": "WIRED is hosting a one-day conference in Miami on November 4 to showcase emerging technologies and the people shaping them. For digital workplace pros, these events are solid networking opportunities where you can actually talk to practitioners instead of reading another LinkedIn post about the future of work. That said, if you're paying conference prices to hear someone explain AI again, you might want to check the actual schedule first because \"transforming our world\" sounds like every tech event since 2016.",
-        "date": "2026-09-20T08:12:13.115462+00:00"
+        "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface",
+        "url": "https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Salesforce Inc.\u2019s next growth opportunity just may come from customers spending less time in its interface, and having artificial intelligence agents do more of the work. Coming out of the customer re",
+        "dwp_take": "Salesforce is betting its future growth on AI agents handling more CRM work so users spend less time actually using Salesforce's interface. This matters because it signals a major shift in how enterprise platforms will operate, which means digital workplace leaders need to start thinking about AI-driven automation differently than they have been. Here's the thing though: if Salesforce succeeds, they'll have built a product people don't need to use much, which is either genius or the most ironic business model I've seen in three decades.",
+        "date": "2026-09-21T08:28:51.933084+00:00"
       }
     ],
+    "tools-tech": [],
+    "digital-culture": [],
     "industry-news": [
       {
-        "title": "Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets Lower AI Costs",
-        "url": "https://www.techrepublic.com/article/news-meta-mtia-450-arke-ai-chip-inference/",
+        "title": "OpenAI Launches Interactive Sponsored Agents for ChatGPT Ads",
+        "url": "https://www.techrepublic.com/article/chatgpt-sponsored-agents-openai-ads/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Meta plans to deploy its MTIA 450 Arke AI chip in 2027 as it looks to cut inference costs, energy use and reliance on general-purpose GPUs. The post Meta\u2019s New AI Chip Is Coming in 2027: Arke Targets ",
-        "dwp_take": "Meta is building its own AI chip called Arke, due in 2027, designed to reduce inference costs and energy consumption while cutting dependence on third-party GPUs. This matters because it signals the end of the GPU monopoly era, meaning organizations will soon have real alternatives that could reshape AI infrastructure budgets and availability. Here's the thing though: 2027 is forever in tech time, so don't cancel your Nvidia contracts just yet.",
-        "date": "2026-09-20T08:12:17.105438+00:00"
+        "excerpt": "OpenAI unveils Sponsored Agents for ChatGPT ads, letting users chat directly with brand AI agents. Learn about new Shopify and HubSpot integrations. The post OpenAI Launches Interactive Sponsored Agen",
+        "dwp_take": "OpenAI is letting brands build custom AI agents that live inside ChatGPT, turning the chatbot into a direct sales channel where users can interact with branded bots. This matters because your employees are already using ChatGPT for work, and now they'll be bumping into sponsored agents in what was supposed to be a neutral tool. I give it six months before IT departments start fielding complaints about people accidentally ordering stuff through a Shopify agent when they meant to ask about quarterly earnings.",
+        "date": "2026-09-21T08:28:59.102248+00:00"
       },
       {
-        "title": "Anthropic\u2019s Next Claude Feature Could Reach Into Your Bank Account",
-        "url": "https://www.techrepublic.com/article/news-anthropic-claude-money-bank-accounts/",
+        "title": "Waymo Picks Singapore for First Southeast Asia Robotaxi Market",
+        "url": "https://www.techrepublic.com/article/news-waymo-singapore-robotaxi-2028-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Anthropic appears to be testing Claude Money, a feature that could connect bank accounts to Claude for spending analysis and financial planning. The post Anthropic\u2019s Next Claude Feature Could Reach In",
-        "dwp_take": "Anthropic is testing a Claude feature that would let the AI access your bank account for spending analysis and financial planning. This matters to digital workplace pros because it signals how AI assistants are moving from information tools to transaction tools, which means your workplace security and compliance teams need to start thinking about AI access governance right now. Look, I've seen enough data breaches to know that connecting your bank account to any AI system is basically handing a loaded gun to a toddler and hoping for the best.",
-        "date": "2026-09-20T08:12:20.973005+00:00"
+        "excerpt": "Waymo plans to launch robotaxis in Singapore in 2028, testing its self-driving system against local roads, monsoon weather, and regional rivals. The post Waymo Picks Singapore for First Southeast Asia",
+        "dwp_take": "Waymo is launching its robotaxi service in Singapore by 2028, betting on the island nation's regulated environment and tech-forward infrastructure to prove its autonomous driving works outside North America. This matters to DWP folks because it signals how workplace mobility solutions are evolving globally, and you'll soon be managing remote teams across regions with fundamentally different transportation ecosystems. Honestly, if Waymo thinks monsoon season is the real test, they haven't tried getting approval from a mid-level procurement committee yet.",
+        "date": "2026-09-21T08:29:03.493345+00:00"
       },
       {
-        "title": "Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook",
-        "url": "https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/",
+        "title": "MIT Robot Builds a Working Laser in 30 Minutes With Minimal Human Help",
+        "url": "https://www.techrepublic.com/article/news-mit-robot-autonomous-optics-lab-laser/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft warns attackers are using passkey and MFA update requests to phish employees, hijack sessions, and access Microsoft 365 data. The post Hackers Are Using Passkey Updates as a New Microsoft Ph",
-        "dwp_take": "Criminals are now baiting employees with fake passkey and MFA update notifications to steal credentials and break into Microsoft 365 accounts. This matters because your workplace security posture depends on people actually recognizing the difference between real security upgrades and social engineering attacks, and right now that's getting harder. The irony is thick: we push passkeys as the more secure option, but users still can't tell a real update from a convincing fake, which means we're just giving hackers a shinier lure to cast.",
-        "date": "2026-09-20T08:12:25.001362+00:00"
+        "excerpt": "MIT researchers built a robotic optics lab that assembled a working laser in 30 minutes, pointing toward more autonomous scientific research. The post MIT Robot Builds a Working Laser in 30 Minutes Wi",
+        "dwp_take": "MIT built a robot that assembled a functioning laser in 30 minutes with barely any human intervention, demonstrating real progress toward autonomous scientific research. This matters because it shows how automation could reshape knowledge work itself, potentially changing what kinds of jobs actually need humans in the loop. Here's the thing though: we've been saying robots would do our jobs for decades, but someone still has to build them, fix them, and decide what problems they should solve, so don't schedule that retirement just yet.",
+        "date": "2026-09-21T08:29:07.592950+00:00"
       },
       {
-        "title": "UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day",
-        "url": "https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/",
+        "title": "Hackers Crack Flock Camera, Expose 1.6M Images in 21 Days",
+        "url": "https://www.techrepublic.com/article/news-flock-camera-hack-1-6m-images/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The UAE faced 640,000 cyberattacks in one day, its cyber chief says, highlighting risks from unpatched software, ransomware, and deepfakes. The post UAE Cyber Chief Says Country Faced 640,000 Cyberatt",
-        "dwp_take": "The UAE's cyber chief reported their country absorbed 640,000 cyberattacks in a single day, with vulnerabilities stemming from unpatched software, ransomware campaigns, and deepfake threats. Digital workplace pros need to care because this scale of attack activity shows that security isn't some IT department problem anymore, it's a workplace infrastructure crisis that affects every employee and system. Here's the thing though: if your organization's response to hearing that number is \"yikes\" rather than \"let's audit our patch management tomorrow,\" you're already losing.",
-        "date": "2026-09-20T08:12:28.994787+00:00"
+        "excerpt": "Hackers physically compromised a Flock camera and found an encryption key, 27,000 clips, and 1.6 million images generated in 21 days. The post Hackers Crack Flock Camera, Expose 1.6M Images in 21 Days",
+        "dwp_take": "Researchers physically accessed a Flock traffic camera, extracted its encryption key, and dumped 1.6 million images plus 27,000 video clips in just three weeks. This matters to workplace security teams because it shows that networked devices on your premises, even ones you think are \"just cameras,\" can become serious breach vectors if physical security is sloppy. The real kicker here is that we spend billions on firewalls while leaving the actual hardware sitting on poles with worse security than a bicycle lock.",
+        "date": "2026-09-21T08:29:11.674135+00:00"
       }
     ]
   }
