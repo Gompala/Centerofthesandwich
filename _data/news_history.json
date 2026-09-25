@@ -1,293 +1,5 @@
 [
   {
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-    "dwp_take": "Treble, an Iceland-based startup, just closed an $18 million funding round for its voice simulation technology that helps companies train AI models with synthetic voices. This matters because digital workplaces increasingly rely on voice interfaces, virtual assistants, and AI-powered communication tools, so better voice simulation means more natural and usable workplace tech. Here's the thing though: we've been chasing \"natural sounding AI\" for years, and I'll believe it when my Teams meeting doesn't sound like a robot having a minor electrical malfunction.",
-    "date": "2026-09-17T08:17:49.984073+00:00"
-  },
-  {
-    "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or",
-    "dwp_take": "Three startups are talking at TechCrunch Disrupt about mixing human workers with AI agents on actual teams. For digital workplace leaders, this matters because you'll soon face real decisions about where AI fills gaps versus where you actually need humans making judgment calls. Here's the thing though: every founder claiming they've \"solved\" human-AI teamwork at their 12-person startup will learn the hard way that culture doesn't scale, and neither does accountability when your coworker is a chatbot.",
-    "date": "2026-09-17T08:17:54.024049+00:00"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn\u2019t data centers",
-    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed.",
-    "dwp_take": "Al Gore says he's not sweating data center power consumption from AI, but rather the existential risks that AI companies themselves keep warning us about. This matters to digital workplace pros because we're about to deploy these systems into our organizations while the people building them are basically saying \"we have no idea what we've created here.\" Look, I've seen a lot of workplace tech rollouts go sideways, but usually the vendors at least pretend they know what they're selling you.",
-    "date": "2026-09-17T08:17:57.801880+00:00"
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ",
-    "dwp_take": "Anthropic and OpenAI are proposing to let independent safety evaluators work inside their labs to audit AI systems, which is a step beyond the usual black box approach. This matters because digital workplace leaders are already deploying these tools and need some assurance that the companies building them aren't just policing themselves. Here's the thing though: embedding evaluators inside the lab is like hiring a food inspector who only works when the restaurant owner is watching, which means we'll probably get compliance theater instead of actual accountability.",
-    "date": "2026-09-17T08:18:01.715058+00:00"
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork into one",
-    "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "From Claude to Cowork and back again \u2013 plus, Anthropic\u2019s all-new Claude Docs.",
-    "dwp_take": "Anthropic just folded its Cowork collaboration tool back into Claude and launched Claude Docs as a standalone product. For digital workplace folks, this matters because it signals that AI vendors are still figuring out what workers actually need, and that separate tools for chat and collaboration might have been solving the wrong problem. The good news is we're watching this happen in real time instead of getting stuck with another orphaned tool in three years, but the musical chairs approach does make you wonder if anyone's actually talking to real teams before launching these things.",
-    "date": "2026-09-17T08:18:06.115362+00:00"
-  },
-  {
-    "title": "Big Tech\u2019s AI safety rift signals disruption and disparity for enterprises",
-    "url": "https://www.computerworld.com/article/4222898/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A growing divide among leading AI companies over how to secure increasingly powerful models is beginning to translate into challenges for enterprise IT, with implications for how organizations access,",
-    "dwp_take": "The big AI companies can't agree on safety standards, and that disagreement is trickling down to create real headaches for enterprise IT teams trying to actually deploy this stuff. This matters because your organization needs consistent frameworks for governance and risk management, and right now you're getting conflicting guidance depending on which vendor you're listening to. Here's the thing: we've seen this movie before with cloud adoption, and the enterprises that thrived were the ones who built their own evaluation criteria instead of waiting for the industry to get its act together.",
-    "date": "2026-09-17T08:18:10.901836+00:00"
-  },
-  {
-    "title": "Nextcloud adds desktop app for Euro-Office productivity suite",
-    "url": "https://www.computerworld.com/article/4221689/nextcloud-adds-desktop-app-for-euro-office-productivity-suite.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Nextcloud has developed a desktop app for its Euro-Office-based productivity applications, filling a gap in the software suite that it pitches as a sovereign alternative to Microsoft Office. Nextcloud",
-    "dwp_take": "Nextcloud just launched a desktop app for its Euro-Office productivity suite, finally giving users a native way to work offline instead of being tethered to a browser. This matters because any credible Office alternative needs a solid desktop experience, and closing that gap makes Nextcloud more competitive for organizations serious about data sovereignty and European hosting. That said, they're still playing catch-up to Microsoft's thirty-year head start, so calling it a \"sovereign alternative\" is a bit like saying your indie sedan is a Ferrari alternative just because it has four wheels.",
-    "date": "2026-09-17T08:18:14.874321+00:00"
-  },
-  {
-    "title": "AWS bets that AI agents need an inbox, not another chat window",
-    "url": "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "AWS is betting that AI agents need a different interface as they move beyond answering prompts and start working autonomously in the background. The company has open-sourced Pizza Bot, a self-hosted a",
-    "dwp_take": "AWS released Pizza Bot, an open-source tool that routes AI agent work through an inbox interface instead of relying on chat windows. This matters because most organizations are drowning in chat notifications already, and giving AI agents yet another conversation thread is just workplace theater. Smart move by AWS, though I'm skeptical anyone will actually implement this until their Slack is so overloaded with bot messages that executives finally admit chat was never meant to be a task management system.",
-    "date": "2026-09-17T08:18:18.743841+00:00"
-  },
-  {
-    "title": "Amazon just raised its minimum wage to $20. It\u2019s not as high as it sounds",
-    "url": "https://www.fastcompany.com/91608522/amazon-just-raised-its-minimum-wage-to-20-its-not-as-high-as-it-sounds?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Just in time for its busiest season, Amazon has raised wages for its frontline workers, bringing their starting pay to $20 per hour. The boost amounts to a $1 increase in minimum hourly wages for the ",
-    "dwp_take": "Amazon bumped its minimum wage from $19 to $20 an hour for warehouse workers, a modest one dollar increase timed conveniently with the holiday rush. For digital workplace folks, this is a reminder that compensation strategies directly impact recruiting, retention, and how companies attract talent in competitive labor markets. The real question isn't whether twenty bucks sounds good, it's whether it's enough to keep people from burning out during peak season.",
-    "date": "2026-09-17T08:18:22.833833+00:00"
-  },
-  {
-    "title": "Without saying a word, Warren Buffett successor Greg Abel just taught a powerful lesson in leadership",
-    "url": "https://www.fastcompany.com/91607630/without-saying-word-warren-buffett-successor-greg-abel-just-taught-powerful-lesson-leadership?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "What\u2019s the most powerful thing you can do to establish yourself when you\u2019re the new CEO of a company? Not just any company, a trillion-dollar company that has existed for 187 years. The CEO you\u2019re rep",
-    "dwp_take": "Greg Abel took over as CEO of Berkshire Hathaway after Warren Buffett stepped down, inheriting one of the world's most scrutinized leadership positions. For digital workplace leaders, this is relevant because how you communicate (or don't) during leadership transitions sets the tone for organizational trust and culture. My take: sometimes the smartest thing a new leader can do is show restraint instead of immediately redecorating the office and announcing ten new initiatives that nobody asked for.",
-    "date": "2026-09-17T08:18:26.509219+00:00"
-  },
-  {
-    "title": "The confidence myth: Why waiting to feel ready holds women back",
-    "url": "https://www.fastcompany.com/91591400/the-confidence-myth-why-waiting-to-feel-ready-holds-women-back-women-workplace-confidence?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "I\u2019ve noticed there\u2019s a belief that women often carry quietly: I\u2019ll do it when I feel more confident. And it sounds perfectly reasonable on the surface. I\u2019ve heard things along the lines of: \u201cI\u2019m sort ",
-    "dwp_take": "A Fast Company piece argues that women often delay action waiting to feel confident first, when confidence actually builds through doing rather than preparation. Digital workplace leaders need to hear this because we're probably filtering out talented women from projects, promotions, and visibility opportunities by favoring those who self-nominate without hesitation. Here's the thing: we've built workplaces that reward overconfidence in men and penalize appropriate caution in women, then wonder why the pipeline leaks.",
-    "date": "2026-09-17T08:18:30.525151+00:00"
-  },
-  {
-    "title": "New \u2018LinkedIn for government\u2019 helps Americans get into public service",
-    "url": "https://www.fastcompany.com/91607847/new-linkedin-for-government-helps-americans-get-into-public-service?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "After bouncing around employers for much of her career, Joya Patel says she finally felt settled when she joined the Department of Health and Human Services in 2023. That was especially true after bei",
-    "dwp_take": "A new platform is trying to make it easier for people to find and land jobs in government by functioning as a professional network specifically designed for public service careers. For digital workplace folks, this matters because government agencies have historically struggled with talent acquisition and retention, and better tools for connecting people to mission-driven work could help close that gap. Honestly, if government can finally figure out how to recruit talent using the same playbook as the private sector, we might actually see some innovative thinking break through all those layers of bureaucracy.",
-    "date": "2026-09-17T08:18:34.375480+00:00"
-  },
-  {
-    "title": "6 iPhone 18 Pro Accessories to Check Out in 2026",
-    "url": "https://www.techrepublic.com/article/news-iphone-18-pro-accessories-2026/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple\u2019s iPhone 18 Pro accessory lineup includes three MagSafe cases, two carrying straps, and a FineWoven Wallet with Find My. The post 6 iPhone 18 Pro Accessories to Check Out in 2026 appeared first ",
-    "dwp_take": "TechRepublic ran a listicle about upcoming iPhone 18 Pro accessories that will supposedly ship in 2026, covering MagSafe cases, straps, and a wallet with Find My integration. This matters to digital workplace folks because device ecosystems and accessories directly impact how people actually work on mobile, from security to portability to whether your phone stays in your pocket or on the pavement. Here's the thing though: we're still in 2024, and Apple's track record of accessory announcements two years out is basically nonexistent, so this feels like tech journalism filling space between actual news cycles.",
-    "date": "2026-09-17T08:18:38.808316+00:00"
-  },
-  {
-    "title": "AirPods 5: Should You Pay $20 More for the Wireless Charging Case?",
-    "url": "https://www.techrepublic.com/article/news-airpods-5-wireless-charging-case/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "The $149 AirPods 5 add stem volume control, broader charging support, a Find My case speaker, and longer battery life over the $129 version. The post AirPods 5: Should You Pay $20 More for the Wireles",
-    "dwp_take": "Apple released AirPods 5 in two versions, with the $149 model adding wireless charging, volume controls on the stems, Find My speaker functionality, and extended battery life compared to the $129 base model. For digital workplace professionals managing device fleets and employee tech budgets, this matters because wireless charging reduces friction in daily workflows and the Find My speaker addresses the universal pain point of losing expensive earbuds. Honestly, if your organization is already buying AirPods for everyone, the $20 upgrade is worth it just to stop hearing \"I can't find my earbuds\" every other week.",
-    "date": "2026-09-17T08:18:43.134927+00:00"
-  },
-  {
-    "title": "iPhone 18 Pro vs iPhone 17 Pro: Should You Upgrade?",
-    "url": "https://www.techrepublic.com/article/news-iphone-18-pro-vs-iphone-17-pro/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "iPhone 18 Pro adds a new camera, faster chip, better battery life, and more storage. Here\u2019s whether those upgrades are enough to leave the 17 Pro behind. The post iPhone 18 Pro vs iPhone 17 Pro: Shoul",
-    "dwp_take": "The iPhone 18 Pro adds camera improvements, a faster processor, better battery, and increased storage compared to the iPhone 17 Pro. For digital workplace professionals, device performance and battery life directly impact productivity, especially for remote workers who depend on their phones as secondary work devices. My take: unless you're draining your 17 Pro's battery by noon or need that camera for client presentations, this feels like a \"nice to have\" rather than a \"must upgrade\" situation.",
-    "date": "2026-09-17T08:18:46.951505+00:00"
-  },
-  {
-    "title": "Musk\u2019s X Corp and SpaceXAI Drop Apple From Antitrust Case, OpenAI Fight Continues",
-    "url": "https://www.techrepublic.com/article/news-musk-apple-openai-ai-antitrust-lawsuit/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Musk\u2019s companies are seeking to dismiss Apple from their AI antitrust lawsuit with prejudice, while their claims against OpenAI continue. The post Musk\u2019s X Corp and SpaceXAI Drop Apple From Antitrust ",
-    "dwp_take": "Musk's X Corp and SpaceX dropped Apple from their antitrust lawsuit but are pressing forward against OpenAI over AI practices. This matters because it signals which tech giants are actually seen as problematic in the AI arms race, and it tells us where real competitive pressure is building in the AI space. Honestly, watching billionaires sue each other over AI dominance while the rest of us are still figuring out how to integrate basic AI tools at work is peak tech theater.",
-    "date": "2026-09-17T08:18:50.601017+00:00"
-  },
-  {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
-    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The round values the data center giant at $30.9 billion.",
-    "dwp_take": "Crusoe Energy just closed a 3.9 billion dollar funding round that values the company at nearly 31 billion dollars, positioning them to build massive data centers and smaller modular AI processing facilities. This matters to digital workplace teams because the infrastructure race is heating up, which means compute availability, latency, and costs for AI tools your organization actually uses will shift in the coming years. Look, another well-funded data center play isn't exactly breaking news, but the \"modular AI factory\" angle suggests someone finally figured out that not every organization needs a Vegas-sized server farm to run their copilot.",
-    "date": "2026-09-18T07:51:58.368407+00:00"
-  },
-  {
-    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
-    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "dwp_take": "The FAA is investing $875 million in AI software to help air traffic controllers manage their workload more effectively. For digital workplace pros, this is a textbook example of how enterprise software adoption at scale demands serious change management beyond just throwing money at the problem. Here's the thing though: air traffic controllers have been doing this job for decades with existing tools, so the real question isn't whether the AI works, it's whether anyone actually uses it when lives depend on the radio call they're about to make.",
-    "date": "2026-09-18T07:52:01.985589+00:00"
-  },
-  {
-    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
-    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
-    "dwp_take": "A Microsoft executive privately called AI training data scraping \"the largest theft of labor in human history,\" according to unredacted court documents, even while Microsoft itself was doing the exact same scraping alongside OpenAI. This matters to digital workplace pros because your organization's content, customer data, and employee knowledge are being hoovered up by these companies to train AI tools you're probably already buying and deploying. The irony is so thick you could spread it on toast: Microsoft calling theft \"theft\" while standing knee-deep in the same stolen goods is either peak hypocrisy or the most honest accidental confession Silicon Valley has given us in years.",
-    "date": "2026-09-18T07:52:06.223585+00:00"
-  },
-  {
-    "title": "Full speed ahead: Despite calls to slow AI down, its support structure is on the fast track",
-    "url": "https://siliconangle.com/2026/09/17/full-speed-ahead-despite-calls-to-slow-ai-down-its-support-structure-is-on-the-fast-track/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "While tech titans at Salesforce Inc.\u2019s Dreamforce event in San Francisco this week engaged in a spirited debate over whether the pace of deployment for artificial intelligence should be slowed, a grou",
-    "dwp_take": "While some tech leaders debate whether AI deployment should pump the brakes, others are simultaneously building out the infrastructure to accelerate it further. Digital workplace pros need to pay attention because this infrastructure buildout will determine what AI capabilities actually land in their tech stacks, regardless of what the talking heads say about responsible deployment. It's like watching someone argue about speed limits while their buddy is already pouring concrete for a ten lane highway.",
-    "date": "2026-09-18T07:52:11.200625+00:00"
-  },
-  {
-    "title": "Claude Code\u2019s revised projects adds AI orchestration, but local developers must wait",
-    "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-    "dwp_take": "Anthropic rolled out upgrades to Claude Code Projects that let developers orchestrate multiple AI threads, share context across workstreams, and jump between repositories, though these fancy features only work in the cloud right now. Local developers who want this stuff running on their own machines are basically stuck watching from the sidelines, which matters because plenty of teams still can't or won't push sensitive code to the cloud. It's the classic tech move: dangle the shiny new toy, then make sure it only works in someone else's backyard.",
-    "date": "2026-09-18T07:52:15.404061+00:00"
-  },
-  {
-    "title": "An undisclosed Microsoft presentation is now central to a multi-million dollar antitrust fight",
-    "url": "https://www.computerworld.com/article/4223616/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "There\u2019s a new development in a Microsoft antitrust case, originally filed in England\u2019s High Court in April 2021, and it doesn\u2019t look good for the tech giant. A consent order from the UK Competition Ap",
-    "dwp_take": "Microsoft is being forced by UK courts to hand over internal presentations to ValueLicens, a reseller claiming the company unfairly blocked them from the secondhand software market. This matters because it shows how platform gatekeeping decisions get scrutinized legally, and those decisions are often made in meetings that leave digital trails. Here's the thing: after 30 years watching tech companies, I can tell you that the documents they fight hardest to keep hidden are always the ones worth reading.",
-    "date": "2026-09-18T07:52:20.435934+00:00"
-  },
-  {
-    "title": "Anthropic tries to make Claude stickier with launch of Docs and Slides",
-    "url": "https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Anthropic is equipping its Claude AI assistant for more productivity work with the launch of Claude Docs and Slides. While it\u2019s already possible to create documents such as Microsoft Word and Google D",
-    "dwp_take": "Anthropic launched Claude Docs and Slides, native document and presentation tools built directly into Claude's interface, making it easier for users to create and edit content without switching applications. This matters because digital workplace teams are increasingly evaluating AI tools as core productivity platforms rather than point solutions, and feature parity with Microsoft and Google is now table stakes in that competition. The irony is that every AI vendor is now rushing to build the same basic Office suite, which means we're probably going to spend the next three years comparing whose spelling checker is least annoying.",
-    "date": "2026-09-18T07:52:24.504450+00:00"
-  },
-  {
-    "title": "Will Apple enter the server business?",
-    "url": "https://www.computerworld.com/article/4223436/will-apple-enter-the-server-business.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "In a world of speculation, this week\u2019s most interesting rumor says Apple may plan to enter the server business once again, with powerful systems running its own Apple Silicon chips. It\u2019s hard to dismi",
-    "dwp_take": "Apple is apparently considering re-entering the traditional server market with custom Apple Silicon chips, though they're technically already building servers for their Private Cloud Compute system. This matters because if Apple actually ships commercial servers, it could disrupt enterprise infrastructure decisions and force IT teams to evaluate yet another vendor in an already complicated ecosystem. Honestly, after thirty years watching Apple, I'd believe it when I see it actually shipping to paying customers, not when some analyst spots a supply chain rumor.",
-    "date": "2026-09-18T07:52:28.755198+00:00"
-  },
-  {
-    "title": "How to figure out which advice is worth taking",
-    "url": "https://www.fastcompany.com/91605528/how-to-figure-out-which-advice-is-worth-taking?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "If you are ambitious in your goals for work and want to continue improving your performance, then you\u2019re going to get a lot of advice from people. If you try to follow all the advice you get, you\u2019ll b",
-    "dwp_take": "Fast Company ran a piece about filtering advice rather than blindly chasing every suggestion that comes your way. This matters to digital workplace folks because we live in an advice hellscape where everyone from LinkedIn influencers to your cousin's friend has a hot take on how you should work, communicate, and organize your team. The real skill isn't collecting wisdom like Pokemon cards\u2014it's knowing which advice actually applies to your situation and which is just noise from someone selling a course.",
-    "date": "2026-09-18T07:52:32.844863+00:00"
-  },
-  {
-    "title": "Warren Buffett, Richard Branson, and Satya Nadella feel their hobbies make them more successful. Science says they\u2019re right",
-    "url": "https://www.fastcompany.com/91608301/warren-buffett-richard-branson-satya-nadella-feel-their-hobbies-make-more-successful-science-says-theyre-right?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Microsoft CEO Satya Nadella says playing cricket taught him lessons about teamwork and leadership\u2014put your team first, and bring out the best in other people\u2014that have stayed with him throughout his c",
-    "dwp_take": "Three tech billionaires credit hobbies with boosting their leadership and productivity, and research backs up the connection between outside interests and professional success. For digital workplace folks, this matters because it validates what we've known for years: forcing people to optimize every waking hour kills creativity and actually tanks performance. The irony is thick here, since these guys made billions while advocating for something most corporate cultures actively punish with back-to-back meetings and Slack notifications on weekends.",
-    "date": "2026-09-18T07:52:36.928013+00:00"
-  },
-  {
-    "title": "How to keep your job in the AI age without knowing AI",
-    "url": "https://www.fastcompany.com/91593840/how-to-future-proof-your-career-against-ai-without-becoming-technical-technology-ai-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Artificial intelligence is reshaping every industry, but staying relevant doesn\u2019t require learning to code or becoming a data scientist. This guide draws on insights from career strategists and organi",
-    "dwp_take": "Fast Company is arguing that technical AI skills aren't essential for job security, and that soft skills like adaptability and judgment will protect workers from automation. This matters because most digital workplace professionals manage people and processes, not algorithms, so understanding how to lead through change beats memorizing Python syntax. Honestly, this is the workplace equivalent of telling someone not to panic during an earthquake, which is fine advice until the building actually collapses around them.",
-    "date": "2026-09-18T07:52:40.707709+00:00"
-  },
-  {
-    "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
-    "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-    "source": "WorkLife",
-    "category": "digital-culture",
-    "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
-    "dwp_take": "Employees are increasingly skipping company holiday parties and saying they'd rather have cash bonuses or extra time off instead. This matters because it forces workplace leaders to reconsider whether mandatory festive gatherings actually build culture or just drain budgets on eggnog nobody drinks. Here's the thing: if your holiday party requires a survey to prove people want to be there, you've already lost the room, so maybe just give them the money and let them celebrate with people they actually chose to spend time with.",
-    "date": "2026-09-18T07:52:45.021769+00:00"
-  },
-  {
-    "title": "Siri AI Is Finally Here: 7 Things You Can Actually Do With It",
-    "url": "https://www.techrepublic.com/article/news-siri-ai-ios-27-features/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Siri AI is rolling out with iOS 27. Here are seven things you can do with Apple\u2019s upgraded assistant, plus supported iPhones and limitations. The post Siri AI Is Finally Here: 7 Things You Can Actuall",
-    "dwp_take": "Apple shipped an upgraded Siri with iOS 27 that finally does some useful things, though it comes with the usual limitations. Digital workplace pros need to pay attention because AI assistants are becoming workplace tools whether IT departments like it or not, and they'll need to figure out governance and security implications fast. Honestly, I've heard \"Siri is finally useful\" before, so I'll believe it when I see knowledge workers actually ditching their third-party tools for it.",
-    "date": "2026-09-18T07:52:48.877073+00:00"
-  },
-  {
-    "title": "Google Cloud, Salesforce Tie Gemini Enterprise to Agentforce and CRM Data",
-    "url": "https://www.techrepublic.com/article/news-google-cloud-salesforce-gemini-enterprise-agentforce/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google Cloud and Salesforce are connecting Gemini Enterprise, Agentforce, Hyperforce, and Tableau to reduce integration friction for enterprise AI workflows. The post Google Cloud, Salesforce Tie Gemi",
-    "dwp_take": "Google and Salesforce just plugged their AI tools directly into each other so customers can run AI workflows without playing twenty questions with their tech stack. This matters because most digital workplaces are drowning in disconnected systems, and easier AI integration means your people might actually use these tools instead of letting them collect dust. Honestly, if this actually reduces integration friction as promised, it's one of the few moves that could make enterprise AI deployments less painful, though I'll believe it when I see it implemented at scale.",
-    "date": "2026-09-18T07:52:52.729076+00:00"
-  },
-  {
-    "title": "Googlebook vs Chromebook: What\u2019s Different About Google\u2019s New Laptop?",
-    "url": "https://www.techrepublic.com/article/news-googlebook-vs-chromebook/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Googlebook and Chromebook are both laptop families, but Google\u2019s new flagship category adds deeper Android integration, new Gemini tools, and tighter phone connectivity. The post Googlebook vs Chromeb",
-    "dwp_take": "Google launched Googlebook as a new flagship laptop line with deeper Android integration, enhanced Gemini AI tools, and better phone connectivity compared to their existing Chromebook lineup. This matters because digital workplace teams need to understand whether this represents a real shift in device strategy or just marketing rebranding, which affects procurement decisions and end-user support plans. After thirty years in this space, I'm cautiously skeptical that tighter phone integration alone justifies another product category, but the AI tooling could actually be useful if Google resists the urge to cram every feature into every device.",
-    "date": "2026-09-18T07:52:56.984526+00:00"
-  },
-  {
-    "title": "ViceForge Puts Four Video Editing Tools in One Browser Tab for Life",
-    "url": "https://www.techrepublic.com/article/viceforge-creator-lifetime-subscription/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "ViceForge Creator Elite combines AI clipping, manual editing, and live-stream capture in one browser tab. The post ViceForge Puts Four Video Editing Tools in One Browser Tab for Life appeared first on",
-    "dwp_take": "ViceForge Creator Elite bundled four separate video editing functions into a single browser-based tool with AI clipping, manual editing, and live-stream capture capabilities. For digital workplace teams drowning in SaaS subscriptions and app fatigue, consolidation tools like this matter because they reduce context switching and simplify workflows for remote and hybrid workers creating video content daily. Honestly, if this actually works without the usual \"bundle bloat\" where you get four mediocre tools instead of one good one, it could be a legitimate productivity win. We'll believe it when we see it in production environments though.",
-    "date": "2026-09-18T07:53:01.142212+00:00"
-  },
-  {
     "title": "Anthropic is operating a lab that conducts biology experiments",
     "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
     "source": "TechCrunch",
@@ -988,5 +700,149 @@
     "excerpt": "Beats 360 headphones cost $349.99 and offer swappable cushions, 32-hour battery life, stronger noise cancellation, and Apple and Android support. The post Beats 360: Swappable Cushions Bring a New Twi",
     "dwp_take": "Beats released $350 headphones with swappable cushions, 32-hour battery life, and improved noise cancellation across both Apple and Android platforms. For remote workers who live in their headphones, this matters because better comfort and cross-platform support mean fewer excuses to skip video calls or switch devices mid-meeting. Look, swappable cushions are great until you lose one in your desk drawer, but at least Beats is finally admitting that one-size-fits-all audio gear works about as well as company-wide Slack policies.",
     "date": "2026-09-24T08:03:22.077665+00:00"
+  },
+  {
+    "title": "Bring your co-founder, partner, or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "dwp_take": "TechCrunch is offering 50 percent off a second pass to Disrupt 2026 if you buy one full-price ticket, with registration open until October 13. For digital workplace leaders, these conferences matter because they're where you'll actually hear what's shipping versus what's vaporware, and you might finally understand what your CEO means by \"AI integration.\" The real win here is bringing someone from a different department so you can translate the hype back at the office instead of sitting through it alone.",
+    "date": "2026-09-25T08:26:56.753122+00:00"
+  },
+  {
+    "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+    "dwp_take": "Meta released a small AI-powered device called Muse Charm that resembles a '90s Tamagotchi but functions as a wearable AI assistant designed to appeal to Gen Z consumers. This matters to digital workplace folks because it signals how AI interaction is shifting from screens and apps to always-on wearables that blend seamlessly into daily life, which will inevitably influence how we design workplace tech. Honestly, if your workplace communication strategy still revolves around desktop notifications and email, you're already behind the curve that teenagers are skateboarding on.",
+    "date": "2026-09-25T08:27:00.569512+00:00"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+    "dwp_take": "TechCrunch is running a one-day founder summit in Boston on November 4th where startup founders can network with venture capitalists and established entrepreneurs for advice on scaling their businesses. If you work in digital workplace strategy, this matters because the tools and platforms reshaping how we work are being built by founders in exactly these rooms, making it worth understanding what's next. That said, most \"tactical insights\" at these events boil down to \"hire smart people and don't run out of cash,\" which your CFO could tell you over lunch for free.",
+    "date": "2026-09-25T08:27:04.706622+00:00"
+  },
+  {
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
+    "dwp_take": "TechCrunch announced a new slate of venture capitalists who'll be judging the Startup Battlefield 200 competition at their 2026 conference, with early registration closing September 25. For digital workplace professionals, this matters because workplace tech startups regularly compete here, and knowing who's funding innovation tells you where investment is actually flowing versus where the hype is. Honestly, if your workplace tech startup isn't getting VC love from these judges, it might be time to ask whether you're solving a real problem or just chasing buzzwords.",
+    "date": "2026-09-25T08:27:08.627976+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s Surface Mouse is back, now with haptic feedback \u2013 and I need it",
+    "url": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one.",
+    "dwp_take": "Microsoft is releasing an updated Surface Mouse for $80 with haptic feedback built in, arriving October 13th. This matters because input devices directly affect productivity and fatigue during those eight-hour workdays, and haptic feedback could actually make clicking feel less sterile. Look, I've been around long enough to remember when everyone said we'd all be gesture-controlling holographic interfaces by now, so I'm refreshingly cynical about gadgets, but if Microsoft nailed the haptic implementation it could be a genuine comfort upgrade rather than another feature nobody asked for.",
+    "date": "2026-09-25T08:27:13.306706+00:00"
+  },
+  {
+    "title": "AI agent kill switch urged by Okta-led alliance \u2013 how businesses could make it work",
+    "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "In response to the emerging threat of rogue and shadow AI agents, here\u2019s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+    "dwp_take": "A group of security vendors led by Okta is pushing for built-in kill switches on AI agents to help companies shut down rogue or shadow AI before it causes damage. This matters because most organizations have zero visibility into what AI systems are actually running in their environments, and a rogue agent doing unauthorized automation could tank security faster than you can say \"prompt injection.\" The irony is thick here: we spent years getting humans to follow security policies, and now we're sprinting to build emergency brakes for machines we haven't even fully deployed yet.",
+    "date": "2026-09-25T08:27:17.434017+00:00"
+  },
+  {
+    "title": "The companies racing to build frontier AI are now racing to govern it",
+    "url": "https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Even as they continue to release ever more capable competing models in a regular cadence, the top AI companies are joining forces to set AI safety standards. According to The Information, Google, Open",
+    "dwp_take": "The big AI players (Google, OpenAI, Anthropic) are teaming up to create their own industry standards body for AI safety instead of waiting for governments to regulate them. This matters to digital workplace pros because whatever governance framework they build will shape the tools we're implementing, the policies we're defending, and the training we're delivering to employees in the next few years. The cynical take: it's basically the foxes volunteering to guard the henhouse, though I'll admit self-regulation beats paralysis by committee any day.",
+    "date": "2026-09-25T08:27:22.522282+00:00"
+  },
+  {
+    "title": "WordPress patches a critical severity security vulnerability",
+    "url": "https://www.computerworld.com/article/4226366/wordpress-patches-a-critical-severity-security-vulnerability-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "WordPress has patched what it described as a critical severity security vulnerability that would allow an unauthenticated attacker full remote code execution (RCE) capabilities. There have already bee",
+    "dwp_take": "WordPress just patched a critical vulnerability that lets unauthenticated attackers run code on your servers, and attackers are already exploiting it in the wild. If your organization runs WordPress sites (and statistically, you probably do), this matters because unpatched systems are open invitations for ransomware, data theft, and worse. The good news is patches exist; the bad news is WordPress has become the corporate equivalent of a popular nightclub that gets robbed every other month, which means you need to treat updates like they're actually critical and not something to get around to next quarter.",
+    "date": "2026-09-25T08:27:27.039140+00:00"
+  },
+  {
+    "title": "Entry-level tech jobs in NYC are being cut in half by the AI boom",
+    "url": "https://www.fastcompany.com/91612081/entry-level-tech-jobs-in-nyc-are-being-cut-in-half-by-the-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "At first glance, the tech scene in New York City appears to be thriving: OpenAI and Anthropic have been putting down roots in the city, while stalwarts of the tech industry like Google now have more t",
+    "dwp_take": "Tech companies in New York are cutting entry-level positions while expanding AI and senior roles, despite the city's overall tech employment growth. This matters because digital workplace teams rely on entry-level talent for foundational work, and losing that pipeline means fewer people learning how collaboration tools, knowledge management, and basic tech operations actually work. Turns out AI doesn't replace junior developers so much as it replaces junior developer job postings, which is a bleaker version of disruption that nobody signed up for.",
+    "date": "2026-09-25T08:27:31.242512+00:00"
+  },
+  {
+    "title": "Executives are using AI to communicate better. There\u2019s just one problem",
+    "url": "https://www.fastcompany.com/91612570/executives-are-using-ai-to-communicate-better-theres-just-one-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Artificial intelligence can help executives communicate more effectively and efficiently. But relying on it too much carries significant risks. One of the biggest is something Wade Foster, cofounder a",
+    "dwp_take": "A bunch of executives are leaning on AI to draft their communications, but they're often clueless about what they're actually sending out. This matters because when leaders don't understand the substance behind their own messages, they lose credibility fast and can't actually lead their teams through complexity. Here's the thing: if you need AI to write your executive communication, you probably don't understand your business well enough to be running it in the first place.",
+    "date": "2026-09-25T08:27:34.930894+00:00"
+  },
+  {
+    "title": "Tech\u2019s mass layoffs are hiding a much scarier problem, and AI is uncovering it",
+    "url": "https://www.fastcompany.com/91610952/techs-mass-layoffs-hiding-much-scarier-problem-ai-uncovering-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "When we talk about mass layoffs, especially in tech, we tend to focus on the wrong numbers. I\u2019ll give you an example. From this CNBC article that appeared over the weekend, about a Durham, North Carol",
+    "dwp_take": "Tech companies are laying off workers while simultaneously discovering through AI tools that they were carrying massive workloads that required way more people than they realized. This matters because digital workplace leaders need to understand that headcount cuts don't automatically equal efficiency gains, and you might be hiding real operational problems under those spreadsheets. Here's the irony: the AI they kept was better at exposing their dysfunction than their own management ever was.",
+    "date": "2026-09-25T08:27:38.730880+00:00"
+  },
+  {
+    "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
+    "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
+    "dwp_take": "Dayforce's chief HR officer Amy Capellanti-Wolf discussed how AI, hybrid work, and talent retention are reshaping the modern workplace. Digital workplace pros need to pay attention because these three forces are colliding on every org chart right now, and pretending they're separate problems is career suicide. Here's the thing though: when an HR leader at a major software company has to write an article about keeping technology and humanity balanced, you know we've built some seriously awkward workplaces that needed fixing.",
+    "date": "2026-09-25T08:27:43.359888+00:00"
+  },
+  {
+    "title": "AnyToSpeech Pro Turns Your Team\u2019s Content Into Audio for $199.99",
+    "url": "https://www.techrepublic.com/article/anytospeech-lifetime-subscription/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "One lifetime license replaces separate voiceover, transcription, and podcast production tools for busy teams. The post AnyToSpeech Pro Turns Your Team\u2019s Content Into Audio for $199.99 appeared first o",
+    "dwp_take": "AnyToSpeech Pro is selling a lifetime license for $199.99 that bundles voiceover, transcription, and podcast production into one tool instead of forcing teams to juggle three separate subscriptions. For digital workplace managers constantly hunting for ways to reduce tool sprawl and help distributed teams consume content faster, consolidated tooling is genuinely useful. The real question is whether one lifetime license actually stays current for five years, because software that promises forever support usually gets forever ignored by its makers.",
+    "date": "2026-09-25T08:27:47.632960+00:00"
+  },
+  {
+    "title": "Anthropic Uses 950 Claude AI Agents to Discover Uncharacterized Enzyme System",
+    "url": "https://www.techrepublic.com/article/news-anthropic-claude-ai-agents-enzyme-discovery/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic used roughly 950 Claude AI agents to analyze more than 200,000 enzymes and uncover a previously uncharacterized biological system. The post Anthropic Uses 950 Claude AI Agents to Discover Un",
+    "dwp_take": "Anthropic deployed 950 Claude AI agents to sift through 200,000 enzymes and identified a previously unknown biological system, basically letting machines do the grunt work of scientific discovery. This matters to digital workplace folks because it shows how AI agents can handle massive data analysis tasks that would take humans months or years, which changes how we think about knowledge work automation. The funny part is watching AI do what scientists have been trying to do for decades, which probably means some biologists are updating their LinkedIn profiles right now.",
+    "date": "2026-09-25T08:27:51.393817+00:00"
+  },
+  {
+    "title": "Amazon Reaches Out to Former Employees for AI Roles",
+    "url": "https://www.techrepublic.com/article/news-amazon-former-employees-ai-roles/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Amazon recruiters are contacting former employees, including some who were laid off, about AI and cloud roles. Here's what the outreach means for AWS customers. The post Amazon Reaches Out to Former E",
+    "dwp_take": "Amazon is actively recruiting former employees, including those it previously laid off, to fill AI and cloud computing positions. This matters because it signals how desperately companies need specialized AI talent right now, and it shows that even major tech firms can't find enough skilled workers in the open market. The irony here is sharp: Amazon cut thousands of people to improve margins, then realized it actually needed those same people back. That's the kind of costly lesson that should make any digital workplace leader think twice about treating headcount cuts as a strategy rather than a last resort.",
+    "date": "2026-09-25T08:27:55.564576+00:00"
+  },
+  {
+    "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output",
+    "url": "https://www.techrepublic.com/article/news-anthropic-claude-opus-5-5-pricing-performance/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic\u2019s Claude Opus 5.5 lowers token prices, improves output speed, and adds new safety controls as competition over enterprise AI costs intensifies. The post Anthropic Launches Claude Opus 5.5 Wi",
+    "dwp_take": "Anthropic just dropped Claude Opus 5.5 with cheaper tokens, faster responses, and beefed up safety controls as the AI arms race heats up. For digital workplace leaders building on large language models, this means your AI projects got a price cut and a speed boost, which translates to lower costs and better user experience in actual deployments. Finally, an AI company competing on value and speed instead of just slapping \"enterprise\" on the box and charging accordingly, which is refreshing in a market that usually does the opposite.",
+    "date": "2026-09-25T08:27:59.642778+00:00"
   }
 ]
