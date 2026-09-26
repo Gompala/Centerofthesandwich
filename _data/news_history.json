@@ -1,140 +1,5 @@
 [
   {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "dwp_take": "Anthropic opened a biology lab to run actual experiments, putting their money where their mouth is on AI solving real problems like disease. This matters because every enterprise betting on AI-as-cure-all suddenly has a reference point for what responsible deployment actually looks like beyond the PowerPoint slides. Here's the thing though: if an AI safety company has to run their own lab to prove AI works in biology, what does that say about all the other vendors promising miracles without breaking a sweat or funding actual research?",
-    "date": "2026-09-19T07:43:38.899651+00:00"
-  },
-  {
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-    "dwp_take": "OpenAI researchers have released Jev, a new AI model that promises to deliver software intelligence at a lower cost and faster speed than current options. For digital workplace teams building internal tools, chatbots, and automation features, this matters because it directly impacts your budget and deployment timelines when you're trying to actually ship something. Here's the reality though: cheaper and faster AI is great until you realize you're solving problems your users didn't ask you to solve in the first place.",
-    "date": "2026-09-19T07:43:42.548056+00:00"
-  },
-  {
-    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
-    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-    "dwp_take": "Disney just hired a former CEO from Character.AI as its first CTO, which is the same company Disney once threatened with legal action for allegedly copying Disney characters. This matters because it shows how the entertainment industry's relationship with AI startups is shifting from adversarial to collaborative, and it suggests Disney sees real strategic value in understanding generative AI from the inside. The irony is almost too perfect: Disney went from \"cease and desist\" to \"please come run our tech strategy,\" which either speaks to Character.AI's legitimacy or Disney's pragmatism, probably both.",
-    "date": "2026-09-19T07:43:46.564890+00:00"
-  },
-  {
-    "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
-    "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Nscale Global Holdings Ltd. today filed to go public on the New York Stock Exchange. The company, which builds data centers optimized for artificial intelligence workloads, didn\u2019t reveal how much it h",
-    "dwp_take": "Nscale, a data center builder focused on AI infrastructure, just filed for an IPO after landing a massive deal with Anthropic and hitting a $14.6 billion valuation. This matters because digital workplace teams need to understand where the actual compute power behind their AI tools is coming from, and who's profiting from the infrastructure boom fueling enterprise AI adoption. Here's the thing though: everyone's racing to build data centers for AI while we still can't get our internal collaboration platforms to work properly without three separate vendors and a prayer.",
-    "date": "2026-09-19T07:43:51.889053+00:00"
-  },
-  {
-    "title": "Microsoft mops up after Patch Tuesday broke logins, audio, Excel",
-    "url": "https://www.computerworld.com/article/4223945/microsoft-mops-up-after-patch-tuesday-broke-logins-audio-excel.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft fixed hundreds of security flaws in its September Patch Tuesday software updates \u2014 but it also introduced some annoying bugs. Now it has fixed some of them with a series of out-of-band updat",
-    "dwp_take": "Microsoft's September Patch Tuesday updates fixed security holes but broke logins, audio, and Excel paste functions, forcing the company to release emergency hotfixes days later. This matters because broken core functionality after mandatory security patches puts IT teams in an impossible bind: apply patches and deal with user complaints, or delay patches and accept security risk. After three decades watching this cycle repeat, I can confidently say Microsoft's quality control has the consistency of a Windows update progress bar.",
-    "date": "2026-09-19T07:43:57.041035+00:00"
-  },
-  {
-    "title": "GhostCode attackers abuse device codes to take over Microsoft 365 accounts",
-    "url": "https://www.computerworld.com/article/4223889/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft 365 users are being tricked into handing over access to their accounts by a new phishing kit, GhostCode, that exploits a weakness in a legitimate device authorization flow. Researchers in eS",
-    "dwp_take": "Attackers are using a phishing kit called GhostCode to trick Microsoft 365 users into giving up account access by exploiting the device code authentication flow that Microsoft designed to make login easier. This matters because device code flows are everywhere now, especially for headless applications and mobile scenarios, which means your users are increasingly exposed to this exact social engineering vector. The irony here is thick: Microsoft built this feature to improve security and user experience, and now it's become another way to get people to hand over the keys to the kingdom.",
-    "date": "2026-09-19T07:44:01.122063+00:00"
-  },
-  {
-    "title": "With Siri Recap, Apple threw a punch at OpenAI no one saw coming",
-    "url": "https://www.computerworld.com/article/4223856/with-siri-recap-apple-threw-a-punch-at-openai-no-one-saw-coming.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "John Ternus\u2019 Apple threw a curveball at OpenAI with Siri Recap on Apple Watch, accelerating a conversation about privacy and data protection in an AI-augmented digital era. It\u2019s a move that may yet co",
-    "dwp_take": "Apple launched Siri Recap on Apple Watch, a feature that summarizes your day using on-device AI rather than sending data to external servers like OpenAI's solutions do. For digital workplace folks, this matters because it signals that privacy-first AI processing is becoming table stakes, not a nice-to-have, which will reshape how we think about employee data and compliance. Honestly, watching Apple use privacy as a competitive weapon against OpenAI is the plot twist nobody expected, and it might finally force the industry to stop treating user data like it's just sitting there for the taking.",
-    "date": "2026-09-19T07:44:05.222680+00:00"
-  },
-  {
-    "title": "More and more people believe that AI will take away jobs rather than create new ones",
-    "url": "https://www.computerworld.com/article/4223962/more-and-more-people-believe-that-ai-will-take-away-jobs-rather-than-create-new-ones.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "A new survey from the Pew Research Center shows that a majority of people worldwide now expect artificial intelligence to lead to fewer jobs rather than more. The survey is based on responses from 37 ",
-    "dwp_take": "Most people surveyed across 37 countries believe AI will destroy jobs rather than create them, with wealthier nations most pessimistic about the outlook. Digital workplace leaders need to take this seriously because workforce anxiety directly impacts adoption, engagement, and the change management burden you're already carrying. Here's the thing: people aren't wrong to worry, but pretending everything will be fine while doing nothing to reskill your workforce is how you guarantee the bad outcomes everyone fears.",
-    "date": "2026-09-19T07:44:09.105902+00:00"
-  },
-  {
-    "title": "Thousands of security workers for Big Tech companies are on strike in California",
-    "url": "https://www.fastcompany.com/91609749/thousands-of-security-workers-for-major-tech-companies-are-on-strike?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Security officers at some of the most prominent tech companies in Silicon Valley have been poised to walk off the job since voting to authorize a strike earlier this month. The workers have been in ta",
-    "dwp_take": "Fourteen thousand security workers at major tech companies across Silicon Valley have voted to strike over stalled contract negotiations with security contractors. This matters because your digital workplace is only as secure as the people protecting it, and when those folks are underpaid and frustrated, your physical security posture starts crumbling. Here's the thing: tech companies spent billions on firewalls and AI security tools while the actual humans standing at the gates couldn't afford rent in the Bay Area. That's not a strategy, that's just asking for trouble.",
-    "date": "2026-09-19T07:44:13.128662+00:00"
-  },
-  {
-    "title": "Barclays workers in the U.K. demand extra pay to return to office",
-    "url": "https://www.fastcompany.com/91609710/barclays-workers-in-the-uk-demand-extra-pay-to-return-to-office?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Barclays workers in the United Kingdom are protesting the bank\u2019s move from two office days a week to three (with senior staff expected four days) and demanding that the firm cover costs associated wit",
-    "dwp_take": "Barclays UK employees signed an open letter demanding extra pay to offset the costs of increasing office days from two to three per week, with senior staff expected to be in four days starting October. This matters because it shows workers are finally doing the math on RTO costs and willing to push back collectively, which means companies can't just mandate office time without factoring in actual employee expenses. Here's the thing: Barclays probably thought three days was a reasonable compromise, but employees asking for hazard pay to commute is a sign they've stopped accepting RTO as a benign productivity play.",
-    "date": "2026-09-19T07:44:17.287879+00:00"
-  },
-  {
-    "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-    "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "Anthropic\u2019s CEO says that safety hinges on understanding how AI \u201cthinks.\u201d So far the evidence is disturbing.",
-    "dwp_take": "Anthropic's CEO admitted the AI industry doesn't actually understand how large language models work internally, yet keeps deploying them at scale anyway. This matters to digital workplace folks because you're about to inherit AI tools that your vendors can't fully explain, which makes governance, risk management, and trust conversations nearly impossible. Here's the thing: we spent decades building enterprise software with documented architecture and audit trails, and now we're supposed to confidently deploy black boxes that even their creators don't fully comprehend.",
-    "date": "2026-09-19T07:44:22.251896+00:00"
-  },
-  {
-    "title": "Zuckerberg, Musk and Huang Reportedly Urged Trump to Reject AI Regulator",
-    "url": "https://www.techrepublic.com/article/news-zuckerberg-musk-huang-trump-ai-regulator/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Zuckerberg, Musk, and Huang reportedly urged President Trump to reject an industry-funded AI regulator as debate over frontier AI oversight intensifies. The post Zuckerberg, Musk and Huang Reportedly ",
-    "dwp_take": "Three tech billionaires lobbied Trump to block an industry-funded AI regulatory body, effectively pushing for lighter oversight of frontier AI development. This matters because workplace AI tools are rapidly becoming central to how we collaborate, communicate, and get work done, and the regulatory environment will directly shape what gets built and how safe it actually is. The irony here is thick: the same folks who've spent years saying they want \"responsible AI\" are apparently more interested in moving fast and breaking things, which is basically the startup motto that got us into most of the regulatory messes we have today.",
-    "date": "2026-09-19T07:44:26.356759+00:00"
-  },
-  {
-    "title": "Samsung\u2019s New Patent Reveals How a Galaxy Watch Could Measure Blood Sugar",
-    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-blood-sugar-patent-sept-2026/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "A new Samsung patent reveals how wearable glucose measurement could work as the company continues researching noninvasive blood sugar monitoring. The post Samsung\u2019s New Patent Reveals How a Galaxy Wat",
-    "dwp_take": "Samsung filed a patent for noninvasive blood sugar monitoring on a Galaxy Watch using wearable technology. For digital workplace professionals, this matters because employee wellness programs are moving from the break room to the wrist, and companies will soon be wrestling with data privacy questions they haven't even thought about yet. Here's the thing: just because we can measure someone's glucose on their smartwatch doesn't mean we should collect it all in an HR system, but I guarantee someone's already pitching that exact feature to their CHRO.",
-    "date": "2026-09-19T07:44:30.525188+00:00"
-  },
-  {
-    "title": "AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech",
-    "url": "https://www.techrepublic.com/article/ai-expansion-robot-factories-and-escalating-security-threats-define-this-week-in-tech/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "See what you missed in Daily Tech Insider from Sept. 14\u201318. The post AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech appeared first on TechRepublic.",
-    "dwp_take": "AI is expanding across industries, robot factories are scaling up, and security threats are getting worse, according to TechRepublic's weekly roundup. Digital workplace pros need to care because these three trends are colliding directly over your infrastructure: smarter AI tools mean more data flying around, automated systems create new attack surfaces, and bad actors are getting better at exploiting both. Honestly, if your security team isn't already sweating through meetings about this convergence, they should be, because defending a workplace full of AI tools and connected robots is like securing a building where the locks keep learning new ways to open themselves.",
-    "date": "2026-09-19T07:44:36.663822+00:00"
-  },
-  {
-    "title": "Vietnam Offers Businesses About $114K for AI Projects \u2014 Who Qualifies?",
-    "url": "https://www.techrepublic.com/article/news-ai-funding-businesses-apac-vietnam/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Vietnam's NATIF is offering businesses up to about $114,000 for AI projects, with applications open through Oct. 10, 2026. The post Vietnam Offers Businesses About $114K for AI Projects \u2014 Who Qualifie",
-    "dwp_take": "Vietnam's government is dangling $114K in subsidies for businesses willing to develop AI projects before October 2026. Digital workplace teams should care because this signals how seriously some governments are pushing AI adoption and funding innovation, which affects the global competitive landscape you're operating in. Look, free money for AI is great, but the real question is whether your organization actually has a legitimate AI problem to solve or if you're just chasing subsidies to build another chatbot nobody needs.",
-    "date": "2026-09-19T07:44:40.546582+00:00"
-  },
-  {
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
     "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "source": "TechCrunch",
@@ -844,5 +709,149 @@
     "excerpt": "Anthropic\u2019s Claude Opus 5.5 lowers token prices, improves output speed, and adds new safety controls as competition over enterprise AI costs intensifies. The post Anthropic Launches Claude Opus 5.5 Wi",
     "dwp_take": "Anthropic just dropped Claude Opus 5.5 with cheaper tokens, faster responses, and beefed up safety controls as the AI arms race heats up. For digital workplace leaders building on large language models, this means your AI projects got a price cut and a speed boost, which translates to lower costs and better user experience in actual deployments. Finally, an AI company competing on value and speed instead of just slapping \"enterprise\" on the box and charging accordingly, which is refreshing in a market that usually does the opposite.",
     "date": "2026-09-25T08:27:59.642778+00:00"
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
+    "dwp_take": "Anthropic just locked in an $11.6 billion cloud infrastructure deal with Akamai over seven years, with potential equity upside for the AI company if spending hits $20 billion. This matters because it signals where serious compute power is flowing and shows that infrastructure providers are now willing to bet equity on their biggest customers, which changes the economics of how enterprises negotiate cloud deals going forward. Turns out the real AI gold rush isn't building the models, it's owning the pipes that run them.",
+    "date": "2026-09-26T08:13:42.264895+00:00"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "dwp_take": "Mark Wahlberg is headlining TechCrunch Disrupt 2026 to talk about investing, entrepreneurship, and business building alongside Bruce K. Lee. This matters because when celebrities start showing up at tech conferences talking about workplace culture and business strategy, it signals that digital transformation and workplace innovation have officially moved beyond the IT department into mainstream business conversation. Look, if Marky Mark can get people interested in wellness and entrepreneurship at a tech conference, maybe there's hope that executives will actually listen to their workplace strategists for once.",
+    "date": "2026-09-26T08:13:46.301154+00:00"
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "dwp_take": "British AI infrastructure company Nscale just locked down $3.36 billion in convertible financing from heavy hitters like Third Point and Nvidia to build out massive data centers ahead of going public in the US. This matters to digital workplace pros because AI infrastructure investments at this scale signal that generative AI tooling for enterprise work is moving from \"interesting pilot\" to \"mission critical infrastructure,\" which means your organization's AI strategy better be more than a chatbot experiment. Honestly, watching investors throw this much money at data centers reminds me that while everyone's arguing about AI governance policies, the real game is being played by whoever controls the compute underneath it all.",
+    "date": "2026-09-26T08:13:50.834126+00:00"
+  },
+  {
+    "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d maybe someone should have asked: what pace? Now it\u2019s turned into model drop week for both companies as Anthropic ro",
+    "dwp_take": "Meta launched Muse, a personal AI agent that's apparently outperforming ChatGPT in early comparisons, while OpenAI and Anthropic are locked in a rapid-fire model release cycle trying to keep up. For digital workplace folks, this matters because your AI tool choices are about to get a lot messier, and vendors will be claiming superiority based on benchmarks that shift faster than your CEO's priorities. The real joke here is that organizations are still trying to figure out how to use the last generation of AI while three companies are already racing toward the next one like it's Black Friday at Best Buy.",
+    "date": "2026-09-26T08:13:55.332482+00:00"
+  },
+  {
+    "title": "Your LG TV is constantly collecting your data \u2013 here\u2019s how to stop it",
+    "url": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
+    "dwp_take": "LG TVs are collecting user data and storing it in ways that persist even after you try to delete it, requiring a full factory reset to actually remove the logs. This matters to digital workplace pros because it's a stark reminder that the \"smart\" devices employees bring into hybrid work setups are basically data collection machines, and IT departments need to have real conversations about what happens when personal devices end up on corporate networks. Turns out your TV knows more about your viewing habits than your company knows about its own data governance, which is either hilarious or terrifying depending on your caffeine intake.",
+    "date": "2026-09-26T08:13:59.707390+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
+    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
+    "dwp_take": "Microsoft bundled Copilot into a single app with AI agents and coding capabilities, but they're being deliberately vague about pricing, calling it \"evolving.\" This matters because most organizations are still struggling to figure out their existing AI spend, and Microsoft's pricing fog just made it harder to budget for enterprise deployments. After three decades, I've learned that when a vendor says pricing is \"evolving,\" what they really mean is \"we'll charge whatever we can get away with once you're locked in.\"",
+    "date": "2026-09-26T08:14:03.577946+00:00"
+  },
+  {
+    "title": "OpenAI wants you to use AI \u2014 but not to train its AI",
+    "url": "https://www.computerworld.com/article/4226841/openai-wants-you-to-use-ai-but-not-to-train-its-ai.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Here\u2019s an interesting concept: an AI company that fires people for using AI. It sounds like a strange way to run a company but there\u2019s a real reason behind it. OpenAI has been hiring contractors who h",
+    "dwp_take": "OpenAI discovered contractors hired to manually review ChatGPT prompts were using AI tools to do the work, defeating the purpose of having humans in the loop for quality control. This matters because it highlights a real tension in AI workflows: when you make AI tools too good and accessible, even people paid to do human-level work will automate themselves out of a job. The irony is delicious, but it also exposes why AI augmentation strategies fail when companies don't think through actual human behavior and incentive structures.",
+    "date": "2026-09-26T08:14:08.389280+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s new Copilot \u2018super app\u2019 unifies chat, code, agents",
+    "url": "https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft\u2019s Copilot \u201csuper app\u201d has arrived, two months after CEO Satya Nadella confirmed it was in development. It combines conversational Chat, the autonomous Cowork agent, a redesigned coding envir",
+    "dwp_take": "Microsoft bundled its AI chat, coding, agent, and automation tools into one unified Copilot interface instead of keeping them scattered across different applications. This matters because it reduces tool sprawl and could actually make AI features discoverable for workers who currently ignore half the stuff their company pays for. Whether this \"super app\" approach genuinely improves workflow or just creates a new dumping ground for features nobody asked for remains to be seen.",
+    "date": "2026-09-26T08:14:11.983435+00:00"
+  },
+  {
+    "title": "The tradwife debate is really about control",
+    "url": "https://www.fastcompany.com/91610125/the-tradwife-debate-is-really-about-control?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "The tradwife has entered the conversation. Instagram showcases her baking bread, doing laundry, and extolling the virtues of domestic bliss\u2014a counterpoint to the girlboss who is always working, and al",
+    "dwp_take": "A cultural debate about \"tradwives\" versus \"girlbosses\" is playing out on social media as people argue over whether domestic life or career ambition represents the better choice for women. This matters to digital workplace folks because it reflects real tension in how we design work, support flexibility, and message company culture to employees who have vastly different life priorities. The truth is neither extreme works for most people, and any organization still pushing the \"always on, always grinding\" narrative is just asking for burnout and turnover.",
+    "date": "2026-09-26T08:14:16.430699+00:00"
+  },
+  {
+    "title": "This is what your highest performers really want",
+    "url": "https://www.fastcompany.com/91612944/this-is-what-your-highest-performers-really-want?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "At a moment when employers are sinking billions of dollars into AI adoption, workforce development has become less of a priority. Training budgets have contracted, forcing companies to make tough choi",
+    "dwp_take": "Companies are cutting training budgets while pouring money into AI, which means they're choosing which employees get development support instead of investing across the board. This matters because your best people will leave if they feel ignored, and ironically, they're usually the ones most likely to find opportunities elsewhere. Here's the thing: starving your high performers of growth while building expensive AI systems is like buying a Ferrari and forgetting to put gas in it.",
+    "date": "2026-09-26T08:14:19.951538+00:00"
+  },
+  {
+    "title": "Workers are faking their interest in AI to satisfy bosses, report shows",
+    "url": "https://www.fastcompany.com/91613307/workers-are-faking-their-interest-in-ai-to-satisfy-bosses-report-shows?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Corporate leaders are putting tremendous pressure on workers to incorporate artificial intelligence into their workflow\u2014often without a clear understanding of its capabilities or impact. As a result, ",
+    "dwp_take": "Workers are pretending to use AI tools and exaggerating their skills with them because management is pushing adoption without any real strategy or business case. This matters because it signals a breakdown in trust between leadership and workers, and it means your organization has zero visibility into actual AI adoption and value. Here's the thing: when bosses mandate solutions looking for problems instead of solving actual problems, people will absolutely game the metrics, and you'll end up with a false sense of progress while your real work doesn't improve one bit.",
+    "date": "2026-09-26T08:14:23.910484+00:00"
+  },
+  {
+    "title": "How solopreneurs can use AI as a behind-the-scenes assistant",
+    "url": "https://www.fastcompany.com/91610273/how-solopreneurs-can-use-ai-behind-scenes-assistant?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Every week, as a solo business owner, I have an entire list of tasks that need to get done on top of my client work. If they don\u2019t get done by Friday, they\u2019re staring at me when I begin work again the",
+    "dwp_take": "Fast Company ran a piece about solo entrepreneurs using AI to handle repetitive admin work so they can focus on billable client time. This matters to digital workplace folks because it's the exact same tension that plagues knowledge workers everywhere: how do you carve out space for actual thinking when the busywork piles up. The real lesson isn't \"buy more AI tools\" but rather that every organization needs to stop treating administrative overhead like some character-building exercise and start treating it as the productivity thief it actually is.",
+    "date": "2026-09-26T08:14:27.762997+00:00"
+  },
+  {
+    "title": "Microsoft Unveils Surface Pro 12-Inch and Laptop 13-Inch With Snapdragon X2 Plus",
+    "url": "https://www.techrepublic.com/article/news-microsoft-surface-pro-12-laptop-13-snapdragon-x2-plus/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft\u2019s Surface Pro 12-inch and Laptop 13-inch add Snapdragon X2 Plus chips. Compare pricing, battery life, AI features, and key checks for IT buyers. The post Microsoft Unveils Surface Pro 12-Inc",
+    "dwp_take": "Microsoft dropped new Surface Pro and Laptop models with Snapdragon X2 Plus chips, which means better battery life and on-device AI capabilities for mobile workers. This matters because IT teams need to understand whether these ARM-based processors actually work with your existing software stack and whether the AI features justify the upgrade costs. Here's the thing though: every new processor generation gets marketed as a game changer, but I've seen plenty of \"revolutionary\" devices end up in desk drawers because they broke something important or cost way too much for marginal gains.",
+    "date": "2026-09-26T08:14:32.034561+00:00"
+  },
+  {
+    "title": "NVIDIA Releases Open Viral Protein Dataset and BioNeMo Pipeline",
+    "url": "https://www.techrepublic.com/article/news-nvidia-viral-protein-dataset-bionemo-pipeline/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "NVIDIA released AI-predicted protein structures for more than 2,800 viruses and an open BioNeMo pipeline to help researchers prepare for future outbreaks. The post NVIDIA Releases Open Viral Protein D",
+    "dwp_take": "NVIDIA just dropped protein structures for thousands of viruses and an open-source pipeline called BioNeMo to help researchers prep for the next outbreak. This matters because biotech companies and research teams need accessible AI tools to work faster, and giving away datasets accelerates innovation instead of hoarding it behind paywalls like some companies do. Honestly, when a chipmaker starts solving public health problems better than most governments, you know we're living in weird times, but I'll take it.",
+    "date": "2026-09-26T08:14:36.019644+00:00"
+  },
+  {
+    "title": "Google, OpenAI, Anthropic Reportedly Plan AI Safety Standards Body",
+    "url": "https://www.techrepublic.com/article/news-google-openai-anthropic-ai-safety-standards-body/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google, OpenAI and Anthropic reportedly plan an AI safety standards body. See what the proposed testing and audits could mean for enterprise IT buyers. The post Google, OpenAI, Anthropic Reportedly Pl",
+    "dwp_take": "Three major AI players want to create their own standards body for AI safety, which sounds noble until you realize they're basically writing their own report cards. This matters because enterprises are already scrambling to figure out what's safe to deploy in their digital workplaces, and competing safety frameworks from vendors create confusion rather than clarity. You've got to love the irony: companies racing to dominate the AI market are now promising to police themselves, which historically works about as well as a fox guarding the henhouse.",
+    "date": "2026-09-26T08:14:40.107777+00:00"
+  },
+  {
+    "title": "Google May Remove the Android Feature That Tells You to Look Up",
+    "url": "https://www.techrepublic.com/article/news-google-android-heads-up-feature-deprecation/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google appears to be preparing to retire Android\u2019s Heads Up feature, a Digital Wellbeing tool that warns users when they walk while using their phones. The post Google May Remove the Android Feature T",
+    "dwp_take": "Google is reportedly killing off Android's Heads Up feature, which warned users when they were walking while staring at their phones. This matters because digital workplace professionals spend half their day selling us on \"digital wellbeing\" tools while designing apps specifically engineered to be addictive, so losing even a small safety guardrail feels like the house of cards it always was. I guess Google figured if people want to walk into fountains while scrolling Slack, that's their right to choose.",
+    "date": "2026-09-26T08:14:44.015829+00:00"
   }
 ]
