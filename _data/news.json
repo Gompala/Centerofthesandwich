@@ -1,129 +1,129 @@
 {
-  "generated": "2026-09-28T09:15:38.411589+00:00",
+  "generated": "2026-09-29T09:23:41.372210+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Can Muse overcome Meta\u2019s trust issues?",
-        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-        "dwp_take": "Meta unveiled Muse, a new AI image generation tool, that managed to grab headlines away from competing AI announcements from OpenAI and Anthropic. For digital workplace professionals, this matters because generative AI tools are increasingly becoming standard in enterprise environments, and Meta's credibility problem means IT leaders will scrutinize this offering harder than similar tools from competitors. Honestly, Meta trying to win back trust with shiny new tech is like showing up late to dinner with flowers after a pattern of no-shows. The tool needs to be genuinely good, not just good at grabbing press.",
-        "date": "2026-09-28T09:14:46.007684+00:00"
+        "excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
+        "dwp_take": "Anthropic disclosed in its IPO filing that it's hemorrhaging billions annually while scaling aggressively, plus casually mentioned that its AI could theoretically pose an existential threat to humanity. This matters because digital workplace leaders are actively deploying AI tools into their environments right now, and if the company building some of these systems is genuinely worried about existential risk, that's worth factoring into your vendor risk assessment. Apparently the business model is \"move fast and break things, or possibly break civilization,\" which is a bold strategy for a company asking people to trust it with their enterprise data.",
+        "date": "2026-09-29T09:22:50.389666+00:00"
       },
       {
-        "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "title": "The AI boom took over Climate Week and not everyone is happy about it",
+        "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "\"AI is the devil and I its maker.\"",
-        "dwp_take": "Anthropic CEO Dario Amodei appeared on Saturday Night Live where he played into the whole \"AI researcher as modern Frankenstein\" bit. This matters because when your company's leader is doing comedy sketches instead of serious communication about AI safety and governance, it signals something about how the industry wants to be perceived: entertaining rather than trustworthy. Look, I get it, tech leaders are celebrities now, but spending your airtime on self-deprecating jokes about creating digital demons doesn't exactly build confidence that anyone's actually thinking hard about responsible deployment in actual workplaces.",
-        "date": "2026-09-28T09:14:50.495730+00:00"
+        "excerpt": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+        "dwp_take": "AI dominated Climate Week conversations this year, with data centers and AI infrastructure becoming central to climate tech discussions. Digital workplace leaders need to pay attention because this tension directly affects where enterprise tech investment flows and what infrastructure decisions get made around their tools and platforms. Here's the thing though: if you're still debating whether AI belongs at a climate conference in 2024, you've already missed the plot. The real conversation should be about building efficient systems, not pretending the technology doesn't exist.",
+        "date": "2026-09-29T09:22:54.322691+00:00"
       },
       {
-        "title": "Nvidia debuts enhanced safety controls to rein in rogue AI agents",
-        "url": "https://siliconangle.com/2026/09/28/nvidia-debuts-enhanced-safety-controls-to-rein-in-rogue-ai-agents/",
-        "source": "SiliconAngle",
+        "title": "Nvidia launches new platform for reining in rogue AI agents",
+        "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Few companies are more invested in the success of artificial intelligence agents than Nvidia Corp., so it makes sense that the chipmaker would want to ensure these autonomous software systems run safe",
-        "dwp_take": "Nvidia just released an open-source safety platform to keep AI agents from going rogue and breaking things in your systems. This matters because if you're rolling out AI automation in your workplace (and who isn't these days), you need guardrails that actually work, not just marketing promises. Here's the funny part: we're at the stage where the AI companies are basically saying \"yeah, we made these things powerful, but we're still figuring out how to keep them from becoming workplace gremlins.\"",
-        "date": "2026-09-28T09:14:55.930324+00:00"
+        "excerpt": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i",
+        "dwp_take": "Nvidia just released security tools designed to keep AI agents from going rogue and escaping their sandboxes, giving enterprises actual guardrails for their AI experiments. This matters because companies deploying AI agents in production are rightfully paranoid about uncontrolled behavior, and having vendor-backed containment options beats crossing your fingers and hoping for the best. Honestly, it's refreshing to see someone building fences before we need them, though I'd still trust but verify whatever Nvidia's definition of \"contained\" actually means in practice.",
+        "date": "2026-09-29T09:22:58.318148+00:00"
       },
       {
-        "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?",
-        "url": "https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the-hardest-question-in-agentic-ai-why-did-the-agent-do-that/",
-        "source": "SiliconAngle",
+        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "For decades, the observability industry has answered one basic question: Is it running? Agentic artificial intelligence breaks that model. An agent can return a clean response, meet its latency target",
-        "dwp_take": "AWS just launched CloudWatch Omni to tackle a genuine problem with AI agents: they can look like they're working fine while actually being completely wrong. This matters because enterprises deploying AI agents for customer service or internal workflows need visibility into not just system health but actual decision quality. Finally, someone's admitting that traditional monitoring is useless when your AI confidently does the wrong thing at lightning speed.",
-        "date": "2026-09-28T09:14:59.649012+00:00"
+        "excerpt": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+        "dwp_take": "Anthropic rolled out Sonnet 5.5, a faster and cheaper version of their mid-range Claude model that burns through fewer tokens. This matters because most workplace teams using Claude for content creation, analysis, and automation will suddenly get more bang for their buck, which means your AI budget might actually stretch further next year. Of course, the real test is whether it's actually faster in real work or just faster at telling you it's faster, so run your own tests before you bet the farm on it.",
+        "date": "2026-09-29T09:23:02.389650+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Claude Opus 5.5 delivers Fable 5.1 performance \u2013 and costs 40% less",
-        "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Anthropic\u2019s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
-        "dwp_take": "Anthropic just released Claude Opus 5.5, which matches the performance of their previous flagship model while cutting costs by 40 percent and raising usage limits. For digital workplace professionals evaluating AI tools for internal deployment, this matters because better economics mean you can actually afford to roll out AI-powered features across your organization without needing three approval cycles from finance. Honestly, after years of watching AI vendors price like they invented fire, it's refreshing when someone actually makes their tool more accessible instead of just slapping a premium on whatever they built last quarter.",
-        "date": "2026-09-28T09:15:04.117536+00:00"
-      },
-      {
-        "title": "Google plans Gemini 4 release before year-end",
-        "url": "https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html",
+        "title": "Try Google Drive Projects for fast, focused AI analysis",
+        "url": "https://www.computerworld.com/article/4219866/google-drive-projects-focused-ai-analysis-in-google-workspace.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Google\u2019s Gemini 4 AI model is in the early days of post-training, the phase in which a base AI model is refined to behave reliably, and should be released \u201cmuch earlier\u201d than the end of this year, Goo",
-        "dwp_take": "Google is pushing out Gemini 4 before December, with October being a realistic target if the post-training phase stays on track. This matters because generative AI is now the baseline expectation for enterprise tools, and whatever Google releases will immediately shape how your vendors position their own AI capabilities and pricing. The funny part is watching the AI industry sprint toward release dates while most organizations are still figuring out what to actually do with Gemini 3.",
-        "date": "2026-09-28T09:15:08.746718+00:00"
-      },
-      {
-        "title": "Around the corner: Agentic AI PCs that cut token costs",
-        "url": "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "AI PCs that cut token costs? That may appeal to enterprises. A new breed of agentic AI PCs promises to do exactly that. The powerful laptops can cut token costs by completing AI work locally instead o",
-        "dwp_take": "HP and other PC makers are launching high-powered laptops with beefier GPUs and memory to run AI tasks locally instead of constantly calling cloud-based LLMs. This matters because enterprises are getting squeezed by cloud AI token costs, and shifting some of that compute load to the device itself could actually move the needle on software budgets. The irony is we spent 20 years consolidating everything to the cloud, and now we're paying enough per token to make local processing look reasonable again.",
-        "date": "2026-09-28T09:15:12.728930+00:00"
-      },
-      {
-        "title": "The companies racing to build frontier AI are now racing to govern it",
-        "url": "https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Even as they continue to release ever more capable competing models in a regular cadence, the top AI companies are joining forces to set AI safety standards. According to The Information, Google, Open",
-        "dwp_take": "The major AI players like Google, OpenAI, and Anthropic are creating their own standards body to govern frontier AI development rather than waiting for government regulation. This matters to digital workplace pros because whatever safety standards these companies agree on will directly shape the AI tools you're actually deploying in your organizations. The irony here is thick enough to cut with a knife: the same companies racing to out-innovate each other in AI capabilities are now teaming up to write the rulebook, which basically means they're grading their own homework.",
-        "date": "2026-09-28T09:15:16.628514+00:00"
+        "excerpt": "Google Drive is the cloud platform for storing and organizing your Google Workspace files: documents, presentations, spreadsheets, and even media (images, audio, and video). If your Workspace account ",
+        "dwp_take": "Google added AI-powered project analysis capabilities to Google Drive, letting Workspace users with Gemini access prompt the AI to analyze and summarize their stored files directly within the platform. This matters because it reduces friction for knowledge workers who live in Drive and need quick insights without switching tools or copying content elsewhere. Here's the thing though: if your organization hasn't figured out its Gemini governance yet, you're about to have some very creative employees feeding proprietary data to Google's AI in ways your security team didn't anticipate.",
+        "date": "2026-09-29T09:23:08.007800+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-        "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+        "title": "How to reclaim your ambition",
+        "url": "https://www.fastcompany.com/91614141/how-to-reclaim-your-ambition?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Recent news stories have suggested that younger workers are opting out of work ambition. Coverage documents their frustration with a limiting job market, dehumanizing hiring processes, and the expecta",
+        "dwp_take": "Younger workers are scaling back career ambition due to real frustrations with hiring practices and hustle culture, but the media's relentless negative messaging is making things worse. Digital workplace leaders need to understand this distinction because blaming \"lazy Gen Z\" misses the actual design problems in how we recruit, onboard, and treat people. Here's the truth: if your workplace can't attract ambitious talent, the problem is probably your workplace, not the generation.",
+        "date": "2026-09-29T09:23:12.428562+00:00"
+      },
+      {
+        "title": "How to onboard a virtual teammate",
+        "url": "https://www.fastcompany.com/91604181/how-to-onboard-a-virtual-teammate-technology-ai-onboard-virtual-teammate?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Imagine going to a job board, making a hire for a chief of staff, and onboarding that new hire within a few minutes. That\u2019s the fantasy that artificial intelligence companies are making a reality with",
+        "dwp_take": "Optimizely released AI \"virtual teammates\" that can supposedly get up to speed and productive in minutes, positioning them as ready-to-work role-specific AI coworkers. This matters because it signals a real shift in how companies think about filling capability gaps, and digital workplace leaders need to understand these tools are now competing for budget that used to go to training programs and junior hires. Here's the thing though: I've watched a lot of \"ready in minutes\" solutions over three decades, and onboarding is never actually the hard part. Making someone actually useful on your team is.",
+        "date": "2026-09-29T09:23:16.698945+00:00"
+      },
+      {
+        "title": "eBay\u2019s CEO finds ideas through\u00a0constant feedback",
+        "url": "https://www.fastcompany.com/91612559/ebays-ceo-finds-ideas-through-constant-feedback?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
+        "dwp_take": "eBay's CEO apparently runs regular feedback loops with employees to surface ideas and stay connected to what's actually happening on the ground. This matters because it's a reminder that the tools and platforms we build in digital workplaces only work if leaders actually use them to listen instead of just broadcast. The irony is that most companies have enterprise feedback systems gathering dust while their leaders still make decisions in information vacuums, so good on Jamie Iannone for doing the obvious thing.",
+        "date": "2026-09-29T09:23:20.569094+00:00"
+      },
+      {
+        "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+        "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-        "dwp_take": "Nvidia released an open-source security system designed to prevent AI agents from breaking free of their intended constraints after several public incidents involving runaway systems. For digital workplace leaders rolling out AI tools and automation, this matters because uncontrolled AI behavior could tank productivity, expose data, and create liability nightmares faster than you can say \"we should have tested this first.\" Here's the thing: if we need guardrails this sophisticated just to keep our digital helpers from going rogue, maybe we should slow down and ask harder questions before deploying them in the first place.",
-        "date": "2026-09-28T09:15:21.877763+00:00"
+        "excerpt": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consor",
+        "dwp_take": "Meta and its tech giant peers are restructuring the Global Internet Forum to Counter Terrorism in ways that researchers say will reduce independent oversight of their content moderation efforts. This matters because digital workplace leaders depend on these forums to understand how platforms handle misinformation and extremism, especially when employees are working across those same tools. When the people watching the watchers start heading for the exits, it's usually not because they think things are heading in the right direction.",
+        "date": "2026-09-29T09:23:25.444646+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Ray-Ban Meta vs Nuance Audio Plus: Which Smart Glasses Are Better for Hearing?",
-        "url": "https://www.techrepublic.com/article/news-ray-ban-meta-vs-nuance-audio-plus/",
+        "title": "Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform",
+        "url": "https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Compare Ray-Ban Meta Gen 3 and Nuance Audio Plus on hearing support, microphones, battery, price, and smart features to see which fits your needs. The post Ray-Ban Meta vs Nuance Audio Plus: Which Sma",
-        "dwp_take": "Ray-Ban and Nuance released competing smart glasses products with different approaches to hearing support, microphones, battery life, pricing, and overall features. For digital workplace teams, this matters because accessible hearing technology in wearables directly impacts how employees participate in meetings, collaborate remotely, and feel included in hybrid work environments. Honestly, the real winner here is that we're finally getting competition in hearing-focused wearables instead of pretending AirPods solve everything for everyone.",
-        "date": "2026-09-28T09:15:25.801913+00:00"
+        "excerpt": "Nvidia adds a Sentry hardware monitoring design to its AI agent safety platform. See what OpenShell offers now and what IT teams still need to verify. The post Nvidia Adds Hardware Monitoring Design t",
+        "dwp_take": "Nvidia just bolted hardware monitoring capabilities onto its AI agent safety platform, basically giving your systems a security guard that watches the machine itself, not just the software. For digital workplace teams, this matters because AI agents are moving into production environments fast, and you need visibility into whether they're doing what you actually asked them to do or just making expensive mistakes on your infrastructure. The irony is that we've spent thirty years trying to get business users to monitor their own behavior, and now we have to babysit the AI doing their jobs.",
+        "date": "2026-09-29T09:23:29.454156+00:00"
       },
       {
-        "title": "Attackers Target Unpatched Roundcube Servers With CVE-2026-48842",
-        "url": "https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/",
+        "title": "Truecaller Scam Checker Launches in India: How It Works",
+        "url": "https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Attackers are exploiting CVE-2026-48842 against unpatched Roundcube servers months after a fix was released, raising urgency for organizations to update. The post Attackers Target Unpatched Roundcube ",
-        "dwp_take": "Hackers are actively exploiting a known Roundcube vulnerability in servers that haven't been patched, even though the fix came out months ago. For digital workplace teams, this is a direct threat to email security and user access, especially if your organization relies on Roundcube webmail for remote or hybrid workers. If your patches are sitting in the \"we'll get to it eventually\" pile, congratulations, you're now part of someone's attack strategy.",
-        "date": "2026-09-28T09:15:29.574242+00:00"
+        "excerpt": "Truecaller Scam Checker lets users check suspicious links, numbers, and messages for free as the company expands its fraud protection beyond caller ID. The post Truecaller Scam Checker Launches in Ind",
+        "dwp_take": "Truecaller launched a new Scam Checker feature in India that lets users verify suspicious links, phone numbers, and messages at no cost, expanding beyond their traditional caller ID blocking. This matters because digital workplace security is only as strong as employee awareness, and tools that help staff spot phishing attempts and fraud reduce breach risk at the source. Here's the thing though: a scam checker is just a band aid if your organization hasn't trained people to think critically about what they're clicking in the first place.",
+        "date": "2026-09-29T09:23:33.273837+00:00"
       },
       {
-        "title": "Zeta Global opens new London hub, appoints Lalitha Stables as UK president",
-        "url": "https://www.itpro.com/business/leadership/zeta-global-opens-new-london-hub-appoints-lalitha-stables-as-uk-president",
-        "source": "ITPro",
+        "title": "6 Best AI Meeting Note Takers for 2026: Fathom, Otter, Fireflies and More",
+        "url": "https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The move brings together more than 120 employees in a single location as the AI infrastructure firm continues its UK expansion",
-        "dwp_take": "Zeta Global, an AI infrastructure company, opened a new London office and hired Lalitha Stables as UK president as part of its expansion push. For digital workplace pros, this matters because it signals how fast-growing tech firms are still betting on physical hubs even as remote work remains standard, which means someone's got to figure out how to make those 120 employees actually want to show up. Honestly, opening a shiny new office in 2024 is the corporate equivalent of building a bridge to nowhere unless they've actually solved the collaboration puzzle that's stumped everyone else.",
-        "date": "2026-09-28T09:15:34.193708+00:00"
+        "excerpt": "Compare six AI meeting note takers for 2026, including Fathom, Fireflies, Otter, Granola, Fellow, and Notta on pricing, free plans, and features. The post 6 Best AI Meeting Note Takers for 2026: Fatho",
+        "dwp_take": "TechRepublic rounded up six AI meeting note-taking tools, breaking down their pricing, free tiers, and feature sets for 2026. This matters because meeting transcription is now table stakes for any serious workplace tool stack, and picking the right one can genuinely save your team hours of admin work each week. Here's the thing though: most orgs will buy three of these tools, use one regularly, and abandon two after month two, so maybe just pick one and actually commit to it.",
+        "date": "2026-09-29T09:23:37.340494+00:00"
       },
       {
-        "title": "Anthropic teams up with Akamai in $11.6bn cloud partnership",
-        "url": "https://www.itpro.com/infrastructure/anthropic-teams-up-with-akamai-in-usd11-6bn-cloud-partnership",
-        "source": "ITPro",
+        "title": "Get Secure Cloud Storage on a 2TB Lifetime Plan with Internxt for $100",
+        "url": "https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The expanded deal will help Anthropic meet \u201caccelerating CPU workload demands\u201d",
-        "dwp_take": "Anthropic and Akamai just inked an $11.6 billion cloud partnership to handle Anthropic's growing computing needs, particularly for CPU-intensive work. This matters because it signals where AI infrastructure is heading and what your organization will need to support when you start rolling out Claude or similar models at scale. Here's the thing though: every AI partnership announcement like this is basically a race to build the pipes faster than anyone can actually use them, which is fine until your CFO asks why you're paying for capacity you don't need yet.",
-        "date": "2026-09-28T09:15:38.411490+00:00"
+        "excerpt": "This secure storage platform uses open source code, zero-knowledge file systems, and end-to-end encryption to keep your online data truly private. The post Get Secure Cloud Storage on a 2TB Lifetime P",
+        "dwp_take": "Internxt is selling 2TB of encrypted cloud storage for a one-time $100 payment instead of the usual subscription model. For digital workplace pros managing sensitive documents and client data, having an independent encrypted backup outside your corporate infrastructure is genuinely useful security hygiene. That said, I'd verify Internxt's actual track record before betting your client's confidential files on a lifetime deal from a company most of us have never heard of.",
+        "date": "2026-09-29T09:23:41.372090+00:00"
       }
     ]
   }
