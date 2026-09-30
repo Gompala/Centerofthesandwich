@@ -1,129 +1,156 @@
 {
-  "generated": "2026-09-29T09:23:41.372210+00:00",
+  "generated": "2026-09-30T09:14:00.366360+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
-        "dwp_take": "Anthropic disclosed in its IPO filing that it's hemorrhaging billions annually while scaling aggressively, plus casually mentioned that its AI could theoretically pose an existential threat to humanity. This matters because digital workplace leaders are actively deploying AI tools into their environments right now, and if the company building some of these systems is genuinely worried about existential risk, that's worth factoring into your vendor risk assessment. Apparently the business model is \"move fast and break things, or possibly break civilization,\" which is a bold strategy for a company asking people to trust it with their enterprise data.",
-        "date": "2026-09-29T09:22:50.389666+00:00"
+        "excerpt": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "dwp_take": "OpenAI is essentially building an app marketplace directly into ChatGPT, letting users discover and run software without downloading anything or visiting traditional app stores. This matters to digital workplace folks because it signals how work tools will be discovered and deployed in the future, and it means your organization's app strategy might need rethinking sooner than you thought. Here's the thing though: we've seen this plot before with Facebook apps, Slack's app ecosystem, and Microsoft's app bar, and they all promised to reshape how we work. The real question isn't whether OpenAI can build a marketplace. It's whether they can keep developers from abandoning it in three years.",
+        "date": "2026-09-30T09:12:56.985871+00:00"
       },
       {
-        "title": "The AI boom took over Climate Week and not everyone is happy about it",
-        "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+        "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+        "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-        "dwp_take": "AI dominated Climate Week conversations this year, with data centers and AI infrastructure becoming central to climate tech discussions. Digital workplace leaders need to pay attention because this tension directly affects where enterprise tech investment flows and what infrastructure decisions get made around their tools and platforms. Here's the thing though: if you're still debating whether AI belongs at a climate conference in 2024, you've already missed the plot. The real conversation should be about building efficient systems, not pretending the technology doesn't exist.",
-        "date": "2026-09-29T09:22:54.322691+00:00"
+        "excerpt": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+        "dwp_take": "OpenAI is quietly collaborating with Nvidia on AI safety measures rather than publicly endorsing Nvidia's Open Agent Safety Platform, even though it's working on the initiative behind the scenes. For digital workplace pros deploying AI tools, this matters because it signals real safety work is happening, but the public radio silence from OpenAI makes it harder to trust what's actually being protected. Nothing says \"we're serious about safety\" quite like doing the work in private while your competitors take credit in the press release.",
+        "date": "2026-09-30T09:13:00.809031+00:00"
       },
       {
-        "title": "Nvidia launches new platform for reining in rogue AI agents",
-        "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+        "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i",
-        "dwp_take": "Nvidia just released security tools designed to keep AI agents from going rogue and escaping their sandboxes, giving enterprises actual guardrails for their AI experiments. This matters because companies deploying AI agents in production are rightfully paranoid about uncontrolled behavior, and having vendor-backed containment options beats crossing your fingers and hoping for the best. Honestly, it's refreshing to see someone building fences before we need them, though I'd still trust but verify whatever Nvidia's definition of \"contained\" actually means in practice.",
-        "date": "2026-09-29T09:22:58.318148+00:00"
+        "excerpt": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+        "dwp_take": "OpenAI is building office productivity tools directly into ChatGPT, basically creating their own answer to Microsoft Office without calling it that. This matters because it signals that AI companies now see workplace software as core to their business, not just a sideline, which means digital workplace leaders need to start thinking about how ChatGPT competes with Teams, Word, and Excel instead of just using it as a tool within those platforms. Personally, I've seen enough \"office killer\" products come and go to know that execution beats announcement every time, so let's see if OpenAI can actually build something people want to use daily instead of just testing once.",
+        "date": "2026-09-30T09:13:05.157412+00:00"
       },
       {
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-        "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+        "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+        "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-        "dwp_take": "Anthropic rolled out Sonnet 5.5, a faster and cheaper version of their mid-range Claude model that burns through fewer tokens. This matters because most workplace teams using Claude for content creation, analysis, and automation will suddenly get more bang for their buck, which means your AI budget might actually stretch further next year. Of course, the real test is whether it's actually faster in real work or just faster at telling you it's faster, so run your own tests before you bet the farm on it.",
-        "date": "2026-09-29T09:23:02.389650+00:00"
+        "excerpt": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin",
+        "dwp_take": "OpenAI expanded Codex with persistent cloud environments, voice-controlled CLI tools, code review features, and security scanning capabilities that work across devices. For digital workplace teams, this means developers can now collaborate in standardized environments without the usual setup chaos, which directly impacts onboarding time and knowledge worker productivity. Here's the thing though: every tool vendor now claims to solve the \"developer experience\" problem, so the real question is whether this actually reduces your infrastructure headaches or just adds another platform to your tech stack sprawl.",
+        "date": "2026-09-30T09:13:08.908718+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Try Google Drive Projects for fast, focused AI analysis",
-        "url": "https://www.computerworld.com/article/4219866/google-drive-projects-focused-ai-analysis-in-google-workspace.html",
+        "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+        "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+        "dwp_take": "OpenAI rolled out document creation, presentation building, and AI agent tools directly within ChatGPT, positioning itself as a potential competitor to Google Workspace. This matters because it signals that AI-native collaboration tools are finally arriving, and organizations need to evaluate whether AI-powered workflows might actually replace traditional office suites rather than just supplement them. Honestly though, I've seen enough \"Gmail killers\" come and go that I'll believe ChatGPT's Workspace dreams when IT departments actually migrate their enterprise contracts over.",
+        "date": "2026-09-30T09:13:13.356011+00:00"
+      },
+      {
+        "title": "Meta\u2019s next big AI bet is enterprise; its biggest hurdle may be trust",
+        "url": "https://www.computerworld.com/article/4228531/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust-3.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Google Drive is the cloud platform for storing and organizing your Google Workspace files: documents, presentations, spreadsheets, and even media (images, audio, and video). If your Workspace account ",
-        "dwp_take": "Google added AI-powered project analysis capabilities to Google Drive, letting Workspace users with Gemini access prompt the AI to analyze and summarize their stored files directly within the platform. This matters because it reduces friction for knowledge workers who live in Drive and need quick insights without switching tools or copying content elsewhere. Here's the thing though: if your organization hasn't figured out its Gemini governance yet, you're about to have some very creative employees feeding proprietary data to Google's AI in ways your security team didn't anticipate.",
-        "date": "2026-09-29T09:23:08.007800+00:00"
+        "excerpt": "Meta is once again repositioning itself to target the enterprise market. This week, the company announced the Meta Enterprise Platform, which it says will evolve its AI stack into products and service",
+        "dwp_take": "Meta is launching an enterprise platform to sell AI tools directly to businesses instead of just using AI to sell ads. This matters because enterprises are genuinely hungry for AI solutions and Meta has the infrastructure to deliver them, but they'll be competing against Microsoft, Google, and Amazon who already have customer trust and integration advantages. Here's the thing though: Meta's entire business model has been built on knowing everything about you, so convincing a Fortune 500 company to hand over their operational data is going to be a harder sell than selling ads to people who didn't read the terms of service.",
+        "date": "2026-09-30T09:13:18.676680+00:00"
+      },
+      {
+        "title": "Anthropic revelations suggest a much stronger AI negotiating stance for enterprise CIOs",
+        "url": "https://www.computerworld.com/article/4228501/anthropic-revelations-suggest-a-much-stronger-ai-negotiating-stance-for-enterprise-cios-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "The fact that almost one-fourth of Anthropic\u2019s revenue last year came from just two customers, and that many of its largest customers have not signed long-term contracts, could translate into a much s",
+        "dwp_take": "Anthropic's heavy dependence on just two mega-customers for nearly 25 percent of revenue means enterprise CIOs have real leverage in AI contract negotiations instead of the usual vendor-dictated terms. This matters because it shifts power dynamics in a market where most vendors have been treating AI like digital gold, locking customers into whatever terms they want. Finally, something to celebrate: a reminder that even the hottest AI vendors can't ignore the simple math of having too many eggs in too few baskets.",
+        "date": "2026-09-30T09:13:22.570001+00:00"
+      },
+      {
+        "title": "Meta\u2019s ex launches agent rival to Meta\u2019s Muse",
+        "url": "https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Manus\u2019s relationship with Meta? It\u2019s complicated. Just months after they called off their merger, they find themselves competing in the market for agentic AI platforms. Awkward! The company has just r",
+        "dwp_take": "A former Meta executive launched a competing AI agent platform called Manus 2.0 just months after a failed merger with Meta. For digital workplace leaders, this matters because we're about to see real competitive pressure in the agentic AI space, which means better products and clearer use cases will actually emerge instead of one company dictating the narrative. The irony of a jilted business partner becoming your fiercest competitor is peak Silicon Valley, and honestly it's probably the best thing that could happen for people actually trying to get work done.",
+        "date": "2026-09-30T09:13:26.439759+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "How to reclaim your ambition",
-        "url": "https://www.fastcompany.com/91614141/how-to-reclaim-your-ambition?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Is there a difference between being smart and acting smart?",
+        "url": "https://www.fastcompany.com/91611333/being-smart-vs-acting-smart?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Recent news stories have suggested that younger workers are opting out of work ambition. Coverage documents their frustration with a limiting job market, dehumanizing hiring processes, and the expecta",
-        "dwp_take": "Younger workers are scaling back career ambition due to real frustrations with hiring practices and hustle culture, but the media's relentless negative messaging is making things worse. Digital workplace leaders need to understand this distinction because blaming \"lazy Gen Z\" misses the actual design problems in how we recruit, onboard, and treat people. Here's the truth: if your workplace can't attract ambitious talent, the problem is probably your workplace, not the generation.",
-        "date": "2026-09-29T09:23:12.428562+00:00"
+        "excerpt": "Although intelligence is one of the most consistent and important predictors of real-life success, the connection is by no means perfect. This explains why we all know people who we consider \u201csmart\u201d i",
+        "dwp_take": "Fast Company is pointing out that raw intelligence doesn't guarantee success in real life, and that plenty of smart people struggle with basic everyday functioning. This matters to digital workplace folks because we're often drowning in high-IQ hires who can't collaborate, communicate, or read a room to save their lives. Nothing kills a workplace faster than brilliant people who can't figure out that sending a 47-slide deck at midnight isn't actually helping anyone get better at their job.",
+        "date": "2026-09-30T09:13:30.745917+00:00"
       },
       {
-        "title": "How to onboard a virtual teammate",
-        "url": "https://www.fastcompany.com/91604181/how-to-onboard-a-virtual-teammate-technology-ai-onboard-virtual-teammate?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How to make a big ask of a colleague",
+        "url": "https://www.fastcompany.com/91614379/how-to-make-a-big-ask-of-a-colleague?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Imagine going to a job board, making a hire for a chief of staff, and onboarding that new hire within a few minutes. That\u2019s the fantasy that artificial intelligence companies are making a reality with",
-        "dwp_take": "Optimizely released AI \"virtual teammates\" that can supposedly get up to speed and productive in minutes, positioning them as ready-to-work role-specific AI coworkers. This matters because it signals a real shift in how companies think about filling capability gaps, and digital workplace leaders need to understand these tools are now competing for budget that used to go to training programs and junior hires. Here's the thing though: I've watched a lot of \"ready in minutes\" solutions over three decades, and onboarding is never actually the hard part. Making someone actually useful on your team is.",
-        "date": "2026-09-29T09:23:16.698945+00:00"
+        "excerpt": "Self-reliance is a virtue that is drilled into most of us from an early age. After all, most of the work you\u2019re asked to do in school from kindergarten onward through college is done individually. Gro",
+        "dwp_take": "Fast Company ran a piece about how we're culturally conditioned to be self-reliant loners, which makes us terrible at asking colleagues for help when we actually need it. This matters because digital workplaces run on collaboration, and if half your team is too proud or anxious to ask for what they need, projects stall and people burn out trying to do everything solo. The irony is that most people secretly want to help their colleagues, but we've all been trained since kindergarten to think asking for anything makes us look weak, so we just suffer quietly instead.",
+        "date": "2026-09-30T09:13:34.841285+00:00"
       },
       {
-        "title": "eBay\u2019s CEO finds ideas through\u00a0constant feedback",
-        "url": "https://www.fastcompany.com/91612559/ebays-ceo-finds-ideas-through-constant-feedback?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "U.S. workers spend nearly $7,000 per year just to show up at the office",
+        "url": "https://www.fastcompany.com/91614983/u-s-workers-spend-nearly-7000-per-year-just-to-show-up-at-the-office?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-        "dwp_take": "eBay's CEO apparently runs regular feedback loops with employees to surface ideas and stay connected to what's actually happening on the ground. This matters because it's a reminder that the tools and platforms we build in digital workplaces only work if leaders actually use them to listen instead of just broadcast. The irony is that most companies have enterprise feedback systems gathering dust while their leaders still make decisions in information vacuums, so good on Jamie Iannone for doing the obvious thing.",
-        "date": "2026-09-29T09:23:20.569094+00:00"
+        "excerpt": "American workers spend an average of $6,736 each year just to show up at the office, according to a recent study by resume-building platform Resume.io. Commuting accounts for more than 40% of the cost",
+        "dwp_take": "American workers are dropping nearly seven grand annually just to physically show up at the office, with commuting and food accounting for most of that hit. This matters because if you're designing digital workplace strategies without acknowledging these real financial drains on your workforce, you're missing why remote and hybrid options have become non-negotiable benefits rather than perks. Here's the kicker: companies that haven't done the math on what their in-office mandate actually costs employees are essentially asking people to take a pay cut to sit at a desk they could work from at home.",
+        "date": "2026-09-30T09:13:38.901678+00:00"
       },
       {
-        "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
-        "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+        "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+        "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
         "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consor",
-        "dwp_take": "Meta and its tech giant peers are restructuring the Global Internet Forum to Counter Terrorism in ways that researchers say will reduce independent oversight of their content moderation efforts. This matters because digital workplace leaders depend on these forums to understand how platforms handle misinformation and extremism, especially when employees are working across those same tools. When the people watching the watchers start heading for the exits, it's usually not because they think things are heading in the right direction.",
-        "date": "2026-09-29T09:23:25.444646+00:00"
+        "excerpt": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+        "dwp_take": "OpenAI pushed back the release of its Astra model to address safety issues and apologized for how it mishandled a breach of an Australian government website. This matters because digital workplace leaders betting on AI tools need to know that safety and security aren't afterthoughts, and vendors will sometimes delay products to get them right. Honestly, watching a major AI company actually pump the brakes instead of shipping half-baked features is refreshing, even if the apology came after the fact rather than before.",
+        "date": "2026-09-30T09:13:44.404360+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform",
-        "url": "https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/",
+        "title": "Excel Breaks a 40-Year Rule: Microsoft Lets One Cell Hold Multiple Values",
+        "url": "https://www.techrepublic.com/article/news-excel-multiple-values-one-cell-lists-arrays/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nvidia adds a Sentry hardware monitoring design to its AI agent safety platform. See what OpenShell offers now and what IT teams still need to verify. The post Nvidia Adds Hardware Monitoring Design t",
-        "dwp_take": "Nvidia just bolted hardware monitoring capabilities onto its AI agent safety platform, basically giving your systems a security guard that watches the machine itself, not just the software. For digital workplace teams, this matters because AI agents are moving into production environments fast, and you need visibility into whether they're doing what you actually asked them to do or just making expensive mistakes on your infrastructure. The irony is that we've spent thirty years trying to get business users to monitor their own behavior, and now we have to babysit the AI doing their jobs.",
-        "date": "2026-09-29T09:23:29.454156+00:00"
+        "excerpt": "Microsoft is changing a 40-year-old Excel rule by allowing a single cell to hold multiple values using new lists, arrays in cells, and nested arrays. The post Excel Breaks a 40-Year Rule: Microsoft Le",
+        "dwp_take": "Microsoft finally cracked the code on one of spreadsheet's most annoying limitations by letting cells hold multiple values instead of forcing workarounds that made your formulas look like spaghetti code. This matters because millions of knowledge workers waste countless hours building helper columns and nested functions to handle data that should just fit in one cell, so this change could genuinely simplify workflows across enterprises. Forty years is a long time to wait for a fix, but at least Microsoft didn't implement it behind a subscription paywall we didn't know about until month three.",
+        "date": "2026-09-30T09:13:48.637283+00:00"
       },
       {
-        "title": "Truecaller Scam Checker Launches in India: How It Works",
-        "url": "https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/",
+        "title": "Google Workspace Lets Admins Set Role Expiration Dates",
+        "url": "https://www.techrepublic.com/article/news-google-workspace-admin-role-expiration/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Truecaller Scam Checker lets users check suspicious links, numbers, and messages for free as the company expands its fraud protection beyond caller ID. The post Truecaller Scam Checker Launches in Ind",
-        "dwp_take": "Truecaller launched a new Scam Checker feature in India that lets users verify suspicious links, phone numbers, and messages at no cost, expanding beyond their traditional caller ID blocking. This matters because digital workplace security is only as strong as employee awareness, and tools that help staff spot phishing attempts and fraud reduce breach risk at the source. Here's the thing though: a scam checker is just a band aid if your organization hasn't trained people to think critically about what they're clicking in the first place.",
-        "date": "2026-09-29T09:23:33.273837+00:00"
+        "excerpt": "Google Workspace now lets admins time-limit role assignments for users, security groups, and service accounts. See how expiration works and its key limits. The post Google Workspace Lets Admins Set Ro",
+        "dwp_take": "Google Workspace now allows administrators to set expiration dates on role assignments, automatically removing access after a specified period for users, security groups, and service accounts. This matters because it directly addresses one of the biggest security gaps in most organizations: forgotten access that lingers long after someone changes jobs or a project ends. Finally, Google is making it slightly harder for companies to accidentally turn their workplace into an access management dumpster fire, though I'll believe admins actually use this feature when I see the audit reports.",
+        "date": "2026-09-30T09:13:52.364354+00:00"
       },
       {
-        "title": "6 Best AI Meeting Note Takers for 2026: Fathom, Otter, Fireflies and More",
-        "url": "https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/",
+        "title": "Prep for Nine CompTIA Exams With This $25 Training Bundle",
+        "url": "https://www.techrepublic.com/article/2026-comptia-complete-exam-prep-bundle/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Compare six AI meeting note takers for 2026, including Fathom, Fireflies, Otter, Granola, Fellow, and Notta on pricing, free plans, and features. The post 6 Best AI Meeting Note Takers for 2026: Fatho",
-        "dwp_take": "TechRepublic rounded up six AI meeting note-taking tools, breaking down their pricing, free tiers, and feature sets for 2026. This matters because meeting transcription is now table stakes for any serious workplace tool stack, and picking the right one can genuinely save your team hours of admin work each week. Here's the thing though: most orgs will buy three of these tools, use one regularly, and abandon two after month two, so maybe just pick one and actually commit to it.",
-        "date": "2026-09-29T09:23:37.340494+00:00"
+        "excerpt": "Nine courses and 168 hours of video cover Tech+, A+, Network+, Security+, Cloud+, Pentest+, and more exams. The post Prep for Nine CompTIA Exams With This $25 Training Bundle appeared first on TechRep",
+        "dwp_take": "TechRepublic is promoting a discounted bundle that packages nine CompTIA certification courses with 168 hours of video content for just $25. For digital workplace pros, this matters because technical certifications like Security+ and Network+ are increasingly table stakes for IT infrastructure and support roles that underpin modern workplace operations. Look, at that price you'd be crazy not to grab it, though I'll be honest: 168 hours of video won't make you competent overnight, but it's a solid foundation if you're actually committed to putting in the work.",
+        "date": "2026-09-30T09:13:56.447759+00:00"
       },
       {
-        "title": "Get Secure Cloud Storage on a 2TB Lifetime Plan with Internxt for $100",
-        "url": "https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/",
+        "title": "Stock Calls and 150+ Money Lessons, Bundled for $70 for Life",
+        "url": "https://www.techrepublic.com/article/financial-freedom-bundle-sterling-stock-picker/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "This secure storage platform uses open source code, zero-knowledge file systems, and end-to-end encryption to keep your online data truly private. The post Get Secure Cloud Storage on a 2TB Lifetime P",
-        "dwp_take": "Internxt is selling 2TB of encrypted cloud storage for a one-time $100 payment instead of the usual subscription model. For digital workplace pros managing sensitive documents and client data, having an independent encrypted backup outside your corporate infrastructure is genuinely useful security hygiene. That said, I'd verify Internxt's actual track record before betting your client's confidential files on a lifetime deal from a company most of us have never heard of.",
-        "date": "2026-09-29T09:23:41.372090+00:00"
+        "excerpt": "Get buy, sell, hold, or avoid calls on stocks plus a self-paced personal finance curriculum for one payment. The post Stock Calls and 150+ Money Lessons, Bundled for $70 for Life appeared first on Tec",
+        "dwp_take": "Someone's bundling investment advice and financial education courses into a lifetime deal for seventy bucks. This matters to digital workplace pros because financial wellness programs are becoming table stakes for employee engagement, and cost-effective learning options like this show what's possible when you're building benefits packages. Honestly, if your workplace financial literacy initiative costs more than this deal, you might want to have a serious conversation with whoever approved the budget.",
+        "date": "2026-09-30T09:14:00.366260+00:00"
       }
     ]
   }
