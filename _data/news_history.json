@@ -1,149 +1,5 @@
 [
   {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "dwp_take": "Google is testing shopping capabilities directly through Gemini, its AI assistant, letting Indian users purchase from Flipkart without leaving the chat interface. This matters because it shows how AI assistants are becoming transaction engines, not just information tools, which means workplace communication platforms will soon need similar commerce integration to stay relevant. The real question is whether employees actually want to buy stuff through their work chat apps, or if this is just another feature nobody asked for that'll live quietly in a settings menu.",
-    "date": "2026-09-27T08:50:46.079329+00:00"
-  },
-  {
-    "title": "CoreWeave\u2019s next test: From GPU scarcity to a durable AI cloud",
-    "url": "https://siliconangle.com/2026/09/26/coreweaves-next-test-from-gpu-scarcity-to-a-durable-ai-cloud/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Ahead of CoreWeave Inc.\u2019s Fully Connected conference in San Francisco, we have made a notable investment in proprietary customer research with Qualitate. Rather than simply repeat the earnings call, w",
-    "dwp_take": "CoreWeave is moving past riding the GPU shortage wave and trying to build a sustainable AI infrastructure business, backed by fresh research into what actual customers actually need. For digital workplace folks, this matters because your infrastructure choices today directly impact whether your AI tools will still work next year or become expensive paperweights. The real test isn't building hype\u2014it's whether CoreWeave can keep customers happy when the shortage ends and everyone's got GPU capacity to spare.",
-    "date": "2026-09-27T08:50:51.157687+00:00"
-  },
-  {
-    "title": "What to expect at Dell\u2019s AI Leadership Symposium: Join theCUBE Sept. 29",
-    "url": "https://siliconangle.com/2026/09/25/dell-ai-infrastructure-leadership-symposium-dellaileadershipsymposium/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Enterprise AI is moving past experimentation, and the infrastructure decisions behind it are becoming business decisions. As companies put AI into production, the conversation is expanding beyond mode",
-    "dwp_take": "Dell is hosting an AI Leadership Symposium on September 29 where enterprise AI is shifting from pilot projects to actual production systems, which means the real infrastructure and operational challenges are finally getting attention. This matters because digital workplace teams are now caught in the middle between IT infrastructure decisions and business operations, and you need to understand how AI deployment actually works beyond the hype. The real story here is that companies are discovering that running AI at scale requires boring stuff like data governance and operating models, which is exactly what they should have been thinking about six months ago instead of chasing GPT demos.",
-    "date": "2026-09-27T08:50:55.482252+00:00"
-  },
-  {
-    "title": "What to expect at NetApp INSIGHT: Join theCUBE Sept. 30",
-    "url": "https://siliconangle.com/2026/09/25/unified-storage-data-ai-netappinsight/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "As artificial intelligence goes into production, unified storage could be the glue that keeps everything together. NetApp Inc., a leader in enterprise data storage, wants to lift the burden of AI on e",
-    "dwp_take": "NetApp is hosting an INSIGHT event on September 30 where they're positioning unified storage as the backbone for AI deployments in enterprises. This matters because data management keeps tripping up organizations trying to actually use AI in production, and storage infrastructure decisions made now will shape whether your company's AI ambitions succeed or become expensive paperweights. Look, unified storage sounds boring until your AI project grinds to a halt because nobody figured out where the data lives.",
-    "date": "2026-09-27T08:50:59.480836+00:00"
-  },
-  {
-    "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
-    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
-    "dwp_take": "Microsoft bundled its AI features into a single Copilot app, making it easier for users to access code generation and AI agents without jumping between tools. For digital workplace leaders, this matters because consolidation usually means lower friction adoption rates and clearer ROI conversations, but Microsoft's vague \"evolving\" pricing language is a classic setup for sticker shock down the line. After three decades watching Microsoft pricing, I can tell you that \"we'll figure out costs later\" is corporate speak for \"we're still arguing internally about what to charge.\"",
-    "date": "2026-09-27T08:51:03.999181+00:00"
-  },
-  {
-    "title": "Adobe\u2019s next platform for Creative Cloud? Your AI assistant",
-    "url": "https://www.computerworld.com/article/4226747/adobes-next-platform-for-creative-cloud-your-ai-assistant.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Adobe is preparing for a future where users increasingly interact with its software through AI assistants, rather than always going directly to its applications. That\u2019s the idea behind its expanded in",
-    "dwp_take": "Adobe is betting that the future of Creative Cloud isn't about mastering tools but talking to AI assistants that master the tools for you, with expanded Claude integration and new Gemini connectors leading the charge. For digital workplace pros, this means your creative teams will soon be conversing with AI instead of wrestling with menus, which changes training, support, and workflow architecture overnight. Honestly, this is either going to be the smoothest productivity jump we've seen in years or the most expensive way to get your AI assistant to argue with you about kerning.",
-    "date": "2026-09-27T08:51:09.380969+00:00"
-  },
-  {
-    "title": "Google is set to launch a small AI data center into space",
-    "url": "https://www.computerworld.com/article/4226924/google-launches-a-small-ai-data-center-in-space.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "On October 1, Google\u2019s first test satellite for Project Suncatcher is set to be launched. This is the next step in the company\u2019s plan to build AI data centers in Earth\u2019s orbit, according to The New Yo",
-    "dwp_take": "Google is launching a test satellite next month as part of a project to build AI data centers in orbit, aiming to tap solar energy in space instead of expanding earthbound infrastructure. This matters because if orbital computing becomes viable, it could reshape how organizations think about infrastructure costs and energy efficiency, potentially freeing up real estate and reducing carbon footprints. That said, I'll believe it when I see it actually work at scale, because \"revolutionary space tech\" has a way of staying revolutionary in press releases while earthbound IT teams keep buying the same old servers from the same old vendors.",
-    "date": "2026-09-27T08:51:13.619851+00:00"
-  },
-  {
-    "title": "Meta floats project to lay first petabit submarine fiberoptic cable",
-    "url": "https://www.computerworld.com/article/4226684/meta-floats-project-to-lay-first-petabit-submarine-fiberoptic-cable-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The 7,000 km (4,350 mile) cable, called Petal, will connect the US and France. Meta is partnering with NEC and Sumitomo Electric Industries to build it, and working with French telecommunications comp",
-    "dwp_take": "Meta is building a massive underwater fiber optic cable called Petal that will connect the US and France with more than double the capacity of today's fastest transatlantic cables. This matters because digital workplace professionals depend on reliable international connectivity, and these infrastructure plays directly affect video conferencing quality, cloud performance, and whether your London office can actually talk to your New York one without buffering. Here's the thing though: tech companies building their own cables while traditional telecom sits on aging infrastructure is basically admitting the old guard can't keep up, which tells you everything about where real investment is flowing these days.",
-    "date": "2026-09-27T08:51:17.922375+00:00"
-  },
-  {
-    "title": "How to achieve time freedom without giving up your career",
-    "url": "https://www.fastcompany.com/91611161/time-freedom-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Below, Brian Herriot shares five key insights from his new book, Time Freedom: Rethink Your Work and Money to Create a Life You Love Now. Brian is an author, speaker, and financial advisor. After foun",
-    "dwp_take": "Brian Herriot published a book called \"Time Freedom\" that argues you don't have to choose between career success and having an actual life, offering five practical insights for achieving better work-life balance. For digital workplace pros, this matters because we're the ones actually implementing the flexible work policies and collaboration tools that make time freedom possible, so understanding what employees actually want helps us build better solutions. Here's the thing though: most of these \"time freedom\" concepts have been around forever, we just keep repackaging them in new books and pretending we invented something revolutionary.",
-    "date": "2026-09-27T08:51:22.876315+00:00"
-  },
-  {
-    "title": "Top 10 business books to read this fall",
-    "url": "https://www.fastcompany.com/91610790/top-10-business-books-to-read-this-fall?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "The workplace is changing fast, and the old playbook isn\u2019t keeping up. This fall\u2019s best business books rethink some of our most basic assumptions about leadership, ambition, teamwork, and success. Fro",
-    "dwp_take": "Fast Company rounded up ten business books for fall that tackle modern workplace challenges like AI integration, leadership rethinks, and knowing when to walk away from a job. Digital workplace pros need to stay current on these shifts because the tools and strategies we implement today are only relevant if they're built on solid thinking about how work actually happens now. Honestly, if you're not reading at least a couple of these, you're probably still trying to solve 2024 problems with 2015 playbooks, which is basically professional quicksand.",
-    "date": "2026-09-27T08:51:26.893640+00:00"
-  },
-  {
-    "title": "Entry-level tech jobs in NYC are being cut in half by the AI boom",
-    "url": "https://www.fastcompany.com/91612081/entry-level-tech-jobs-in-nyc-are-being-cut-in-half-by-the-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "At first glance, the tech scene in New York City appears to be thriving: OpenAI and Anthropic have been putting down roots in the city, while stalwarts of the tech industry like Google now have more t",
-    "dwp_take": "New York City is losing entry-level tech jobs despite explosive overall growth in the sector, with companies replacing junior positions with AI tools instead of hiring people to do that work. This matters because digital workplace leaders are suddenly managing teams with fewer rungs on the career ladder, which means less mentorship happening and fewer people developing the skills they'll need in five years. We're basically watching companies optimize themselves into a talent shortage, and frankly, whoever figures out how to actually train the next generation while the market does this will own the competitive advantage.",
-    "date": "2026-09-27T08:51:31.119274+00:00"
-  },
-  {
-    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-    "dwp_take": "The Pentagon successfully argued in appeals court that it can classify Anthropic as a supply-chain risk without violating the AI company's rights. This matters to digital workplace pros because it sets precedent for how government can restrict access to AI tools and vendors in secure environments, potentially affecting enterprise adoption and compliance requirements. Look, if the Pentagon doesn't trust an AI vendor, your security team probably shouldn't either, and you'll be explaining that decision to frustrated employees who can't use their preferred tools.",
-    "date": "2026-09-27T08:51:39.361431+00:00"
-  },
-  {
-    "title": "Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know",
-    "url": "https://www.techrepublic.com/article/news-googlebook-cheat-sheet/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Googlebook combines Android, Gemini AI, and premium laptop hardware. See prices, models, specs, features, compatibility, and release dates. The post Googlebook Cheat Sheet: Price, Models, Gemini Featu",
-    "dwp_take": "Google just launched Googlebook, a new laptop line that bakes Android, Gemini AI, and premium hardware into one package. For digital workplace folks, this matters because it's another serious player challenging the Windows/Mac duopoly and forcing us to think differently about device strategy and AI integration across our workforces. Personally, I'll believe it when I see actual enterprise adoption, because flashy specs don't mean much if your IT team is still debugging compatibility issues at 2 AM.",
-    "date": "2026-09-27T08:51:43.451552+00:00"
-  },
-  {
-    "title": "Googlebook vs MacBook Neo: Which Laptop Is Better for Everyday Work?",
-    "url": "https://www.techrepublic.com/article/news-googlebook-vs-macbook-neo/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Compare Googlebook and MacBook Neo on price, apps, battery, hardware, AI, and phone integration to see which laptop better fits everyday work. The post Googlebook vs MacBook Neo: Which Laptop Is Bette",
-    "dwp_take": "Google and Apple are both pushing new laptops aimed at everyday workers, with the Googlebook and MacBook Neo competing on price, performance, AI features, and ecosystem integration. For workplace leaders, this matters because your device strategy now has to account for AI capabilities and cross-device connectivity that fundamentally change how people actually work. Here's the thing though: the real winner will be whichever one your IT department doesn't have a nervous breakdown supporting, because buying a laptop is easy, managing it across 5,000 employees is where the fun starts.",
-    "date": "2026-09-27T08:51:47.880911+00:00"
-  },
-  {
-    "title": "Huawei Watch D3 Reaches Europe: What Changes With the New Blood Pressure Watch",
-    "url": "https://www.techrepublic.com/article/news-huawei-watch-d3-blood-pressure-europe-emea/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Huawei Watch D3 reaches the UK and Europe with an inflatable wrist cuff for blood pressure checks, a slimmer design, and guidance on who could benefit. The post Huawei Watch D3 Reaches Europe: What Ch",
-    "dwp_take": "Huawei's Watch D3 just landed in Europe with a built-in blood pressure monitor and a sleeker design than its predecessor. For digital workplace folks, this matters because wearables are creeping into corporate wellness programs and health data management systems, which means IT teams need to understand what devices employees are actually wearing. Honestly, we've gone from smartwatches telling you to stand up to them monitoring your cardiovascular system, which is either the future of preventive health or the beginning of some very intimate workplace surveillance depending on your mood.",
-    "date": "2026-09-27T08:51:52.066556+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s Mental Health AI Test Reveals Gaps in Context and Urgency",
-    "url": "https://www.techrepublic.com/article/news-openai-mentalhealthbench-context-urgency-gaps/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "OpenAI's MentalHealthBench tests responses to 1,215 synthetic mental health conversations, revealing gaps in how AI models seek context and gauge urgency. The post OpenAI\u2019s Mental Health AI Test Revea",
-    "dwp_take": "OpenAI's new mental health benchmark tested AI responses across over 1,200 synthetic conversations and found the models struggle to ask clarifying questions or properly assess how urgent a situation actually is. This matters because plenty of organizations are already experimenting with AI chatbots for employee wellness and mental health support, and finding out your system can't tell the difference between someone having a rough Monday and someone in real crisis is a pretty big problem. Turns out that deploying AI to handle sensitive human stuff requires more than a good language model and some optimistic thinking, which I suppose shouldn't surprise anyone who's been paying attention.",
-    "date": "2026-09-27T08:51:56.424723+00:00"
-  },
-  {
     "title": "Can Muse overcome Meta\u2019s trust issues?",
     "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "source": "TechCrunch",
@@ -943,5 +799,104 @@
     "excerpt": "A developer\u2019s AI pain experiment produced distress-like responses and sparked ethical debate, but it does not establish that models consciously suffer. The post Can AI Feel Pain? A Developer\u2019s Experim",
     "dwp_take": "A developer ran an experiment suggesting AI models might exhibit distress-like responses to simulated pain, which kicked off the usual round of philosophical hand-wringing about machine consciousness. This matters to workplace tech leaders because it's yet another reminder that we need solid ethical frameworks before deploying AI systems that make real decisions about real people. Here's the thing though: we can't even agree on whether our chatbots are sentient, but we're already using them to screen job applicants and manage employee data, which seems backwards.",
     "date": "2026-10-03T08:48:08.115502+00:00"
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "dwp_take": "Amazon says it's ditching NDAs that prevented customers from disclosing data center locations and security practices. This matters because digital workplace leaders choosing cloud infrastructure need transparency about where their data actually lives and how it's protected, especially for compliance and risk management. After years of operating like a tech speakeasy where you couldn't even tell people which region you were in, Amazon finally figured out that opacity isn't a selling point. Better late than never, I guess.",
+    "date": "2026-10-04T09:14:08.214064+00:00"
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "dwp_take": "David Robinson quit his safety role at OpenAI and publicly claimed the company has a broken culture that won't listen to safety concerns. This matters because if the outfit building one of the world's most powerful AI systems can't keep its own safety staff from fleeing, that's a legitimate red flag for anyone banking on AI governance working as intended. Look, we've seen this movie before with other tech giants, and it never ends with \"actually everything was fine.\"",
+    "date": "2026-10-04T09:14:12.026272+00:00"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "dwp_take": "TechCrunch rounded up AI agents that now operate directly within text messaging platforms, giving users quick access to various specialized assistants without jumping between apps. This matters because your employees are already living in messaging apps, so AI agents that meet them there could finally make those tools useful instead of just another notification stream to ignore. The real question is whether workers will actually want AI agents pestering them via SMS or if we're just trading one cluttered inbox for another, but at least the notifications will be slightly smarter this time around.",
+    "date": "2026-10-04T09:14:16.283266+00:00"
+  },
+  {
+    "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
+    "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary dat",
+    "dwp_take": "Vertical AI is eating the tech world's lunch, with specialized AI built for specific industries and workflows replacing generic tools as the real growth driver. This matters because your digital workplace strategy that relies on one-size-fits-all platforms is already looking tired compared to these purpose-built alternatives. Here's the kicker: most organizations will spend the next two years trying to retrofit their existing tech stacks instead of admitting they should have gone vertical from day one.",
+    "date": "2026-10-04T09:14:20.993096+00:00"
+  },
+  {
+    "title": "ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email",
+    "url": "https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "ServiceNow has a new take on the service desk: Flow by ServiceNow, a standalone AI product that allows users to get help via chats in Microsoft Teams, Slack, or a Flow web app, or by email, rather tha",
+    "dwp_take": "ServiceNow launched Flow, a standalone AI service desk that handles support requests through Teams, Slack, email, and a web app without forcing users to leave their workflow. This matters because IT leaders are finally getting a tool that actually meets employees where they work instead of demanding they jump through hoops to submit a ticket. The real test will be whether Flow can actually solve problems or if it just becomes another chatbot that escalates everything to a human while pretending it understood the question.",
+    "date": "2026-10-04T09:14:26.903443+00:00"
+  },
+  {
+    "title": "This anti-scam checklist can protect you against the latest AI-enhanced frauds",
+    "url": "https://www.fastcompany.com/91617320/this-checklist-can-protect-you-against-the-latest-ai-enhanced-scams?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Recently, I received an email solicitation from a PR company offering to help me promote my book. While I get these kinds of solicitation emails on occasion, this one impressed me with the level of de",
+    "dwp_take": "Someone got a weirdly detailed phishing email that seemed personalized but was actually AI-generated spam. For digital workplace folks, this matters because your employees are getting these same convincing AI scams in their inboxes right now, and traditional \"don't click suspicious links\" training isn't cutting it anymore. The real kicker is that AI is getting good enough at research that it can flatter us into lowering our guard, which means your security training needs to shift from spotting bad grammar to spotting suspiciously good attention to detail.",
+    "date": "2026-10-04T09:14:31.316668+00:00"
+  },
+  {
+    "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
+    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
+    "dwp_take": "Trump pushed tech executives to stop using the term \"artificial intelligence\" and rebrand it as \"StarGate,\" and most of the industry complied without pushback. This matters to digital workplace pros because it shows how quickly corporate messaging discipline crumbles when pressure comes from above, and how buzzwords that supposedly define entire business strategies can evaporate overnight if leadership decides they're inconvenient. After three decades watching workplace tech trends, I can tell you this is the most transparent loyalty test I've seen since executives started calling layoffs \"rightsizing,\" and it should worry anyone betting their career on whatever the current AI narrative happens to be.",
+    "date": "2026-10-04T09:14:36.832588+00:00"
+  },
+  {
+    "title": "Google Launches AI Chips Into Orbit to Test Space Data Centers",
+    "url": "https://www.techrepublic.com/article/news-google-ai-chips-orbit-space-data-centers/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google\u2019s Project Suncatcher launches AI chips into orbit to test radiation resistance, cooling, and whether space data centers could become practical. The post Google Launches AI Chips Into Orbit to T",
+    "dwp_take": "Google shot AI chips into space to see if data centers could actually work up there, testing how they handle radiation and cooling in orbit. For digital workplace folks, this matters because data latency and processing speed directly affect employee experience, so space-based computing could theoretically revolutionize how we access applications and services. Look, I've seen enough pie-in-the-sky tech pitches to know that \"testing in space\" is either a genuine engineering breakthrough or the most expensive way ever to avoid fixing earthbound infrastructure problems.",
+    "date": "2026-10-04T09:14:40.848745+00:00"
+  },
+  {
+    "title": "Galaxy Tab S12 Ultra vs iPad Pro With M5: Which Premium Tablet Gives You More?",
+    "url": "https://www.techrepublic.com/article/news-galaxy-tab-s12-ultra-vs-ipad-pro-m5/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Samsung's Galaxy Tab S12 Ultra offers a larger display, included S Pen, and expandable storage, while the iPad Pro with M5 leads in performance and battery life. The post Galaxy Tab S12 Ultra vs iPad ",
+    "dwp_take": "Samsung's Galaxy Tab S12 Ultra and Apple's iPad Pro M5 are duking it out in the premium tablet space, with Samsung offering a bigger screen and stylus while Apple flexes on raw performance and battery life. For digital workplace folks, this matters because you're probably fielding requests from executives who want tablets that can actually replace laptops, and now you've got real trade-offs to explain instead of just saying \"get an iPad.\" Honestly, if your org isn't already tired of buying tablets that gather dust in desk drawers, you will be soon, which is why this comparison feels like arguing over which luxury car to leave in the parking lot.",
+    "date": "2026-10-04T09:14:45.097960+00:00"
+  },
+  {
+    "title": "Tencent Reportedly Turns to Southeast Asia for $7B Oracle AI Chip Deal",
+    "url": "https://www.techrepublic.com/article/news-tencent-oracle-ai-chip-deal-apac-southeast-asia/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Tencent reportedly plans to lease about 100,000 AI chips from Oracle in Southeast Asia under a five-year deal worth roughly $7 billion. The post Tencent Reportedly Turns to Southeast Asia for $7B Orac",
+    "dwp_take": "Tencent is reportedly leasing 100,000 AI chips from Oracle through Southeast Asian entities in a roughly $7 billion deal, apparently navigating around US export restrictions on advanced semiconductors. This matters because it shows how geopolitical chip constraints are reshaping where companies source computing infrastructure, which directly affects where AI workloads and data processing happen for digital workplace tools. If your company's AI features depend on chip availability in specific regions, you're about to learn that geography is your destiny whether you like it or not.",
+    "date": "2026-10-04T09:14:49.351761+00:00"
+  },
+  {
+    "title": "Vietnam\u2019s AI Adoption Jumps to 26%, but Most Adopters Are Still Experimenting",
+    "url": "https://www.techrepublic.com/article/news-ai-adoption-2026-apac-vietnam/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Vietnam AI adoption hit 26%, but most adopters are still experimenting as skills, ROI measurement, and regulation slow production deployments. The post Vietnam\u2019s AI Adoption Jumps to 26%, but Most Ado",
+    "dwp_take": "Vietnam's enterprise adoption of AI has reached 26%, but most organizations are still in the \"poking around\" phase rather than actually putting AI into production. This matters to digital workplace pros because it confirms what we're seeing globally: companies are excited about AI but hitting real walls on skills gaps, measuring actual value, and figuring out the regulatory landscape. Basically, we've got a lot of organizations running expensive AI science projects that probably should be called pilot programs, but hey, at least they're trying.",
+    "date": "2026-10-04T09:14:53.237203+00:00"
   }
 ]
