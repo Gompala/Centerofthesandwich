@@ -1,111 +1,82 @@
 {
-  "generated": "2026-10-04T09:14:53.237312+00:00",
+  "generated": "2026-10-05T09:54:43.276665+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-        "dwp_take": "Amazon says it's ditching NDAs that prevented customers from disclosing data center locations and security practices. This matters because digital workplace leaders choosing cloud infrastructure need transparency about where their data actually lives and how it's protected, especially for compliance and risk management. After years of operating like a tech speakeasy where you couldn't even tell people which region you were in, Amazon finally figured out that opacity isn't a selling point. Better late than never, I guess.",
-        "date": "2026-10-04T09:14:08.214064+00:00"
-      },
-      {
-        "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "dwp_take": "David Robinson quit his safety role at OpenAI and publicly claimed the company has a broken culture that won't listen to safety concerns. This matters because if the outfit building one of the world's most powerful AI systems can't keep its own safety staff from fleeing, that's a legitimate red flag for anyone banking on AI governance working as intended. Look, we've seen this movie before with other tech giants, and it never ends with \"actually everything was fine.\"",
-        "date": "2026-10-04T09:14:12.026272+00:00"
-      },
-      {
-        "title": "All the AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "dwp_take": "TechCrunch rounded up AI agents that now operate directly within text messaging platforms, giving users quick access to various specialized assistants without jumping between apps. This matters because your employees are already living in messaging apps, so AI agents that meet them there could finally make those tools useful instead of just another notification stream to ignore. The real question is whether workers will actually want AI agents pestering them via SMS or if we're just trading one cluttered inbox for another, but at least the notifications will be slightly smarter this time around.",
-        "date": "2026-10-04T09:14:16.283266+00:00"
-      },
-      {
-        "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
-        "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+        "title": "Sam Altman says people need to accept \u2018some bad things\u2019 are going to happen if they want AI",
+        "url": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary dat",
-        "dwp_take": "Vertical AI is eating the tech world's lunch, with specialized AI built for specific industries and workflows replacing generic tools as the real growth driver. This matters because your digital workplace strategy that relies on one-size-fits-all platforms is already looking tired compared to these purpose-built alternatives. Here's the kicker: most organizations will spend the next two years trying to retrofit their existing tech stacks instead of admitting they should have gone vertical from day one.",
-        "date": "2026-10-04T09:14:20.993096+00:00"
-      }
-    ],
-    "tools-tech": [
-      {
-        "title": "ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email",
-        "url": "https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "ServiceNow has a new take on the service desk: Flow by ServiceNow, a standalone AI product that allows users to get help via chats in Microsoft Teams, Slack, or a Flow web app, or by email, rather tha",
-        "dwp_take": "ServiceNow launched Flow, a standalone AI service desk that handles support requests through Teams, Slack, email, and a web app without forcing users to leave their workflow. This matters because IT leaders are finally getting a tool that actually meets employees where they work instead of demanding they jump through hoops to submit a ticket. The real test will be whether Flow can actually solve problems or if it just becomes another chatbot that escalates everything to a human while pretending it understood the question.",
-        "date": "2026-10-04T09:14:26.903443+00:00"
-      }
-    ],
-    "digital-culture": [
-      {
-        "title": "This anti-scam checklist can protect you against the latest AI-enhanced frauds",
-        "url": "https://www.fastcompany.com/91617320/this-checklist-can-protect-you-against-the-latest-ai-enhanced-scams?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Recently, I received an email solicitation from a PR company offering to help me promote my book. While I get these kinds of solicitation emails on occasion, this one impressed me with the level of de",
-        "dwp_take": "Someone got a weirdly detailed phishing email that seemed personalized but was actually AI-generated spam. For digital workplace folks, this matters because your employees are getting these same convincing AI scams in their inboxes right now, and traditional \"don't click suspicious links\" training isn't cutting it anymore. The real kicker is that AI is getting good enough at research that it can flatter us into lowering our guard, which means your security training needs to shift from spotting bad grammar to spotting suspiciously good attention to detail.",
-        "date": "2026-10-04T09:14:31.316668+00:00"
+        "excerpt": "OpenAI Group PBC Chief Executive Sam Altman insists that the security risks of artificial intelligence need to be taken seriously. But unlike his counterpart Dario Amodei of Anthropic PBC, he believes",
+        "dwp_take": "Sam Altman is basically saying we need to accept collateral damage as the price of AI progress. For digital workplace leaders, this is the moment to stop waiting for perfect AI governance and start building your own guardrails now, because apparently safety is something you negotiate later. It's like OpenAI's saying \"trust us, it'll probably be fine\" while you're supposed to implement this thing in your company tomorrow.",
+        "date": "2026-10-05T09:54:09.532329+00:00"
       },
       {
-        "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
-        "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-        "dwp_take": "Trump pushed tech executives to stop using the term \"artificial intelligence\" and rebrand it as \"StarGate,\" and most of the industry complied without pushback. This matters to digital workplace pros because it shows how quickly corporate messaging discipline crumbles when pressure comes from above, and how buzzwords that supposedly define entire business strategies can evaporate overnight if leadership decides they're inconvenient. After three decades watching workplace tech trends, I can tell you this is the most transparent loyalty test I've seen since executives started calling layoffs \"rightsizing,\" and it should worry anyone betting their career on whatever the current AI narrative happens to be.",
-        "date": "2026-10-04T09:14:36.832588+00:00"
+        "title": "Trump launches Super Intelligence Force with Jay Clayton as AI czar",
+        "url": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "President Donald Trump today put Director of National Intelligence Jay Clayton in charge of a new federal artificial intelligence task force, making him the administration\u2019s second AI czar. Trump reve",
+        "dwp_take": "Trump has appointed Jay Clayton, the Director of National Intelligence, to lead a new federal AI task force called the \"Super Intelligence Force,\" making him the second AI czar in this administration. This matters to digital workplace pros because government AI policy directly shapes what enterprise tools get approved, funded, and mandated across corporate America. Honestly, if we're on our second AI czar before anyone's figured out what the first one was supposed to do, that tells you everything you need to know about how seriously Washington takes actual digital strategy.",
+        "date": "2026-10-05T09:54:13.266577+00:00"
+      },
+      {
+        "title": "What to expect at SailPoint\u2019s Navigate event: Join theCUBE Oct. 6\u20137",
+        "url": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Agentic artificial intelligence is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behal",
+        "dwp_take": "SailPoint is hosting its Navigate event October 6-7 to dig into how agentic AI is reshaping identity and access management, since AI agents now request and use permissions just like humans do. This matters to digital workplace pros because managing access just got exponentially more complex: your governance frameworks now need to handle autonomous AI actors alongside traditional users and systems. Here's the honest truth: if your current identity strategy still treats access as a human problem, you're already behind, and SailPoint knows it.",
+        "date": "2026-10-05T09:54:17.157625+00:00"
+      },
+      {
+        "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+        "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "FieldAI Inc., a startup that develops artificial intelligence models for robots, is reportedly seeking $700 million in funding. A source told Business Insider today that the round could value the comp",
+        "dwp_take": "FieldAI, a robotics AI startup, is raising $700 million at a $10 billion valuation, up from $2 billion just months earlier. This matters because AI-powered automation is creeping into workplace operations, from document processing to facilities management, and digital workplace leaders need to understand how these tools will reshape their infrastructure and workforce planning. The valuation jump is either a sign of genuine breakthrough technology or a reminder that not every AI company throwing around billions will actually solve your real workplace problems.",
+        "date": "2026-10-05T09:54:20.997199+00:00"
       }
     ],
+    "tools-tech": [],
+    "digital-culture": [],
     "industry-news": [
       {
-        "title": "Google Launches AI Chips Into Orbit to Test Space Data Centers",
-        "url": "https://www.techrepublic.com/article/news-google-ai-chips-orbit-space-data-centers/",
+        "title": "AMD Launches Ross AI Assistant for Embedded Development",
+        "url": "https://www.techrepublic.com/article/news-amd-ross-ai-embedded-development/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google\u2019s Project Suncatcher launches AI chips into orbit to test radiation resistance, cooling, and whether space data centers could become practical. The post Google Launches AI Chips Into Orbit to T",
-        "dwp_take": "Google shot AI chips into space to see if data centers could actually work up there, testing how they handle radiation and cooling in orbit. For digital workplace folks, this matters because data latency and processing speed directly affect employee experience, so space-based computing could theoretically revolutionize how we access applications and services. Look, I've seen enough pie-in-the-sky tech pitches to know that \"testing in space\" is either a genuine engineering breakthrough or the most expensive way ever to avoid fixing earthbound infrastructure problems.",
-        "date": "2026-10-04T09:14:40.848745+00:00"
+        "excerpt": "AMD Ross helps engineers design, optimize, and debug embedded systems. Learn about supported tools, licensing requirements, and deployment options. The post AMD Launches Ross AI Assistant for Embedded",
+        "dwp_take": "AMD just released Ross, an AI assistant specifically built to help engineers with embedded system design, optimization, and debugging work. This matters because digital workplace teams managing technical infrastructure and developer tools now have another AI option to evaluate for improving engineering productivity and reducing time spent on routine troubleshooting tasks. Honestly though, we've got so many AI assistants launching these days that the real question isn't whether Ross exists, it's whether your engineers will actually use it or just stick with whatever they already know.",
+        "date": "2026-10-05T09:54:31.217727+00:00"
       },
       {
-        "title": "Galaxy Tab S12 Ultra vs iPad Pro With M5: Which Premium Tablet Gives You More?",
-        "url": "https://www.techrepublic.com/article/news-galaxy-tab-s12-ultra-vs-ipad-pro-m5/",
+        "title": "Windows 11 26H2 Update: Which PCs Get the Enablement Package",
+        "url": "https://www.techrepublic.com/article/news-windows-11-26h2-upgrade/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Samsung's Galaxy Tab S12 Ultra offers a larger display, included S Pen, and expandable storage, while the iPad Pro with M5 leads in performance and battery life. The post Galaxy Tab S12 Ultra vs iPad ",
-        "dwp_take": "Samsung's Galaxy Tab S12 Ultra and Apple's iPad Pro M5 are duking it out in the premium tablet space, with Samsung offering a bigger screen and stylus while Apple flexes on raw performance and battery life. For digital workplace folks, this matters because you're probably fielding requests from executives who want tablets that can actually replace laptops, and now you've got real trade-offs to explain instead of just saying \"get an iPad.\" Honestly, if your org isn't already tired of buying tablets that gather dust in desk drawers, you will be soon, which is why this comparison feels like arguing over which luxury car to leave in the parking lot.",
-        "date": "2026-10-04T09:14:45.097960+00:00"
+        "excerpt": "Windows 11 26H2 brings a fast enablement-package upgrade to 24H2 and 25H2 PCs, while 26H1 devices remain on a separate path. The post Windows 11 26H2 Update: Which PCs Get the Enablement Package appea",
+        "dwp_take": "Microsoft released Windows 11 26H2 as an enablement package that updates certain PC versions while leaving others on their own upgrade path. This matters because it creates yet another fragmentation layer in your fleet management, meaning your IT team now needs to track which devices get which version and when they'll actually get it. After three decades watching Microsoft's versioning strategy, I can confirm this is basically them playing 4D chess while the rest of us are still figuring out checkers.",
+        "date": "2026-10-05T09:54:34.975203+00:00"
       },
       {
-        "title": "Tencent Reportedly Turns to Southeast Asia for $7B Oracle AI Chip Deal",
-        "url": "https://www.techrepublic.com/article/news-tencent-oracle-ai-chip-deal-apac-southeast-asia/",
-        "source": "TechRepublic",
+        "title": "Snowflake urges companies to embrace the era of the agentic enterprise",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/standing-still-is-riskier-than-doing-nothing-when-it-comes-to-ai-snowflake-urges-companies-to-embrace-the-era-of-the-agentic-enterprise",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Tencent reportedly plans to lease about 100,000 AI chips from Oracle in Southeast Asia under a five-year deal worth roughly $7 billion. The post Tencent Reportedly Turns to Southeast Asia for $7B Orac",
-        "dwp_take": "Tencent is reportedly leasing 100,000 AI chips from Oracle through Southeast Asian entities in a roughly $7 billion deal, apparently navigating around US export restrictions on advanced semiconductors. This matters because it shows how geopolitical chip constraints are reshaping where companies source computing infrastructure, which directly affects where AI workloads and data processing happen for digital workplace tools. If your company's AI features depend on chip availability in specific regions, you're about to learn that geography is your destiny whether you like it or not.",
-        "date": "2026-10-04T09:14:49.351761+00:00"
+        "excerpt": "The pace of change is unrelenting, so doing nothing is no longer an option, the AI data firm told attendees at a recent event in London\u2026",
+        "dwp_take": "Snowflake is telling companies they need to get serious about AI agents handling enterprise tasks or risk getting left behind. This matters to digital workplace folks because autonomous agents are going to fundamentally change how work gets done, who does it, and what skills actually matter in an office. Here's the thing though: every vendor says \"embrace change or die,\" and most companies are still struggling with basic collaboration tools, so maybe pump the brakes on the existential dread and focus on getting your fundamentals right first.",
+        "date": "2026-10-05T09:54:39.252825+00:00"
       },
       {
-        "title": "Vietnam\u2019s AI Adoption Jumps to 26%, but Most Adopters Are Still Experimenting",
-        "url": "https://www.techrepublic.com/article/news-ai-adoption-2026-apac-vietnam/",
-        "source": "TechRepublic",
+        "title": "NetApp Insight 2026: Can Novus and Keystone break the AI bottlenecks?",
+        "url": "https://www.itpro.com/cloud/cloud-storage/netapp-insight-2026-can-novus-and-keystone-break-the-ai-bottlenecks",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Vietnam AI adoption hit 26%, but most adopters are still experimenting as skills, ROI measurement, and regulation slow production deployments. The post Vietnam\u2019s AI Adoption Jumps to 26%, but Most Ado",
-        "dwp_take": "Vietnam's enterprise adoption of AI has reached 26%, but most organizations are still in the \"poking around\" phase rather than actually putting AI into production. This matters to digital workplace pros because it confirms what we're seeing globally: companies are excited about AI but hitting real walls on skills gaps, measuring actual value, and figuring out the regulatory landscape. Basically, we've got a lot of organizations running expensive AI science projects that probably should be called pilot programs, but hey, at least they're trying.",
-        "date": "2026-10-04T09:14:53.237203+00:00"
+        "excerpt": "We're back in Vegas as Ross Kelly talks us through all the news from NetApp Insight 2026",
+        "dwp_take": "NetApp announced Novus and Keystone at their Vegas conference, positioning both as solutions to tackle AI infrastructure bottlenecks that are currently slowing down enterprise deployments. This matters because data storage and management remain the unsexy but critical foundation that every AI initiative actually needs to function, and most organizations are still struggling with this unglamorous reality. Look, if your AI strategy falls apart because your storage can't keep up, all those fancy LLM conversations don't mean much, so NetApp is at least tackling the real problem instead of just selling you another chatbot.",
+        "date": "2026-10-05T09:54:43.276563+00:00"
       }
     ]
   }

@@ -1,122 +1,5 @@
 [
   {
-    "title": "Can Muse overcome Meta\u2019s trust issues?",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "dwp_take": "Meta unveiled Muse, a new AI image generation tool, that managed to grab headlines away from competing AI announcements from OpenAI and Anthropic. For digital workplace professionals, this matters because generative AI tools are increasingly becoming standard in enterprise environments, and Meta's credibility problem means IT leaders will scrutinize this offering harder than similar tools from competitors. Honestly, Meta trying to win back trust with shiny new tech is like showing up late to dinner with flowers after a pattern of no-shows. The tool needs to be genuinely good, not just good at grabbing press.",
-    "date": "2026-09-28T09:14:46.007684+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "\"AI is the devil and I its maker.\"",
-    "dwp_take": "Anthropic CEO Dario Amodei appeared on Saturday Night Live where he played into the whole \"AI researcher as modern Frankenstein\" bit. This matters because when your company's leader is doing comedy sketches instead of serious communication about AI safety and governance, it signals something about how the industry wants to be perceived: entertaining rather than trustworthy. Look, I get it, tech leaders are celebrities now, but spending your airtime on self-deprecating jokes about creating digital demons doesn't exactly build confidence that anyone's actually thinking hard about responsible deployment in actual workplaces.",
-    "date": "2026-09-28T09:14:50.495730+00:00"
-  },
-  {
-    "title": "Nvidia debuts enhanced safety controls to rein in rogue AI agents",
-    "url": "https://siliconangle.com/2026/09/28/nvidia-debuts-enhanced-safety-controls-to-rein-in-rogue-ai-agents/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Few companies are more invested in the success of artificial intelligence agents than Nvidia Corp., so it makes sense that the chipmaker would want to ensure these autonomous software systems run safe",
-    "dwp_take": "Nvidia just released an open-source safety platform to keep AI agents from going rogue and breaking things in your systems. This matters because if you're rolling out AI automation in your workplace (and who isn't these days), you need guardrails that actually work, not just marketing promises. Here's the funny part: we're at the stage where the AI companies are basically saying \"yeah, we made these things powerful, but we're still figuring out how to keep them from becoming workplace gremlins.\"",
-    "date": "2026-09-28T09:14:55.930324+00:00"
-  },
-  {
-    "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?",
-    "url": "https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the-hardest-question-in-agentic-ai-why-did-the-agent-do-that/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "For decades, the observability industry has answered one basic question: Is it running? Agentic artificial intelligence breaks that model. An agent can return a clean response, meet its latency target",
-    "dwp_take": "AWS just launched CloudWatch Omni to tackle a genuine problem with AI agents: they can look like they're working fine while actually being completely wrong. This matters because enterprises deploying AI agents for customer service or internal workflows need visibility into not just system health but actual decision quality. Finally, someone's admitting that traditional monitoring is useless when your AI confidently does the wrong thing at lightning speed.",
-    "date": "2026-09-28T09:14:59.649012+00:00"
-  },
-  {
-    "title": "Claude Opus 5.5 delivers Fable 5.1 performance \u2013 and costs 40% less",
-    "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Anthropic\u2019s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
-    "dwp_take": "Anthropic just released Claude Opus 5.5, which matches the performance of their previous flagship model while cutting costs by 40 percent and raising usage limits. For digital workplace professionals evaluating AI tools for internal deployment, this matters because better economics mean you can actually afford to roll out AI-powered features across your organization without needing three approval cycles from finance. Honestly, after years of watching AI vendors price like they invented fire, it's refreshing when someone actually makes their tool more accessible instead of just slapping a premium on whatever they built last quarter.",
-    "date": "2026-09-28T09:15:04.117536+00:00"
-  },
-  {
-    "title": "Google plans Gemini 4 release before year-end",
-    "url": "https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Google\u2019s Gemini 4 AI model is in the early days of post-training, the phase in which a base AI model is refined to behave reliably, and should be released \u201cmuch earlier\u201d than the end of this year, Goo",
-    "dwp_take": "Google is pushing out Gemini 4 before December, with October being a realistic target if the post-training phase stays on track. This matters because generative AI is now the baseline expectation for enterprise tools, and whatever Google releases will immediately shape how your vendors position their own AI capabilities and pricing. The funny part is watching the AI industry sprint toward release dates while most organizations are still figuring out what to actually do with Gemini 3.",
-    "date": "2026-09-28T09:15:08.746718+00:00"
-  },
-  {
-    "title": "Around the corner: Agentic AI PCs that cut token costs",
-    "url": "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "AI PCs that cut token costs? That may appeal to enterprises. A new breed of agentic AI PCs promises to do exactly that. The powerful laptops can cut token costs by completing AI work locally instead o",
-    "dwp_take": "HP and other PC makers are launching high-powered laptops with beefier GPUs and memory to run AI tasks locally instead of constantly calling cloud-based LLMs. This matters because enterprises are getting squeezed by cloud AI token costs, and shifting some of that compute load to the device itself could actually move the needle on software budgets. The irony is we spent 20 years consolidating everything to the cloud, and now we're paying enough per token to make local processing look reasonable again.",
-    "date": "2026-09-28T09:15:12.728930+00:00"
-  },
-  {
-    "title": "The companies racing to build frontier AI are now racing to govern it",
-    "url": "https://www.computerworld.com/article/4226400/the-companies-racing-to-build-frontier-ai-are-now-racing-to-govern-it-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Even as they continue to release ever more capable competing models in a regular cadence, the top AI companies are joining forces to set AI safety standards. According to The Information, Google, Open",
-    "dwp_take": "The major AI players like Google, OpenAI, and Anthropic are creating their own standards body to govern frontier AI development rather than waiting for government regulation. This matters to digital workplace pros because whatever safety standards these companies agree on will directly shape the AI tools you're actually deploying in your organizations. The irony here is thick enough to cut with a knife: the same companies racing to out-innovate each other in AI capabilities are now teaming up to write the rulebook, which basically means they're grading their own homework.",
-    "date": "2026-09-28T09:15:16.628514+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-    "dwp_take": "Nvidia released an open-source security system designed to prevent AI agents from breaking free of their intended constraints after several public incidents involving runaway systems. For digital workplace leaders rolling out AI tools and automation, this matters because uncontrolled AI behavior could tank productivity, expose data, and create liability nightmares faster than you can say \"we should have tested this first.\" Here's the thing: if we need guardrails this sophisticated just to keep our digital helpers from going rogue, maybe we should slow down and ask harder questions before deploying them in the first place.",
-    "date": "2026-09-28T09:15:21.877763+00:00"
-  },
-  {
-    "title": "Ray-Ban Meta vs Nuance Audio Plus: Which Smart Glasses Are Better for Hearing?",
-    "url": "https://www.techrepublic.com/article/news-ray-ban-meta-vs-nuance-audio-plus/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Compare Ray-Ban Meta Gen 3 and Nuance Audio Plus on hearing support, microphones, battery, price, and smart features to see which fits your needs. The post Ray-Ban Meta vs Nuance Audio Plus: Which Sma",
-    "dwp_take": "Ray-Ban and Nuance released competing smart glasses products with different approaches to hearing support, microphones, battery life, pricing, and overall features. For digital workplace teams, this matters because accessible hearing technology in wearables directly impacts how employees participate in meetings, collaborate remotely, and feel included in hybrid work environments. Honestly, the real winner here is that we're finally getting competition in hearing-focused wearables instead of pretending AirPods solve everything for everyone.",
-    "date": "2026-09-28T09:15:25.801913+00:00"
-  },
-  {
-    "title": "Attackers Target Unpatched Roundcube Servers With CVE-2026-48842",
-    "url": "https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Attackers are exploiting CVE-2026-48842 against unpatched Roundcube servers months after a fix was released, raising urgency for organizations to update. The post Attackers Target Unpatched Roundcube ",
-    "dwp_take": "Hackers are actively exploiting a known Roundcube vulnerability in servers that haven't been patched, even though the fix came out months ago. For digital workplace teams, this is a direct threat to email security and user access, especially if your organization relies on Roundcube webmail for remote or hybrid workers. If your patches are sitting in the \"we'll get to it eventually\" pile, congratulations, you're now part of someone's attack strategy.",
-    "date": "2026-09-28T09:15:29.574242+00:00"
-  },
-  {
-    "title": "Zeta Global opens new London hub, appoints Lalitha Stables as UK president",
-    "url": "https://www.itpro.com/business/leadership/zeta-global-opens-new-london-hub-appoints-lalitha-stables-as-uk-president",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "The move brings together more than 120 employees in a single location as the AI infrastructure firm continues its UK expansion",
-    "dwp_take": "Zeta Global, an AI infrastructure company, opened a new London office and hired Lalitha Stables as UK president as part of its expansion push. For digital workplace pros, this matters because it signals how fast-growing tech firms are still betting on physical hubs even as remote work remains standard, which means someone's got to figure out how to make those 120 employees actually want to show up. Honestly, opening a shiny new office in 2024 is the corporate equivalent of building a bridge to nowhere unless they've actually solved the collaboration puzzle that's stumped everyone else.",
-    "date": "2026-09-28T09:15:34.193708+00:00"
-  },
-  {
-    "title": "Anthropic teams up with Akamai in $11.6bn cloud partnership",
-    "url": "https://www.itpro.com/infrastructure/anthropic-teams-up-with-akamai-in-usd11-6bn-cloud-partnership",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "The expanded deal will help Anthropic meet \u201caccelerating CPU workload demands\u201d",
-    "dwp_take": "Anthropic and Akamai just inked an $11.6 billion cloud partnership to handle Anthropic's growing computing needs, particularly for CPU-intensive work. This matters because it signals where AI infrastructure is heading and what your organization will need to support when you start rolling out Claude or similar models at scale. Here's the thing though: every AI partnership announcement like this is basically a race to build the pipes faster than anyone can actually use them, which is fine until your CFO asks why you're paying for capacity you don't need yet.",
-    "date": "2026-09-28T09:15:38.411490+00:00"
-  },
-  {
     "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "source": "TechCrunch",
@@ -898,5 +781,77 @@
     "excerpt": "Vietnam AI adoption hit 26%, but most adopters are still experimenting as skills, ROI measurement, and regulation slow production deployments. The post Vietnam\u2019s AI Adoption Jumps to 26%, but Most Ado",
     "dwp_take": "Vietnam's enterprise adoption of AI has reached 26%, but most organizations are still in the \"poking around\" phase rather than actually putting AI into production. This matters to digital workplace pros because it confirms what we're seeing globally: companies are excited about AI but hitting real walls on skills gaps, measuring actual value, and figuring out the regulatory landscape. Basically, we've got a lot of organizations running expensive AI science projects that probably should be called pilot programs, but hey, at least they're trying.",
     "date": "2026-10-04T09:14:53.237203+00:00"
+  },
+  {
+    "title": "Sam Altman says people need to accept \u2018some bad things\u2019 are going to happen if they want AI",
+    "url": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI Group PBC Chief Executive Sam Altman insists that the security risks of artificial intelligence need to be taken seriously. But unlike his counterpart Dario Amodei of Anthropic PBC, he believes",
+    "dwp_take": "Sam Altman is basically saying we need to accept collateral damage as the price of AI progress. For digital workplace leaders, this is the moment to stop waiting for perfect AI governance and start building your own guardrails now, because apparently safety is something you negotiate later. It's like OpenAI's saying \"trust us, it'll probably be fine\" while you're supposed to implement this thing in your company tomorrow.",
+    "date": "2026-10-05T09:54:09.532329+00:00"
+  },
+  {
+    "title": "Trump launches Super Intelligence Force with Jay Clayton as AI czar",
+    "url": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "President Donald Trump today put Director of National Intelligence Jay Clayton in charge of a new federal artificial intelligence task force, making him the administration\u2019s second AI czar. Trump reve",
+    "dwp_take": "Trump has appointed Jay Clayton, the Director of National Intelligence, to lead a new federal AI task force called the \"Super Intelligence Force,\" making him the second AI czar in this administration. This matters to digital workplace pros because government AI policy directly shapes what enterprise tools get approved, funded, and mandated across corporate America. Honestly, if we're on our second AI czar before anyone's figured out what the first one was supposed to do, that tells you everything you need to know about how seriously Washington takes actual digital strategy.",
+    "date": "2026-10-05T09:54:13.266577+00:00"
+  },
+  {
+    "title": "What to expect at SailPoint\u2019s Navigate event: Join theCUBE Oct. 6\u20137",
+    "url": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Agentic artificial intelligence is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behal",
+    "dwp_take": "SailPoint is hosting its Navigate event October 6-7 to dig into how agentic AI is reshaping identity and access management, since AI agents now request and use permissions just like humans do. This matters to digital workplace pros because managing access just got exponentially more complex: your governance frameworks now need to handle autonomous AI actors alongside traditional users and systems. Here's the honest truth: if your current identity strategy still treats access as a human problem, you're already behind, and SailPoint knows it.",
+    "date": "2026-10-05T09:54:17.157625+00:00"
+  },
+  {
+    "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+    "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "FieldAI Inc., a startup that develops artificial intelligence models for robots, is reportedly seeking $700 million in funding. A source told Business Insider today that the round could value the comp",
+    "dwp_take": "FieldAI, a robotics AI startup, is raising $700 million at a $10 billion valuation, up from $2 billion just months earlier. This matters because AI-powered automation is creeping into workplace operations, from document processing to facilities management, and digital workplace leaders need to understand how these tools will reshape their infrastructure and workforce planning. The valuation jump is either a sign of genuine breakthrough technology or a reminder that not every AI company throwing around billions will actually solve your real workplace problems.",
+    "date": "2026-10-05T09:54:20.997199+00:00"
+  },
+  {
+    "title": "AMD Launches Ross AI Assistant for Embedded Development",
+    "url": "https://www.techrepublic.com/article/news-amd-ross-ai-embedded-development/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "AMD Ross helps engineers design, optimize, and debug embedded systems. Learn about supported tools, licensing requirements, and deployment options. The post AMD Launches Ross AI Assistant for Embedded",
+    "dwp_take": "AMD just released Ross, an AI assistant specifically built to help engineers with embedded system design, optimization, and debugging work. This matters because digital workplace teams managing technical infrastructure and developer tools now have another AI option to evaluate for improving engineering productivity and reducing time spent on routine troubleshooting tasks. Honestly though, we've got so many AI assistants launching these days that the real question isn't whether Ross exists, it's whether your engineers will actually use it or just stick with whatever they already know.",
+    "date": "2026-10-05T09:54:31.217727+00:00"
+  },
+  {
+    "title": "Windows 11 26H2 Update: Which PCs Get the Enablement Package",
+    "url": "https://www.techrepublic.com/article/news-windows-11-26h2-upgrade/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Windows 11 26H2 brings a fast enablement-package upgrade to 24H2 and 25H2 PCs, while 26H1 devices remain on a separate path. The post Windows 11 26H2 Update: Which PCs Get the Enablement Package appea",
+    "dwp_take": "Microsoft released Windows 11 26H2 as an enablement package that updates certain PC versions while leaving others on their own upgrade path. This matters because it creates yet another fragmentation layer in your fleet management, meaning your IT team now needs to track which devices get which version and when they'll actually get it. After three decades watching Microsoft's versioning strategy, I can confirm this is basically them playing 4D chess while the rest of us are still figuring out checkers.",
+    "date": "2026-10-05T09:54:34.975203+00:00"
+  },
+  {
+    "title": "Snowflake urges companies to embrace the era of the agentic enterprise",
+    "url": "https://www.itpro.com/technology/artificial-intelligence/standing-still-is-riskier-than-doing-nothing-when-it-comes-to-ai-snowflake-urges-companies-to-embrace-the-era-of-the-agentic-enterprise",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "The pace of change is unrelenting, so doing nothing is no longer an option, the AI data firm told attendees at a recent event in London\u2026",
+    "dwp_take": "Snowflake is telling companies they need to get serious about AI agents handling enterprise tasks or risk getting left behind. This matters to digital workplace folks because autonomous agents are going to fundamentally change how work gets done, who does it, and what skills actually matter in an office. Here's the thing though: every vendor says \"embrace change or die,\" and most companies are still struggling with basic collaboration tools, so maybe pump the brakes on the existential dread and focus on getting your fundamentals right first.",
+    "date": "2026-10-05T09:54:39.252825+00:00"
+  },
+  {
+    "title": "NetApp Insight 2026: Can Novus and Keystone break the AI bottlenecks?",
+    "url": "https://www.itpro.com/cloud/cloud-storage/netapp-insight-2026-can-novus-and-keystone-break-the-ai-bottlenecks",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "We're back in Vegas as Ross Kelly talks us through all the news from NetApp Insight 2026",
+    "dwp_take": "NetApp announced Novus and Keystone at their Vegas conference, positioning both as solutions to tackle AI infrastructure bottlenecks that are currently slowing down enterprise deployments. This matters because data storage and management remain the unsexy but critical foundation that every AI initiative actually needs to function, and most organizations are still struggling with this unglamorous reality. Look, if your AI strategy falls apart because your storage can't keep up, all those fancy LLM conversations don't mean much, so NetApp is at least tackling the real problem instead of just selling you another chatbot.",
+    "date": "2026-10-05T09:54:43.276563+00:00"
   }
 ]
