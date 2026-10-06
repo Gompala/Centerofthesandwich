@@ -1,122 +1,5 @@
 [
   {
-    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
-    "dwp_take": "Anthropic disclosed in its IPO filing that it's hemorrhaging billions annually while scaling aggressively, plus casually mentioned that its AI could theoretically pose an existential threat to humanity. This matters because digital workplace leaders are actively deploying AI tools into their environments right now, and if the company building some of these systems is genuinely worried about existential risk, that's worth factoring into your vendor risk assessment. Apparently the business model is \"move fast and break things, or possibly break civilization,\" which is a bold strategy for a company asking people to trust it with their enterprise data.",
-    "date": "2026-09-29T09:22:50.389666+00:00"
-  },
-  {
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-    "dwp_take": "AI dominated Climate Week conversations this year, with data centers and AI infrastructure becoming central to climate tech discussions. Digital workplace leaders need to pay attention because this tension directly affects where enterprise tech investment flows and what infrastructure decisions get made around their tools and platforms. Here's the thing though: if you're still debating whether AI belongs at a climate conference in 2024, you've already missed the plot. The real conversation should be about building efficient systems, not pretending the technology doesn't exist.",
-    "date": "2026-09-29T09:22:54.322691+00:00"
-  },
-  {
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i",
-    "dwp_take": "Nvidia just released security tools designed to keep AI agents from going rogue and escaping their sandboxes, giving enterprises actual guardrails for their AI experiments. This matters because companies deploying AI agents in production are rightfully paranoid about uncontrolled behavior, and having vendor-backed containment options beats crossing your fingers and hoping for the best. Honestly, it's refreshing to see someone building fences before we need them, though I'd still trust but verify whatever Nvidia's definition of \"contained\" actually means in practice.",
-    "date": "2026-09-29T09:22:58.318148+00:00"
-  },
-  {
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "dwp_take": "Anthropic rolled out Sonnet 5.5, a faster and cheaper version of their mid-range Claude model that burns through fewer tokens. This matters because most workplace teams using Claude for content creation, analysis, and automation will suddenly get more bang for their buck, which means your AI budget might actually stretch further next year. Of course, the real test is whether it's actually faster in real work or just faster at telling you it's faster, so run your own tests before you bet the farm on it.",
-    "date": "2026-09-29T09:23:02.389650+00:00"
-  },
-  {
-    "title": "Try Google Drive Projects for fast, focused AI analysis",
-    "url": "https://www.computerworld.com/article/4219866/google-drive-projects-focused-ai-analysis-in-google-workspace.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Google Drive is the cloud platform for storing and organizing your Google Workspace files: documents, presentations, spreadsheets, and even media (images, audio, and video). If your Workspace account ",
-    "dwp_take": "Google added AI-powered project analysis capabilities to Google Drive, letting Workspace users with Gemini access prompt the AI to analyze and summarize their stored files directly within the platform. This matters because it reduces friction for knowledge workers who live in Drive and need quick insights without switching tools or copying content elsewhere. Here's the thing though: if your organization hasn't figured out its Gemini governance yet, you're about to have some very creative employees feeding proprietary data to Google's AI in ways your security team didn't anticipate.",
-    "date": "2026-09-29T09:23:08.007800+00:00"
-  },
-  {
-    "title": "How to reclaim your ambition",
-    "url": "https://www.fastcompany.com/91614141/how-to-reclaim-your-ambition?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Recent news stories have suggested that younger workers are opting out of work ambition. Coverage documents their frustration with a limiting job market, dehumanizing hiring processes, and the expecta",
-    "dwp_take": "Younger workers are scaling back career ambition due to real frustrations with hiring practices and hustle culture, but the media's relentless negative messaging is making things worse. Digital workplace leaders need to understand this distinction because blaming \"lazy Gen Z\" misses the actual design problems in how we recruit, onboard, and treat people. Here's the truth: if your workplace can't attract ambitious talent, the problem is probably your workplace, not the generation.",
-    "date": "2026-09-29T09:23:12.428562+00:00"
-  },
-  {
-    "title": "How to onboard a virtual teammate",
-    "url": "https://www.fastcompany.com/91604181/how-to-onboard-a-virtual-teammate-technology-ai-onboard-virtual-teammate?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Imagine going to a job board, making a hire for a chief of staff, and onboarding that new hire within a few minutes. That\u2019s the fantasy that artificial intelligence companies are making a reality with",
-    "dwp_take": "Optimizely released AI \"virtual teammates\" that can supposedly get up to speed and productive in minutes, positioning them as ready-to-work role-specific AI coworkers. This matters because it signals a real shift in how companies think about filling capability gaps, and digital workplace leaders need to understand these tools are now competing for budget that used to go to training programs and junior hires. Here's the thing though: I've watched a lot of \"ready in minutes\" solutions over three decades, and onboarding is never actually the hard part. Making someone actually useful on your team is.",
-    "date": "2026-09-29T09:23:16.698945+00:00"
-  },
-  {
-    "title": "eBay\u2019s CEO finds ideas through\u00a0constant feedback",
-    "url": "https://www.fastcompany.com/91612559/ebays-ceo-finds-ideas-through-constant-feedback?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-    "dwp_take": "eBay's CEO apparently runs regular feedback loops with employees to surface ideas and stay connected to what's actually happening on the ground. This matters because it's a reminder that the tools and platforms we build in digital workplaces only work if leaders actually use them to listen instead of just broadcast. The irony is that most companies have enterprise feedback systems gathering dust while their leaders still make decisions in information vacuums, so good on Jamie Iannone for doing the obvious thing.",
-    "date": "2026-09-29T09:23:20.569094+00:00"
-  },
-  {
-    "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
-    "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consor",
-    "dwp_take": "Meta and its tech giant peers are restructuring the Global Internet Forum to Counter Terrorism in ways that researchers say will reduce independent oversight of their content moderation efforts. This matters because digital workplace leaders depend on these forums to understand how platforms handle misinformation and extremism, especially when employees are working across those same tools. When the people watching the watchers start heading for the exits, it's usually not because they think things are heading in the right direction.",
-    "date": "2026-09-29T09:23:25.444646+00:00"
-  },
-  {
-    "title": "Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform",
-    "url": "https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Nvidia adds a Sentry hardware monitoring design to its AI agent safety platform. See what OpenShell offers now and what IT teams still need to verify. The post Nvidia Adds Hardware Monitoring Design t",
-    "dwp_take": "Nvidia just bolted hardware monitoring capabilities onto its AI agent safety platform, basically giving your systems a security guard that watches the machine itself, not just the software. For digital workplace teams, this matters because AI agents are moving into production environments fast, and you need visibility into whether they're doing what you actually asked them to do or just making expensive mistakes on your infrastructure. The irony is that we've spent thirty years trying to get business users to monitor their own behavior, and now we have to babysit the AI doing their jobs.",
-    "date": "2026-09-29T09:23:29.454156+00:00"
-  },
-  {
-    "title": "Truecaller Scam Checker Launches in India: How It Works",
-    "url": "https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Truecaller Scam Checker lets users check suspicious links, numbers, and messages for free as the company expands its fraud protection beyond caller ID. The post Truecaller Scam Checker Launches in Ind",
-    "dwp_take": "Truecaller launched a new Scam Checker feature in India that lets users verify suspicious links, phone numbers, and messages at no cost, expanding beyond their traditional caller ID blocking. This matters because digital workplace security is only as strong as employee awareness, and tools that help staff spot phishing attempts and fraud reduce breach risk at the source. Here's the thing though: a scam checker is just a band aid if your organization hasn't trained people to think critically about what they're clicking in the first place.",
-    "date": "2026-09-29T09:23:33.273837+00:00"
-  },
-  {
-    "title": "6 Best AI Meeting Note Takers for 2026: Fathom, Otter, Fireflies and More",
-    "url": "https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Compare six AI meeting note takers for 2026, including Fathom, Fireflies, Otter, Granola, Fellow, and Notta on pricing, free plans, and features. The post 6 Best AI Meeting Note Takers for 2026: Fatho",
-    "dwp_take": "TechRepublic rounded up six AI meeting note-taking tools, breaking down their pricing, free tiers, and feature sets for 2026. This matters because meeting transcription is now table stakes for any serious workplace tool stack, and picking the right one can genuinely save your team hours of admin work each week. Here's the thing though: most orgs will buy three of these tools, use one regularly, and abandon two after month two, so maybe just pick one and actually commit to it.",
-    "date": "2026-09-29T09:23:37.340494+00:00"
-  },
-  {
-    "title": "Get Secure Cloud Storage on a 2TB Lifetime Plan with Internxt for $100",
-    "url": "https://www.techrepublic.com/article/internxt-cloud-storage-lifetime-subscription-2tb-plan/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "This secure storage platform uses open source code, zero-knowledge file systems, and end-to-end encryption to keep your online data truly private. The post Get Secure Cloud Storage on a 2TB Lifetime P",
-    "dwp_take": "Internxt is selling 2TB of encrypted cloud storage for a one-time $100 payment instead of the usual subscription model. For digital workplace pros managing sensitive documents and client data, having an independent encrypted backup outside your corporate infrastructure is genuinely useful security hygiene. That said, I'd verify Internxt's actual track record before betting your client's confidential files on a lifetime deal from a company most of us have never heard of.",
-    "date": "2026-09-29T09:23:41.372090+00:00"
-  },
-  {
     "title": "OpenAI\u2019s latest features take direct aim at the app store model",
     "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
     "source": "TechCrunch",
@@ -853,5 +736,104 @@
     "excerpt": "We're back in Vegas as Ross Kelly talks us through all the news from NetApp Insight 2026",
     "dwp_take": "NetApp announced Novus and Keystone at their Vegas conference, positioning both as solutions to tackle AI infrastructure bottlenecks that are currently slowing down enterprise deployments. This matters because data storage and management remain the unsexy but critical foundation that every AI initiative actually needs to function, and most organizations are still struggling with this unglamorous reality. Look, if your AI strategy falls apart because your storage can't keep up, all those fancy LLM conversations don't mean much, so NetApp is at least tackling the real problem instead of just selling you another chatbot.",
     "date": "2026-10-05T09:54:43.276563+00:00"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI syste",
+    "dwp_take": "Reflection just released Beam, an open-weight AI model that promises to compete with Chinese alternatives while eating less compute for breakfast. This matters because enterprises are getting serious about running AI locally on their own data without shipping everything to the cloud, which means your workplace could finally own its knowledge instead of renting it from someone else. The irony is delicious: we spent twenty years consolidating everything to centralized platforms, and now everyone wants to bring it back home again.",
+    "date": "2026-10-06T09:41:08.278374+00:00"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "dwp_take": "Founders at TechCrunch Disrupt 2026 are making strategic bets on whether to build their products on open or closed AI platforms. This matters because your digital workplace tools, collaboration platforms, and automation solutions are increasingly built on one of these foundations, which directly affects vendor lock-in, customization options, and long-term costs. Here's the thing though: after thirty years watching tech cycles, I'd say most founders will choose whichever AI stack gets them funded first, then spend the next three years explaining why it was actually the right architectural decision all along.",
+    "date": "2026-10-06T09:41:12.254508+00:00"
+  },
+  {
+    "title": "Hack The Box\u2019s AI Range Enterprise Edition tests whether AI agents can do their jobs",
+    "url": "https://siliconangle.com/2026/10/06/hack-the-boxs-ai-range-enterprise-edition-tests-whether-ai-agents-can-do-their-jobs/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Cybersecurity training company Hack The Box Ltd. today introduced AI Range Enterprise Edition to let security teams test whether their own artificial intelligence agents can do the jobs they have been",
+    "dwp_take": "Hack The Box released AI Range Enterprise Edition, which lets security teams test whether their AI agents actually work before deploying them in production environments. This matters because most organizations are rushing AI agents into their digital workplaces without proper validation, which is basically like hiring someone without a background check. Finally someone's building a testing ground for this stuff, because letting untested AI loose on your network is how you end up explaining things to your board that nobody wants to explain.",
+    "date": "2026-10-06T09:41:16.997636+00:00"
+  },
+  {
+    "title": "Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments",
+    "url": "https://siliconangle.com/2026/10/05/utah-gives-startup-nolla-health-permission-to-start-issuing-ai-automated-prescriptions-for-acne-treatments/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Utah has become the first state in the U.S. to give an artificial intelligence startup permission to automate the approval of prescription refills with only minimal oversight from human physicians. In",
+    "dwp_take": "Utah just gave an AI startup the green light to automatically approve acne medication refills with minimal doctor involvement, making it the first state to allow this level of autonomous prescription automation. This matters to digital workplace folks because it signals how rapidly AI is moving into regulated industries, which means your organization's compliance, governance, and workflow systems need to evolve faster than they probably are right now. Personally, I'm waiting to see if the first major mistake happens before someone realizes that automating medical decisions without proper guardrails is different from automating expense reports.",
+    "date": "2026-10-06T09:41:20.832412+00:00"
+  },
+  {
+    "title": "Tech execs are getting wise about ROI from AI",
+    "url": "https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Most organizations have been largely unable to measure financial returns from AI, but analysts say new ways to calculate return on investment are emerging. \u201cThere\u2019s a delay between the development of ",
+    "dwp_take": "Tech executives are finally demanding proof that their AI investments actually make money instead of just assuming they will. This matters because digital workplace leaders have been under pressure to justify massive AI spending while struggling to show concrete ROI, and now they've got air cover to slow down and actually measure impact before dumping more budget into the next shiny thing. After three decades in this space, I can tell you that \"we're waiting for better metrics\" is infinitely preferable to \"we spent two million and have no idea what we got.\"",
+    "date": "2026-10-06T09:41:26.535221+00:00"
+  },
+  {
+    "title": "Emotionally intelligent people use 3 short phrases to stop getting defensive and strengthen their relationships",
+    "url": "https://www.fastcompany.com/91616673/emotionally-intelligent-people-use-3-short-phrases-stop-getting-defensive-strengthen-relationships?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "How do I handle the feeling of getting defensive? That\u2019s the question we discussed recently in my emotional intelligence community. A member (we\u2019ll call her Raven) shared how she noticed the same patt",
+    "dwp_take": "Someone shared a story about using emotional intelligence techniques to avoid defensive reactions at work by employing specific short phrases to reframe conversations. This matters because defensiveness tanks collaboration and feedback loops, which are the actual fuel of functional digital workplaces. Honestly, if people just acknowledged \"I hear you\" before launching into their mental defense brief, we'd solve half the communication problems I've watched sink teams for three decades.",
+    "date": "2026-10-06T09:41:30.378844+00:00"
+  },
+  {
+    "title": "United Airlines CEO Scott Kirby on the lessons he learned as a Texas trucker",
+    "url": "https://www.fastcompany.com/91599094/united-airlines-ceo-scott-kirby-on-the-lessons-he-learned-as-a-texas-trucker-and-pentagon-analyst-united-airlines-ceo-ceo-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "I\u2019m going to cheat a little because there are actually two \u201cfirst jobs\u201d that taught me valuable leadership lessons that I\u2019ve carried with me in my time at United: The most valuable gift you can offer ",
+    "dwp_take": "United's CEO credits his teenage trucking job with teaching him that giving people your time and making them feel valued are the core of leadership. This matters to digital workplace pros because remote work and async communication have made us forget that presence, attention, and genuine human connection still drive engagement and retention. Turns out you don't need AI-powered employee experience platforms to remember that people care more about being seen than being surveilled, which is refreshingly low-tech advice from a guy running a massive airline.",
+    "date": "2026-10-06T09:41:34.221737+00:00"
+  },
+  {
+    "title": "Nothing Headphone (1) Pro vs AirPods Max 2: Which Should You Buy?",
+    "url": "https://www.techrepublic.com/article/news-nothing-headphone-1-pro-vs-airpods-max-2/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Nothing's Headphone (1) Pro costs $150 less and offers more audio flexibility, while AirPods Max 2 deliver stronger ANC and deeper Apple integration. The post Nothing Headphone (1) Pro vs AirPods Max ",
+    "dwp_take": "Nothing's new Headphone (1) Pro undercuts Apple's AirPods Max 2 by $150 while offering superior audio customization, though the Max 2 wins on noise cancellation and ecosystem lock-in. For digital workplace professionals doing video calls and focus work, this matters because choosing the right headphones affects meeting quality, comfort during long days, and how well you integrate with your organization's tech stack. Honestly, if you're not already knee-deep in Apple's ecosystem, the Nothing headphones are the smarter buy, and your IT budget will thank you for not dropping premium money on features you don't need.",
+    "date": "2026-10-06T09:41:40.735445+00:00"
+  },
+  {
+    "title": "St. Lucie County Finds Unpermitted Flock Cameras, Raising Privacy Concerns",
+    "url": "https://www.techrepublic.com/article/news-st-lucie-county-unpermitted-flock-cameras/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "St. Lucie County found 14 unpermitted Flock cameras, with 11 publicly unclaimed, raising questions about ownership, data access, and device oversight. The post St. Lucie County Finds Unpermitted Flock",
+    "dwp_take": "St. Lucie County discovered 14 surveillance cameras installed without proper authorization, with 11 of them lacking any documented ownership or accountability. This matters because it highlights a critical gap in how organizations manage hardware inventory and access controls, something that should keep IT and security teams up at night. If a local government can lose track of multiple cameras, imagine what else is collecting data in your workplace while nobody's paying attention.",
+    "date": "2026-10-06T09:41:44.406802+00:00"
+  },
+  {
+    "title": "DJI Osmo 360 II vs Insta360 X6: Which 360 Camera Should You Buy?",
+    "url": "https://www.techrepublic.com/article/news-dji-osmo-360-ii-vs-insta360-x6/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The Insta360 X6 is the better all-rounder for image quality and endurance, while DJI\u2019s cheaper Osmo 360 II offers 8K/60fps and far more built-in storage. The post DJI Osmo 360 II vs Insta360 X6: Which",
+    "dwp_take": "TechRepublic ran a comparison of two 360-degree cameras, finding that the Insta360 X6 delivers better overall image quality and durability while the DJI Osmo 360 II undercuts it on price and offers superior frame rates plus more storage. This matters to digital workplace professionals because 360 cameras are becoming standard tools for immersive training, virtual tours, and hybrid meeting documentation. Honestly, if your organization is still debating which 360 camera to buy in 2024, you've probably already missed the window where this stuff actually moved the needle on employee engagement.",
+    "date": "2026-10-06T09:41:48.499750+00:00"
+  },
+  {
+    "title": "Fitbit Edge Leak: What We Know About Google\u2019s Next Fitness Tracker",
+    "url": "https://www.techrepublic.com/article/news-fitbit-edge-leak-features-price-release/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "A Fitbit Edge leak points to seven-day battery life, GPS, notifications, Google apps, and iOS support. Here\u2019s what remains unconfirmed. The post Fitbit Edge Leak: What We Know About Google\u2019s Next Fitn",
+    "dwp_take": "Google's apparently cooking up a new Fitbit called Edge with a week-long battery, GPS, notifications, and cross-platform support across both Android and iOS. For digital workplace folks, this matters because wearables are quietly becoming part of our work infrastructure, whether your company tracks wellness programs or just assumes everyone's drowning in Slack notifications. Honestly, if Google finally nails the battery life on a fitness tracker, it'll be less impressive than them figuring out how to make a single notification system that doesn't drive us all bonkers.",
+    "date": "2026-10-06T09:41:52.372632+00:00"
   }
 ]

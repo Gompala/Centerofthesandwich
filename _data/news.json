@@ -1,82 +1,111 @@
 {
-  "generated": "2026-10-05T09:54:43.276665+00:00",
+  "generated": "2026-10-06T09:41:52.372755+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Sam Altman says people need to accept \u2018some bad things\u2019 are going to happen if they want AI",
-        "url": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
-        "source": "SiliconAngle",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI Group PBC Chief Executive Sam Altman insists that the security risks of artificial intelligence need to be taken seriously. But unlike his counterpart Dario Amodei of Anthropic PBC, he believes",
-        "dwp_take": "Sam Altman is basically saying we need to accept collateral damage as the price of AI progress. For digital workplace leaders, this is the moment to stop waiting for perfect AI governance and start building your own guardrails now, because apparently safety is something you negotiate later. It's like OpenAI's saying \"trust us, it'll probably be fine\" while you're supposed to implement this thing in your company tomorrow.",
-        "date": "2026-10-05T09:54:09.532329+00:00"
+        "excerpt": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI syste",
+        "dwp_take": "Reflection just released Beam, an open-weight AI model that promises to compete with Chinese alternatives while eating less compute for breakfast. This matters because enterprises are getting serious about running AI locally on their own data without shipping everything to the cloud, which means your workplace could finally own its knowledge instead of renting it from someone else. The irony is delicious: we spent twenty years consolidating everything to centralized platforms, and now everyone wants to bring it back home again.",
+        "date": "2026-10-06T09:41:08.278374+00:00"
       },
       {
-        "title": "Trump launches Super Intelligence Force with Jay Clayton as AI czar",
-        "url": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/",
-        "source": "SiliconAngle",
+        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "President Donald Trump today put Director of National Intelligence Jay Clayton in charge of a new federal artificial intelligence task force, making him the administration\u2019s second AI czar. Trump reve",
-        "dwp_take": "Trump has appointed Jay Clayton, the Director of National Intelligence, to lead a new federal AI task force called the \"Super Intelligence Force,\" making him the second AI czar in this administration. This matters to digital workplace pros because government AI policy directly shapes what enterprise tools get approved, funded, and mandated across corporate America. Honestly, if we're on our second AI czar before anyone's figured out what the first one was supposed to do, that tells you everything you need to know about how seriously Washington takes actual digital strategy.",
-        "date": "2026-10-05T09:54:13.266577+00:00"
+        "excerpt": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+        "dwp_take": "Founders at TechCrunch Disrupt 2026 are making strategic bets on whether to build their products on open or closed AI platforms. This matters because your digital workplace tools, collaboration platforms, and automation solutions are increasingly built on one of these foundations, which directly affects vendor lock-in, customization options, and long-term costs. Here's the thing though: after thirty years watching tech cycles, I'd say most founders will choose whichever AI stack gets them funded first, then spend the next three years explaining why it was actually the right architectural decision all along.",
+        "date": "2026-10-06T09:41:12.254508+00:00"
       },
       {
-        "title": "What to expect at SailPoint\u2019s Navigate event: Join theCUBE Oct. 6\u20137",
-        "url": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+        "title": "Hack The Box\u2019s AI Range Enterprise Edition tests whether AI agents can do their jobs",
+        "url": "https://siliconangle.com/2026/10/06/hack-the-boxs-ai-range-enterprise-edition-tests-whether-ai-agents-can-do-their-jobs/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Agentic artificial intelligence is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behal",
-        "dwp_take": "SailPoint is hosting its Navigate event October 6-7 to dig into how agentic AI is reshaping identity and access management, since AI agents now request and use permissions just like humans do. This matters to digital workplace pros because managing access just got exponentially more complex: your governance frameworks now need to handle autonomous AI actors alongside traditional users and systems. Here's the honest truth: if your current identity strategy still treats access as a human problem, you're already behind, and SailPoint knows it.",
-        "date": "2026-10-05T09:54:17.157625+00:00"
+        "excerpt": "Cybersecurity training company Hack The Box Ltd. today introduced AI Range Enterprise Edition to let security teams test whether their own artificial intelligence agents can do the jobs they have been",
+        "dwp_take": "Hack The Box released AI Range Enterprise Edition, which lets security teams test whether their AI agents actually work before deploying them in production environments. This matters because most organizations are rushing AI agents into their digital workplaces without proper validation, which is basically like hiring someone without a background check. Finally someone's building a testing ground for this stuff, because letting untested AI loose on your network is how you end up explaining things to your board that nobody wants to explain.",
+        "date": "2026-10-06T09:41:16.997636+00:00"
       },
       {
-        "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
-        "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+        "title": "Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments",
+        "url": "https://siliconangle.com/2026/10/05/utah-gives-startup-nolla-health-permission-to-start-issuing-ai-automated-prescriptions-for-acne-treatments/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "FieldAI Inc., a startup that develops artificial intelligence models for robots, is reportedly seeking $700 million in funding. A source told Business Insider today that the round could value the comp",
-        "dwp_take": "FieldAI, a robotics AI startup, is raising $700 million at a $10 billion valuation, up from $2 billion just months earlier. This matters because AI-powered automation is creeping into workplace operations, from document processing to facilities management, and digital workplace leaders need to understand how these tools will reshape their infrastructure and workforce planning. The valuation jump is either a sign of genuine breakthrough technology or a reminder that not every AI company throwing around billions will actually solve your real workplace problems.",
-        "date": "2026-10-05T09:54:20.997199+00:00"
+        "excerpt": "Utah has become the first state in the U.S. to give an artificial intelligence startup permission to automate the approval of prescription refills with only minimal oversight from human physicians. In",
+        "dwp_take": "Utah just gave an AI startup the green light to automatically approve acne medication refills with minimal doctor involvement, making it the first state to allow this level of autonomous prescription automation. This matters to digital workplace folks because it signals how rapidly AI is moving into regulated industries, which means your organization's compliance, governance, and workflow systems need to evolve faster than they probably are right now. Personally, I'm waiting to see if the first major mistake happens before someone realizes that automating medical decisions without proper guardrails is different from automating expense reports.",
+        "date": "2026-10-06T09:41:20.832412+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [],
+    "tools-tech": [
+      {
+        "title": "Tech execs are getting wise about ROI from AI",
+        "url": "https://www.computerworld.com/article/4230147/tech-execs-are-getting-wise-about-roi-from-ai.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Most organizations have been largely unable to measure financial returns from AI, but analysts say new ways to calculate return on investment are emerging. \u201cThere\u2019s a delay between the development of ",
+        "dwp_take": "Tech executives are finally demanding proof that their AI investments actually make money instead of just assuming they will. This matters because digital workplace leaders have been under pressure to justify massive AI spending while struggling to show concrete ROI, and now they've got air cover to slow down and actually measure impact before dumping more budget into the next shiny thing. After three decades in this space, I can tell you that \"we're waiting for better metrics\" is infinitely preferable to \"we spent two million and have no idea what we got.\"",
+        "date": "2026-10-06T09:41:26.535221+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "Emotionally intelligent people use 3 short phrases to stop getting defensive and strengthen their relationships",
+        "url": "https://www.fastcompany.com/91616673/emotionally-intelligent-people-use-3-short-phrases-stop-getting-defensive-strengthen-relationships?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "How do I handle the feeling of getting defensive? That\u2019s the question we discussed recently in my emotional intelligence community. A member (we\u2019ll call her Raven) shared how she noticed the same patt",
+        "dwp_take": "Someone shared a story about using emotional intelligence techniques to avoid defensive reactions at work by employing specific short phrases to reframe conversations. This matters because defensiveness tanks collaboration and feedback loops, which are the actual fuel of functional digital workplaces. Honestly, if people just acknowledged \"I hear you\" before launching into their mental defense brief, we'd solve half the communication problems I've watched sink teams for three decades.",
+        "date": "2026-10-06T09:41:30.378844+00:00"
+      },
+      {
+        "title": "United Airlines CEO Scott Kirby on the lessons he learned as a Texas trucker",
+        "url": "https://www.fastcompany.com/91599094/united-airlines-ceo-scott-kirby-on-the-lessons-he-learned-as-a-texas-trucker-and-pentagon-analyst-united-airlines-ceo-ceo-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "I\u2019m going to cheat a little because there are actually two \u201cfirst jobs\u201d that taught me valuable leadership lessons that I\u2019ve carried with me in my time at United: The most valuable gift you can offer ",
+        "dwp_take": "United's CEO credits his teenage trucking job with teaching him that giving people your time and making them feel valued are the core of leadership. This matters to digital workplace pros because remote work and async communication have made us forget that presence, attention, and genuine human connection still drive engagement and retention. Turns out you don't need AI-powered employee experience platforms to remember that people care more about being seen than being surveilled, which is refreshingly low-tech advice from a guy running a massive airline.",
+        "date": "2026-10-06T09:41:34.221737+00:00"
+      }
+    ],
     "industry-news": [
       {
-        "title": "AMD Launches Ross AI Assistant for Embedded Development",
-        "url": "https://www.techrepublic.com/article/news-amd-ross-ai-embedded-development/",
+        "title": "Nothing Headphone (1) Pro vs AirPods Max 2: Which Should You Buy?",
+        "url": "https://www.techrepublic.com/article/news-nothing-headphone-1-pro-vs-airpods-max-2/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "AMD Ross helps engineers design, optimize, and debug embedded systems. Learn about supported tools, licensing requirements, and deployment options. The post AMD Launches Ross AI Assistant for Embedded",
-        "dwp_take": "AMD just released Ross, an AI assistant specifically built to help engineers with embedded system design, optimization, and debugging work. This matters because digital workplace teams managing technical infrastructure and developer tools now have another AI option to evaluate for improving engineering productivity and reducing time spent on routine troubleshooting tasks. Honestly though, we've got so many AI assistants launching these days that the real question isn't whether Ross exists, it's whether your engineers will actually use it or just stick with whatever they already know.",
-        "date": "2026-10-05T09:54:31.217727+00:00"
+        "excerpt": "Nothing's Headphone (1) Pro costs $150 less and offers more audio flexibility, while AirPods Max 2 deliver stronger ANC and deeper Apple integration. The post Nothing Headphone (1) Pro vs AirPods Max ",
+        "dwp_take": "Nothing's new Headphone (1) Pro undercuts Apple's AirPods Max 2 by $150 while offering superior audio customization, though the Max 2 wins on noise cancellation and ecosystem lock-in. For digital workplace professionals doing video calls and focus work, this matters because choosing the right headphones affects meeting quality, comfort during long days, and how well you integrate with your organization's tech stack. Honestly, if you're not already knee-deep in Apple's ecosystem, the Nothing headphones are the smarter buy, and your IT budget will thank you for not dropping premium money on features you don't need.",
+        "date": "2026-10-06T09:41:40.735445+00:00"
       },
       {
-        "title": "Windows 11 26H2 Update: Which PCs Get the Enablement Package",
-        "url": "https://www.techrepublic.com/article/news-windows-11-26h2-upgrade/",
+        "title": "St. Lucie County Finds Unpermitted Flock Cameras, Raising Privacy Concerns",
+        "url": "https://www.techrepublic.com/article/news-st-lucie-county-unpermitted-flock-cameras/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Windows 11 26H2 brings a fast enablement-package upgrade to 24H2 and 25H2 PCs, while 26H1 devices remain on a separate path. The post Windows 11 26H2 Update: Which PCs Get the Enablement Package appea",
-        "dwp_take": "Microsoft released Windows 11 26H2 as an enablement package that updates certain PC versions while leaving others on their own upgrade path. This matters because it creates yet another fragmentation layer in your fleet management, meaning your IT team now needs to track which devices get which version and when they'll actually get it. After three decades watching Microsoft's versioning strategy, I can confirm this is basically them playing 4D chess while the rest of us are still figuring out checkers.",
-        "date": "2026-10-05T09:54:34.975203+00:00"
+        "excerpt": "St. Lucie County found 14 unpermitted Flock cameras, with 11 publicly unclaimed, raising questions about ownership, data access, and device oversight. The post St. Lucie County Finds Unpermitted Flock",
+        "dwp_take": "St. Lucie County discovered 14 surveillance cameras installed without proper authorization, with 11 of them lacking any documented ownership or accountability. This matters because it highlights a critical gap in how organizations manage hardware inventory and access controls, something that should keep IT and security teams up at night. If a local government can lose track of multiple cameras, imagine what else is collecting data in your workplace while nobody's paying attention.",
+        "date": "2026-10-06T09:41:44.406802+00:00"
       },
       {
-        "title": "Snowflake urges companies to embrace the era of the agentic enterprise",
-        "url": "https://www.itpro.com/technology/artificial-intelligence/standing-still-is-riskier-than-doing-nothing-when-it-comes-to-ai-snowflake-urges-companies-to-embrace-the-era-of-the-agentic-enterprise",
-        "source": "ITPro",
+        "title": "DJI Osmo 360 II vs Insta360 X6: Which 360 Camera Should You Buy?",
+        "url": "https://www.techrepublic.com/article/news-dji-osmo-360-ii-vs-insta360-x6/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The pace of change is unrelenting, so doing nothing is no longer an option, the AI data firm told attendees at a recent event in London\u2026",
-        "dwp_take": "Snowflake is telling companies they need to get serious about AI agents handling enterprise tasks or risk getting left behind. This matters to digital workplace folks because autonomous agents are going to fundamentally change how work gets done, who does it, and what skills actually matter in an office. Here's the thing though: every vendor says \"embrace change or die,\" and most companies are still struggling with basic collaboration tools, so maybe pump the brakes on the existential dread and focus on getting your fundamentals right first.",
-        "date": "2026-10-05T09:54:39.252825+00:00"
+        "excerpt": "The Insta360 X6 is the better all-rounder for image quality and endurance, while DJI\u2019s cheaper Osmo 360 II offers 8K/60fps and far more built-in storage. The post DJI Osmo 360 II vs Insta360 X6: Which",
+        "dwp_take": "TechRepublic ran a comparison of two 360-degree cameras, finding that the Insta360 X6 delivers better overall image quality and durability while the DJI Osmo 360 II undercuts it on price and offers superior frame rates plus more storage. This matters to digital workplace professionals because 360 cameras are becoming standard tools for immersive training, virtual tours, and hybrid meeting documentation. Honestly, if your organization is still debating which 360 camera to buy in 2024, you've probably already missed the window where this stuff actually moved the needle on employee engagement.",
+        "date": "2026-10-06T09:41:48.499750+00:00"
       },
       {
-        "title": "NetApp Insight 2026: Can Novus and Keystone break the AI bottlenecks?",
-        "url": "https://www.itpro.com/cloud/cloud-storage/netapp-insight-2026-can-novus-and-keystone-break-the-ai-bottlenecks",
-        "source": "ITPro",
+        "title": "Fitbit Edge Leak: What We Know About Google\u2019s Next Fitness Tracker",
+        "url": "https://www.techrepublic.com/article/news-fitbit-edge-leak-features-price-release/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "We're back in Vegas as Ross Kelly talks us through all the news from NetApp Insight 2026",
-        "dwp_take": "NetApp announced Novus and Keystone at their Vegas conference, positioning both as solutions to tackle AI infrastructure bottlenecks that are currently slowing down enterprise deployments. This matters because data storage and management remain the unsexy but critical foundation that every AI initiative actually needs to function, and most organizations are still struggling with this unglamorous reality. Look, if your AI strategy falls apart because your storage can't keep up, all those fancy LLM conversations don't mean much, so NetApp is at least tackling the real problem instead of just selling you another chatbot.",
-        "date": "2026-10-05T09:54:43.276563+00:00"
+        "excerpt": "A Fitbit Edge leak points to seven-day battery life, GPS, notifications, Google apps, and iOS support. Here\u2019s what remains unconfirmed. The post Fitbit Edge Leak: What We Know About Google\u2019s Next Fitn",
+        "dwp_take": "Google's apparently cooking up a new Fitbit called Edge with a week-long battery, GPS, notifications, and cross-platform support across both Android and iOS. For digital workplace folks, this matters because wearables are quietly becoming part of our work infrastructure, whether your company tracks wellness programs or just assumes everyone's drowning in Slack notifications. Honestly, if Google finally nails the battery life on a fitness tracker, it'll be less impressive than them figuring out how to make a single notification system that doesn't drive us all bonkers.",
+        "date": "2026-10-06T09:41:52.372632+00:00"
       }
     ]
   }
