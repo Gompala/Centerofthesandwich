@@ -1,140 +1,5 @@
 [
   {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "dwp_take": "OpenAI fired three safety researchers for mishandling sensitive internal information following an investigation. This matters because it signals how AI companies are tightening control over who accesses what data, which will inevitably shape workplace policies around information governance and access controls across the sector. Here's the thing though: when the organization building the systems supposed to keep AI safe can't keep its own researchers in line, it makes you wonder who's actually minding the store.",
-    "date": "2026-10-02T09:14:56.899748+00:00"
-  },
-  {
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "dwp_take": "Photon just raised 4.5 million dollars to build AI agents that live in your messaging apps instead of requiring you to download yet another standalone app. For digital workplace professionals, this matters because it signals a real shift in how organizations might deliver employee tools, services, and automation without the deployment and update headaches of traditional apps. Honestly, after three decades watching companies struggle to get people to use their internal apps, I'm cautiously optimistic about anything that reduces friction, though I'll believe it when I see actual enterprise adoption.",
-    "date": "2026-10-02T09:15:00.639286+00:00"
-  },
-  {
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "dwp_take": "Legato, a hearing tech startup, just launched AI-powered glasses designed to make hearing assistance more affordable and less socially awkward than traditional hearing aids. This matters to digital workplace pros because accessibility tools that actually get used are the difference between inclusive workplaces and well-intentioned policies nobody touches. Look, if we can finally kill the stigma around hearing aids by disguising them as something people already want to wear, we've solved a problem that's been sitting on the shelf for twenty years.",
-    "date": "2026-10-02T09:15:04.433620+00:00"
-  },
-  {
-    "title": "Microsoft targets ultra-realistic voice agents with its first streaming transcription model",
-    "url": "https://siliconangle.com/2026/10/01/microsoft-targets-ultra-realistic-voice-agents-with-its-first-streaming-transcription-model/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft Corp. today expanded its MAI artificial intelligence model family with its first streaming transcription model, debuting alongside two others focused on text-to-speech. They\u2019re designed for ",
-    "dwp_take": "Microsoft just released a streaming transcription model that lets voice agents understand and respond to people in real time, without the lag that used to plague voice interactions. For digital workplace folks, this matters because it could finally make voice-based collaboration tools feel natural instead of awkward, which means remote teams might actually adopt them instead of defaulting to text and video. Here's the thing though: we've been hearing \"realistic voice agents\" promises for years, and most of them still feel like talking to an automaton at a call center, so I'll believe it when I see it working smoothly in actual workplace situations.",
-    "date": "2026-10-02T09:15:09.963990+00:00"
-  },
-  {
-    "title": "Who owns AI risk at work? Business and tech leaders can\u2019t agree, PwC survey finds",
-    "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
-    "dwp_take": "PwC surveyed business and tech leaders and found they can't agree on who should be responsible for managing AI risk in their organizations. This matters because without clear ownership, AI implementation becomes a scattered mess where everyone blames someone else when things go wrong, and critical safeguards fall through the cracks. Here's the thing: companies don't need another chief officer with a fancy title. They need to assign accountability to actual humans with real consequences, whether that's the CTO, legal, or whoever's already got skin in the game.",
-    "date": "2026-10-02T09:15:14.060003+00:00"
-  },
-  {
-    "title": "AI could boost software engineer productivity by 32.6%",
-    "url": "https://www.computerworld.com/article/4228857/ai-could-boost-software-engineer-productivity-by-32-6-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Tools such as Anthropic Claude Code or OpenAI Codex have changed the face of software development, and all the signs are that this investment is set to increase further. But is paying a monthly subscr",
-    "dwp_take": "A new study suggests AI coding tools could boost software engineer productivity by about a third, while companies wrestle with subscription costs and ROI uncertainty. This matters because digital workplaces depend on efficient development cycles, and if these tools actually deliver, they could reshape how teams build internal platforms and custom solutions. Here's the thing though: a 32.6% productivity bump sounds great until you realize you're probably still paying the same salary plus $20 a month per seat, and you'll need to retrain people who've been doing it the old way for twenty years.",
-    "date": "2026-10-02T09:15:19.404006+00:00"
-  },
-  {
-    "title": "Omnissa delivers a peek into the benefits of breaking through enterprise data silos",
-    "url": "https://www.computerworld.com/article/4229789/omnissa-delivers-a-peek-into-the-benefits-of-breaking-through-enterprise-data-silos.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "When Omnissa this week rolled out a new AI governance authority product, Elara, in beta, it delivered a glimpse into the potential of having visibility between the typical enterprise\u2019s data silos, whe",
-    "dwp_take": "Omnissa launched Elara, an AI governance product in beta, designed to give IT and security leaders visibility across fragmented enterprise data systems that typically operate in isolation. This matters because most organizations are drowning in disconnected data across departments and regions, making it nearly impossible to govern AI responsibly or understand what's actually happening in your digital workplace. Finally, someone's building a tool to solve the \"we have no idea what we're doing with AI\" problem that keeps CIOs awake at night, though we'll believe it works when we see it in production.",
-    "date": "2026-10-02T09:15:23.343866+00:00"
-  },
-  {
-    "title": "Memory squeeze set to tighten through 2028, Micron says",
-    "url": "https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The global memory shortage that has driven up the cost of servers, storage and PCs through 2026 will get worse in 2027 and 2028, according to memory maker Micron Technology. \u201cWe expect memory and stor",
-    "dwp_take": "Micron is warning that memory and storage shortages will intensify through 2028, making hardware increasingly expensive and hard to source. For digital workplace teams, this means your infrastructure refresh budgets are about to get a serious workout, and that server upgrade you've been delaying becomes a now-or-never decision. Better start having those budget conversations today, because in two years you'll be explaining to leadership why we should have bought that stuff when prices were merely terrible instead of catastrophic.",
-    "date": "2026-10-02T09:15:27.143487+00:00"
-  },
-  {
-    "title": "Workers are \u2018calendar stalking\u2019 their bosses for more face time",
-    "url": "https://www.fastcompany.com/91616791/workers-are-calendar-stalking-their-bosses-for-more-face-time?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Amid growing pressure to return to the office, hybrid workers are developing sophisticated ways to optimize (and minimize) their time at work. First came \u201ccoffee badging\u201d\u2014where a hybrid or remote empl",
-    "dwp_take": "Employees are checking their bosses' calendars to figure out when to show up at the office, basically reverse-engineering RTO policies on the fly. This matters because it reveals the fundamental trust breakdown between management and workers when companies push return-to-office mandates without transparency about actual expectations. Here's the thing: if your workers need to become scheduling detectives to know when they're actually required to work, you've already lost the plot on culture and communication.",
-    "date": "2026-10-02T09:15:31.278513+00:00"
-  },
-  {
-    "title": "Forget flexibility. Working parents need predictability",
-    "url": "https://www.fastcompany.com/91612775/forget-flexibility-working-parents-need-predictability?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "For years, we have believed that flexibility is the key to survival for working parents. We advocate for flexible hours, flexible PTO, flexible locations. And the ability to log on from the pediatrici",
-    "dwp_take": "Microsoft's latest research shows that working parents actually crave predictability over flexibility, finding that the ability to know their schedule in advance matters more than having the option to work anywhere anytime. This matters because most digital workplace strategies over the past decade have been built around maximum flexibility, which paradoxically creates chaos for people juggling school calendars and childcare. The real takeaway is that we've spent years offering people keys to invisible offices while they actually needed someone to just tell them when they'd be free.",
-    "date": "2026-10-02T09:15:35.395800+00:00"
-  },
-  {
-    "title": "Trump\u2019s \u2018Morally Binding\u2019 AI \u2018Accord,\u2019 the Rise of AI Agents, and Extremists on the Ballot",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "This week on \u201cUncanny Valley,\u201d we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-    "dwp_take": "A bunch of tech executives signed a voluntary AI safety agreement that Trump is calling \"morally binding,\" which is a bit like saying a handshake contract actually means something. For digital workplace folks, this matters because AI agents are moving from research labs into everyday tools your teams will actually use, and there's still no real governance framework to catch problems before they cascade through your systems. The whole \"morally binding\" angle tells you everything you need to know about AI regulation right now: it's vibes-based policy, and that should keep you up at night when you're rolling out these tools to your workforce.",
-    "date": "2026-10-02T09:15:40.705634+00:00"
-  },
-  {
-    "title": "Google Tests Publisher Payments as AI Search Cuts Into Website Traffic",
-    "url": "https://www.techrepublic.com/article/news-google-publisher-payments-ai-search/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google is testing payments to publishers whose content contributes to AI search answers, but early payouts vary widely across participating websites. The post Google Tests Publisher Payments as AI Sea",
-    "dwp_take": "Google is experimenting with paying publishers for content that feeds its AI search results, though the actual payments are all over the map depending on which site you're talking about. This matters to digital workplace pros because it signals the content economy is shifting under our feet, and your organization's publishing strategy might need rethinking if you're relying on organic search traffic. Honestly, it feels like Google realized it broke something it couldn't ignore and is now handing out pocket change while keeping most of the value, which is pretty on brand for them.",
-    "date": "2026-10-02T09:15:44.669981+00:00"
-  },
-  {
-    "title": "Metaview Raises $60M for AI Agents That Source, Screen and Schedule Candidates",
-    "url": "https://www.techrepublic.com/article/news-metaview-60m-ai-recruiting-agents/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Metaview raised $60 million to expand its AI recruiting platform and autonomous agent fillmore across sourcing, screening and hiring workflows. The post Metaview Raises $60M for AI Agents That Source,",
-    "dwp_take": "Metaview just grabbed $60 million to build AI agents that handle the full recruiting pipeline from sourcing candidates through scheduling interviews. This matters because your HR and recruiting teams are about to feel the automation pressure across hiring workflows, which means digital workplace leaders need to think hard about how AI touches your talent acquisition tech stack and employee data. Look, if we're automating away the grunt work in recruiting, maybe we can finally get hiring managers to actually read candidate profiles instead of just rubber-stamping decisions.",
-    "date": "2026-10-02T09:15:48.559283+00:00"
-  },
-  {
-    "title": "Google DeepMind Adds Watermarks to AI-Designed Proteins Without Breaking Them",
-    "url": "https://www.techrepublic.com/article/news-google-synthid-bio-ai-protein-watermark/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google DeepMind\u2019s SynthID Bio embeds detectable watermarks in AI-designed proteins while preserving their function in early laboratory tests. The post Google DeepMind Adds Watermarks to AI-Designed Pr",
-    "dwp_take": "Google DeepMind developed a watermarking system called SynthID Bio that embeds hidden identifiers into AI-generated proteins without affecting how those proteins actually work. For digital workplace folks building AI solutions, this matters because it proves you can add provenance tracking and IP protection directly into AI outputs without sacrificing quality or performance. Honestly, this feels like the first genuinely useful answer to \"how do we know who made this AI thing,\" which beats every other solution I've seen pitched at conferences over the past five years.",
-    "date": "2026-10-02T09:15:52.465655+00:00"
-  },
-  {
-    "title": "Apple Smart-Home Hub Reportedly Set for Oct. 13 Launch With New HomePod Mini",
-    "url": "https://www.techrepublic.com/article/news-apple-smart-home-hub-october-13-homepod-mini/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple reportedly plans to launch a Siri-powered smart-home hub on Oct. 13 alongside refreshed HomePod mini and Apple TV models. The post Apple Smart-Home Hub Reportedly Set for Oct. 13 Launch With New",
-    "dwp_take": "Apple is launching a new Siri-powered smart-home hub on October 13 along with updated HomePod mini and Apple TV devices. For digital workplace folks, this matters because voice-controlled smart home integration is creeping into hybrid work setups, especially as employees blur the lines between home office and living space. Here's the thing: unless this thing can schedule my meetings and actually understand my mumbled requests before 9 AM, most of us will just use it to play music while pretending to work.",
-    "date": "2026-10-02T09:15:56.161769+00:00"
-  },
-  {
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
     "source": "TechCrunch",
@@ -835,5 +700,149 @@
     "excerpt": "Apple and LG are reportedly developing smart home locks, cameras and other accessories. Here\u2019s what buyers should know about compatibility and timing. The post Apple and LG Reportedly Develop Smart Ho",
     "dwp_take": "Apple and LG are cooking up smart home locks, cameras, and accessories, presumably because we didn't have enough companies trying to monetize our front doors. This matters to digital workplace folks because device proliferation and compatibility headaches are creeping into the office as remote workers blur the line between home and work infrastructure. Honestly, I'll believe it when I see it working seamlessly with everything else, because right now smart home ecosystems have about as much interoperability as a corporate org chart.",
     "date": "2026-10-08T09:50:11.105838+00:00"
+  },
+  {
+    "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
+    "dwp_take": "Someone built an interactive website letting you explore Elizabeth Holmes' actual emails, messages, and documents from her trial records, giving you a weird firsthand look at how the Theranos founder actually communicated. This matters because it's a masterclass in how poor internal communication, opacity, and message control can signal deeper problems in an organization, which is exactly what digital workplace leaders need to spot early. Honestly, it's the most entertaining cautionary tale about workplace culture I've seen all year, and if your company communication looks anything like Holmes' desk, you've got bigger problems than your Slack integration.",
+    "date": "2026-10-09T09:53:41.769975+00:00"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safet",
+    "dwp_take": "OpenAI fired three safety researchers who then publicly challenged the company's misconduct allegations, arguing their departures will discourage others from raising concerns about AI risks. This matters because it's a textbook example of how internal dissent gets crushed in tech, and that same dynamic plays out in corporate digital workplaces every single day when people get axed for speaking up about problems. The real kicker is that OpenAI supposedly cares about AI safety, yet they're demonstrating that safety culture collapses the moment someone disagrees with leadership.",
+    "date": "2026-10-09T09:53:45.635540+00:00"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+    "dwp_take": "Ben Affleck sold an AI filmmaking startup to Netflix and apparently knows his transformers from his neural networks, which has the internet convinced he's secretly a technologist. This matters because it shows how AI literacy is becoming a basic expectation even for people outside tech, and workplace leaders need to stop assuming they can delegate AI understanding to the IT department. Look, if Batman can explain transformer architectures at dinner parties, your organization has no excuse for keeping AI as a mysterious black box that only specialists get to understand.",
+    "date": "2026-10-09T09:53:49.467423+00:00"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o",
+    "dwp_take": "Google is rolling out agentic AI capabilities to Gemini, giving it the ability to plan tasks, execute work across business systems, and delegate to specialized subagents with its own workplace identity and email address. This matters to digital workplace pros because we're about to see AI actually doing work instead of just answering questions, which fundamentally changes how we think about automation, governance, and what employees actually do all day. Giving an AI its own email address is either the future of work or the setup for the world's most annoying Slack bot, and honestly I'm still figuring out which one keeps me up at night.",
+    "date": "2026-10-09T09:53:53.259893+00:00"
+  },
+  {
+    "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+    "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+    "dwp_take": "Microsoft is cutting OneDrive storage from 1 TB per person to just 100 GB on shared family plans, forcing users to either pay up for more space or start playing digital tetris with their files. This matters because it affects how your organization thinks about cloud storage strategy, licensing costs, and what you tell employees about personal cloud options they're recommending to colleagues. After 30 years watching tech vendors nickel and dime users, I'll say this: the math is transparent at least, but the timing feels like they waited until everyone relied on the 1 TB before quietly moving the goal posts.",
+    "date": "2026-10-09T09:53:57.692991+00:00"
+  },
+  {
+    "title": "Regulators are trying to protect you from being fired by AI \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Regulating AI at work is happening slowly, but it\u2019s still stuck at the state level.",
+    "dwp_take": "Regulators are slowly moving to protect workers from AI-driven terminations, though efforts remain fragmented across individual states rather than unified federal policy. This matters because digital workplace leaders need to know which rules apply where, and whether their AI hiring and firing systems will face legal challenges depending on geography. Honestly, watching regulators play catch-up on AI employment decisions is like watching someone try to nail jello to a tree, except the jello has lawyers and can sue you in multiple jurisdictions.",
+    "date": "2026-10-09T09:54:01.382675+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+    "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia\u2019s new RTX Spark chip and up to 128GB of unified memory \u2013 and it\u2019s priced for power users.",
+    "dwp_take": "Microsoft just dropped the Surface Laptop Ultra with Nvidia's RTX Spark chip and up to 128GB of RAM, positioned as their AI-focused flagship machine. For digital workplace teams, this matters because it signals the market's serious bet on local AI processing and raises the bar for what \"enterprise-grade\" hardware means in 2024. Here's my take: if the price makes you reach for your chair like the headline suggests, you're probably not the target buyer, and that's actually fine because most organizations don't need AI powerhouse specs to make remote work actually function.",
+    "date": "2026-10-09T09:54:05.441718+00:00"
+  },
+  {
+    "title": "Google wants to be the gatekeeper for enterprise AI agents",
+    "url": "https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Google seems to be making a strategic play to control the AI infrastructure layer, not just roll out another shiny new agent. At its Gemini at Work 2026 event this week, the tech giant unveiled what i",
+    "dwp_take": "Google is positioning itself as the central hub for enterprise AI agents by launching a universal agent within Gemini that connects to various business tools and systems through a single interface. This matters because digital workplace teams will need to decide whether to bet their automation strategy on Google's ecosystem or maintain flexibility across multiple vendors. Honestly, the \"universal agent\" pitch is as old as tech itself, and companies that remember betting everything on one platform's promises usually have some scars to show for it.",
+    "date": "2026-10-09T09:54:10.514095+00:00"
+  },
+  {
+    "title": "This advice from Tom Hanks changed how I work",
+    "url": "https://www.fastcompany.com/91619889/this-advice-from-tom-hanks-changed-how-i-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "I was writing a book about the perils of recklessly chasing new things when I had an idea: I should interview Tom Hanks. I had read about how Hanks was an avid typewriter collector, and the typewriter",
+    "dwp_take": "A Fast Company writer discovered that Tom Hanks' typewriter obsession taught him something about focused, intentional work versus the distraction treadmill we call productivity. This matters because we spend all day chasing the next collaboration platform or AI tool while forgetting that constraints sometimes beat features. Here's the irony: you need a modern digital workplace to read an article about why a typewriter is better than your digital workplace.",
+    "date": "2026-10-09T09:54:14.772382+00:00"
+  },
+  {
+    "title": "Technology x humanity: A conversation with Dayforce\u2019s Amy Capellanti-Wolf",
+    "url": "https://www.worklife.news/leadership/technology-x-humanity-a-conversation-with-dayforces-amy-capellanti-wolf/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The HR leader shares her take on the rise of AI, hybrid work and retaining talent.",
+    "dwp_take": "Dayforce's Amy Capellanti-Wolf sat down to discuss how AI, hybrid work, and talent retention are reshaping the HR landscape. This matters because HR leaders are finally getting real about the fact that technology without a human strategy is just expensive software sitting in a folder. Here's the thing: anyone can buy AI tools, but keeping your people from leaving while they use those tools? That's the actual job, and it's refreshing to hear an HR leader say it out loud.",
+    "date": "2026-10-09T09:54:18.881890+00:00"
+  },
+  {
+    "title": "She Designed Meta\u2019s New AI Logo. Then Came the Hate",
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Jessica Hische knew working for Meta might upset some people. But she didn\u2019t anticipate just how angry they would get.",
+    "dwp_take": "Jessica Hische designed Meta's new AI logo and got absolutely hammered with online hate for her work. This matters to digital workplace folks because it highlights how design decisions in high-profile tech companies instantly become cultural flashpoints that affect everyone in the organization, not just the designer. Here's the thing: if you're doing visible work at a major tech company right now, you're basically signing up to be a lightning rod, and that's a workplace reality we need to talk about more honestly instead of pretending it doesn't happen.",
+    "date": "2026-10-09T09:54:27.653741+00:00"
+  },
+  {
+    "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+    "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "\u201cThere has been no company in the United States, unfortunately, that has abused this system more than Microsoft,\u201d Vice President JD Vance said on Thursday.",
+    "dwp_take": "The Trump administration has restricted access to H-1B visa programs for Microsoft and Adobe, with JD Vance claiming Microsoft has been the worst offender in abusing the system. This matters to digital workplace folks because tech talent sourcing just got a lot messier, and companies will need to rethink hiring strategies, relocation budgets, and retention plans overnight. Look, whether you think H-1B reform is overdue or a mistake, one thing's certain: your CHRO is about to have a very bad week fielding calls from hiring managers.",
+    "date": "2026-10-09T09:54:31.490546+00:00"
+  },
+  {
+    "title": "Elon Musk Wants Grok Bot to Route Users to Rival AI Models",
+    "url": "https://www.techrepublic.com/article/news-elon-musk-grok-bot-rival-ai-model-routing/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Elon Musk plans to expand Grok Bot with routing to rival AI models, including Claude. The move raises questions about user privacy and AI competition. The post Elon Musk Wants Grok Bot to Route Users ",
+    "dwp_take": "Musk is building Grok to direct users toward competing AI models like Claude instead of keeping them locked in his walled garden. This matters because it signals a shift away from the typical AI vendor lock-in strategy, which could reshape how enterprises evaluate and deploy AI tools across their digital workplace stacks. It's either visionary generosity or the smartest way to look magnanimous while collecting data on where users actually want to go anyway.",
+    "date": "2026-10-09T09:54:35.331880+00:00"
+  },
+  {
+    "title": "Anthropic Launches Claude Haiku 5.5 With API Prices Starting at $0.10",
+    "url": "https://www.techrepublic.com/article/news-anthropic-claude-haiku-5-5-api-pricing/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic launches Claude Haiku 5.5 with lower API pricing, stronger benchmark results and new options for developers building cost-efficient AI agents. The post Anthropic Launches Claude Haiku 5.5 Wi",
+    "dwp_take": "Anthropic just dropped Claude Haiku 5.5 with API pricing that starts at ten cents, making it cheaper to build AI agents without sacrificing performance. This matters because workplace teams are finally getting access to capable AI models that won't crater your IT budget, which means more organizations can actually experiment with automation instead of just talking about it. Honestly, watching AI pricing crater faster than enterprise software licensing used to inflate is the most satisfying thing to happen in tech in years.",
+    "date": "2026-10-09T09:54:39.006872+00:00"
+  },
+  {
+    "title": "No Coding Needed: Google\u2019s New AI Tool Builds Games From Your Ideas",
+    "url": "https://www.techrepublic.com/article/news-google-playground-ai-game-builder-no-code/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google launches Playground, an AI game-building platform that turns text prompts into playable games without coding. Here's how it works and who can use it. The post No Coding Needed: Google\u2019s New AI ",
+    "dwp_take": "Google just launched Playground, an AI tool that generates playable games from text descriptions without requiring any coding skills. This matters to digital workplace folks because it democratizes game-based learning and employee engagement tools that previously required expensive developers or technical expertise. Here's the thing though: just because you can prompt an AI to build something doesn't mean it'll be good, and workplace learning teams are about to discover the difference between \"it works\" and \"people actually want to use this.\"",
+    "date": "2026-10-09T09:54:42.696953+00:00"
+  },
+  {
+    "title": "Amazon\u2019s New Alexa Tablets Start at $229: What\u2019s Changing for Fire Owners",
+    "url": "https://www.techrepublic.com/article/news-amazon-alexa-tablets-google-play-fire-tablets/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Amazon unveils three new Alexa tablets starting at $229.99, with Google Play access, Alexa+ features, and major changes for Fire tablet owners. The post Amazon\u2019s New Alexa Tablets Start at $229: What\u2019",
+    "dwp_take": "Amazon just dropped a new line of Alexa tablets starting at $229.99 with Google Play access and some fresh Alexa+ features, marking a significant shift in their tablet strategy. For digital workplace folks, this matters because tablets are increasingly part of our hybrid work ecosystems, and Amazon finally making their devices less walled-off means better integration with enterprise tools your teams probably already use. After years of Fire tablets feeling like they belonged in a gated community, Amazon's basically saying \"fine, we'll play nice with the other kids\" and honestly, it only took them a decade.",
+    "date": "2026-10-09T09:54:46.639602+00:00"
   }
 ]
