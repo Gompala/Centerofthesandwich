@@ -1,104 +1,5 @@
 [
   {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "dwp_take": "Amazon says it's ditching NDAs that prevented customers from disclosing data center locations and security practices. This matters because digital workplace leaders choosing cloud infrastructure need transparency about where their data actually lives and how it's protected, especially for compliance and risk management. After years of operating like a tech speakeasy where you couldn't even tell people which region you were in, Amazon finally figured out that opacity isn't a selling point. Better late than never, I guess.",
-    "date": "2026-10-04T09:14:08.214064+00:00"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "dwp_take": "David Robinson quit his safety role at OpenAI and publicly claimed the company has a broken culture that won't listen to safety concerns. This matters because if the outfit building one of the world's most powerful AI systems can't keep its own safety staff from fleeing, that's a legitimate red flag for anyone banking on AI governance working as intended. Look, we've seen this movie before with other tech giants, and it never ends with \"actually everything was fine.\"",
-    "date": "2026-10-04T09:14:12.026272+00:00"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "dwp_take": "TechCrunch rounded up AI agents that now operate directly within text messaging platforms, giving users quick access to various specialized assistants without jumping between apps. This matters because your employees are already living in messaging apps, so AI agents that meet them there could finally make those tools useful instead of just another notification stream to ignore. The real question is whether workers will actually want AI agents pestering them via SMS or if we're just trading one cluttered inbox for another, but at least the notifications will be slightly smarter this time around.",
-    "date": "2026-10-04T09:14:16.283266+00:00"
-  },
-  {
-    "title": "9 insights from \u2018Private Tech Trailblazers\u2019: Vertical AI becomes the growth engine",
-    "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary dat",
-    "dwp_take": "Vertical AI is eating the tech world's lunch, with specialized AI built for specific industries and workflows replacing generic tools as the real growth driver. This matters because your digital workplace strategy that relies on one-size-fits-all platforms is already looking tired compared to these purpose-built alternatives. Here's the kicker: most organizations will spend the next two years trying to retrofit their existing tech stacks instead of admitting they should have gone vertical from day one.",
-    "date": "2026-10-04T09:14:20.993096+00:00"
-  },
-  {
-    "title": "ServiceNow launches standalone AI service desk to provide support in Teams, Slack, and email",
-    "url": "https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "ServiceNow has a new take on the service desk: Flow by ServiceNow, a standalone AI product that allows users to get help via chats in Microsoft Teams, Slack, or a Flow web app, or by email, rather tha",
-    "dwp_take": "ServiceNow launched Flow, a standalone AI service desk that handles support requests through Teams, Slack, email, and a web app without forcing users to leave their workflow. This matters because IT leaders are finally getting a tool that actually meets employees where they work instead of demanding they jump through hoops to submit a ticket. The real test will be whether Flow can actually solve problems or if it just becomes another chatbot that escalates everything to a human while pretending it understood the question.",
-    "date": "2026-10-04T09:14:26.903443+00:00"
-  },
-  {
-    "title": "This anti-scam checklist can protect you against the latest AI-enhanced frauds",
-    "url": "https://www.fastcompany.com/91617320/this-checklist-can-protect-you-against-the-latest-ai-enhanced-scams?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Recently, I received an email solicitation from a PR company offering to help me promote my book. While I get these kinds of solicitation emails on occasion, this one impressed me with the level of de",
-    "dwp_take": "Someone got a weirdly detailed phishing email that seemed personalized but was actually AI-generated spam. For digital workplace folks, this matters because your employees are getting these same convincing AI scams in their inboxes right now, and traditional \"don't click suspicious links\" training isn't cutting it anymore. The real kicker is that AI is getting good enough at research that it can flatter us into lowering our guard, which means your security training needs to shift from spotting bad grammar to spotting suspiciously good attention to detail.",
-    "date": "2026-10-04T09:14:31.316668+00:00"
-  },
-  {
-    "title": "Trump\u2019s Crazy AI Rebrand Was a Loyalty Test for Tech Execs\u2014and It Worked",
-    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-    "dwp_take": "Trump pushed tech executives to stop using the term \"artificial intelligence\" and rebrand it as \"StarGate,\" and most of the industry complied without pushback. This matters to digital workplace pros because it shows how quickly corporate messaging discipline crumbles when pressure comes from above, and how buzzwords that supposedly define entire business strategies can evaporate overnight if leadership decides they're inconvenient. After three decades watching workplace tech trends, I can tell you this is the most transparent loyalty test I've seen since executives started calling layoffs \"rightsizing,\" and it should worry anyone betting their career on whatever the current AI narrative happens to be.",
-    "date": "2026-10-04T09:14:36.832588+00:00"
-  },
-  {
-    "title": "Google Launches AI Chips Into Orbit to Test Space Data Centers",
-    "url": "https://www.techrepublic.com/article/news-google-ai-chips-orbit-space-data-centers/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google\u2019s Project Suncatcher launches AI chips into orbit to test radiation resistance, cooling, and whether space data centers could become practical. The post Google Launches AI Chips Into Orbit to T",
-    "dwp_take": "Google shot AI chips into space to see if data centers could actually work up there, testing how they handle radiation and cooling in orbit. For digital workplace folks, this matters because data latency and processing speed directly affect employee experience, so space-based computing could theoretically revolutionize how we access applications and services. Look, I've seen enough pie-in-the-sky tech pitches to know that \"testing in space\" is either a genuine engineering breakthrough or the most expensive way ever to avoid fixing earthbound infrastructure problems.",
-    "date": "2026-10-04T09:14:40.848745+00:00"
-  },
-  {
-    "title": "Galaxy Tab S12 Ultra vs iPad Pro With M5: Which Premium Tablet Gives You More?",
-    "url": "https://www.techrepublic.com/article/news-galaxy-tab-s12-ultra-vs-ipad-pro-m5/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Samsung's Galaxy Tab S12 Ultra offers a larger display, included S Pen, and expandable storage, while the iPad Pro with M5 leads in performance and battery life. The post Galaxy Tab S12 Ultra vs iPad ",
-    "dwp_take": "Samsung's Galaxy Tab S12 Ultra and Apple's iPad Pro M5 are duking it out in the premium tablet space, with Samsung offering a bigger screen and stylus while Apple flexes on raw performance and battery life. For digital workplace folks, this matters because you're probably fielding requests from executives who want tablets that can actually replace laptops, and now you've got real trade-offs to explain instead of just saying \"get an iPad.\" Honestly, if your org isn't already tired of buying tablets that gather dust in desk drawers, you will be soon, which is why this comparison feels like arguing over which luxury car to leave in the parking lot.",
-    "date": "2026-10-04T09:14:45.097960+00:00"
-  },
-  {
-    "title": "Tencent Reportedly Turns to Southeast Asia for $7B Oracle AI Chip Deal",
-    "url": "https://www.techrepublic.com/article/news-tencent-oracle-ai-chip-deal-apac-southeast-asia/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Tencent reportedly plans to lease about 100,000 AI chips from Oracle in Southeast Asia under a five-year deal worth roughly $7 billion. The post Tencent Reportedly Turns to Southeast Asia for $7B Orac",
-    "dwp_take": "Tencent is reportedly leasing 100,000 AI chips from Oracle through Southeast Asian entities in a roughly $7 billion deal, apparently navigating around US export restrictions on advanced semiconductors. This matters because it shows how geopolitical chip constraints are reshaping where companies source computing infrastructure, which directly affects where AI workloads and data processing happen for digital workplace tools. If your company's AI features depend on chip availability in specific regions, you're about to learn that geography is your destiny whether you like it or not.",
-    "date": "2026-10-04T09:14:49.351761+00:00"
-  },
-  {
-    "title": "Vietnam\u2019s AI Adoption Jumps to 26%, but Most Adopters Are Still Experimenting",
-    "url": "https://www.techrepublic.com/article/news-ai-adoption-2026-apac-vietnam/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Vietnam AI adoption hit 26%, but most adopters are still experimenting as skills, ROI measurement, and regulation slow production deployments. The post Vietnam\u2019s AI Adoption Jumps to 26%, but Most Ado",
-    "dwp_take": "Vietnam's enterprise adoption of AI has reached 26%, but most organizations are still in the \"poking around\" phase rather than actually putting AI into production. This matters to digital workplace pros because it confirms what we're seeing globally: companies are excited about AI but hitting real walls on skills gaps, measuring actual value, and figuring out the regulatory landscape. Basically, we've got a lot of organizations running expensive AI science projects that probably should be called pilot programs, but hey, at least they're trying.",
-    "date": "2026-10-04T09:14:53.237203+00:00"
-  },
-  {
     "title": "Sam Altman says people need to accept \u2018some bad things\u2019 are going to happen if they want AI",
     "url": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
     "source": "SiliconAngle",
@@ -844,5 +745,140 @@
     "excerpt": "Apple reportedly cut iPhone 18 Pro component orders by up to 20% as demand softened. Here\u2019s what higher prices and supplier cuts mean for buyers. The post Apple Reportedly Cuts iPhone 18 Pro Component",
     "dwp_take": "Apple is cutting iPhone 18 Pro component orders by up to 20% because people aren't buying as many as expected. For digital workplace folks, this matters because it signals broader economic softening that often precedes IT budget freezes and delayed device refresh cycles in enterprises. The irony is that Apple's premium pricing strategy meant to protect margins might actually be the thing that pushes more workers toward mid-range Android alternatives, which honestly could shake up corporate mobility strategies.",
     "date": "2026-10-10T09:19:03.729464+00:00"
+  },
+  {
+    "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
+    "dwp_take": "Satya Nadella is calling for a pause to evaluate AI safety and trust frameworks before things spiral further. Digital workplace leaders need to pay attention here because AI is already embedded in your collaboration tools, email, and search functions, and governance gaps could create real compliance and security headaches. That said, it's rich hearing this from the guy whose company has been racing to embed Copilot into everything while the paint is still wet.",
+    "date": "2026-10-11T09:34:48.961644+00:00"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Is Apple hoping to get into the AI-generated podcast business?",
+    "dwp_take": "Apple just bought a team and licensing deal from Huxe, a personalized podcast startup, signaling they're making a real move into AI-generated audio content. For digital workplace folks, this matters because your internal communications and learning platforms are about to get disrupted by AI-powered, personalized audio that actually keeps people engaged instead of boring them to tears. Honestly, it's about time someone took on the corporate podcast genre, which has been putting employees into involuntary naps since about 2019.",
+    "date": "2026-10-11T09:34:52.640104+00:00"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+    "dwp_take": "TechCrunch Disrupt 2026 is running October 13-15 in San Francisco with over 300 startups pitching to 10,000 tech leaders across hundreds of sessions. Digital workplace professionals should care because this is where the tools that will actually land in your organization first make their public debut, and it's way smarter to evaluate them here than after your CEO has already fallen in love with the demo. The real move is showing up early to spot the ones that will actually solve problems instead of just looking shiny, because the startups that crash and burn in twelve months are always the most polished at trade shows.",
+    "date": "2026-10-11T09:34:56.648920+00:00"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "dwp_take": "TechCrunch rounded up AI agents that operate through text messaging, covering everything from general assistants to specialized tools for families, travel, and work scenarios. For digital workplace folks, this matters because messaging is already where your workforce lives, so AI agents that work natively in Slack, Teams, or SMS are becoming actual productivity infrastructure rather than novelty features. Here's the thing though: most organizations will spend six months evaluating these tools while their employees quietly start using the free versions anyway, which is fine because at least someone's getting some work done.",
+    "date": "2026-10-11T09:35:00.681757+00:00"
+  },
+  {
+    "title": "Is Apple about to stitch up the smart home?",
+    "url": "https://www.computerworld.com/article/4233204/is-apple-about-to-stitch-up-the-smart-home.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Apple is about to intensify its push into the smart home, having spent several years pulling the threads together. The push is well past time, though we\u2019ve expected it for months. We\u2019ve seen the indus",
+    "dwp_take": "Apple is finally making serious moves into the smart home market after years of laying groundwork, and they're positioning themselves as a potential consolidator in a fragmented space. For digital workplace professionals, this matters because Apple's ecosystem approach (if they execute well) could finally give us some clarity on what happens when consumer tech standards start to actually work together instead of fighting each other. My take: Apple will probably succeed at making their own stuff work seamlessly, which is fine, but let's not pretend this solves the interoperability mess that's been plaguing smart homes for a decade now.",
+    "date": "2026-10-11T09:35:06.526893+00:00"
+  },
+  {
+    "title": "Microsoft will let Copilot act on local files on Windows PCs",
+    "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft is giving Copilot greater control over Windows PCs, allowing the AI assistant to organize and make changes to local files, and run certain tasks using on-device AI models. The changes were a",
+    "dwp_take": "Microsoft is letting Copilot directly access and modify local files on Windows PCs, running some AI tasks on-device rather than sending everything to the cloud. This matters because it addresses two workplace pain points that have been nagging at IT and security teams for months: data privacy concerns and the creeping cost of cloud AI operations. Here's the thing though, I've seen this \"local processing\" pitch before, and I'll believe it scales smoothly when I stop getting frantic calls from users whose files got reorganized by an overzealous bot.",
+    "date": "2026-10-11T09:35:10.395820+00:00"
+  },
+  {
+    "title": "Fast AI, slow rollback: the risk facing Apple IT teams",
+    "url": "https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "There\u2019s a big disconnect between the rate at which IT is deploying various kinds of AI-generated output and the speed with which it can roll those changes back when things go wrong, warns a new report",
+    "dwp_take": "Apple IT teams are deploying AI solutions faster than they can roll them back when problems occur, according to Fleet Device Management research. This matters because digital workplace pros know that velocity without reversibility is a recipe for chaos, and when AI goes sideways at scale, you need an exit strategy faster than you can say \"we'll just reboot it.\" The irony is thick: we've spent decades learning that change management saves us, yet here we are sprinting toward AI deployment while our rollback procedures are still learning to tie their shoes.",
+    "date": "2026-10-11T09:35:14.263033+00:00"
+  },
+  {
+    "title": "Why the community-owned Green Bay Packers are NFL fans\u2019 Hail Mary as private equity takes the field",
+    "url": "https://www.fastcompany.com/91620956/can-the-green-bay-packers-continue-to-thrive-without-a-billionaire-backer?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "In late August, the estate of Paul G. Allen sold the Seattle Seahawks NFL franchise to an ownership group led by venture capitalist Vinod Khosla for $9.6 billion. The values of major American sports f",
+    "dwp_take": "Private equity is gobbling up sports franchises at record valuations while the Green Bay Packers remain the only NFL team owned by its community through a non-profit structure, making them a rare holdout against Wall Street consolidation. Digital workplace leaders should care because this mirrors what's happening in their own sector: centralized platforms owned by venture-backed companies are replacing distributed, community-controlled tools, and employees lose agency in the process. The Packers prove that alternative ownership models can actually work and stay competitive, which is a helpful reminder that not everything valuable needs to be financialized or optimized for quarterly returns.",
+    "date": "2026-10-11T09:35:18.743745+00:00"
+  },
+  {
+    "title": "Want to improve your time management? Lower your expectations",
+    "url": "https://www.fastcompany.com/91619959/want-to-improve-your-productivity-lower-your-expectations?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "I feel like such a failure: Nothing ever goes according to how I plan, and no matter how hard I try, I can never get everything done that I want to do. Sound familiar? If so, you\u2019re not alone. As a ti",
+    "dwp_take": "A time management coach argues that lowering your expectations narrows the gap between what you plan and what you actually deliver, which directly impacts how satisfied you feel with your productivity. This matters because digital workplace professionals are drowning in impossible to-do lists, context switching, and notification overload, so recalibrating expectations is smarter than pretending you'll ever get through a 47-item list. Here's the truth: the people crushing it at work aren't superhuman, they just stopped lying to themselves about how many hours exist in a day.",
+    "date": "2026-10-11T09:35:22.638840+00:00"
+  },
+  {
+    "title": "Nobody trusts HR. It\u2019s up to companies to fix it",
+    "url": "https://www.fastcompany.com/91611952/hr-has-a-trust-problem-but-companies-not-hr-need-to-fix-it-leadership-workplace-well-being-human-resources?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Earlier this year, I wrote in Fast Company that 2026 could be the year companies finally begin taking employee well-being seriously. I also challenged HR leaders to seize the moment and help drive the",
+    "dwp_take": "A Fast Company piece argues that HR departments have a trust problem and need to step up their game on employee wellbeing initiatives. This matters because when HR loses credibility with staff, every digital workplace initiative they launch gets greeted with eye-rolls instead of engagement. Here's the thing: HR can't fix trust by sending better Slack messages or launching another survey, and calling wellbeing an \"initiative\" is exactly the kind of corporate speak that got us here in the first place.",
+    "date": "2026-10-11T09:35:26.375021+00:00"
+  },
+  {
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "dwp_take": "Three researchers handed the keys to a Toyota Corolla to different AI models and asked them to navigate to In-N-Out, with only one AI actually pulling it off successfully. This matters to digital workplace folks because it exposes the gap between what these language models can do in a chat window versus what they can actually accomplish in the real world with real consequences. If we're betting our workplace automation on AI that can't even find a burger joint without crashing, we need to have some very honest conversations about where these tools actually belong in our tech stacks.",
+    "date": "2026-10-11T09:35:31.251187+00:00"
+  },
+  {
+    "title": "Apple\u2019s Touchscreen MacBook Pro Could Debut Soon: Should You Wait?",
+    "url": "https://www.techrepublic.com/article/news-apple-touchscreen-macbook-pro-oled-ipad-mini/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple reportedly plans touchscreen OLED MacBook Pro models and an OLED iPad mini for late October. Here\u2019s what buyers should weigh before upgrading. The post Apple\u2019s Touchscreen MacBook Pro Could Debu",
+    "dwp_take": "Apple's allegedly planning touchscreen OLED MacBook Pro models arriving in late October, which would mark a major shift from their traditional keyboard-only approach. For digital workplace pros, this matters because input methods directly affect productivity workflows, and a touchscreen option could reshape how hybrid workers interact with their devices depending on their role and habits. My take: after decades of insisting touchscreens don't belong on laptops, Apple's about-face proves they finally realized what the rest of us figured out years ago, so I'd hold off upgrading until we see real-world performance rather than hype.",
+    "date": "2026-10-11T09:35:35.175866+00:00"
+  },
+  {
+    "title": "OpenAI Claims 370+ Mathematical Results, Researchers Raise Questions",
+    "url": "https://www.techrepublic.com/article/news-openai-ai-mathematical-results-research-questions/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "OpenAI says its AI produced more than 370 families of mathematical results, raising questions about proof verification, originality and credit for human research. The post OpenAI Claims 370+ Mathemati",
+    "dwp_take": "OpenAI announced that its AI system generated over 370 mathematical result families, but researchers are questioning whether these proofs are actually novel, properly verified, or just remixed existing work. This matters because digital workplace teams are increasingly adopting AI for knowledge work and research, so we need to understand what's actually original output versus sophisticated plagiarism at scale. Here's the thing: if we can't trust AI verification of math proofs, how confident should we be trusting it with your quarterly earnings reports?",
+    "date": "2026-10-11T09:35:39.083363+00:00"
+  },
+  {
+    "title": "Natura\u2019s $99 AI Ring Wants to Put Multiple AI Agents One Press Away",
+    "url": "https://www.techrepublic.com/article/news-natura-interface-ai-smart-ring-agents-price-features/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Natura unveils Interface, a $99 AI smart ring designed to access multiple AI agents. Explore its health tracking, battery life, compatibility and availability. The post Natura\u2019s $99 AI Ring Wants to P",
+    "dwp_take": "Natura released Interface, a $99 smart ring that lets you access multiple AI agents with a button press, bundling health tracking and cross-platform compatibility into wearable form. For digital workplace folks, this matters because we're watching AI interfaces migrate from screens to wearables, which means your workplace tools could soon live on your finger instead of your phone. Look, if employees are going to bug their AI assistants anyway, might as well make it something they wear rather than another app they'll forget to close.",
+    "date": "2026-10-11T09:35:42.823835+00:00"
+  },
+  {
+    "title": "Ring Announces $249 Smart Lock With Hand-Powered Battery Backup",
+    "url": "https://www.techrepublic.com/article/news-ring-smart-lock-hand-powered-battery-backup/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Ring\u2019s $249 Smart Lock adds a hand-powered dial for dead-battery backup. Explore its features, connectivity requirements, and planned early 2027 US release. The post Ring Announces $249 Smart Lock Wit",
+    "dwp_take": "Ring is launching a $249 smart lock next year that includes a hand-crank backup system for when the battery dies. For workplace security and facilities teams managing building access, this means fewer emergency lockout calls and reduced dependency on IT heroics during power failures. The hand-crank feature is genuinely clever stuff, though I'm betting the first person who actually needs it will discover they have the upper body strength of a cooked noodle.",
+    "date": "2026-10-11T09:35:46.526338+00:00"
   }
 ]
