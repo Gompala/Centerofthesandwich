@@ -1,147 +1,138 @@
 {
-  "generated": "2026-10-17T07:26:02.450291+00:00",
+  "generated": "2026-10-18T07:41:39.908860+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
-        "dwp_take": "Replit dumped its partnership with Anthropic and is now going all-in with OpenAI instead, citing cost as a primary factor. This matters to digital workplace teams because it signals which AI vendors are winning the economic war and which tools your organization should actually bet on for long-term integration. The real takeaway here is that today's strategic partnership is tomorrow's cost center, so stop acting like any single AI vendor relationship is permanent.",
-        "date": "2026-10-17T07:25:04.903625+00:00"
+        "excerpt": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+        "dwp_take": "Anthropic's team got older and more senior, and now everyone's stuck in more meetings. This matters because it's a leading indicator of what happens when AI companies scale from scrappy startup to serious enterprise, and digital workplace pros need to watch this pattern play out across the sector. Here's the thing though: more senior people plus more meetings usually equals slower decision-making, and if there's one thing an AI company can't afford, it's moving at the speed of a traditional corporation.",
+        "date": "2026-10-18T07:40:44.650529+00:00"
       },
       {
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "dwp_take": "India's reported rogue AI agent incidents stem from the usual suspects: exposed credentials, hardcoded secrets in public repos, and cloud permissions set to \"trust everyone.\" This matters because digital workplace teams are now responsible for securing AI agents the same way they'd secure any user account, except these agents don't sleep and can move laterally at machine speed. After three decades watching people leave passwords on sticky notes, I'm genuinely unsurprised we're repeating this chapter with AI, just faster and at scale.",
-        "date": "2026-10-17T07:25:08.923407+00:00"
+        "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "dwp_take": "Replit switched its default AI model from Anthropic's Claude to OpenAI, though Claude remains available as an option. This matters because it signals which AI tools are winning mindshare in developer communities, and your workplace tech stack decisions will increasingly follow these same competitive dynamics. After years of everyone treating Claude like the responsible choice, watching OpenAI reclaim default status is basically the AI equivalent of watching your favorite indie band get big and then wondering if they're still cool.",
+        "date": "2026-10-18T07:40:48.481586+00:00"
       },
       {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic",
-        "dwp_take": "Amulya Vishwanath, a former Nvidia robotics exec, argues that robotics hasn't found its transformative moment yet because the industry is still building foundational components rather than deploying plug-and-play solutions. This matters to digital workplace folks because it means your fantasy of robot colleagues handling the coffee runs remains firmly in the \"someday\" category, not the \"next quarter\" one. The brutal truth is that every startup claiming their foundation model will suddenly make robotics \"just work\" is probably overselling it, and Vishwanath's skepticism from the inside is refreshingly honest.",
-        "date": "2026-10-17T07:25:12.993278+00:00"
+        "excerpt": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+        "dwp_take": "Mark Wahlberg says he's comfortable with AI in film as long as it enhances rather than replaces human work. This matters to digital workplace folks because it's the same tension playing out in every industry right now: workers wondering if AI is a tool or a threat. Here's the thing though: when a guy worth hundreds of millions says he's \"open\" to an AI clone carrying on his legacy, it's easy to be generous about the technology. Try telling that to the crew member whose job actually disappears.",
+        "date": "2026-10-18T07:40:52.205516+00:00"
       },
       {
-        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-        "source": "TechCrunch",
+        "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
+        "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic",
-        "dwp_take": "A former Nvidia robotics exec is arguing that physical AI is still in the early building-block phase, not ready for the sci-fi takeover everyone keeps predicting. This matters because digital workplace leaders are getting pitched \"AI-ready\" solutions constantly, and understanding that the underlying tech is still primitive helps separate real capabilities from venture capital storytelling. After 30 years of watching tech cycles, I can tell you that any exec using the phrase \"Lego era\" to describe their product roadmap is probably being more honest than the ones promising you robots by next quarter.",
-        "date": "2026-10-17T07:25:17.195807+00:00"
+        "excerpt": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise artificial intelligence. The company says AI Control Tower can discover and govern any agent, work across models ",
+        "dwp_take": "ServiceNow launched AI Control Tower, positioning it as a governance and cost management layer that can monitor AI agents across multiple platforms and models while enforcing policies. This matters because digital workplace leaders are terrified of AI sprawl and runaway costs, so anything claiming to wrangle that chaos gets attention. The irony is ServiceNow is essentially selling insurance for a problem that mostly exists in people's heads right now, but hey, sometimes the best products are solutions to fears that haven't fully materialized yet.",
+        "date": "2026-10-18T07:40:57.028810+00:00"
       }
     ],
     "tools-tech": [
-      {
-        "title": "Munich dumps proprietary for open source (again) \u2013 but no Linux desktop",
-        "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Open source in the public sector doesn\u2019t fail because of technical issues. It fails because it\u2019s not aligned with the political agenda",
-        "dwp_take": "Munich decided to move away from proprietary software to open source solutions, though they're not adopting Linux desktops across the board. This matters because it shows that technical merit alone doesn't drive enterprise adoption decisions, and digital workplace leaders need to understand the political and budgetary forces that actually shape technology choices. The real lesson here is that Munich keeps trying to break up with Microsoft, but keeps going back, which is basically the enterprise software equivalent of a bad relationship.",
-        "date": "2026-10-17T07:25:21.279792+00:00"
-      },
-      {
-        "title": "Anthropic gives third-party auditors\u00a0\u2019employee-like access\u2019 in AI industry first",
-        "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-        "dwp_take": "Anthropic opened up its AI systems to third-party auditors with the same level of access that employees get, making them part of the safety evaluation process rather than keeping them at arm's length. This matters because digital workplace leaders are already wrestling with how to govern AI tools responsibly, and having external eyes on system behavior sets a precedent for transparency that enterprises will eventually demand from their AI vendors. Of course, giving auditors employee-level access only works if Anthropic actually listens to what they find, otherwise it's just expensive theater.",
-        "date": "2026-10-17T07:25:25.039320+00:00"
-      },
-      {
-        "title": "October Patch Tuesday: 1,408 CVEs, 1 exploited flaw and a SharePoint surprise",
-        "url": "https://www.computerworld.com/article/4236627/october-patch-tuesday-1408-cves-1-exploited-flaw-and-a-sharepoint-surprise.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft\u2019s October 2026 Patch Tuesday is the year\u2019s largest release, with 1,408 CVEs requiring customer action, 72 of them rated critical. September, the previous high, carried 963. One CVE is alread",
-        "dwp_take": "Microsoft dropped 1,408 CVEs in October's Patch Tuesday, making it the year's biggest security dump with 72 critical vulnerabilities and at least one already being actively exploited in the wild. For digital workplace teams, this means your patch management process is about to get a stress test you weren't planning for, especially since one flaw is already out there being weaponized. At this point, I'm convinced Microsoft's security team is just seeing how many vulnerabilities they can find before someone asks them to stop looking.",
-        "date": "2026-10-17T07:25:29.966545+00:00"
-      },
       {
         "title": "AI datacenter capex will far exceed forecast revenue through 2030",
         "url": "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html",
         "source": "Computerworld",
         "category": "tools-tech",
         "excerpt": "Investors are pouring more into AI data center infrastructure than they can hope to recoup by 2030, according to Gartner. \u201cEnterprise and consumer AI revenue will be insufficient to support profitable",
-        "dwp_take": "Tech companies are spending billions on AI infrastructure that won't generate enough revenue to justify the investment through 2030. This matters because it means the AI tools landing in your workplace are backed by a speculative bubble, not sustainable business fundamentals. Translation: that shiny new AI copilot your company just licensed might disappear faster than your last office plant if investors finally demand actual profitability.",
-        "date": "2026-10-17T07:25:33.544895+00:00"
+        "dwp_take": "Tech companies are spending massive amounts building AI datacenters while the actual revenue those centers will generate through 2030 falls way short of covering those costs. This matters because it signals that AI infrastructure investment is partly speculative and partly driven by competitive panic, which means budgets for actual workplace AI tools and adoption will likely remain constrained. The dirty secret nobody wants to admit is that we're building a cathedral before we know what prayers people actually want to say in it.",
+        "date": "2026-10-18T07:41:02.107627+00:00"
+      },
+      {
+        "title": "Apple\u2019s big AI week ends with Mac + Muse AI supercomputers",
+        "url": "https://www.computerworld.com/article/4236527/apples-big-ai-week-ends-with-mac-muse-ai-supercomputers.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "<>Welcome to the week Apple showed us how serious it really is about artificial intelligence on Macs, with the company making more moves to deliver the tech in the most cost effective, responsible way",
+        "dwp_take": "Apple spent the week announcing serious moves to get AI capabilities onto Macs in practical, cost-effective ways, positioning itself as the responsible player in workplace AI. For digital workplace pros, this matters because Mac-based AI tools could change how teams handle content creation, data analysis, and knowledge work without shipping everything to the cloud or waiting for external AI services. Honestly, if Apple actually delivers on the \"responsible AI\" promise without making us all subscribe to yet another service tier, they might actually have something here, though I'll believe it when I see it actually working in a real office.",
+        "date": "2026-10-18T07:41:06.297905+00:00"
+      },
+      {
+        "title": "Xbow spent $40K on AI and cracked Google Chrome wide open",
+        "url": "https://www.computerworld.com/article/4236592/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "A chain of vulnerabilities in Google\u2019s Chrome browser could have enabled researchers to take control of one billion Windows machines worldwide \u2014 and it cost them just $40,000 in AI compute time to dis",
+        "dwp_take": "Xbow researchers spent forty grand in AI compute costs to uncover a critical Chrome vulnerability affecting a billion Windows machines, landing a quarter million dollar bug bounty from Google. This matters because your workforce is running Chrome on those machines right now, and the fact that AI can now find zero-days faster and cheaper than traditional methods means security is becoming an AI arms race. The real kicker: they made six hundred grand in profit after expenses, which tells you everything about how the economics of security have flipped upside down.",
+        "date": "2026-10-18T07:41:10.525661+00:00"
+      },
+      {
+        "title": "Microsoft Surface Laptop Ultra: NVIDIA RTX Spark means business",
+        "url": "https://www.computerworld.com/article/4235992/microsoft-surface-laptop-ultra-nvidia-rtx-spark-means-business.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "NVIDIA officially entered the Windows PC race this week, and its arrival brings a formidable new competitor to the premium AI PC market. With its RTX Spark platform, NVIDIA is bringing its Grace Arm C",
+        "dwp_take": "NVIDIA just launched its RTX Spark platform for Windows laptops, bringing its Grace CPU and Blackwell GPU into the premium PC market, with Microsoft's new Surface Laptop Ultra as an early adopter. This matters because it finally gives enterprises a credible alternative to Intel and AMD for AI workloads, which means your procurement team needs to start thinking about how this changes your hardware refresh strategy. The real question isn't whether these laptops are fast, it's whether your organization's software actually runs on Arm architecture, and my guess is you're about to find out that answer the hard way.",
+        "date": "2026-10-18T07:41:14.520067+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Remote work may increase birth rates",
-        "url": "https://www.fastcompany.com/91623791/remote-work-may-increase-birth-rates?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "\u2018Parallel work\u2019: How holding down multiple jobs at once shed its taboo",
+        "url": "https://www.fastcompany.com/91622900/parallel-work-how-working-multiple-jobs-at-once-shed-its-taboo?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Looking for a way to boost fertility rates, which are sagging across most of the globe? Let people work from home. Remote work has led to a 5% increase in fertility in the U.S. and Northern Europe, es",
-        "dwp_take": "Nicholas Bloom's research suggests remote work correlates with a 5% increase in fertility rates in the U.S. and Northern Europe, particularly among educated women over 30 who already have one child. This matters because it's concrete evidence that flexible work arrangements affect major life decisions, which means your workplace policies literally shape whether people have kids. That said, correlation isn't causation, and I'd love to see if this holds up when you account for the fact that people who can work remotely tend to already be in better financial positions anyway.",
-        "date": "2026-10-17T07:25:37.535861+00:00"
+        "excerpt": "Employees used to go to work and then come home. Now, they commonly go to one job and then to another. It\u2019s called parallel work, and it essentially means taking on multiple jobs as opposed to having ",
+        "dwp_take": "More people are now openly juggling multiple concurrent jobs instead of hiding a side hustle, a shift that's shed the old stigma around working more than one gig at a time. For digital workplace leaders, this means rethinking policies around availability, communication tools, and work hours since your \"full-time\" employee might actually be splitting their brain between two or three organizations. Honestly, after thirty years watching knowledge workers, I'm surprised this took so long to normalize. The real question is whether your collaboration platform and meeting schedules can handle the chaos of truly distributed attention.",
+        "date": "2026-10-18T07:41:19.096352+00:00"
       },
       {
-        "title": "Want an easier week? Try this 30-minute Sunday routine",
-        "url": "https://www.fastcompany.com/91622548/30-minute-sunday-routine?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "Below, Ben Meer shares five key insights from his new book, How to Be Good at Life: Simple Systems to Achieve More and Stress Less. Ben is the creator of System Sunday, a weekly newsletter on producti",
-        "dwp_take": "A productivity coach is promoting a 30-minute Sunday routine to make your work week easier, drawing from his book and newsletter advice. Digital workplace professionals need to care about this because most of us are drowning in context switching and email chaos, and even basic weekly planning actually works. That said, if your solution to work overwhelm is a Sunday routine instead of fixing the broken processes that caused the overwhelm in the first place, you're just putting a band aid on a bullet wound.",
-        "date": "2026-10-17T07:25:41.450201+00:00"
-      },
-      {
-        "title": "Can you be good at stuff you don\u2019t like doing?",
-        "url": "https://www.fastcompany.com/91622212/can-you-be-good-stuff-you-dont-like-doing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "According to the internet, Confucius said, \u201cChoose a job you love, [and] you will never have to work a day in your life.\u201d He even created a great infographic on this, except it\u2019s just one of those mem",
-        "dwp_take": "Fast Company looked at whether you actually need to love what you do to be good at it, debunking the popular Confucius quote that keeps getting recycled on LinkedIn. This matters because digital workplace leaders keep building cultures around passion and purpose, assuming engagement follows naturally when people do what they love. Here's the reality: some of your best performers are probably doing solid work on things they're indifferent about, and that's fine, which might mean your culture messaging is barking up the wrong tree.",
-        "date": "2026-10-17T07:25:45.407874+00:00"
+        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+        "dwp_take": "EY launched the Vitality Index, a measurement tool aimed at helping employers track and improve employee well-being as burnout costs continue climbing. For digital workplace leaders, this matters because well-being initiatives need real data to succeed, and having a standardized way to measure vitality beats the usual gut-feel approach. That said, I've seen plenty of well-meaning indices and dashboards sit unused because nobody actually changed how work gets done, so the real test here is whether EY's tool leads to action or just becomes another number in the analytics pile.",
+        "date": "2026-10-18T07:41:23.615283+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple Reportedly Plans Oct. 28 Event for Touchscreen MacBooks and More",
-        "url": "https://www.techrepublic.com/article/news-apple-october-28-touchscreen-macbooks/",
+        "title": "iPhone Handoff in iOS 27: Use One Number on Two iPhones",
+        "url": "https://www.techrepublic.com/article/news-iphone-handoff-same-number-two-iphones/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple reportedly plans an Oct. 28 hardware event, with touchscreen MacBook Pros, M6 Macs, and an OLED iPad mini expected. See what buyers should know. The post Apple Reportedly Plans Oct. 28 Event for",
-        "dwp_take": "Apple's allegedly dropping touchscreen MacBook Pros, M6 chips, and an OLED iPad mini on October 28, which means the hardware refresh cycle is about to hit your IT budget like a surprise invoice. For digital workplace folks, this matters because touchscreen laptops and new processors could actually shift how remote workers and hybrid teams interact with their machines, especially if Apple's finally figured out why nobody asked for this feature in the first place. Look, I've been around long enough to know that just because Apple builds it doesn't mean your workforce needs it, but at least this time the specs might actually make the machines faster before they become yesterday's news.",
-        "date": "2026-10-17T07:25:50.872423+00:00"
+        "excerpt": "iPhone Handoff lets one phone number move automatically between two iPhones. Here\u2019s how setup, carrier support, Apple Watch, Wallet, and eSIM switching work. The post iPhone Handoff in iOS 27: Use One",
+        "dwp_take": "Apple's new Handoff feature lets a single phone number seamlessly switch between two iPhones, which sounds convenient until you realize your boss now has even more ways to reach you across multiple devices. For digital workplace folks managing BYOD programs and mobile device policies, this is another complication because you're suddenly dealing with number portability and security considerations that didn't exist before. I've seen enough \"just one more thing\" Apple features tank workplace productivity, so good luck explaining eSIM switching to your IT security team when someone inevitably loses a phone.",
+        "date": "2026-10-18T07:41:28.133013+00:00"
       },
       {
-        "title": "Pixel 11 Rambler AI Voice Typing: How It Rewrites Speech",
-        "url": "https://www.techrepublic.com/article/news-pixel-11-rambler-ai-voice-typing/",
+        "title": "Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents",
+        "url": "https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google's Rambler voice typing cleans up spoken thoughts instead of transcribing them word for word. Here's how rewriting, offline use, privacy, and review work. The post Pixel 11 Rambler AI Voice Typi",
-        "dwp_take": "Google's new Rambler feature uses AI to clean up and rewrite voice dictation in real time instead of just transcribing what you actually said. This matters because most knowledge workers still fumble through spoken drafts that need heavy editing, so having AI fix grammar and clarity on the fly could save real time in daily work. The funny part is we're finally admitting that the way humans actually talk is kind of a mess, and apparently that's a feature, not a bug.",
-        "date": "2026-10-17T07:25:54.823967+00:00"
+        "excerpt": "Nvidia introduces three Nemotron AI models, including a 120B-parameter system and two smaller Bolt models designed for local AI agents and enterprise tasks. The post Nvidia Launches Three Nemotron AI ",
+        "dwp_take": "Nvidia just dropped three new Nemotron AI models, including a hefty 120-billion parameter version and two smaller Bolt models meant to run locally on enterprise hardware. This matters because digital workplace leaders are getting real options for deploying AI without shipping every conversation to a cloud vendor's servers, which means better privacy, lower latency, and potentially fewer regulatory headaches. Honestly, the local AI agent story is finally getting interesting, assuming enterprises can actually figure out how to run these things without their IT teams losing their minds over GPU requirements.",
+        "date": "2026-10-18T07:41:31.922335+00:00"
       },
       {
-        "title": "iOS 27 AI Shortcuts: What Changed and 5 Useful Things to Try",
-        "url": "https://www.techrepublic.com/article/news-ios-27-ai-shortcuts-automations/",
+        "title": "Sony Wants Audiophiles to Pay $5,900 for Its New Gold-Plated Walkman",
+        "url": "https://www.techrepublic.com/article/news-sony-gold-plated-walkman-5900-price/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "iOS 27 lets Apple Intelligence build Shortcuts from natural-language descriptions and adds new triggers, model choices, storage, and web-connected automation tools. The post iOS 27 AI Shortcuts: What ",
-        "dwp_take": "Apple's iOS 27 now lets you build Shortcuts using plain language descriptions instead of block-by-block coding, plus it added new triggers, model options, and web automation capabilities. This matters because mobile automation just got dramatically more accessible to regular employees who'd normally avoid anything requiring technical chops. Finally, after years of Shortcuts sitting in the \"too complicated\" drawer, Apple might have actually cracked the code on making this stuff useful for normal humans.",
-        "date": "2026-10-17T07:25:58.643075+00:00"
+        "excerpt": "Sony's new gold-plated Walkman costs $5,900 and promises premium audio. Here's what its upgraded hardware offers and whether it's worth the price. The post Sony Wants Audiophiles to Pay $5,900 for Its",
+        "dwp_take": "Sony just dropped a $5,900 gold-plated Walkman aimed at serious audio enthusiasts who want their portable music player to look as expensive as it sounds. For digital workplace folks, this is a reminder that premium hardware still exists in a world obsessed with cloud-based everything, and some professionals genuinely need better tools than the company-issued earbuds. Personally, I'd rather spend that money on noise-canceling headphones that actually work in open offices, but hey, if you're mixing tracks on the train, maybe gold plating does something magical.",
+        "date": "2026-10-18T07:41:35.977494+00:00"
       },
       {
-        "title": "YouTube Rolls Out GIF Comments: What Viewers Can Use So Far",
-        "url": "https://www.techrepublic.com/article/news-youtube-gif-comments-rollout/",
+        "title": "iPhone Duo Camera Tricks: Smart Take, Kid Cue, Duo Preview, and More",
+        "url": "https://www.techrepublic.com/article/news-iphone-duo-camera-tricks-smart-take-kid-cue/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "YouTube is rolling out GIF comments for videos and Shorts. Learn how they work, who has access, and what the update means for viewers and businesses. The post YouTube Rolls Out GIF Comments: What View",
-        "dwp_take": "YouTube is letting people comment on videos and Shorts using GIFs instead of just text, rolling this out to viewers gradually. Digital workplace pros need to pay attention because video content is now the default communication format in most organizations, and if your team uses YouTube for internal training or knowledge sharing, you're about to see a lot more reaction GIFs cluttering your comment sections. Honestly, this is either going to make your training videos more engaging or turn them into a complete circus of dancing cats and eye rolls, depending on your audience maturity level.",
-        "date": "2026-10-17T07:26:02.450187+00:00"
+        "excerpt": "Apple's iPhone Duo introduces Smart Take, Kid Cue, Duo Preview, and Duo FaceTime. Here's how its folding design changes group photos and where its cameras fall short. The post iPhone Duo Camera Tricks",
+        "dwp_take": "Apple's new iPhone Duo foldable phone includes camera features like Smart Take, Kid Cue, and Duo Preview that leverage its unique dual-screen design to improve group photos and video calls. For digital workplace professionals, this matters because hybrid work still relies heavily on video conferencing and remote collaboration, so any hardware that makes group calls less awkward is worth paying attention to. That said, calling these camera tricks a workplace game-changer feels like a stretch when most companies are still figuring out how to make their existing video setup not look like a hostage situation.",
+        "date": "2026-10-18T07:41:39.908754+00:00"
       }
     ]
   }
