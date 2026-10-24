@@ -1,147 +1,129 @@
 {
-  "generated": "2026-10-23T08:11:17.362520+00:00",
+  "generated": "2026-10-24T07:49:47.672716+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-        "dwp_take": "OpenAI is raising $30 billion at a $1.25 trillion valuation, which would make it the most valuable private company in history before going public. Digital workplace pros need to pay attention because this capital influx signals serious momentum behind AI tools that are already reshaping how we work, collaborate, and manage knowledge across organizations. Here's the thing though: valuation numbers that big tell us more about investor enthusiasm than actual product-market fit, and we've all seen that movie before.",
-        "date": "2026-10-23T08:10:20.213194+00:00"
+        "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "dwp_take": "OpenAI announced it's stopping live internet training for its frontier AI models due to what they're calling significant risks, a reversal from their previous stance just weeks earlier. For digital workplace pros, this matters because we've been betting on AI tools that improve over time through real-world data, and this pivot suggests the real-world data wasn't as risk-free as we thought. Looks like even the smartest people in the room sometimes need a few weeks to figure out that training on the live internet was maybe not the genius move they thought it was.",
+        "date": "2026-10-24T07:48:55.404215+00:00"
       },
       {
-        "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
-        "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft",
-        "dwp_take": "Microsoft claims its AI diagnostic system outperforms generalist doctors on difficult medical cases, though the actual performance boost appears to come from the underlying AI models rather than Microsoft's own innovation. Digital workplace leaders should care because this signals where healthcare IT is heading, and any organization managing clinical workflows or medical staff tools needs to understand both the real capabilities and the marketing narrative around AI diagnostics. Here's the thing: Suleyman's chasing \"superintelligence\" while the actual story is that he's wrapped a decent interface around existing models, which is useful but about as revolutionary as a really good dashboard built on someone else's database.",
-        "date": "2026-10-23T08:10:24.547629+00:00"
+        "excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
+        "dwp_take": "TechCrunch is hosting a 2026 founder summit that covers practical startup challenges like customer acquisition, team building, and scaling beyond just the usual fundraising and AI talk. This matters because digital workplace infrastructure increasingly serves early-stage companies and founders, so understanding founder pain points helps us build better collaboration tools and knowledge systems. Honestly, if a founder summit needs a full day just to explain how to find customers and build teams, maybe we've been overthinking the whole \"move fast and break things\" philosophy for a while now.",
+        "date": "2026-10-24T07:48:59.346858+00:00"
       },
       {
-        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-        "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-        "source": "TechCrunch",
+        "title": "Three insights you may have missed from theCUBE\u2019s coverage of Okta\u2019s Oktane event",
+        "url": "https://siliconangle.com/2026/10/23/ai-agent-governance-takes-shape-oktas-oktane-event-oktane/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-        "dwp_take": "Chinese state-aligned hackers broke into ConnectWise, an IT management platform used by thousands of companies worldwide, and used AI agents to rapidly pivot into customer networks at scale. This matters because your digital workplace runs on trust in third-party platforms, and when one gets compromised, the attackers essentially get handed a master key to every customer's front door. Here's the thing: we spent decades teaching people not to click suspicious links, and now the bad guys don't even need your help anymore.",
-        "date": "2026-10-23T08:10:28.211180+00:00"
+        "excerpt": "AI agent governance is moving identity security into the flow of work. As agents call tools, delegate tasks and act across applications, enterprises need controls that follow those actions beyond an i",
+        "dwp_take": "Okta is pushing the idea that identity security needs to evolve beyond traditional login controls to monitor and govern AI agents as they operate across your entire tech stack. This matters because most organizations still treat security as a checkpoint at the door, not as something that follows work through every system and application. The real test isn't whether vendors can sell you governance tools, it's whether your actual business processes can survive the weight of all that monitoring without grinding to a halt.",
+        "date": "2026-10-24T07:49:04.098305+00:00"
       },
       {
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-        "source": "TechCrunch",
+        "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+        "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-        "dwp_take": "Uber expanded its ChatGPT Work deployment from a small pilot to all 30,000 employees across the company. This matters because it signals how seriously enterprises are betting on AI assistants for everyday work tasks, and it gives digital workplace teams a real-world case study on scaling AI adoption at massive organizations. If Uber pulls this off without creating a support nightmare, other large companies will follow like lemmings, and if it goes sideways, we'll get another cautionary tale about rolling out shiny new tech before the culture is ready.",
-        "date": "2026-10-23T08:10:31.824680+00:00"
+        "excerpt": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorit",
+        "dwp_take": "Moonshot AI released Kim K3.1 Pro, a large language model with 3 trillion parameters that claims to outperform Claude and GPT-6 on certain tasks. This matters because better LLMs mean your organization's AI tools for knowledge work, customer service, and content creation will get smarter and cheaper faster than you're probably planning for. Look, another Chinese AI company dropping a credible competitor should tell you that the real workplace disruption isn't coming from hype cycles, it's coming from a dozen labs simultaneously making models that actually work better.",
+        "date": "2026-10-24T07:49:08.193036+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Remediation in the era of AI: Fix what matters first",
-        "url": "https://www.computerworld.com/article/4238649/remediation-in-the-era-of-ai-fix-what-matters-first.html",
+        "title": "Matrix gains ground in Europe\u2019s public sector \u2014 but replacing Teams is another matter",
+        "url": "https://www.computerworld.com/article/4239735/matrix-gains-ground-in-europes-public-sector-but-replacing-teams-is-another-matter.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Every IT and security team knows the feeling of opening a vulnerability report and seeing a number that only goes up. Thousands of findings. Hundreds marked critical. A backlog that grows faster than ",
-        "dwp_take": "Computerworld reports that AI is flooding security teams with vulnerability findings faster than humans can remediate them, forcing a shift from \"fix everything\" to \"fix what actually matters.\" This matters to digital workplace pros because an overwhelmed security team is a slow security team, which directly impacts user productivity when overzealous lockdowns and patches disrupt business as usual. Here's the uncomfortable truth: your security team has been printing tickets like a broken photocopier for years, and AI just cranked the toner to maximum.",
-        "date": "2026-10-23T08:10:37.217537+00:00"
+        "excerpt": "Matrix-based messaging tools are gaining traction among European governments that seek to gain greater control over sensitive communications data and lessen their reliance on US technology suppliers. ",
+        "dwp_take": "European governments are testing Matrix-based messaging platforms to reduce dependence on US tech giants and keep sensitive communications data under their own control. This matters because it signals a real shift in how organizations evaluate workplace tools, moving beyond feature checklists toward sovereignty and data governance concerns. Here's the thing though: interest in Matrix and actual Teams replacement are two completely different animals, and most government IT teams know it.",
+        "date": "2026-10-24T07:49:12.657350+00:00"
       },
       {
-        "title": "The Patch Apocalypse is here. Patching everything isn\u2019t the answer.",
-        "url": "https://www.computerworld.com/article/4238641/the-patch-apocalypse-is-here-patching-everything-isnt-the-answer.html",
+        "title": "OpenClaw creator spent $10 million on AI tokens last month",
+        "url": "https://www.computerworld.com/article/4239772/openclaw-creator-spent-10-million-on-ai-tokens-last-month-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "For most IT teams, Patch Tuesday used to set the rhythm of the month. Updates arrived, teams tested them, change boards approved them, and deployments rolled out over the following weeks. It wasn\u2019t pa",
-        "dwp_take": "Microsoft and other vendors are now releasing patches constantly instead of once monthly, forcing IT teams to abandon the old predictable Patch Tuesday rhythm. For digital workplace folks, this means your infrastructure stability depends on automation and continuous deployment strategies rather than scheduled maintenance windows. Here's the reality: organizations still trying to manually test and approve every patch are about to discover that security theater doesn't beat actual attackers, and five days is plenty of time for someone to ruin your week.",
-        "date": "2026-10-23T08:10:40.998388+00:00"
+        "excerpt": "OpenClaw, the AI digital assistant, is looking to establish itself as an essential tool for users \u2014 but if it is as profligate in its use of tokens as its creator, Pete Steinberger, then users could b",
+        "dwp_take": "OpenAI's Pete Steinberger dropped ten million bucks on AI tokens in a single month while developing OpenClaw, his new AI assistant tool. This matters because if the product inherits that token appetite, organizations rolling it out could face shocking usage costs that blow past their budgets faster than a chatbot through a knowledge base. The real question isn't whether AI is transforming work, it's whether we can afford to actually use it without needing a second mortgage.",
+        "date": "2026-10-24T07:49:16.308051+00:00"
       },
       {
-        "title": "Rogue AI: When agents stop advising and start acting",
-        "url": "https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html",
+        "title": "SAP lets AI play key role in its certification renewal process",
+        "url": "https://www.computerworld.com/article/4239660/sap-lets-ai-play-key-role-in-its-certification-renewal-process-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "For the past few years, most enterprise AI has been advisory. It summarized tickets, drafted knowledge articles, and suggested next steps. A person still decided what to do. That\u2019s changing. Agentic A",
-        "dwp_take": "Agentic AI is moving from suggesting actions to autonomously executing them across enterprise systems, which means AI is now actually making changes instead of just recommending them. This matters because digital workplace teams need to understand governance, control, and accountability when AI starts operating unsupervised in your production environments. After three decades watching technology implementations, I'll say this: giving AI a credit card and hoping it doesn't go on a spending spree is how you end up explaining to the board why your entire workflow got reorganized at 2 AM.",
-        "date": "2026-10-23T08:10:44.850978+00:00"
+        "excerpt": "SAP professionals can now renew their certifications through AI-based roleplays. The new service builds on SAP\u2019s revamp of its certification program last year, shifting the focus from rote learning of",
+        "dwp_take": "SAP is now using AI-powered roleplay simulations to help professionals renew their certifications instead of relying on traditional exams. This matters because it signals that tech vendors are finally getting serious about proving people can actually do the work instead of just memorizing facts, which is a shift the industry desperately needed. The real test will be whether SAP's AI can actually catch the difference between someone who knows their stuff and someone who's just good at prompt engineering.",
+        "date": "2026-10-24T07:49:19.909829+00:00"
       },
       {
-        "title": "Compromised security certificates blocked in Chrome, Firefox",
-        "url": "https://www.computerworld.com/article/4239086/google-mozilla-revoke-emudhra-intermediates-after-private-key-compromise-3.html",
+        "title": "eMudhra quits global TLS certificate market after compromise of CA signing keys",
+        "url": "https://www.computerworld.com/article/4239619/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Private keys associated with eight intermediate certificate authorities operated by Indian digital trust provider eMudhra have been compromised, potentially allowing attackers to forge trusted certifi",
-        "dwp_take": "Google and Mozilla have revoked trust in eight intermediate certificates from Indian certificate authority eMudhra after the company's private keys were compromised, meaning attackers could potentially forge legitimate-looking certificates to impersonate websites and services. This matters because certificate authorities are the foundation of web security, and when they fail, every organization relying on HTTPS and SSL/TLS encryption is theoretically at risk until patches roll out. Here's the thing: eMudhra probably isn't the household name that keeps your CISO up at night, but this is exactly why you can't just buy a certificate and forget about it, and why those browser updates your users keep ignoring are actually worth the five minutes of inconvenience.",
-        "date": "2026-10-23T08:10:49.211769+00:00"
+        "excerpt": "Indian digital trust company eMudhra has announced that it is exiting the global SSL/TLS certificate business and is offering customers certificates issued by Sectigo as an alternative, following the ",
+        "dwp_take": "eMudhra, an Indian digital trust company, is pulling out of the global SSL/TLS certificate business after hackers compromised the private keys for eight of its intermediate certificate authorities. This matters because certificate authorities underpin security across the entire internet, and when one gets breached, it erodes trust in the whole system and forces everyone downstream to scramble for alternatives. Here's the thing: this is what happens when you skimp on security infrastructure, and it's a brutal reminder that in the trust business, one catastrophic failure can be your entire business model.",
+        "date": "2026-10-24T07:49:23.684806+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Electronic Arts lays off 400 in latest blow to beleaguered gaming industry",
-        "url": "https://www.fastcompany.com/91628229/electronic-arts-lays-off-400-in-latest-blow-to-beleaguered-gaming-industry?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Consuming political news can hurt your job performance",
+        "url": "https://www.fastcompany.com/91628551/consuming-political-news-can-hurt-your-job-performance?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Electronic Arts (EA) is reducing its global workforce by 3%, or about 400 jobs, and shutting down BioWare, the 31-year-old studio behind the Mass Effect series. The cuts, announced yesterday, are the ",
-        "dwp_take": "Electronic Arts cut 400 jobs (3% of workforce) and shut down the storied BioWare studio following its September privatization by Saudi Arabia's PIF, Silver Lake, and Jared Kushner. For digital workplace folks, this is a reminder that even after a company goes private with fresh capital, headcount reduction and studio consolidation remain the default playbook when investor timelines demand quick returns. The irony here is thick: you buy a creative company for $55 billion to supposedly unlock its potential, then immediately start dismantling it because the math doesn't work fast enough.",
-        "date": "2026-10-23T08:10:53.299893+00:00"
-      },
-      {
-        "title": "Everyone\u2019s taking PTO and sick days to play \u2018Grand Theft Auto VI\u2019",
-        "url": "https://www.fastcompany.com/91626090/everyones-taking-pto-and-sick-days-to-play-grand-theft-auto-vi?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Folks are lining up for their annual seasonal vaccines. But there\u2019s one contagion that a CVS appointment can\u2019t immunize against. \u201cGTA flu\u201d is sweeping the nation\u2014and many workers anticipate \u201ccatching\u201d",
-        "dwp_take": "Workers are calling in sick or burning PTO to play Grand Theft Auto VI when it launches on November 19, with some booking time off months in advance. This matters to digital workplace folks because it's a real signal about engagement, morale, and how people actually spend their discretionary time when given the choice. Look, if your workplace culture is losing to a video game, the problem isn't the video game.",
-        "date": "2026-10-23T08:10:56.723248+00:00"
-      },
-      {
-        "title": "Inside the Exclusive Nathan Fielder Interview",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "This week on \u201cUncanny Valley,\u201d we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires\u2019 generous promises, and discuss the suspicious letters sent to US election offices.",
-        "dwp_take": "Nathan Fielder got the Wired cover treatment this week, and they're spilling behind-the-scenes details on their podcast along with takes on tech billionaire promises and election office threats. This matters because digital workplace folks are increasingly caught in the crossfire between tech industry hype and actual governance, especially when billionaires start making public commitments they may or may not keep. Honestly, if you're trying to build authentic workplace culture, watching how tech leaders perform for magazine covers is probably the best cautionary tale you'll ever get.",
-        "date": "2026-10-23T08:11:01.424498+00:00"
+        "excerpt": "With the midterm elections around the corner, political anxiety is in season\u2014and productivity could pay the price. A new study from researchers at Texas A&M University shows that consuming political n",
+        "dwp_take": "A study shows that reading political news and doom-scrolling on personal time actually tanks job performance, regardless of whether you're talking politics at work. This matters because it proves what we've known intuitively for years: what employees consume mentally outside work bleeds into their focus and behavior inside work. Here's the real takeaway though - maybe instead of blaming the news cycle, organizations should ask whether their workplace culture is so brittle that employees need to escape into political anxiety in the first place.",
+        "date": "2026-10-24T07:49:27.730694+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Zoomtopia 2026: Zoom Introduces AI Agents, New Security Controls",
-        "url": "https://www.techrepublic.com/article/news-zoom-ai-agents-conversation-to-completion/",
+        "title": "Googlebook Adds Linux Developer Tools: What You Can Do With the New Terminal Preview",
+        "url": "https://www.techrepublic.com/article/news-googlebook-linux-terminal-preview-developer-tools/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Zoom unveils AI agents and its Unified Context Layer at Zoomtopia 2026. Learn how its new automation and security tools could affect IT teams. The post Zoomtopia 2026: Zoom Introduces AI Agents, New S",
-        "dwp_take": "Zoom just rolled out AI agents and a Unified Context Layer, basically betting that automation and tighter security controls are what enterprise customers actually want right now. For IT folks managing digital workplaces, this means evaluating whether these new tools genuinely reduce meeting bloat and compliance headaches or just add another layer of complexity to an already crowded stack. Here's the thing: AI agents sound great in keynotes, but I've seen plenty of automation tools create more work than they eliminate, so the real test is whether Zoom's version actually stays out of people's way.",
-        "date": "2026-10-23T08:11:05.805631+00:00"
+        "excerpt": "Google's Linux Terminal Preview brings AI agents and developer tools to Googlebook. Explore its features, security controls, and IT limitations. The post Googlebook Adds Linux Developer Tools: What Yo",
+        "dwp_take": "Google just gave Chromebook users native Linux terminal access with AI agent integration, which means developers can now actually do real work on what was previously a glorified browser window. This matters because it blurs the line between thin clients and proper development machines, forcing IT teams to rethink their device management strategies and security policies. Honestly, it's about time someone made Chromebooks useful for people who do things besides email and spreadsheets, though I'm guessing IT departments are already having stress dreams about the support tickets this will generate.",
+        "date": "2026-10-24T07:49:35.911555+00:00"
       },
       {
-        "title": "Google Chrome Cheat Sheet: Features, Gemini AI, Security, and More",
-        "url": "https://www.techrepublic.com/article/news-google-chrome-cheat-sheet/",
+        "title": "The AI Boom Needs More Data Centers. Trump Wants Communities to Get a Cut",
+        "url": "https://www.techrepublic.com/article/news-trump-data-center-community-dividends-ai/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Explore Google Chrome's features, Gemini AI, Auto Browse, security settings, privacy controls, and Chrome Enterprise tools in this complete cheat sheet. The post Google Chrome Cheat Sheet: Features, G",
-        "dwp_take": "Google published a comprehensive guide covering Chrome's built-in features, including its new Gemini AI integration, security controls, and enterprise management tools. Digital workplace pros need to understand these capabilities because Chrome remains the dominant browser in most organizations and IT teams are now responsible for managing AI features that employees will inevitably use. Here's the thing though: a cheat sheet doesn't solve the real problem, which is that most organizations still haven't figured out their actual Chrome governance strategy beyond \"IT approves it, so use it.\"",
-        "date": "2026-10-23T08:11:09.628010+00:00"
+        "excerpt": "Trump wants data center companies to pay host communities as opposition to AI infrastructure grows. Here's what the proposal could mean for future projects. The post The AI Boom Needs More Data Center",
+        "dwp_take": "Trump's proposal would require data center companies to share revenue with the communities hosting their facilities, addressing growing local pushback against AI infrastructure projects. This matters to digital workplace professionals because data center expansion directly affects cloud services, AI tools, and the reliability of workplace infrastructure we all depend on. Honestly, it's refreshing to see someone acknowledge that communities deserve compensation for hosting power-hungry server farms, though I'll believe the actual revenue sharing happens when I see the checks clear.",
+        "date": "2026-10-24T07:49:39.649383+00:00"
       },
       {
-        "title": "OPPO Find X10 Pro Max vs. Xiaomi 18 Pro Max: What Buyers Should Check",
-        "url": "https://www.techrepublic.com/article/news-oppo-find-x10-pro-max-vs-xiaomi-18-pro-max-apac-china/",
+        "title": "Hugging Face\u2019s New AI Model Lets Scientists Analyze DNA at a Fraction of the Cost",
+        "url": "https://www.techrepublic.com/article/news-hugging-face-carbon-x-ai-dna-analysis/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Compare the OPPO Find X10 Pro Max and Xiaomi 18 Pro Max on cameras, battery, displays, and pricing, plus regional differences to check before buying. The post OPPO Find X10 Pro Max vs. Xiaomi 18 Pro M",
-        "dwp_take": "This article compares two premium Android phones from Chinese manufacturers, breaking down their cameras, battery life, displays, and pricing across different regions. For digital workplace professionals who actually need to choose a device, this matters because your phone is now your office, so display quality and battery life directly impact your ability to work remotely without constantly hunting for a charger. Honestly, if you're spending this much on a phone just to compare specs online instead of going to a store and holding both in your hands, you're already overthinking it.",
-        "date": "2026-10-23T08:11:13.510579+00:00"
+        "excerpt": "Hugging Face's Carbon-X AI model lets researchers analyze DNA using natural language, with lower reported costs and local deployment options for labs. The post Hugging Face\u2019s New AI Model Lets Scienti",
+        "dwp_take": "Hugging Face released Carbon-X, an AI model that lets researchers analyze DNA using natural language processing instead of traditional coding, with significantly lower costs and the ability to run locally on lab servers. For digital workplace teams supporting science and research organizations, this matters because it's a practical example of AI that actually reduces complexity and cost instead of just adding another subscription service to the pile. Honestly, if your biotech team can finally stop paying for expensive analysis tools and run this locally, you've actually found one of those rare AI wins that makes people's jobs easier rather than just replacing them with something shinier.",
+        "date": "2026-10-24T07:49:43.818654+00:00"
       },
       {
-        "title": "OpenAI Ran Nearly 2,000 AI Agents on Brain Data: What They Found in 32 Minutes",
-        "url": "https://www.techrepublic.com/article/news-openai-ai-agents-brain-research/",
+        "title": "Meta AI Glasses Now on Sale in Malaysia: Which Ray-Ban or Oakley Model Should You Buy?",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-glasses-malaysia-launch/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "OpenAI used nearly 2,000 AI agents to analyze mouse brain-cell data in 32 minutes, uncovering possible links to neurological diseases for further study. The post OpenAI Ran Nearly 2,000 AI Agents on B",
-        "dwp_take": "OpenAI deployed nearly 2,000 AI agents to analyze mouse brain-cell data and identified potential neurological disease connections in just 32 minutes, a task that would have taken human researchers vastly longer. This matters to digital workplace folks because it shows how AI agents working in parallel can solve complex research problems at scale, which has real implications for how teams might offload analysis work in the future. The funny part is we're still arguing about whether AI will take our jobs while it's out here basically doing the work of a small army of neuroscientists before lunch.",
-        "date": "2026-10-23T08:11:17.362402+00:00"
+        "excerpt": "Meta's Ray-Ban and Oakley AI glasses are now available in Malaysia. Compare four models, their prices, features, and prescription compatibility. The post Meta AI Glasses Now on Sale in Malaysia: Which",
+        "dwp_take": "Meta's Ray-Ban and Oakley AI glasses just hit the Malaysian market, giving workers in that region access to wearable AI devices for the first time through official channels. For digital workplace folks, this matters because wearable AI is slowly moving from novelty to actual workplace tool, and regional availability signals we need to think about how these things fit into our real estate and collaboration strategies. Personally, I'll be curious to see if anyone actually buys these for work or if they mostly collect dust next to everyone's abandoned VR headsets.",
+        "date": "2026-10-24T07:49:47.672615+00:00"
       }
     ]
   }
