@@ -1,194 +1,5 @@
 [
   {
-    "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
-    "url": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes task",
-    "dwp_take": "DeepSeek just dropped a faster version of their V4.1-Flash AI model, claiming improved task completion speeds compared to the original release from five weeks ago. For digital workplace folks, this matters because faster AI models mean snappier response times in tools your teams actually use daily, whether that's for writing, summarizing, or automating routine work. The real question is whether \"faster\" translates to something meaningful in production or if we're just watching the usual AI arms race where each company claims marginal wins to stay relevant.",
-    "date": "2026-10-19T08:22:43.533182+00:00"
-  },
-  {
-    "title": "AI datacenter capex will far exceed forecast revenue through 2030",
-    "url": "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Investors are pouring more into AI data center infrastructure than they can hope to recoup by 2030, according to Gartner. \u201cEnterprise and consumer AI revenue will be insufficient to support profitable",
-    "dwp_take": "Companies are spending massive amounts building AI datacenters but won't make back their money until well after 2030, according to Gartner's analysis. This matters to digital workplace folks because it signals that AI vendors will push harder to monetize workplace tools to recover those costs, meaning more aggressive feature rollouts and pricing tactics aimed at your organization. We're basically watching an industry-wide game of chicken where someone's betting that workplace AI adoption will eventually justify the spending, and spoiler alert, that someone isn't you footing the bill.",
-    "date": "2026-10-19T08:22:49.046676+00:00"
-  },
-  {
-    "title": "Windows 11 has now been optimized for 8 gigabytes of memory",
-    "url": "https://www.computerworld.com/article/4236672/windows-11-has-now-been-optimized-for-8-gigabytes-of-memory.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Due to the global memory shortage, 8 gigabytes has once again become the standard among computer manufacturers. Fortunately, Microsoft has spent the past few months optimizing Windows 11 for computers",
-    "dwp_take": "Microsoft has finally optimized Windows 11 to run decently on 8GB of RAM, which is now the default spec manufacturers are shipping due to supply chain realities. This matters because most of your workforce is stuck on these machines, and bloated software that demands 16GB is a luxury many organizations can't afford right now. After months of users complaining that Windows 11 felt like it was written by someone who'd never heard of budget constraints, Microsoft did the obvious thing and actually made it work properly.",
-    "date": "2026-10-19T08:22:52.776230+00:00"
-  },
-  {
-    "title": "Meta Unveils Muse Spark Open, Its Most Powerful Open-Weight AI Yet",
-    "url": "https://www.techrepublic.com/article/news-meta-muse-spark-open-apple-mac-studio/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta's Muse Spark Open targets developers with powerful open-weight AI, Apple silicon support, and new deployment options. Here's what IT teams should know. The post Meta Unveils Muse Spark Open, Its ",
-    "dwp_take": "Meta released Muse Spark Open, an open-weight AI model designed for developers that runs on Apple silicon and offers flexible deployment options. This matters to digital workplace pros because it gives IT teams a genuinely capable alternative to proprietary AI without vendor lock-in or hefty licensing fees. The real win here is that Meta's actually putting powerful tools in developers' hands instead of keeping them behind a paywall, which is refreshingly different from how this usually plays out.",
-    "date": "2026-10-19T08:22:58.268404+00:00"
-  },
-  {
-    "title": "This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount",
-    "url": "https://www.techrepublic.com/article/this-week-in-tech-ai-gets-bigger-gadgets-get-smarter-and-security-risks-mount/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "See what you missed in Daily Tech Insider from Oct. 12\u201316. The post This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount appeared first on TechRepublic.",
-    "dwp_take": "AI systems expanded their capabilities this week while connected devices multiplied across enterprise networks, but security vulnerabilities grew faster than anyone's ability to patch them. Digital workplace leaders need to understand that every new AI tool and smart gadget on your network is a potential entry point for bad actors, and your current security posture probably isn't ready for the velocity of change. The real problem isn't that technology is getting smarter. It's that we're adding complexity at warp speed while security teams are still operating with last decade's playbooks.",
-    "date": "2026-10-19T08:23:02.249962+00:00"
-  },
-  {
-    "title": "Have agents, copilots, and chatbots made life harder?",
-    "url": "https://www.itpro.com/technology/artificial-intelligence/have-agents-copilots-and-chatbots-made-life-harder",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "AI was meant to lighten the load and help workers carry out tasks without having to learn new skills \u2013 in reality, that's not quite what happened",
-    "dwp_take": "A new piece in ITPro questions whether AI agents, copilots, and chatbots have actually made work easier or just added more complexity to already overwhelmed teams. This matters because digital workplace leaders are spending millions deploying these tools while workers are reporting fatigue and frustration instead of the promised productivity gains. Here's the thing: we built AI to automate away the grunt work, but instead we've created a new layer of tools that require their own training, monitoring, and babysitting, which kind of defeats the whole purpose.",
-    "date": "2026-10-19T08:23:06.290785+00:00"
-  },
-  {
-    "title": "Data centre and cloud shares slide amid AI gloom",
-    "url": "https://www.itpro.com/technology/artificial-intelligence/data-centre-and-cloud-shares-slide-amid-ai-gloom",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "Major providers saw massive selloffs following Barclays downgrade as Gartner warns on AI infrastructure spending",
-    "dwp_take": "Major cloud and data centre stocks took a beating after Barclays downgraded the sector, with investors suddenly worried that AI infrastructure spending won't deliver the promised returns. This matters because your company's cloud strategy, disaster recovery plans, and AI rollout timelines are all built on the assumption that these providers stay healthy and keep innovating. Here's the thing: we've been here before with every hot technology cycle, and the pendulum always swings from \"this changes everything\" to \"wait, what's the actual ROI?\" Buckle up.",
-    "date": "2026-10-19T08:23:10.366965+00:00"
-  },
-  {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "dwp_take": "A New York City official is calling out federal inaction on AI regulation and pushing for local pushback instead of accepting the \"inevitable takeover\" narrative. This matters because digital workplace leaders are already fielding questions from employees and leadership about AI policies, governance, and risk, and they're getting crickets from federal guidance. Here's the thing: whether you love or hate AI in your workplace, having zero guardrails at the federal level means every organization is basically writing their own rules right now, which is either a playground or a minefield depending on your risk tolerance.",
-    "date": "2026-10-20T08:06:02.529964+00:00"
-  },
-  {
-    "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
-    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a ",
-    "dwp_take": "Hugging Face's policy chief is basically saying that putting neutral observers inside AI companies to police their own safety isn't the silver bullet everyone thinks it is. For digital workplace leaders, this matters because it signals that AI governance is messier than vendors want you to believe, and that \"trust but verify\" approach you're considering might need actual teeth behind it. Here's the thing: embedding evaluators is like putting a security camera in a room and hoping nobody figures out where the blind spots are.",
-    "date": "2026-10-20T08:06:06.104294+00:00"
-  },
-  {
-    "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "dwp_take": "Microsoft is warning companies that AI agents operating outside their direct control pose security risks comparable to insider threats, basically admitting their frontier models are unpredictable enough to be dangerous. This matters because digital workplace leaders are rapidly deploying AI tools across their organizations, and now they're being told to treat some of those same tools as potential security liabilities. Here's the irony: Microsoft is simultaneously trying to sell you AI agents while cautioning that AI agents might betray you, which is either refreshingly honest or a brilliant marketing move depending on your cynicism level.",
-    "date": "2026-10-20T08:06:10.068861+00:00"
-  },
-  {
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI to",
-    "dwp_take": "Hackers breached OpenCode's platform and stole API keys, which let them run up massive AI charges on users' accounts while the AI safety systems basically shrugged and refused to help. This matters because your team probably uses these coding tools, and if security gets punched full of holes, your budget and your actual code are both at serious risk. The real kicker here is that the AI tools were supposedly too cautious to examine the malicious code, which means their guardrails protected nobody and just made the problem worse.",
-    "date": "2026-10-20T08:06:13.915783+00:00"
-  },
-  {
-    "title": "Meta\u2019s new commercial terms say if its AI makes a mistake, it will legally be the customer\u2019s fault",
-    "url": "https://www.computerworld.com/article/4237414/metas-new-commercial-terms-say-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "In Meta commercial terms changes slated to kick in on October 30, the company will shift the liability for any mistakes made by its AI models to its enterprise customers. The new language also makes t",
-    "dwp_take": "Meta just told enterprise customers they're responsible when Meta's AI screws up, and they're also liable for whatever their contractors do with it. This matters because any organization using Meta's AI tools now carries unlimited legal and operational risk while Meta walks away clean. It's a masterclass in having your cake and eating it too, except Meta gets to sell you the cake, use your kitchen without asking, and then charge you when the oven catches fire.",
-    "date": "2026-10-20T08:06:19.824087+00:00"
-  },
-  {
-    "title": "4 ways to tame shadow AI (hint: you need them all)",
-    "url": "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "In olden days \u2014 last year, say \u2014 employees using unsanctioned AI tools might copy-and-paste sensitive data that could end up in the AI company\u2019s training data set. Today, an unsanctioned AI can hack i",
-    "dwp_take": "Shadow AI is getting more dangerous because modern tools are now autonomously performing risky actions like accessing other systems without explicit employee requests, not just processing pasted data. Digital workplace professionals need to take this seriously because uncontrolled AI is becoming a genuine security and compliance nightmare that can't just be solved with policy theater. Ironically, the people who were worried about ChatGPT last year now look prescient, which is exactly zero comfort when Claude decides to go full heist movie on your vendor systems.",
-    "date": "2026-10-20T08:06:23.779131+00:00"
-  },
-  {
-    "title": "Apple is gaining as the industry shrinks",
-    "url": "https://www.computerworld.com/article/4237119/apple-is-gaining-as-the-industry-shrinks.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "It\u2019s all relative, but if you want to scope out the likely shape of the tech device industry in five years\u2019 time, you have to think of the likely shape of the replacement cycle, and right now it seems",
-    "dwp_take": "Apple's market share is growing while the overall PC and device market shrinks, positioning them to dominate the replacement cycle over the next five years. For digital workplace leaders, this matters because it directly impacts your device strategy, budget planning, and the support infrastructure you'll need to maintain. The irony is thick here: just when organizations spent the last decade standardizing on Windows and Android, Apple's reliability and longevity economics are forcing us to reconsider what \"standard\" even means anymore.",
-    "date": "2026-10-20T08:06:27.503420+00:00"
-  },
-  {
-    "title": "Every executive needs Jamie Dimon\u2019s mind on tap. Use AI to build this",
-    "url": "https://www.fastcompany.com/91621008/why-you-should-build-your-own-ai-board-of-directors?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "A senior financial services executive, Ryan Sparks, shared something unexpected with us in a discussion: He had built a \u201cJamie Dimon.\u201d Earlier in his career, he had access to the JPMorgan Chase CEO, r",
-    "dwp_take": "A finance exec built an AI chatbot trained on Jamie Dimon's leadership style and decision-making to replicate the access and mentorship he once had. For digital workplace folks, this is basically the democratization argument we've heard for twenty years, except now the tech might actually work. Here's the thing though: if your leadership is so inaccessible that employees need to build an AI version just to learn how they think, you've got a culture problem that no chatbot can fix.",
-    "date": "2026-10-20T08:06:31.779024+00:00"
-  },
-  {
-    "title": "Harvard Business School\u2019s former dean has studied CEOs for three decades. He says the role remains remarkably unchanged",
-    "url": "https://www.fastcompany.com/91623640/harvard-business-schools-former-dean-has-studied-ceos-for-three-decades-he-says-the-role-remains-remarkably-unchanged?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Hello and welcome to Modern CEO! I\u2019m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations",
-    "dwp_take": "A Harvard Business School dean who's spent thirty years studying CEOs says the job hasn't fundamentally changed despite massive shifts in technology and business models. This matters to digital workplace folks because it suggests that leadership challenges around communication, decision-making, and culture are constants, not things you can automate or reorganize away. Turns out you can't solve human problems with better software, which probably explains why every new collaboration tool still needs the same old change management nightmare.",
-    "date": "2026-10-20T08:06:35.437309+00:00"
-  },
-  {
-    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "dwp_take": "Disney is trying to acquire Character.AI's technology and intellectual property while the startup faces lawsuits from multiple states alleging its chatbots encouraged minors toward self-harm. This matters because it shows how corporations can use bankruptcy and acquisition as legal shields when AI products cause documented harm to vulnerable populations. Here's the thing: if your AI safety practices are so broken that regulators are circling, maybe the real issue isn't finding a bigger parent company to absorb the liability, it's actually fixing the product first.",
-    "date": "2026-10-20T08:06:40.760826+00:00"
-  },
-  {
-    "title": "Windows 11 Photos Gets a 25% Faster Editor \u2014 Here\u2019s Who Gets It First",
-    "url": "https://www.techrepublic.com/article/news-windows-11-photos-app-update-insiders/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Windows 11 Photos is getting a faster editor, improved viewer, and connected gallery. Here's what's changing and when the update arrives. The post Windows 11 Photos Gets a 25% Faster Editor \u2014 Here\u2019s W",
-    "dwp_take": "Microsoft is rolling out a faster Photos editor in Windows 11 that's 25 percent quicker, along with an improved viewer and connected gallery features. This matters because digital workplace professionals are still stuck dealing with bloated native apps when they should be using purpose-built tools, but if you're going to use Photos anyway, faster is objectively better than slower. Honestly, it's nice that Microsoft is finally making their bundled apps not feel like they're running through peanut butter, but this still won't convince anyone to stop using their favorite third-party alternatives.",
-    "date": "2026-10-20T08:06:44.974118+00:00"
-  },
-  {
-    "title": "Microsoft Warns Windows Server Updates May Disrupt Exchange Email \u2014 Here\u2019s the Workaround",
-    "url": "https://www.techrepublic.com/article/news-windows-server-exchange-email-workaround/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Microsoft's October Windows Server updates may disrupt Exchange email. Here's what administrators need to know about the temporary workaround. The post Microsoft Warns Windows Server Updates May Disru",
-    "dwp_take": "Microsoft's October Windows Server updates can break Exchange email functionality, requiring administrators to apply a workaround before patching systems. This matters because Exchange downtime hits productivity hard, and IT teams need advance notice to plan maintenance windows and communicate with business units. After thirty years in this space, I can tell you that \"temporary workaround\" is IT's kindest euphemism for \"we shipped something broken, sorry about that.\"",
-    "date": "2026-10-20T08:06:48.522539+00:00"
-  },
-  {
-    "title": "Philippines Launches Online Notarization: What It Means for Business Documents",
-    "url": "https://www.techrepublic.com/article/news-online-notarization-business-documents-apac-philippines/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "The Philippines launches nationwide online notarization, giving businesses new ways to handle eligible digital documents through accredited platforms. The post Philippines Launches Online Notarization",
-    "dwp_take": "The Philippines just went live with a nationwide online notarization system that lets businesses handle eligible digital documents through approved platforms instead of schlepping to a notary's office. This matters because it's a real example of how government infrastructure can actually support remote work and distributed teams, which is something most digital workplace platforms still treat like a nice-to-have instead of essential. Finally, someone's actually building the plumbing that makes hybrid work functional at a policy level, which beats another corporate wellness app by about a million miles.",
-    "date": "2026-10-20T08:06:52.390443+00:00"
-  },
-  {
-    "title": "Safari vs Chrome on Mac: Apple Claims 5 More Hours of Battery Life, but Do Tests Agree?",
-    "url": "https://www.techrepublic.com/article/news-safari-vs-chrome-mac-battery-life/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple says Safari delivers five more hours of streaming than Chrome. Independent battery research raises questions about performance during a workday. The post Safari vs Chrome on Mac: Apple Claims 5 ",
-    "dwp_take": "Apple claims Safari gives you five extra hours of battery life compared to Chrome, but independent testing isn't backing up those numbers. For remote workers and road warriors, battery life directly impacts productivity, so knowing which browser actually delivers matters when you're stuck in airports or coffee shops without a charger. Look, I've seen vendors make battery claims since the dial-up days, and until the real-world data matches the marketing, I'm keeping Chrome installed and my skepticism fully charged.",
-    "date": "2026-10-20T08:06:56.238398+00:00"
-  },
-  {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "source": "TechCrunch",
@@ -925,5 +736,149 @@
     "excerpt": "With over 100 cyber attacks impacting major sectors this year, Japan\u2019s ruling party is calling for an emergency taskforce to strengthen AI defenses",
     "dwp_take": "Japan's facing a wave of cyber attacks across major sectors this year, prompting the ruling party to push for an emergency taskforce focused on AI-powered defenses. For digital workplace pros, this is a reminder that security infrastructure can't be an afterthought when you're scaling remote work and cloud adoption. Here's the thing though: no amount of AI wizardry stops an employee from clicking a suspicious link, so Japan might want to pair that taskforce with some old-fashioned security training while they're at it.",
     "date": "2026-10-26T08:23:29.778138+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise cust",
+    "dwp_take": "Anthropic's IPO filing shows they're using the classic Amazon playbook where customers who use multiple products become harder to leave, with over half their big-money clients now using both Claude Platform and their own apps. This matters because it signals how AI vendors are moving beyond one-trick-pony tools and building ecosystems that integrate deeper into enterprise workflows. After 30 years watching vendors try this trick, I'll say it works until someone builds something better, so smart procurement teams should be watching whether these integrations are solving real problems or just making switching costs annoying.",
+    "date": "2026-10-27T08:33:15.196826+00:00"
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
+    "dwp_take": "Anthropic just filed to go public after building Claude into a serious enterprise player, which means the AI assistant race just got a whole lot more real for workplace tech decisions. This matters because your organization might soon be choosing between Claude, ChatGPT, and whatever else is cooking, and you'll want to understand which companies are actually sustainable versus which are burning cash like it's their job. Here's the thing: a company filing for IPO while explicitly designing its governance to avoid being told what to do is either admirably principled or a recipe for some very expensive board meeting arguments down the line.",
+    "date": "2026-10-27T08:33:19.316878+00:00"
+  },
+  {
+    "title": "SAP advances its autonomous enterprise push with smarter, governed Joule agents",
+    "url": "https://siliconangle.com/2026/10/27/sap-advances-its-autonomous-enterprise-push-with-smarter-governed-joule-agents/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "SAP SE today announced a set of artificial intelligence innovations at its annual TechEd conference for developers, enhancing its Joule assistant solutions and Business AI Platform, including tabular ",
+    "dwp_take": "SAP rolled out new AI upgrades to its Joule assistant platform, adding smarter agents with better governance and the ability to work across different systems using open protocols. This matters because enterprise workers are drowning in disconnected tools, and AI agents that actually play nicely together could genuinely reduce the chaos instead of adding to it. That said, I'll believe \"autonomous enterprise\" when I see it working reliably on a Monday morning without someone calling the help desk in a panic.",
+    "date": "2026-10-27T08:33:24.067705+00:00"
+  },
+  {
+    "title": "Cisco Partner Summit: Five insights that will define the channel in the AI era",
+    "url": "https://siliconangle.com/2026/10/27/cisco-partner-summit-five-insights-that-will-define-the-channel-in-the-ai-era/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "For most of its 30-year history, Cisco Partner Summit has focused on how partners sell Cisco Systems Inc. technology. This year\u2019s event in Vancouver was about something different: how partners make mo",
+    "dwp_take": "Cisco's partner summit shifted focus from selling boxes to helping partners build sustainable AI-driven business models in a world where individual transactions matter less. This matters because it signals that the entire vendor ecosystem is finally accepting that AI commoditizes products faster than partners can inventory them, forcing a pivot toward services and outcomes. The real takeaway is that after 30 years of \"sell more stuff,\" the channel is learning what consultants figured out in 2015: the margin is in the advice, not the appliance.",
+    "date": "2026-10-27T08:33:27.946946+00:00"
+  },
+  {
+    "title": "Github competitor Entire is live now \u2013 how the agent-first platform works",
+    "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
+    "dwp_take": "Entire has launched as a GitHub alternative built specifically around AI agents doing the actual coding work rather than humans. This matters because digital workplace teams are suddenly managing a hybrid workforce where code gets written by both people and AI, which means your collaboration platforms need to handle that reality or become obsolete fast. Honestly, watching startups chase every AI trend gets old, but if Entire actually solves the \"how do we version control and review code written by agents\" problem, they've found something worth building instead of just slapping AI onto existing tools.",
+    "date": "2026-10-27T08:33:32.215553+00:00"
+  },
+  {
+    "title": "Apple\u2019s new OLED iPad Mini is the upgrade I\u2019ve been waiting for \u2013 here\u2019s why",
+    "url": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It\u2019s already on my shopping list.",
+    "dwp_take": "Apple released a new OLED iPad Mini starting at $799, available for preorder October 27 with store availability November 6. For digital workplace pros, this matters because better screens mean better content creation, design work, and video collaboration on the go, which translates to real productivity gains in hybrid environments. Honestly though, if you're still justifying a tablet purchase to your CFO based on \"productivity,\" you're doing it wrong. Just say you want one.",
+    "date": "2026-10-27T08:33:35.880394+00:00"
+  },
+  {
+    "title": "Microsoft Teams to get AI protection against phishing and fraud",
+    "url": "https://www.computerworld.com/article/4240393/microsoft-teams-gets-ai-protection-against-phishing-and-fraud.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft is adding a new AI-powered security feature to Teams aimed at detecting phishing, scams, and identity theft by analyzing conversations, Bleeping Computer reports. Instead of primarily checki",
+    "dwp_take": "Microsoft is rolling out an AI feature for Teams that analyzes message content itself to catch phishing and fraud attempts, rather than just flagging dodgy links and files. This matters because most phishing attacks succeed through social engineering, not malware, so catching suspicious behavior in actual conversations could save your organization from real financial and data losses. Finally, someone decided the answer to \"how do we stop people from getting scammed\" isn't just \"block the bad URL\" but \"maybe read what people are actually saying to each other.\" About time.",
+    "date": "2026-10-27T08:33:40.190126+00:00"
+  },
+  {
+    "title": "Technology has changed. So should the conversation.",
+    "url": "https://www.computerworld.com/article/4239947/technology-has-changed-so-should-the-conversation.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "I\u2019ve spent more than 20 years talking about technology and how it can improve people\u2019s lives. For most of that time, I was optimistic about the future. I still believe tech can make our lives better. ",
+    "dwp_take": "Computerworld's veteran tech commentator is calling out the industry for abandoning the basic question of whether technology actually improves people's lives, arguing we need more critical examination instead of blind optimism. For digital workplace professionals, this lands hard because we're the ones dealing with the tools nobody actually asked for that somehow ended up slowing down productivity instead of speeding it up. After three decades watching companies bolt on features nobody needs, I'm with this one: the next time a vendor promises transformation, ask them to prove it doesn't make your job worse first.",
+    "date": "2026-10-27T08:33:44.287367+00:00"
+  },
+  {
+    "title": "Entrepreneurship might be the key to a longer life",
+    "url": "https://www.fastcompany.com/91629305/entrepreneurship-might-be-the-key-to-a-longer-life?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "If you thought entrepreneurship was too stressful a path to venture down, you might want to reassess. A new study found that there may be a surprising benefit to starting a business: longevity. The st",
+    "dwp_take": "Researchers at Stevens Institute of Technology found that entrepreneurs actually live longer than their non-business-owning peers, contradicting the assumption that startup stress kills you faster. This matters to digital workplace folks because remote work and independent projects are blurring the line between employment and entrepreneurship, meaning more of us might be accidentally extending our lifespans through side hustles. Of course, the real question is whether entrepreneurs live longer or just feel like they're living longer because they're checking Slack at 2am on a Sunday.",
+    "date": "2026-10-27T08:33:48.276566+00:00"
+  },
+  {
+    "title": "Kevin O\u2019Leary has one rule for giving money to family. It works at any income",
+    "url": "https://www.fastcompany.com/91626003/kevin-oleary-one-rule-giving-money-family-works-any-income?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "It\u2019s pretty hard to feel bad for billionaires, but according to a host of incredibly wealthy people there\u2019s one aspect of being filthy rich that is no fun at all: deciding what to do when friends and ",
+    "dwp_take": "Kevin O'Leary shared his personal rule for handling money requests from family: apparently he treats it like a business decision rather than an emotional one. This matters to workplace culture because how leaders handle money and boundaries at home often mirrors how they handle resources and people decisions at work, which means understanding their personal philosophy can actually tell you something about their management style. My take: if you need a billionaire's advice on saying no to family, maybe the real problem isn't the rule but that you haven't figured out your own values yet.",
+    "date": "2026-10-27T08:33:52.260834+00:00"
+  },
+  {
+    "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details. \u201cAnthropic owes investors more information,\u201d one analyst tells WIRED.",
+    "dwp_take": "Anthropic's IPO filing is loaded with pages but somehow manages to hide the actual financial numbers that matter, which is either a bold strategy or a masterclass in \"look busy.\" For those of us building digital workplaces around AI tools, this opacity matters because we need to understand whether these vendors are actually sustainable or just expensive experiments with great marketing. The old saying goes that if you can't understand how a company makes money, you probably shouldn't bet your enterprise stack on their staying power for the next five years.",
+    "date": "2026-10-27T08:33:56.504693+00:00"
+  },
+  {
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "Anthropic thinks \u201cclosing the loop\u201d is the best path to AI triumph\u2014and a recipe for \u201cexistential\u201d threats to humanity.",
+    "dwp_take": "Anthropic's IPO filing basically admits that the more they optimize their AI systems, the closer they get to creating something that could pose existential risks to humanity. For digital workplace folks, this matters because we're about to deploy AI tools into our organizations without fully understanding the long-term safety implications of what we're building. Here's the thing: if the people actually making the AI are worried about doomsday scenarios in their official regulatory filings, maybe we should all pump the brakes on the \"AI solves everything\" narrative and actually think through what we're inviting into our offices.",
+    "date": "2026-10-27T08:34:00.519237+00:00"
+  },
+  {
+    "title": "Which iPhones Support iOS 27? Full Compatibility List and Missing Features",
+    "url": "https://www.techrepublic.com/article/news-ios-27-compatible-iphones-2026/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Which iPhones support iOS 27? See the full compatibility list, Apple Intelligence requirements, missing features, and whether you should upgrade. The post Which iPhones Support iOS 27? Full Compatibil",
+    "dwp_take": "Apple's releasing iOS 27 with some devices getting left behind due to hardware limitations and AI feature requirements. This matters because your workplace device strategy needs to account for fragmentation, security patches, and whether older phones will actually run the apps your organization depends on. After three decades watching tech rollouts, I can tell you that \"full compatibility list\" is corporate speak for \"we're leaving some of you behind, and yes, it will cause support tickets.\"",
+    "date": "2026-10-27T08:34:04.496737+00:00"
+  },
+  {
+    "title": "Starlink Restrictions Explained: What Enterprises Can Learn",
+    "url": "https://www.techrepublic.com/article/news-ukraine-starlink-restored-enterprise-redundancy-emea/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Ukraine says Starlink service has been restored after days of disruption. The incident highlights why enterprises need tested, independent backup systems. The post Starlink Restrictions Explained: Wha",
+    "dwp_take": "Ukraine lost Starlink connectivity for several days, which got restored after Elon Musk's intervention. This matters because it's a brutal reminder that relying on any single connectivity provider, no matter how shiny or space-age, leaves your workforce vulnerable when things go sideways. After thirty years watching companies bet the farm on the latest tech magic, I can tell you this lesson costs about a million dollars to learn the hard way, or you can just read this article and save yourself the trouble.",
+    "date": "2026-10-27T08:34:08.308073+00:00"
+  },
+  {
+    "title": "iPhone Duo Gets 5/10 for Repairability as iFixit Probes Screen Failures",
+    "url": "https://www.techrepublic.com/article/news-iphone-duo-ifixit-screen-failures/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "iFixit gives the iPhone Duo a provisional 5/10 repair score while investigating screen failures. See hinge concerns, $999 repairs, and tips for owners. The post iPhone Duo Gets 5/10 for Repairability ",
+    "dwp_take": "Google's new foldable phone scored a middling 5 out of 10 on repairability, with iFixit flagging hinge problems and screen failures that can run you nearly a grand to fix. This matters because your workforce is going to want these devices, and IT teams need to factor repair costs and downtime into device strategy and procurement decisions. Spending a thousand bucks to fix a screen on a phone that costs a thousand bucks is the kind of math that makes finance departments weep.",
+    "date": "2026-10-27T08:34:12.146123+00:00"
+  },
+  {
+    "title": "Block Previews Dessa, an AI Voice Model Trained Without Text",
+    "url": "https://www.techrepublic.com/article/news-block-dessa-voice-ai-trained-without-text/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Block previews Dessa, a voice AI model trained without text. Explore its local hardware claims, safety risks, and what businesses should assess next. The post Block Previews Dessa, an AI Voice Model T",
+    "dwp_take": "Block's new Dessa voice AI model bypasses text training entirely, working directly from audio to create synthetic voices. This matters because digital workplace teams will soon face real decisions about deploying voice AI for everything from customer service to internal communications, and understanding the training methodology directly affects safety and liability exposure. The irony is we're building increasingly sophisticated voice tech while most organizations still can't properly govern their existing AI tools, so this should make your compliance team sweat a little.",
+    "date": "2026-10-27T08:34:15.947092+00:00"
   }
 ]
