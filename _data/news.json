@@ -1,62 +1,71 @@
 {
-  "generated": "2026-10-27T08:34:15.947203+00:00",
+  "generated": "2026-10-27T15:34:25.931592+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise cust",
-        "dwp_take": "Anthropic's IPO filing shows they're using the classic Amazon playbook where customers who use multiple products become harder to leave, with over half their big-money clients now using both Claude Platform and their own apps. This matters because it signals how AI vendors are moving beyond one-trick-pony tools and building ecosystems that integrate deeper into enterprise workflows. After 30 years watching vendors try this trick, I'll say it works until someone builds something better, so smart procurement teams should be watching whether these integrations are solving real problems or just making switching costs annoying.",
-        "date": "2026-10-27T08:33:15.196826+00:00"
+        "excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+        "dwp_take": "Rohit Patel just walked away from Meta's AI shop to run Ndoc, a startup gunning for Microsoft Office and Google Workspace with AI smarts. This matters because the productivity software wars are heating up and talent is clearly voting with their feet toward the next big thing. After eight years at Meta, he's betting that AI-powered document tools can crack the market that's been Microsoft's fortress for three decades, which is either visionary or the kind of moonshot that keeps VCs awake at night.",
+        "date": "2026-10-27T15:33:36.064640+00:00"
       },
       {
-        "title": "Anthropic officially files for its public debut",
-        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
-        "dwp_take": "Anthropic just filed to go public after building Claude into a serious enterprise player, which means the AI assistant race just got a whole lot more real for workplace tech decisions. This matters because your organization might soon be choosing between Claude, ChatGPT, and whatever else is cooking, and you'll want to understand which companies are actually sustainable versus which are burning cash like it's their job. Here's the thing: a company filing for IPO while explicitly designing its governance to avoid being told what to do is either admirably principled or a recipe for some very expensive board meeting arguments down the line.",
-        "date": "2026-10-27T08:33:19.316878+00:00"
+        "excerpt": "The new standard, WebAI, is designed to work with a variety of AI models.",
+        "dwp_take": "Opera is pushing a new web standard called WebAI that lets users run AI models directly in their browsers instead of sending everything to the cloud. This matters because digital workplace teams are already scrambling to figure out privacy, security, and compliance around AI tools, and local processing could become a real alternative to cloud-dependent solutions. Honestly though, getting browsers to agree on anything is like herding cats wearing different colored collars, so whether WebAI actually becomes standard or just becomes another footnote in tech history remains to be seen.",
+        "date": "2026-10-27T15:33:39.962047+00:00"
       },
       {
-        "title": "SAP advances its autonomous enterprise push with smarter, governed Joule agents",
-        "url": "https://siliconangle.com/2026/10/27/sap-advances-its-autonomous-enterprise-push-with-smarter-governed-joule-agents/",
-        "source": "SiliconAngle",
+        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+        "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "SAP SE today announced a set of artificial intelligence innovations at its annual TechEd conference for developers, enhancing its Joule assistant solutions and Business AI Platform, including tabular ",
-        "dwp_take": "SAP rolled out new AI upgrades to its Joule assistant platform, adding smarter agents with better governance and the ability to work across different systems using open protocols. This matters because enterprise workers are drowning in disconnected tools, and AI agents that actually play nicely together could genuinely reduce the chaos instead of adding to it. That said, I'll believe \"autonomous enterprise\" when I see it working reliably on a Monday morning without someone calling the help desk in a panic.",
-        "date": "2026-10-27T08:33:24.067705+00:00"
+        "excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+        "dwp_take": "General Compute just landed $100 million in Series A funding to build inference chips that don't depend on Nvidia's dominance. This matters because digital workplaces run on compute infrastructure, and chip diversification means potentially better availability and pricing for the AI tools your organization actually uses. Here's the thing though: another well-funded startup solving the chip problem is great, but it won't matter one bit if the software running on those chips is still a dumpster fire.",
+        "date": "2026-10-27T15:33:43.509534+00:00"
       },
       {
-        "title": "Cisco Partner Summit: Five insights that will define the channel in the AI era",
-        "url": "https://siliconangle.com/2026/10/27/cisco-partner-summit-five-insights-that-will-define-the-channel-in-the-ai-era/",
+        "title": "Regal debuts Goal Oriented Agents, putting an actor and a director model on every call",
+        "url": "https://siliconangle.com/2026/10/27/regal-debuts-goal-oriented-agents-putting-an-actor-and-a-director-model-on-every-call/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "For most of its 30-year history, Cisco Partner Summit has focused on how partners sell Cisco Systems Inc. technology. This year\u2019s event in Vancouver was about something different: how partners make mo",
-        "dwp_take": "Cisco's partner summit shifted focus from selling boxes to helping partners build sustainable AI-driven business models in a world where individual transactions matter less. This matters because it signals that the entire vendor ecosystem is finally accepting that AI commoditizes products faster than partners can inventory them, forcing a pivot toward services and outcomes. The real takeaway is that after 30 years of \"sell more stuff,\" the channel is learning what consultants figured out in 2015: the margin is in the advice, not the appliance.",
-        "date": "2026-10-27T08:33:27.946946+00:00"
+        "excerpt": "Enterprise voice artificial intelligence company Regal Voice Inc. today added Goal Oriented Agents to its platform, enabling businesses using them to define what a call has to accomplish, and providin",
+        "dwp_take": "Regal Voice rolled out Goal Oriented Agents, a new AI feature that splits call handling between two models: one that acts and one that directs, letting businesses define what each call needs to accomplish. This matters because most digital workplace communication still happens on calls, and automating them with actual direction beats the usual chatbot that just flails around hoping something sticks. I've seen plenty of AI call tools that sound like they're reading from a fortune cookie, so splitting the work between an actor and director might actually produce something that doesn't make people want to hang up immediately.",
+        "date": "2026-10-27T15:33:48.467296+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Github competitor Entire is live now \u2013 how the agent-first platform works",
-        "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
-        "source": "ZDNet",
+        "title": "Microsoft offers exits to thousands of employees, including staff on AI and Copilot teams",
+        "url": "https://www.computerworld.com/article/4241056/microsoft-offers-exits-to-thousands-including-employees-on-ai-and-copilot-teams.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
-        "dwp_take": "Entire has launched as a GitHub alternative built specifically around AI agents doing the actual coding work rather than humans. This matters because digital workplace teams are suddenly managing a hybrid workforce where code gets written by both people and AI, which means your collaboration platforms need to handle that reality or become obsolete fast. Honestly, watching startups chase every AI trend gets old, but if Entire actually solves the \"how do we version control and review code written by agents\" problem, they've found something worth building instead of just slapping AI onto existing tools.",
-        "date": "2026-10-27T08:33:32.215553+00:00"
+        "excerpt": "Microsoft is offering voluntary exit packages to about 60,000 employees, roughly 27% of its workforce, including staff on teams building Copilot and other AI products, as the company looks for ways to",
+        "dwp_take": "Microsoft is offering voluntary exit packages to roughly 27% of its workforce (about 60,000 people) to fund AI investments, including some staff working on Copilot and related AI products. This matters because it signals that even the biggest tech companies are making hard choices about headcount and priorities, which could reshape how organizations think about their own digital workplace strategies and AI spending. Apparently the future of AI is so expensive that you've got to pay people to leave today, which is a pretty expensive way to fund innovation if you think about it.",
+        "date": "2026-10-27T15:33:53.267998+00:00"
       },
       {
-        "title": "Apple\u2019s new OLED iPad Mini is the upgrade I\u2019ve been waiting for \u2013 here\u2019s why",
-        "url": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
-        "source": "ZDNet",
+        "title": "OpenAI bets on AI economics with lower-cost GPT-6.1 Terra",
+        "url": "https://www.computerworld.com/article/4241023/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra-2.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It\u2019s already on my shopping list.",
-        "dwp_take": "Apple released a new OLED iPad Mini starting at $799, available for preorder October 27 with store availability November 6. For digital workplace pros, this matters because better screens mean better content creation, design work, and video collaboration on the go, which translates to real productivity gains in hybrid environments. Honestly though, if you're still justifying a tablet purchase to your CFO based on \"productivity,\" you're doing it wrong. Just say you want one.",
-        "date": "2026-10-27T08:33:35.880394+00:00"
+        "excerpt": "OpenAI has launched GPT-6.1 Terra, a new reasoning model that it says delivers near-frontier performance on visual reasoning, professional task execution, and computer-use benchmarks without the premi",
+        "dwp_take": "OpenAI released GPT-6.1 Terra, a cheaper reasoning model designed to handle visual tasks, professional work, and automation without breaking the bank compared to their pricier models. For digital workplace teams, this matters because it finally makes serious AI capabilities accessible for enterprise automation projects that were previously cost-prohibitive. Here's the thing though: we've heard the \"lower cost, same performance\" story before, and I'll believe the real-world adoption numbers in six months when people stop running benchmarks and start running their actual messy business processes through it.",
+        "date": "2026-10-27T15:33:57.304603+00:00"
+      },
+      {
+        "title": "The right model at the right moment: Vendors push their agentic AI PC vision",
+        "url": "https://www.computerworld.com/article/4240536/right-model-at-right-moment-vendors-push-agentic-ai-pc-vision.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "AI is getting expensive, and companies are looking to cut token costs. The solution: move more AI work to PCs. The PC won\u2019t replace the cloud. Preliminary AI work can be done on a PC, and tougher work",
+        "dwp_take": "Vendors are pushing the idea of running AI workloads locally on employee PCs instead of always routing them through expensive cloud services, with the PC handling lighter tasks and the cloud handling the heavy lifting. This matters because every dollar your company spends on token costs is a dollar not spent on actual productivity tools, and IT needs to understand this hybrid model to make smart infrastructure choices. The funny part is we're basically reinventing the mainframe versus desktop debate, except now we're calling it \"agentic AI\" and pretending it's revolutionary when it's really just economics finally catching up to common sense.",
+        "date": "2026-10-27T15:34:01.380294+00:00"
       },
       {
         "title": "Microsoft Teams to get AI protection against phishing and fraud",
@@ -64,93 +73,57 @@
         "source": "Computerworld",
         "category": "tools-tech",
         "excerpt": "Microsoft is adding a new AI-powered security feature to Teams aimed at detecting phishing, scams, and identity theft by analyzing conversations, Bleeping Computer reports. Instead of primarily checki",
-        "dwp_take": "Microsoft is rolling out an AI feature for Teams that analyzes message content itself to catch phishing and fraud attempts, rather than just flagging dodgy links and files. This matters because most phishing attacks succeed through social engineering, not malware, so catching suspicious behavior in actual conversations could save your organization from real financial and data losses. Finally, someone decided the answer to \"how do we stop people from getting scammed\" isn't just \"block the bad URL\" but \"maybe read what people are actually saying to each other.\" About time.",
-        "date": "2026-10-27T08:33:40.190126+00:00"
-      },
-      {
-        "title": "Technology has changed. So should the conversation.",
-        "url": "https://www.computerworld.com/article/4239947/technology-has-changed-so-should-the-conversation.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "I\u2019ve spent more than 20 years talking about technology and how it can improve people\u2019s lives. For most of that time, I was optimistic about the future. I still believe tech can make our lives better. ",
-        "dwp_take": "Computerworld's veteran tech commentator is calling out the industry for abandoning the basic question of whether technology actually improves people's lives, arguing we need more critical examination instead of blind optimism. For digital workplace professionals, this lands hard because we're the ones dealing with the tools nobody actually asked for that somehow ended up slowing down productivity instead of speeding it up. After three decades watching companies bolt on features nobody needs, I'm with this one: the next time a vendor promises transformation, ask them to prove it doesn't make your job worse first.",
-        "date": "2026-10-27T08:33:44.287367+00:00"
+        "dwp_take": "Microsoft is rolling out an AI feature in Teams that analyzes conversation patterns to spot phishing and fraud attempts rather than just scanning for malicious links. This matters because most security breaches still happen when someone clicks the wrong thing or trusts the wrong person, so catching suspicious behavior in real time actually addresses how attacks really work. Finally, someone at Microsoft remembered that the biggest security hole isn't the technology, it's the human sitting in front of it getting fooled by a convincing message.",
+        "date": "2026-10-27T15:34:05.186578+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Entrepreneurship might be the key to a longer life",
-        "url": "https://www.fastcompany.com/91629305/entrepreneurship-might-be-the-key-to-a-longer-life?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "At this point, 80% of job seekers apply and hear nothing",
+        "url": "https://www.fastcompany.com/91629911/at-this-point-80-of-jobseekers-apply-and-hear-nothing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "If you thought entrepreneurship was too stressful a path to venture down, you might want to reassess. A new study found that there may be a surprising benefit to starting a business: longevity. The st",
-        "dwp_take": "Researchers at Stevens Institute of Technology found that entrepreneurs actually live longer than their non-business-owning peers, contradicting the assumption that startup stress kills you faster. This matters to digital workplace folks because remote work and independent projects are blurring the line between employment and entrepreneurship, meaning more of us might be accidentally extending our lifespans through side hustles. Of course, the real question is whether entrepreneurs live longer or just feel like they're living longer because they're checking Slack at 2am on a Sunday.",
-        "date": "2026-10-27T08:33:48.276566+00:00"
-      },
-      {
-        "title": "Kevin O\u2019Leary has one rule for giving money to family. It works at any income",
-        "url": "https://www.fastcompany.com/91626003/kevin-oleary-one-rule-giving-money-family-works-any-income?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "It\u2019s pretty hard to feel bad for billionaires, but according to a host of incredibly wealthy people there\u2019s one aspect of being filthy rich that is no fun at all: deciding what to do when friends and ",
-        "dwp_take": "Kevin O'Leary shared his personal rule for handling money requests from family: apparently he treats it like a business decision rather than an emotional one. This matters to workplace culture because how leaders handle money and boundaries at home often mirrors how they handle resources and people decisions at work, which means understanding their personal philosophy can actually tell you something about their management style. My take: if you need a billionaire's advice on saying no to family, maybe the real problem isn't the rule but that you haven't figured out your own values yet.",
-        "date": "2026-10-27T08:33:52.260834+00:00"
-      },
-      {
-        "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
-        "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details. \u201cAnthropic owes investors more information,\u201d one analyst tells WIRED.",
-        "dwp_take": "Anthropic's IPO filing is loaded with pages but somehow manages to hide the actual financial numbers that matter, which is either a bold strategy or a masterclass in \"look busy.\" For those of us building digital workplaces around AI tools, this opacity matters because we need to understand whether these vendors are actually sustainable or just expensive experiments with great marketing. The old saying goes that if you can't understand how a company makes money, you probably shouldn't bet your enterprise stack on their staying power for the next five years.",
-        "date": "2026-10-27T08:33:56.504693+00:00"
-      },
-      {
-        "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-        "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "Anthropic thinks \u201cclosing the loop\u201d is the best path to AI triumph\u2014and a recipe for \u201cexistential\u201d threats to humanity.",
-        "dwp_take": "Anthropic's IPO filing basically admits that the more they optimize their AI systems, the closer they get to creating something that could pose existential risks to humanity. For digital workplace folks, this matters because we're about to deploy AI tools into our organizations without fully understanding the long-term safety implications of what we're building. Here's the thing: if the people actually making the AI are worried about doomsday scenarios in their official regulatory filings, maybe we should all pump the brakes on the \"AI solves everything\" narrative and actually think through what we're inviting into our offices.",
-        "date": "2026-10-27T08:34:00.519237+00:00"
+        "excerpt": "In today\u2019s hiring environment, job seekers are lucky to get rejected. In a recent survey by hiring platform Greenhouse, 81% of job seekers said they never heard back from a company, be it human or mac",
+        "dwp_take": "Job seekers are getting ghosted by companies at alarming rates, with 81% experiencing radio silence after applying and nearly a third saying it happens constantly. This matters to digital workplace pros because your hiring tech and processes directly create this experience, and when candidates feel ignored, they're not coming back to your employer brand even if you eventually do hire them. After thirty years in this space, I can tell you that a bad applicant experience isn't just rude, it's expensive: those ghosted candidates are telling their networks your company doesn't respect their time, and word travels fast.",
+        "date": "2026-10-27T15:34:09.523501+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Which iPhones Support iOS 27? Full Compatibility List and Missing Features",
-        "url": "https://www.techrepublic.com/article/news-ios-27-compatible-iphones-2026/",
+        "title": "Apple Unveils New iPad mini: What You Get for $699",
+        "url": "https://www.techrepublic.com/article/news-apple-ipad-mini-oled-a20-pro/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Which iPhones support iOS 27? See the full compatibility list, Apple Intelligence requirements, missing features, and whether you should upgrade. The post Which iPhones Support iOS 27? Full Compatibil",
-        "dwp_take": "Apple's releasing iOS 27 with some devices getting left behind due to hardware limitations and AI feature requirements. This matters because your workplace device strategy needs to account for fragmentation, security patches, and whether older phones will actually run the apps your organization depends on. After three decades watching tech rollouts, I can tell you that \"full compatibility list\" is corporate speak for \"we're leaving some of you behind, and yes, it will cause support tickets.\"",
-        "date": "2026-10-27T08:34:04.496737+00:00"
+        "excerpt": "Apple unveils a new iPad mini with OLED, A20 Pro and IP67 protection. See the $699 starting price, key specifications, release details and buyer advice. The post Apple Unveils New iPad mini: What You ",
+        "dwp_take": "Apple released a refreshed iPad mini with OLED display, A20 Pro chip, and IP67 water resistance at a $699 starting price. For digital workplace folks, this matters because the iPad mini remains a legit productivity device for field workers, remote teams, and anyone who needs portable computing without going full laptop. Honestly, at this price point you're paying mostly for the Apple ecosystem and that shiny OLED screen, which is nice but won't revolutionize how your organization actually works.",
+        "date": "2026-10-27T15:34:14.181771+00:00"
       },
       {
-        "title": "Starlink Restrictions Explained: What Enterprises Can Learn",
-        "url": "https://www.techrepublic.com/article/news-ukraine-starlink-restored-enterprise-redundancy-emea/",
+        "title": "ChatGPT Custom GPT Retirement: How to Migrate Before Dec. 11",
+        "url": "https://www.techrepublic.com/article/news-chatgpt-custom-gpt-retirement-migration/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Ukraine says Starlink service has been restored after days of disruption. The incident highlights why enterprises need tested, independent backup systems. The post Starlink Restrictions Explained: Wha",
-        "dwp_take": "Ukraine lost Starlink connectivity for several days, which got restored after Elon Musk's intervention. This matters because it's a brutal reminder that relying on any single connectivity provider, no matter how shiny or space-age, leaves your workforce vulnerable when things go sideways. After thirty years watching companies bet the farm on the latest tech magic, I can tell you this lesson costs about a million dollars to learn the hard way, or you can just read this article and save yourself the trouble.",
-        "date": "2026-10-27T08:34:08.308073+00:00"
+        "excerpt": "OpenAI is retiring custom GPTs in December. Here's what creators and Enterprise administrators need to know about deadlines, plugin migration, custom actions and sharing. The post ChatGPT Custom GPT R",
+        "dwp_take": "OpenAI is shutting down custom GPTs on December 11th and forcing users to migrate to a new system or lose their work. This matters because plenty of enterprises have built custom GPTs into their workflows as quick productivity shortcuts, and now IT teams have to scramble to move them before the deadline or rebuild from scratch. After thirty years watching platforms kill off features workers actually liked, I can tell you this is peak tech company behavior: launch something, get people dependent on it, then change the rules with a tight deadline.",
+        "date": "2026-10-27T15:34:18.072677+00:00"
       },
       {
-        "title": "iPhone Duo Gets 5/10 for Repairability as iFixit Probes Screen Failures",
-        "url": "https://www.techrepublic.com/article/news-iphone-duo-ifixit-screen-failures/",
+        "title": "OpenAI\u2019s GPT-6.1 Terra Targets Workplace Automation at Lower Cost",
+        "url": "https://www.techrepublic.com/article/news-openai-gpt-61-terra-workplace-automation/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "iFixit gives the iPhone Duo a provisional 5/10 repair score while investigating screen failures. See hinge concerns, $999 repairs, and tips for owners. The post iPhone Duo Gets 5/10 for Repairability ",
-        "dwp_take": "Google's new foldable phone scored a middling 5 out of 10 on repairability, with iFixit flagging hinge problems and screen failures that can run you nearly a grand to fix. This matters because your workforce is going to want these devices, and IT teams need to factor repair costs and downtime into device strategy and procurement decisions. Spending a thousand bucks to fix a screen on a phone that costs a thousand bucks is the kind of math that makes finance departments weep.",
-        "date": "2026-10-27T08:34:12.146123+00:00"
+        "excerpt": "OpenAI\u2019s GPT-6.1 Terra cuts standard API token prices by 50%. Explore its automation capabilities, availability and what IT teams should test before adoption. The post OpenAI\u2019s GPT-6.1 Terra Targets W",
+        "dwp_take": "OpenAI just dropped GPT-6.1 Terra with a 50 percent price cut on API tokens, making AI automation significantly cheaper for workplace applications. This matters because every digital workplace leader is scrambling to justify AI investments to the CFO, and suddenly the math gets a lot friendlier. Here's the thing though: cheaper tokens don't mean cheaper mistakes, so IT teams better have a solid testing plan or they'll be explaining why they automated the wrong process to the wrong stakeholders.",
+        "date": "2026-10-27T15:34:21.929743+00:00"
       },
       {
-        "title": "Block Previews Dessa, an AI Voice Model Trained Without Text",
-        "url": "https://www.techrepublic.com/article/news-block-dessa-voice-ai-trained-without-text/",
+        "title": "This $20 Claude AI Course Is Built for Work, Not Just Prompts",
+        "url": "https://www.techrepublic.com/article/claude-ai-professional-edegree/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Block previews Dessa, a voice AI model trained without text. Explore its local hardware claims, safety risks, and what businesses should assess next. The post Block Previews Dessa, an AI Voice Model T",
-        "dwp_take": "Block's new Dessa voice AI model bypasses text training entirely, working directly from audio to create synthetic voices. This matters because digital workplace teams will soon face real decisions about deploying voice AI for everything from customer service to internal communications, and understanding the training methodology directly affects safety and liability exposure. The irony is we're building increasingly sophisticated voice tech while most organizations still can't properly govern their existing AI tools, so this should make your compliance team sweat a little.",
-        "date": "2026-10-27T08:34:15.947092+00:00"
+        "excerpt": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use. The post This $20 Claude AI Course Is Built for Work, Not Just Prompts appeared first on TechRepu",
+        "dwp_take": "Someone's selling a Claude AI course for twenty bucks that promises to teach actual work applications instead of just the \"ask it anything\" party trick version. This matters because your team is probably already using Claude or will be soon, and knowing how to integrate it into real workflows beats fumbling around with random prompts at 3 PM on a Tuesday. For that price, it's worth checking out if only to avoid being the person in the meeting who still thinks AI is just a chatbot toy.",
+        "date": "2026-10-27T15:34:25.931495+00:00"
       }
     ]
   }
