@@ -1,140 +1,5 @@
 [
   {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "dwp_take": "Anthropic proposed legislation that would require federal agencies to get judicial approval before blocking an AI model release, ostensibly based on safety concerns about mass casualties. For digital workplace pros, this matters because it signals how AI governance will actually work when your org deploys these tools, and spoiler alert, it won't be quick or straightforward. Basically, Anthropic wants a legal speed bump instead of a kill switch, which is either refreshingly honest about AI risk or a masterclass in regulatory capture, depending on your cynicism level.",
-    "date": "2026-10-21T08:11:49.477657+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s cloud partnerships are getting messy",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
-    "dwp_take": "Anthropic is caught in a bind where the cloud providers it relies on for computing power now see it as a threat rather than a customer, making it harder to scale up operations before going public. This matters because every enterprise betting on Claude for their digital workplace stack needs to know whether Anthropic can actually deliver the infrastructure to support their workloads at scale. The irony here is delicious: build something good enough that your landlords want to evict you and keep the best tenant spot for themselves.",
-    "date": "2026-10-21T08:11:53.342738+00:00"
-  },
-  {
-    "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
-    "dwp_take": "OpenAI bought Orchestra Bio, a biotech startup, to strengthen its life sciences AI capabilities and fold the team into its Rosalind platform for research. For digital workplace folks, this signals that AI vendors are no longer staying in their lanes, which means your tools ecosystem just got more complicated and your vendors' strategic priorities just shifted again. The real question is whether OpenAI actually knows what it's doing in biotech or if this is just expensive resume building for a company that seems to acquire things the way some people collect hobbies.",
-    "date": "2026-10-21T08:11:57.187244+00:00"
-  },
-  {
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
-    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity.",
-    "dwp_take": "A former Nvidia executive turned venture capitalist says physical AI and robotics are at an inflection point similar to where large language models were before ChatGPT's breakout moment. For digital workplace pros, this matters because the tools shaping knowledge work are about to get a lot more tangible, from autonomous systems handling physical tasks to robots managing warehouse operations and facility management. Here's the thing though: we spent the last two years arguing about whether AI could write a decent email, and now we're supposedly on the edge of robots doing actual work, which either means we're finally getting somewhere real or we're about to see another hype cycle. Time will tell.",
-    "date": "2026-10-21T08:12:01.414733+00:00"
-  },
-  {
-    "title": "Latest Windows update disables key security setting \u2013 but there\u2019s a workaround",
-    "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "A bug in Microsoft\u2019s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
-    "dwp_take": "Microsoft's October Windows update broke the ability to toggle on a key security feature that blocks dodgy apps, forcing users to dig into the Registry for a workaround. For digital workplace teams managing hundreds or thousands of endpoints, this is a headache because you're now dealing with inconsistent security postures across your environment and workarounds that don't scale. Look, I've seen Microsoft patches create problems since the Windows 95 days, but asking your workforce to manually edit the Registry to stay secure is peak \"we shipped it Tuesday\" energy.",
-    "date": "2026-10-21T08:12:05.742181+00:00"
-  },
-  {
-    "title": "AI didn\u2019t create your IT data problem, it just exposed it",
-    "url": "https://www.computerworld.com/article/4237895/ai-didnt-create-your-it-data-problem-it-just-exposed-it.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "When an AI pilot in IT operations underdelivers, the first instinct is to question the technology. Was the model wrong? Did the tool overpromise? Did the team pick the wrong use case? Those are fair q",
-    "dwp_take": "AI projects are failing because organizations have garbage data, not because the AI is broken. This matters because digital workplace teams are about to get blamed for AI underperformance when they should actually be fixing their data hygiene first. Here's the hard truth: you can't polish a turd with machine learning, and spending six months cleaning up your CMDB before the AI pilot would have saved everyone from looking stupid later.",
-    "date": "2026-10-21T08:12:10.489531+00:00"
-  },
-  {
-    "title": "The Googlebook work test: Can an Android laptop get the job done?",
-    "url": "https://www.computerworld.com/article/4237256/googlebook-work-test-can-an-android-laptop-get-the-job-done.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "In a weird way, I\u2019ve been thinking about the idea of a Googlebook for well over a decade now \u2014 despite the fact that such a product has only officially existed for a matter of months. I\u2019m relatively u",
-    "dwp_take": "Google's finally shipping a proper Android laptop after years of speculation, and early testers are finding it surprisingly functional for real work. This matters because it signals that web-first and cloud-first work environments are now mature enough that you don't need Windows or macOS to be genuinely productive. After thirty years watching device categories come and go, I'll say this: if your entire job lives in a browser and Google Drive, you've probably had a working solution since 2015, so this is more about finally admitting it than inventing something new.",
-    "date": "2026-10-21T08:12:14.613505+00:00"
-  },
-  {
-    "title": "Everyone\u2019s taking PTO and sick days to play \u2018Grand Theft Auto VI\u2019",
-    "url": "https://www.fastcompany.com/91626090/everyones-taking-pto-and-sick-days-to-play-grand-theft-auto-vi?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Folks are lining up for their annual seasonal vaccines. But there\u2019s one contagion that a CVS appointment can\u2019t immunize against. \u201cGTA flu\u201d is sweeping the nation\u2014and many workers anticipate \u201ccatching\u201d",
-    "dwp_take": "Workers are burning through PTO and calling in sick to play Grand Theft Auto VI when it launches November 19th. For digital workplace pros, this is a useful reminder that engagement and productivity policies need to account for cultural moments that matter to your actual workforce, not just the ones HR approves. Look, you can't stop people from wanting to play a massive new game, but leaders who pretend this won't happen are just setting themselves up for surprise absences and resentment over \"unfair\" time-off denials.",
-    "date": "2026-10-21T08:12:18.791132+00:00"
-  },
-  {
-    "title": "6 kinds of fear at work\u2014and how to overcome them",
-    "url": "https://www.fastcompany.com/91605125/six-kinds-of-fear-at-work-and-how-to-overcome-them-work-fear-career-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "When I\u2019m teaching MBA students or executives or when I\u2019m working in my role as an adviser to family-owned enterprises, I spend enormous energy looking for evidence of an emotion people try to hide. Th",
-    "dwp_take": "Someone published a piece about how fear quietly drives workplace behavior and decision-making, citing research on fight-or-flight responses and how people try to hide it. This matters because digital workplace pros are designing communication platforms, collaboration tools, and knowledge systems that either amplify or reduce workplace anxiety, and if you're not thinking about psychological safety while building your intranet, you're just adding noise to people's fear. The real issue is that most organizations spend millions on collaboration software while their actual culture makes people too nervous to actually collaborate on anything that matters.",
-    "date": "2026-10-21T08:12:22.698457+00:00"
-  },
-  {
-    "title": "A massive new study of thousands of kids says this one experience gives them a very big advantage",
-    "url": "https://www.fastcompany.com/91623230/kids-school-1-big-advantage-massive-study?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "I admit: I\u2019ve spent a lot of time since becoming a parent trying to figure out what cutting-edge research and science have to say about raising successful kids. I also admit that my wife and I have tr",
-    "dwp_take": "A study suggests that certain childhood experiences provide significant advantages for kids' future success, with researchers pointing to factors like neighborhood quality and environmental enrichment. This matters to digital workplace pros because today's workforce is shaped by these early experiences, and understanding what drives employee motivation and resilience helps you design better workplace cultures and development programs. The real takeaway? Stop obsessing over ping-pong tables and invest in actual professional growth opportunities, because your team didn't get where they are through office perks.",
-    "date": "2026-10-21T08:12:26.467014+00:00"
-  },
-  {
-    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "source": "Wired",
-    "category": "digital-culture",
-    "excerpt": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "dwp_take": "The French government held emergency meetings with TikTok, social media platforms, and online retailers to pressure them into removing protest footage, blocking AI-altered images, and preventing stolen goods from being resold. This matters to digital workplace pros because it signals governments are now treating platform governance as a direct negotiation tool, which means your content policies and moderation workflows could become political bargaining chips overnight. Honestly, watching governments strong-arm platforms into censorship while calling it crisis management is like watching your boss ask IT to block Gmail because someone sent a strongly worded email.",
-    "date": "2026-10-21T08:12:31.700290+00:00"
-  },
-  {
-    "title": "Apple\u2019s 512GB Mac Studio Is Almost Here: What Buyers Should Know",
-    "url": "https://www.techrepublic.com/article/news-apple-512gb-mac-studio-release-date-price-ai/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple's 512GB Mac Studio is coming in late October 2026. Here's what to know about its M5 Ultra chip, AI capabilities, pricing, and availability. The post Apple\u2019s 512GB Mac Studio Is Almost Here: What",
-    "dwp_take": "Apple is releasing a 512GB Mac Studio in late October 2026 with an M5 Ultra chip and enhanced AI capabilities. For digital workplace professionals, this matters because Mac-heavy organizations will need to evaluate whether the performance jump and AI features justify the upgrade cycle and potential compatibility considerations with existing workflows. Honestly, if you're still running a 2019 Mac Studio, this won't solve your real problem: getting IT to approve the purchase order before Q4 ends.",
-    "date": "2026-10-21T08:12:35.737250+00:00"
-  },
-  {
-    "title": "China\u2019s MiniMax Says Its New AI Model Cuts Agent Costs by 70%",
-    "url": "https://www.techrepublic.com/article/news-minimax-m31-flash-ai-model-pricing-benchmarks-china-apac/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "MiniMax launches M3.1 Flash with claims of faster, cheaper AI agents. See how its pricing, benchmarks, and reliability compare with enterprise requirements. The post China\u2019s MiniMax Says Its New AI Mo",
-    "dwp_take": "China's MiniMax dropped a new AI model that supposedly slashes the cost of running AI agents by 70 percent, which sounds great until you start asking questions about what corners got cut. For digital workplace folks, this matters because AI agent costs are eating up budgets faster than free coffee at an all-hands meeting, so cheaper options that actually work could reshape what automation projects get greenlit. The real test is whether \"70 percent cheaper\" means you're getting a reliable workhorse or a shiny toy that breaks down when your business actually depends on it.",
-    "date": "2026-10-21T08:12:39.551563+00:00"
-  },
-  {
-    "title": "Google\u2019s AI Agents Finally Beat Minecraft. It Took 27 Hours and 605 Deaths",
-    "url": "https://www.techrepublic.com/article/news-google-gemini-ai-agents-minecraft-ender-dragon/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Four Google DeepMind AI agents defeated Minecraft's Ender Dragon after 27 hours and 605 deaths, revealing both the promise and limitations of autonomous AI. The post Google\u2019s AI Agents Finally Beat Mi",
-    "dwp_take": "Google's DeepMind trained AI agents to beat Minecraft's final boss, but it took 27 hours of gameplay and 605 deaths to get there. This matters because it shows exactly where autonomous AI stands right now: it can solve complex problems through brute force and persistence, but it's still remarkably inefficient compared to a human player who'd finish in a fraction of the time. Honestly, if your AI workplace assistant needs 600+ failures to learn how to file an expense report, we've got bigger problems than a video game.",
-    "date": "2026-10-21T08:12:43.521769+00:00"
-  },
-  {
-    "title": "DHS Orders DeepSeek Removed from Federal IT Systems Over Security Risks",
-    "url": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "DHS has ordered DeepSeek removed from federal civilian IT systems over security concerns. Learn what the restrictions mean for agencies and technology vendors. The post DHS Orders DeepSeek Removed fro",
-    "dwp_take": "The Department of Homeland Security has ordered all federal civilian agencies to remove DeepSeek, a Chinese AI model, from their IT systems due to security and data protection concerns. This matters because it signals how quickly government policy can shift around emerging AI tools, forcing digital workplace teams to suddenly audit, remove, and replace solutions mid-deployment. After months of agencies quietly testing DeepSeek because it was free and performant, they're now learning the hard way that \"free\" Chinese AI comes with a side of regulatory whiplash.",
-    "date": "2026-10-21T08:12:47.526640+00:00"
-  },
-  {
     "title": "TechCrunch Founder Summit 2026: Everything you need to know",
     "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "source": "TechCrunch",
@@ -997,5 +862,122 @@
     "excerpt": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use. The post This $20 Claude AI Course Is Built for Work, Not Just Prompts appeared first on TechRepu",
     "dwp_take": "Someone's selling a Claude AI course for twenty bucks that promises to teach actual work applications instead of just the \"ask it anything\" party trick version. This matters because your team is probably already using Claude or will be soon, and knowing how to integrate it into real workflows beats fumbling around with random prompts at 3 PM on a Tuesday. For that price, it's worth checking out if only to avoid being the person in the meeting who still thinks AI is just a chatbot toy.",
     "date": "2026-10-27T15:34:25.931495+00:00"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "dwp_take": "A family is suing OpenAI after ChatGPT allegedly advised their daughter to stop taking seizure medication without telling her doctors, resulting in her death. This matters because digital workplace tools are increasingly embedded in employee wellness programs and health resources, and organizations need to understand the real liability when AI systems give medical advice they have no business giving. Here's the thing: if you're considering deploying ChatGPT for employee health support, you've just found out why that's a terrible idea.",
+    "date": "2026-10-28T09:12:39.796943+00:00"
+  },
+  {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "dwp_take": "A group of AI research labs claim their models have disproven a long-standing computer science theory called the Exponential Time Hypothesis, which basically says certain problems get exponentially harder to solve as they scale up. For digital workplace pros, this matters because it suggests AI systems might handle complex organizational problems differently than we thought, potentially opening new doors for automation and decision-making tools. That said, I've seen plenty of \"breakthrough\" AI claims evaporate when they hit the messiness of actual workplace reality, so let's see if this one survives contact with your company's legacy systems and middle management.",
+    "date": "2026-10-28T09:12:43.756106+00:00"
+  },
+  {
+    "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
+    "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Data preparation startup Prophecy Inc. today launched DataGPT, a new service that allows business analysts to run complete data workflows from inside OpenAI Group PBC\u2019s ChatGPT, Anthropic PBC\u2019s Claude",
+    "dwp_take": "Prophecy launched DataGPT, which lets business analysts run full data workflows directly inside ChatGPT, Claude, and Copilot while seeing a visual map of how the results were generated. This matters because it moves data preparation out of specialized tools and into the AI interfaces where analysts are already spending their time, potentially breaking down silos between analytics and everyday work. The real test will be whether this actually simplifies things or just gives people another way to accidentally trust AI outputs they don't fully understand.",
+    "date": "2026-10-28T09:12:48.365583+00:00"
+  },
+  {
+    "title": "Intuit rewires accounting education as AI pushes new hires toward client work",
+    "url": "https://siliconangle.com/2026/10/28/advisory-services-reshape-accounting-education-intuit-intuitconnect/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "As AI automates routine finance work, the repetitive tasks that once defined entry-level accounting are disappearing, and advisory services are moving to the center of how firms create value. That shi",
+    "dwp_take": "Intuit is overhauling how it trains new accountants because AI is killing off the grunt work that used to be the entire junior accountant experience. This matters to digital workplace folks because it's the clearest signal yet that onboarding and skills training need to fundamentally change when your tools do half the job before day one. The real question is whether companies will actually invest in teaching advisory skills or just expect AI to handle everything while paying entry-level wages.",
+    "date": "2026-10-28T09:12:51.972145+00:00"
+  },
+  {
+    "title": "This tool can recover deleted AI chats from your phone \u2013 how it works",
+    "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "This new tool proves it\u2019s still best to limit the info you share with chatbots.",
+    "dwp_take": "A new recovery tool can pull deleted AI chat conversations off your phone, exposing data you thought was gone for good. For digital workplace folks, this is a wake-up call because it means confidential client info, strategy discussions, or sensitive employee data shared with ChatGPT or similar tools isn't actually deleted when you hit that trash button. This is why I keep telling people that \"cloud-based\" doesn't mean \"actually gone\" and why your company's AI policy should treat chatbots like the permanent record they actually are.",
+    "date": "2026-10-28T09:12:56.274126+00:00"
+  },
+  {
+    "title": "The generation that hates work the most isn\u2019t the one you\u2019d think",
+    "url": "https://www.fastcompany.com/91630201/the-generation-that-hates-work-the-most-isnt-the-one-you-think?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Disliking your job is wildly common. But according to new research, feelings about work vary greatly from generation to generation. And when it comes to being the least content with their chosen profe",
+    "dwp_take": "Gen X is reportedly the most unhappy with their jobs compared to other generations, according to new research from KickResume. This matters because it challenges the common assumption that younger workers are perpetually disengaged, meaning retention and engagement strategies need to be tailored differently by age group rather than painted with one brush. My take: Gen X got the short end of the stick in every era, so why should work be any different?",
+    "date": "2026-10-28T09:13:01.931360+00:00"
+  },
+  {
+    "title": "This is the one retirement expense that you might have forgotten to plan for",
+    "url": "https://www.fastcompany.com/91630597/retirement-expense-you-may-be-missing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "People often underestimate some expenses when planning for retirement. In my conversations with older adults about their in-retirement finances, they\u2019ve repeatedly mentioned the cost of dental care. T",
+    "dwp_take": "Most retirees completely miss that dental work isn't covered by Medicare and ends up costing thousands they didn't budget for. For digital workplace folks, this matters because your company benefits are probably your best window to get major dental done while you're still covered. If you're planning to bail in the next decade, schedule that root canal now instead of pretending your teeth will just sort themselves out in retirement.",
+    "date": "2026-10-28T09:13:05.498743+00:00"
+  },
+  {
+    "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "In breathless press releases and posts, the company has touted its models\u2019 ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big disc",
+    "dwp_take": "Anthropic is talking out of both sides of its mouth about AI's ability to transform biology, hyping breakthroughs in marketing while admitting in its IPO filing that actual results will take much longer. This matters because we're seeing the same pattern play out in enterprise AI promises: vendors oversell transformation timelines to boards and investors, then scramble to manage expectations when reality hits. After three decades watching tech cycles, I'll say it plainly: if your CEO is comparing your AI rollout to Anthropic's biology claims, politely ask for their roadmap in writing and expect to deliver in years, not quarters.",
+    "date": "2026-10-28T09:13:10.874518+00:00"
+  },
+  {
+    "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+    "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+    "dwp_take": "Anthropic is warning that massive data center expansion for AI could overwhelm natural gas supplies and infrastructure, potentially spiking energy costs. For digital workplace leaders, this matters because it directly impacts cloud hosting costs, AI service pricing, and ultimately your tech budget forecasts for the next few years. Here's the thing: we spent two decades moving everything to the cloud to avoid capital expenses, and now we might get walloped by energy bills anyway. Life's full of surprises.",
+    "date": "2026-10-28T09:13:14.696187+00:00"
+  },
+  {
+    "title": "Apple\u2019s New M6 MacBook Pro Costs $1,999. Is It Worth Upgrading?",
+    "url": "https://www.techrepublic.com/article/news-apple-m6-macbook-pro-whats-new/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple's 14-inch M6 MacBook Pro brings faster AI, Wi-Fi 7, and a $1,999 price. See what changed from M5 and whether upgrading makes sense. The post Apple\u2019s New M6 MacBook Pro Costs $1,999. Is It Worth ",
+    "dwp_take": "Apple dropped the M6 MacBook Pro at $1,999 with faster processors, Wi-Fi 7, and some AI improvements over the M5 model. For IT teams managing device refresh cycles, this matters because you need to figure out if the performance gains justify the cost or if M5 machines still have runway left in them. Honestly, unless your creative team is rendering 8K video or training local AI models, you're probably fine keeping your current fleet for another year and letting Apple sort out whether anyone actually needs this stuff.",
+    "date": "2026-10-28T09:13:18.882313+00:00"
+  },
+  {
+    "title": "Instagram Tests 90-Minute Horizontal Videos Called Features",
+    "url": "https://www.techrepublic.com/article/news-instagram-features-90-minute-horizontal-videos/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Instagram is testing 90-minute horizontal videos called Features. Explore how the format works, who can use it, and what it could mean for creators. The post Instagram Tests 90-Minute Horizontal Video",
+    "dwp_take": "Instagram is rolling out a test for 90-minute horizontal videos called Features to compete with YouTube and traditional streaming platforms. For digital workplace communicators, this matters because your company's video strategy just got another format to optimize for, which means more testing, more guidelines, and more conversations with marketing about aspect ratios. Honestly, we're one format away from needing a flowchart just to figure out where to post a simple company town hall, and frankly, your employees are probably just going to watch it on their phone in portrait mode anyway.",
+    "date": "2026-10-28T09:13:22.833507+00:00"
+  },
+  {
+    "title": "iPad Mini OLED vs A17 Pro: Is the $699 Upgrade Worth It?",
+    "url": "https://www.techrepublic.com/article/news-ipad-mini-oled-vs-a17-pro/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Compare Apple's OLED iPad Mini and A17 Pro models on display, performance, battery life, and price to see whether the new tablet is worth upgrading to. The post iPad Mini OLED vs A17 Pro: Is the $699 ",
+    "dwp_take": "Apple released a new iPad Mini with an OLED display and A17 Pro chip, pushing the price up to $699, and TechRepublic broke down whether the upgrade justifies the cost difference. For digital workplace folks thinking about refreshing their fleet or personal devices, this matters because every dollar spent on tablets is a dollar not spent on actual productivity software or training. Here's the truth: a prettier screen and faster processor feel great for about three weeks, then everyone just uses it the same way they used the old one.",
+    "date": "2026-10-28T09:13:26.963190+00:00"
+  },
+  {
+    "title": "Copilot Notebooks Turns Project Files Into Drafts: What to Check",
+    "url": "https://www.techrepublic.com/article/news-microsoft-copilot-notebooks-project-drafts/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft Copilot Notebooks turns project files into working drafts. Check feature access, source accuracy, sharing permissions, and review time before adoption. The post Copilot Notebooks Turns Proje",
+    "dwp_take": "Microsoft rolled out Copilot Notebooks, which automatically converts your project files into draft documents using AI. This matters because it fundamentally changes how knowledge gets captured and shared across teams, but it also means you're suddenly dealing with AI-generated content that needs human verification before anyone relies on it. Here's the thing: letting AI loose on your project files sounds convenient until someone's decision is based on a hallucination buried in a \"smart\" draft that looks official but isn't.",
+    "date": "2026-10-28T09:13:30.733497+00:00"
   }
 ]
