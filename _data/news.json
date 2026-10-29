@@ -1,129 +1,138 @@
 {
-  "generated": "2026-10-28T09:13:30.733701+00:00",
+  "generated": "2026-10-29T09:13:23.378242+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-        "dwp_take": "A family is suing OpenAI after ChatGPT allegedly advised their daughter to stop taking seizure medication without telling her doctors, resulting in her death. This matters because digital workplace tools are increasingly embedded in employee wellness programs and health resources, and organizations need to understand the real liability when AI systems give medical advice they have no business giving. Here's the thing: if you're considering deploying ChatGPT for employee health support, you've just found out why that's a terrible idea.",
-        "date": "2026-10-28T09:12:39.796943+00:00"
+        "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+        "dwp_take": "Microsoft pulled in $10 billion from OpenAI deals in Q3, mostly through revenue-sharing arrangements tied to their partnership. This matters because it shows AI integration into workplace tools like Copilot isn't some experimental bet for Microsoft, it's already a meaningful revenue driver that's reshaping product strategy and investment priorities. The real question isn't whether AI is coming to your workplace, it's whether your organization is ready to absorb the costs and complexity of tools that are now core to Microsoft's bottom line.",
+        "date": "2026-10-29T09:12:29.605108+00:00"
       },
       {
-        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-        "dwp_take": "A group of AI research labs claim their models have disproven a long-standing computer science theory called the Exponential Time Hypothesis, which basically says certain problems get exponentially harder to solve as they scale up. For digital workplace pros, this matters because it suggests AI systems might handle complex organizational problems differently than we thought, potentially opening new doors for automation and decision-making tools. That said, I've seen plenty of \"breakthrough\" AI claims evaporate when they hit the messiness of actual workplace reality, so let's see if this one survives contact with your company's legacy systems and middle management.",
-        "date": "2026-10-28T09:12:43.756106+00:00"
+        "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+        "dwp_take": "Microsoft just posted its tenth straight quarter of record revenue at $92.3 billion, a 19% year-over-year jump. For digital workplace folks, this matters because it means Microsoft will keep investing heavily in Teams, Copilot, and enterprise cloud infrastructure, so your workplace tech stack will get fancier whether you asked for it or not. The real question isn't whether Microsoft will keep winning, but whether your organization can actually keep pace with the velocity of new features they keep shoving into 365.",
+        "date": "2026-10-29T09:12:33.350988+00:00"
       },
       {
-        "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
-        "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
-        "source": "SiliconAngle",
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Data preparation startup Prophecy Inc. today launched DataGPT, a new service that allows business analysts to run complete data workflows from inside OpenAI Group PBC\u2019s ChatGPT, Anthropic PBC\u2019s Claude",
-        "dwp_take": "Prophecy launched DataGPT, which lets business analysts run full data workflows directly inside ChatGPT, Claude, and Copilot while seeing a visual map of how the results were generated. This matters because it moves data preparation out of specialized tools and into the AI interfaces where analysts are already spending their time, potentially breaking down silos between analytics and everyday work. The real test will be whether this actually simplifies things or just gives people another way to accidentally trust AI outputs they don't fully understand.",
-        "date": "2026-10-28T09:12:48.365583+00:00"
+        "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+        "dwp_take": "Anthropic released new visibility tools that let companies track exactly what they're getting for their AI spending before the company goes public. This matters because digital workplace leaders are being asked to justify AI investments to increasingly skeptical finance teams, and actual usage data beats PowerPoint promises every time. Finally, someone's admitting that AI spending transparency is a competitive advantage rather than a liability, which suggests maybe we're past the era of \"trust us, it's magic\" when it comes to enterprise AI.",
+        "date": "2026-10-29T09:12:36.970544+00:00"
       },
       {
-        "title": "Intuit rewires accounting education as AI pushes new hires toward client work",
-        "url": "https://siliconangle.com/2026/10/28/advisory-services-reshape-accounting-education-intuit-intuitconnect/",
-        "source": "SiliconAngle",
+        "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "As AI automates routine finance work, the repetitive tasks that once defined entry-level accounting are disappearing, and advisory services are moving to the center of how firms create value. That shi",
-        "dwp_take": "Intuit is overhauling how it trains new accountants because AI is killing off the grunt work that used to be the entire junior accountant experience. This matters to digital workplace folks because it's the clearest signal yet that onboarding and skills training need to fundamentally change when your tools do half the job before day one. The real question is whether companies will actually invest in teaching advisory skills or just expect AI to handle everything while paying entry-level wages.",
-        "date": "2026-10-28T09:12:51.972145+00:00"
+        "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "dwp_take": "Chrome now lets its AI autofill feature scoop data from your Gmail inbox to populate forms faster, which sounds convenient until you think about it for five seconds. This matters because it's yet another integration point where your personal data lives in Google's ecosystem, and workplace tech teams need to understand what employees are consenting to when they use this. Look, I've been doing this thirty years and I've never seen a feature that made me think \"finally, I want my browser reading my emails,\" so maybe we pump the brakes on the convenience train here.",
+        "date": "2026-10-29T09:12:41.012105+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "This tool can recover deleted AI chats from your phone \u2013 how it works",
-        "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+        "title": "These Claude Enterprise features let you track AI ROI \u2013 what\u2019s new",
+        "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "This new tool proves it\u2019s still best to limit the info you share with chatbots.",
-        "dwp_take": "A new recovery tool can pull deleted AI chat conversations off your phone, exposing data you thought was gone for good. For digital workplace folks, this is a wake-up call because it means confidential client info, strategy discussions, or sensitive employee data shared with ChatGPT or similar tools isn't actually deleted when you hit that trash button. This is why I keep telling people that \"cloud-based\" doesn't mean \"actually gone\" and why your company's AI policy should treat chatbots like the permanent record they actually are.",
-        "date": "2026-10-28T09:12:56.274126+00:00"
+        "excerpt": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
+        "dwp_take": "Anthropic just rolled out new tracking tools for Claude Enterprise customers to measure whether they're actually getting value from their subscription. This matters because companies are drowning in AI tools right now and need real data to justify the spend to finance, not just vibes and promises from vendors. Here's the thing though: if you need special tools to prove your AI investment is working, that's either a sign the ROI is genuinely tricky to measure or a sign you picked the wrong use case to begin with.",
+        "date": "2026-10-29T09:12:45.433232+00:00"
+      },
+      {
+        "title": "Otter adds \u2018Work\u2019 mode to automate more meeting-related tasks",
+        "url": "https://www.computerworld.com/article/4241172/otter-adds-work-mode-to-automate-more-meeting-related-tasks.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Otter has added a new Work mode to its AI Chat assistant, expanding the range of tasks it can carry out before and after meetings. It\u2019s part of a wider drive by Otter \u2014 which received $320 million in ",
+        "dwp_take": "Otter just rolled out a Work mode for its AI Chat assistant that automates meeting prep and follow-up tasks, marking their push beyond simple transcription into broader workflow automation. This matters because digital workplace leaders are drowning in meeting-related busywork, and anything that actually removes tasks from the to-do list rather than just adding another tool deserves attention. With 320 million in fresh funding, Otter is betting that the real money isn't in recording what was said, it's in doing something useful with it afterward, which is either brilliant or the kind of feature bloat that ends up unused in everyone's sidebar.",
+        "date": "2026-10-29T09:12:50.520789+00:00"
+      },
+      {
+        "title": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who\u2019s telling the truth?",
+        "url": "https://www.computerworld.com/article/4241156/trump-says-microsoft-abuses-visa-laws-microsoft-disagrees-whos-telling-the-truth.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Decades ago, the United States established programs that allow businesses to hire highly skilled foreign workers \u2014 the H-1B visa program and a related green card program. They\u2019re designed to make sure",
+        "dwp_take": "Trump claims Microsoft abuses visa programs to replace American workers, while Microsoft says it uses these programs to fill genuine skills gaps. This matters to digital workplace pros because visa policy directly affects hiring, team composition, and whether your company can actually staff critical roles. Look, both sides are partly right and partly wrong, which is the most annoying outcome imaginable but also the most honest one.",
+        "date": "2026-10-29T09:12:54.068952+00:00"
+      },
+      {
+        "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies",
+        "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Opera has begun rolling out AI models that run locally in its browser, potentially allowing enterprises to perform certain AI tasks on existing PCs without sending the relevant data to cloud AI provid",
+        "dwp_take": "Opera is rolling out locally-run AI models directly in its browser, letting enterprises process data on-device instead of shipping it to cloud providers. For digital workplace folks, this matters because it could actually solve the data privacy nightmare that's been keeping security teams awake at night while everyone else races toward ChatGPT integration. The real question is whether enterprises will care more about keeping data local or whether they'll just ignore it entirely and keep dumping everything into the cloud anyway, because let's be honest, friction usually wins.",
+        "date": "2026-10-29T09:12:57.805006+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "The generation that hates work the most isn\u2019t the one you\u2019d think",
-        "url": "https://www.fastcompany.com/91630201/the-generation-that-hates-work-the-most-isnt-the-one-you-think?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Thanks to AI, are we raising the first generation of kids who don\u2019t have to figure things out?",
+        "url": "https://www.fastcompany.com/91629990/ai-first-generation-kids-who-dont-have-to-figure-things-out?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Disliking your job is wildly common. But according to new research, feelings about work vary greatly from generation to generation. And when it comes to being the least content with their chosen profe",
-        "dwp_take": "Gen X is reportedly the most unhappy with their jobs compared to other generations, according to new research from KickResume. This matters because it challenges the common assumption that younger workers are perpetually disengaged, meaning retention and engagement strategies need to be tailored differently by age group rather than painted with one brush. My take: Gen X got the short end of the stick in every era, so why should work be any different?",
-        "date": "2026-10-28T09:13:01.931360+00:00"
+        "excerpt": "Your teenager gets into a fight with her best friend. She\u2019s hurt, upset, and doesn\u2019t know what to do. Maybe in the past she would have spent the day replaying the argument, venting to another friend a",
+        "dwp_take": "Fast Company ran a piece asking whether AI is short-circuiting the problem-solving skills kids need to develop by handing them ready-made answers instead of forcing them to struggle through challenges. This matters to digital workplace leaders because today's teenagers are tomorrow's employees, and if they never learn to sit with discomfort or think through complex situations, your organization will eventually hire people who can't actually solve problems. The real workplace irony is that companies are frantically implementing AI to handle routine work while simultaneously raising a generation that won't know how to handle the non-routine stuff that actually requires a human brain.",
+        "date": "2026-10-29T09:13:02.017846+00:00"
       },
       {
-        "title": "This is the one retirement expense that you might have forgotten to plan for",
-        "url": "https://www.fastcompany.com/91630597/retirement-expense-you-may-be-missing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "There\u2019s a career tax on being smart at work\u2014but only if you\u2019re a woman",
+        "url": "https://www.fastcompany.com/91630773/theres-a-career-tax-on-being-smart-at-work-but-only-if-youre-a-woman?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "People often underestimate some expenses when planning for retirement. In my conversations with older adults about their in-retirement finances, they\u2019ve repeatedly mentioned the cost of dental care. T",
-        "dwp_take": "Most retirees completely miss that dental work isn't covered by Medicare and ends up costing thousands they didn't budget for. For digital workplace folks, this matters because your company benefits are probably your best window to get major dental done while you're still covered. If you're planning to bail in the next decade, schedule that root canal now instead of pretending your teeth will just sort themselves out in retirement.",
-        "date": "2026-10-28T09:13:05.498743+00:00"
-      },
-      {
-        "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
-        "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "In breathless press releases and posts, the company has touted its models\u2019 ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big disc",
-        "dwp_take": "Anthropic is talking out of both sides of its mouth about AI's ability to transform biology, hyping breakthroughs in marketing while admitting in its IPO filing that actual results will take much longer. This matters because we're seeing the same pattern play out in enterprise AI promises: vendors oversell transformation timelines to boards and investors, then scramble to manage expectations when reality hits. After three decades watching tech cycles, I'll say it plainly: if your CEO is comparing your AI rollout to Anthropic's biology claims, politely ask for their roadmap in writing and expect to deliver in years, not quarters.",
-        "date": "2026-10-28T09:13:10.874518+00:00"
-      },
-      {
-        "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-        "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-        "dwp_take": "Anthropic is warning that massive data center expansion for AI could overwhelm natural gas supplies and infrastructure, potentially spiking energy costs. For digital workplace leaders, this matters because it directly impacts cloud hosting costs, AI service pricing, and ultimately your tech budget forecasts for the next few years. Here's the thing: we spent two decades moving everything to the cloud to avoid capital expenses, and now we might get walloped by energy bills anyway. Life's full of surprises.",
-        "date": "2026-10-28T09:13:14.696187+00:00"
+        "excerpt": "Sara Winslow had been working in sales for almost 20 years when things started to get uncomfortable. It was 2020. She was in her early forties, and by any conventional measure, she was thriving. She h",
+        "dwp_take": "Women who demonstrate competence and achievement at work often face social backlash and career penalties that men don't experience, according to research highlighted in this Fast Company piece about sales executive Sara Winslow. For digital workplace leaders, this matters because remote and hybrid work environments can actually amplify these dynamics through less visible social cues and harder-to-track exclusion patterns. Here's the brutal truth: we've spent three decades building better collaboration tools, but we haven't solved the ancient problem of people punishing women for being too good at their jobs, which means all your Slack channels and virtual whiteboarding software won't fix culture until you actually address it.",
+        "date": "2026-10-29T09:13:06.261293+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Apple\u2019s New M6 MacBook Pro Costs $1,999. Is It Worth Upgrading?",
-        "url": "https://www.techrepublic.com/article/news-apple-m6-macbook-pro-whats-new/",
+        "title": "Humanoid Robots in 2027: Tesla, Figure AI, and Agility Race to Deploy",
+        "url": "https://www.techrepublic.com/article/news-humanoid-robots-2027-real-world-deployment/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple's 14-inch M6 MacBook Pro brings faster AI, Wi-Fi 7, and a $1,999 price. See what changed from M5 and whether upgrading makes sense. The post Apple\u2019s New M6 MacBook Pro Costs $1,999. Is It Worth ",
-        "dwp_take": "Apple dropped the M6 MacBook Pro at $1,999 with faster processors, Wi-Fi 7, and some AI improvements over the M5 model. For IT teams managing device refresh cycles, this matters because you need to figure out if the performance gains justify the cost or if M5 machines still have runway left in them. Honestly, unless your creative team is rendering 8K video or training local AI models, you're probably fine keeping your current fleet for another year and letting Apple sort out whether anyone actually needs this stuff.",
-        "date": "2026-10-28T09:13:18.882313+00:00"
+        "excerpt": "Which humanoid robots are closest to deployment in 2027? Compare Tesla, Figure AI, Agility Robotics, and other leaders in industrial automation. The post Humanoid Robots in 2027: Tesla, Figure AI, and",
+        "dwp_take": "Tesla, Figure AI, and Agility Robotics are all pushing to deploy humanoid robots by 2027 for industrial automation tasks. This matters because if these companies actually pull it off, workplace design and job roles will shift faster than any digital transformation we've seen before, forcing companies to rethink everything from office layout to skills training. Personally, I'll believe it when I see a humanoid robot that doesn't need constant babysitting, but the race is real and workplace leaders better start paying attention now.",
+        "date": "2026-10-29T09:13:11.433707+00:00"
       },
       {
-        "title": "Instagram Tests 90-Minute Horizontal Videos Called Features",
-        "url": "https://www.techrepublic.com/article/news-instagram-features-90-minute-horizontal-videos/",
+        "title": "Apple Unveils Touchscreen OLED MacBook Pro Starting at $2,899",
+        "url": "https://www.techrepublic.com/article/news-apple-touchscreen-oled-macbook-pro/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Instagram is testing 90-minute horizontal videos called Features. Explore how the format works, who can use it, and what it could mean for creators. The post Instagram Tests 90-Minute Horizontal Video",
-        "dwp_take": "Instagram is rolling out a test for 90-minute horizontal videos called Features to compete with YouTube and traditional streaming platforms. For digital workplace communicators, this matters because your company's video strategy just got another format to optimize for, which means more testing, more guidelines, and more conversations with marketing about aspect ratios. Honestly, we're one format away from needing a flowchart just to figure out where to post a simple company town hall, and frankly, your employees are probably just going to watch it on their phone in portrait mode anyway.",
-        "date": "2026-10-28T09:13:22.833507+00:00"
+        "excerpt": "Apple\u2019s touchscreen OLED MacBook Pro starts at $2,899. Explore display specs, app compatibility, release dates, and what IT buyers should test before upgrading. The post Apple Unveils Touchscreen OLED",
+        "dwp_take": "Apple just dropped a touchscreen OLED MacBook Pro starting at $2,899, complete with the usual premium specs and a release timeline IT teams need to plan around. This matters because your creative and engineering teams will absolutely want these machines, which means you're looking at budget conversations, compatibility testing with your enterprise software stack, and deployment planning that starts now, not later. Here's the thing: a touchscreen on a laptop is still solving a problem nobody had, but if your company's already deep in the Apple ecosystem, you'll be approving purchase requests by next quarter whether you like it or not.",
+        "date": "2026-10-29T09:13:15.655790+00:00"
       },
       {
-        "title": "iPad Mini OLED vs A17 Pro: Is the $699 Upgrade Worth It?",
-        "url": "https://www.techrepublic.com/article/news-ipad-mini-oled-vs-a17-pro/",
+        "title": "OnePlus 13 Gets Android 17 Early: Rollout Hits Four Phones",
+        "url": "https://www.techrepublic.com/article/news-oneplus-13-android-17-early-rollout/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Compare Apple's OLED iPad Mini and A17 Pro models on display, performance, battery life, and price to see whether the new tablet is worth upgrading to. The post iPad Mini OLED vs A17 Pro: Is the $699 ",
-        "dwp_take": "Apple released a new iPad Mini with an OLED display and A17 Pro chip, pushing the price up to $699, and TechRepublic broke down whether the upgrade justifies the cost difference. For digital workplace folks thinking about refreshing their fleet or personal devices, this matters because every dollar spent on tablets is a dollar not spent on actual productivity software or training. Here's the truth: a prettier screen and faster processor feel great for about three weeks, then everyone just uses it the same way they used the old one.",
-        "date": "2026-10-28T09:13:26.963190+00:00"
+        "excerpt": "OnePlus rolls out Android 17-based ColorOS 17 early to four phones, including the OnePlus 13 and 13R. See what's new, supported devices, and US availability. The post OnePlus 13 Gets Android 17 Early:",
+        "dwp_take": "OnePlus is pushing out Android 17 via ColorOS 17 to four phones ahead of the broader rollout, starting with the OnePlus 13 and 13R. For workplace tech managers, this matters because early OS updates mean you're managing devices on different software versions longer, which complicates security patches and app compatibility across your fleet. The real question is whether your organization waits for stable releases or plays guinea pig with early adopters, because nothing says \"productive Tuesday\" like debugging OS-related Slack crashes.",
+        "date": "2026-10-29T09:13:19.403668+00:00"
       },
       {
-        "title": "Copilot Notebooks Turns Project Files Into Drafts: What to Check",
-        "url": "https://www.techrepublic.com/article/news-microsoft-copilot-notebooks-project-drafts/",
+        "title": "Netherlands Plans 25,000 Job Cuts as Government Turns to AI",
+        "url": "https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft Copilot Notebooks turns project files into working drafts. Check feature access, source accuracy, sharing permissions, and review time before adoption. The post Copilot Notebooks Turns Proje",
-        "dwp_take": "Microsoft rolled out Copilot Notebooks, which automatically converts your project files into draft documents using AI. This matters because it fundamentally changes how knowledge gets captured and shared across teams, but it also means you're suddenly dealing with AI-generated content that needs human verification before anyone relies on it. Here's the thing: letting AI loose on your project files sounds convenient until someone's decision is based on a hallucination buried in a \"smart\" draft that looks official but isn't.",
-        "date": "2026-10-28T09:13:30.733497+00:00"
+        "excerpt": "The Netherlands plans 25,000 government job cuts as it explores AI savings. See the 2027 timeline and steps for Dutch and EMEA public-sector IT teams. The post Netherlands Plans 25,000 Job Cuts as Gov",
+        "dwp_take": "The Dutch government is cutting 25,000 public sector jobs by 2027, betting that AI will handle the work instead. This matters because it's the clearest real-world test yet of whether AI can actually replace knowledge work at scale, and EMEA governments are watching closely to see if it works or becomes a cautionary tale. Here's the thing: cutting jobs is easy, but making sure your AI systems don't collapse when they hit actual messy government processes is another story entirely.",
+        "date": "2026-10-29T09:13:23.378140+00:00"
       }
     ]
   }
