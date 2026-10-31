@@ -1,122 +1,5 @@
 [
   {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "dwp_take": "OpenAI announced it's stopping live internet training for its frontier AI models due to what they're calling significant risks, a reversal from their previous stance just weeks earlier. For digital workplace pros, this matters because we've been betting on AI tools that improve over time through real-world data, and this pivot suggests the real-world data wasn't as risk-free as we thought. Looks like even the smartest people in the room sometimes need a few weeks to figure out that training on the live internet was maybe not the genius move they thought it was.",
-    "date": "2026-10-24T07:48:55.404215+00:00"
-  },
-  {
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
-    "dwp_take": "TechCrunch is hosting a 2026 founder summit that covers practical startup challenges like customer acquisition, team building, and scaling beyond just the usual fundraising and AI talk. This matters because digital workplace infrastructure increasingly serves early-stage companies and founders, so understanding founder pain points helps us build better collaboration tools and knowledge systems. Honestly, if a founder summit needs a full day just to explain how to find customers and build teams, maybe we've been overthinking the whole \"move fast and break things\" philosophy for a while now.",
-    "date": "2026-10-24T07:48:59.346858+00:00"
-  },
-  {
-    "title": "Three insights you may have missed from theCUBE\u2019s coverage of Okta\u2019s Oktane event",
-    "url": "https://siliconangle.com/2026/10/23/ai-agent-governance-takes-shape-oktas-oktane-event-oktane/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "AI agent governance is moving identity security into the flow of work. As agents call tools, delegate tasks and act across applications, enterprises need controls that follow those actions beyond an i",
-    "dwp_take": "Okta is pushing the idea that identity security needs to evolve beyond traditional login controls to monitor and govern AI agents as they operate across your entire tech stack. This matters because most organizations still treat security as a checkpoint at the door, not as something that follows work through every system and application. The real test isn't whether vendors can sell you governance tools, it's whether your actual business processes can survive the weight of all that monitoring without grinding to a halt.",
-    "date": "2026-10-24T07:49:04.098305+00:00"
-  },
-  {
-    "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-    "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorit",
-    "dwp_take": "Moonshot AI released Kim K3.1 Pro, a large language model with 3 trillion parameters that claims to outperform Claude and GPT-6 on certain tasks. This matters because better LLMs mean your organization's AI tools for knowledge work, customer service, and content creation will get smarter and cheaper faster than you're probably planning for. Look, another Chinese AI company dropping a credible competitor should tell you that the real workplace disruption isn't coming from hype cycles, it's coming from a dozen labs simultaneously making models that actually work better.",
-    "date": "2026-10-24T07:49:08.193036+00:00"
-  },
-  {
-    "title": "Matrix gains ground in Europe\u2019s public sector \u2014 but replacing Teams is another matter",
-    "url": "https://www.computerworld.com/article/4239735/matrix-gains-ground-in-europes-public-sector-but-replacing-teams-is-another-matter.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Matrix-based messaging tools are gaining traction among European governments that seek to gain greater control over sensitive communications data and lessen their reliance on US technology suppliers. ",
-    "dwp_take": "European governments are testing Matrix-based messaging platforms to reduce dependence on US tech giants and keep sensitive communications data under their own control. This matters because it signals a real shift in how organizations evaluate workplace tools, moving beyond feature checklists toward sovereignty and data governance concerns. Here's the thing though: interest in Matrix and actual Teams replacement are two completely different animals, and most government IT teams know it.",
-    "date": "2026-10-24T07:49:12.657350+00:00"
-  },
-  {
-    "title": "OpenClaw creator spent $10 million on AI tokens last month",
-    "url": "https://www.computerworld.com/article/4239772/openclaw-creator-spent-10-million-on-ai-tokens-last-month-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "OpenClaw, the AI digital assistant, is looking to establish itself as an essential tool for users \u2014 but if it is as profligate in its use of tokens as its creator, Pete Steinberger, then users could b",
-    "dwp_take": "OpenAI's Pete Steinberger dropped ten million bucks on AI tokens in a single month while developing OpenClaw, his new AI assistant tool. This matters because if the product inherits that token appetite, organizations rolling it out could face shocking usage costs that blow past their budgets faster than a chatbot through a knowledge base. The real question isn't whether AI is transforming work, it's whether we can afford to actually use it without needing a second mortgage.",
-    "date": "2026-10-24T07:49:16.308051+00:00"
-  },
-  {
-    "title": "SAP lets AI play key role in its certification renewal process",
-    "url": "https://www.computerworld.com/article/4239660/sap-lets-ai-play-key-role-in-its-certification-renewal-process-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "SAP professionals can now renew their certifications through AI-based roleplays. The new service builds on SAP\u2019s revamp of its certification program last year, shifting the focus from rote learning of",
-    "dwp_take": "SAP is now using AI-powered roleplay simulations to help professionals renew their certifications instead of relying on traditional exams. This matters because it signals that tech vendors are finally getting serious about proving people can actually do the work instead of just memorizing facts, which is a shift the industry desperately needed. The real test will be whether SAP's AI can actually catch the difference between someone who knows their stuff and someone who's just good at prompt engineering.",
-    "date": "2026-10-24T07:49:19.909829+00:00"
-  },
-  {
-    "title": "eMudhra quits global TLS certificate market after compromise of CA signing keys",
-    "url": "https://www.computerworld.com/article/4239619/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Indian digital trust company eMudhra has announced that it is exiting the global SSL/TLS certificate business and is offering customers certificates issued by Sectigo as an alternative, following the ",
-    "dwp_take": "eMudhra, an Indian digital trust company, is pulling out of the global SSL/TLS certificate business after hackers compromised the private keys for eight of its intermediate certificate authorities. This matters because certificate authorities underpin security across the entire internet, and when one gets breached, it erodes trust in the whole system and forces everyone downstream to scramble for alternatives. Here's the thing: this is what happens when you skimp on security infrastructure, and it's a brutal reminder that in the trust business, one catastrophic failure can be your entire business model.",
-    "date": "2026-10-24T07:49:23.684806+00:00"
-  },
-  {
-    "title": "Consuming political news can hurt your job performance",
-    "url": "https://www.fastcompany.com/91628551/consuming-political-news-can-hurt-your-job-performance?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "With the midterm elections around the corner, political anxiety is in season\u2014and productivity could pay the price. A new study from researchers at Texas A&M University shows that consuming political n",
-    "dwp_take": "A study shows that reading political news and doom-scrolling on personal time actually tanks job performance, regardless of whether you're talking politics at work. This matters because it proves what we've known intuitively for years: what employees consume mentally outside work bleeds into their focus and behavior inside work. Here's the real takeaway though - maybe instead of blaming the news cycle, organizations should ask whether their workplace culture is so brittle that employees need to escape into political anxiety in the first place.",
-    "date": "2026-10-24T07:49:27.730694+00:00"
-  },
-  {
-    "title": "Googlebook Adds Linux Developer Tools: What You Can Do With the New Terminal Preview",
-    "url": "https://www.techrepublic.com/article/news-googlebook-linux-terminal-preview-developer-tools/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google's Linux Terminal Preview brings AI agents and developer tools to Googlebook. Explore its features, security controls, and IT limitations. The post Googlebook Adds Linux Developer Tools: What Yo",
-    "dwp_take": "Google just gave Chromebook users native Linux terminal access with AI agent integration, which means developers can now actually do real work on what was previously a glorified browser window. This matters because it blurs the line between thin clients and proper development machines, forcing IT teams to rethink their device management strategies and security policies. Honestly, it's about time someone made Chromebooks useful for people who do things besides email and spreadsheets, though I'm guessing IT departments are already having stress dreams about the support tickets this will generate.",
-    "date": "2026-10-24T07:49:35.911555+00:00"
-  },
-  {
-    "title": "The AI Boom Needs More Data Centers. Trump Wants Communities to Get a Cut",
-    "url": "https://www.techrepublic.com/article/news-trump-data-center-community-dividends-ai/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Trump wants data center companies to pay host communities as opposition to AI infrastructure grows. Here's what the proposal could mean for future projects. The post The AI Boom Needs More Data Center",
-    "dwp_take": "Trump's proposal would require data center companies to share revenue with the communities hosting their facilities, addressing growing local pushback against AI infrastructure projects. This matters to digital workplace professionals because data center expansion directly affects cloud services, AI tools, and the reliability of workplace infrastructure we all depend on. Honestly, it's refreshing to see someone acknowledge that communities deserve compensation for hosting power-hungry server farms, though I'll believe the actual revenue sharing happens when I see the checks clear.",
-    "date": "2026-10-24T07:49:39.649383+00:00"
-  },
-  {
-    "title": "Hugging Face\u2019s New AI Model Lets Scientists Analyze DNA at a Fraction of the Cost",
-    "url": "https://www.techrepublic.com/article/news-hugging-face-carbon-x-ai-dna-analysis/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Hugging Face's Carbon-X AI model lets researchers analyze DNA using natural language, with lower reported costs and local deployment options for labs. The post Hugging Face\u2019s New AI Model Lets Scienti",
-    "dwp_take": "Hugging Face released Carbon-X, an AI model that lets researchers analyze DNA using natural language processing instead of traditional coding, with significantly lower costs and the ability to run locally on lab servers. For digital workplace teams supporting science and research organizations, this matters because it's a practical example of AI that actually reduces complexity and cost instead of just adding another subscription service to the pile. Honestly, if your biotech team can finally stop paying for expensive analysis tools and run this locally, you've actually found one of those rare AI wins that makes people's jobs easier rather than just replacing them with something shinier.",
-    "date": "2026-10-24T07:49:43.818654+00:00"
-  },
-  {
-    "title": "Meta AI Glasses Now on Sale in Malaysia: Which Ray-Ban or Oakley Model Should You Buy?",
-    "url": "https://www.techrepublic.com/article/news-meta-ai-glasses-malaysia-launch/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Meta's Ray-Ban and Oakley AI glasses are now available in Malaysia. Compare four models, their prices, features, and prescription compatibility. The post Meta AI Glasses Now on Sale in Malaysia: Which",
-    "dwp_take": "Meta's Ray-Ban and Oakley AI glasses just hit the Malaysian market, giving workers in that region access to wearable AI devices for the first time through official channels. For digital workplace folks, this matters because wearable AI is slowly moving from novelty to actual workplace tool, and regional availability signals we need to think about how these things fit into our real estate and collaboration strategies. Personally, I'll be curious to see if anyone actually buys these for work or if they mostly collect dust next to everyone's abandoned VR headsets.",
-    "date": "2026-10-24T07:49:47.672615+00:00"
-  },
-  {
     "title": "Here are the top AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -961,5 +844,131 @@
     "excerpt": "Proton plans to reassess employees' AI skills in interviews that could affect their jobs, raising questions about AI adoption and workforce evaluations. The post Proton to Re-Interview Employees on AI",
     "dwp_take": "Proton is conducting re-interviews to assess employee AI competency, with job security apparently tied to the results. This matters because it signals how organizations are weaponizing AI skills assessments as a hiring and retention tool, setting a precedent that could spread across tech and beyond. Here's my take: if your job security now hinges on proving you can use ChatGPT, we've officially jumped the shark on AI adoption theater, and someone in HR got way too excited about a shiny new evaluation metric.",
     "date": "2026-10-30T09:26:58.548747+00:00"
+  },
+  {
+    "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
+    "dwp_take": "Anthropic is heading toward a junk credit rating when it goes public, meaning it'll pay higher interest rates to borrow money for its AI operations. This matters to workplace tech leaders because it signals how expensive it's becoming to build and maintain AI infrastructure, which will eventually hit your budget requests and product roadmaps. Look, when your hot new AI vendor is burning cash faster than a startup in 2000, you might want to ask some harder questions about their long-term viability before betting your collaboration strategy on them.",
+    "date": "2026-10-31T09:10:34.878875+00:00"
+  },
+  {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "dwp_take": "TechCrunch published a listicle of Halloween costume ideas aimed at tech professionals, suggesting people dress as AI agents, coding vulnerabilities, or tech industry personalities. This matters because workplace culture increasingly bleeds into personal life, and Halloween participation remains a litmus test for whether your company actually believes in \"fun\" or just performs it awkwardly. Look, if your best costume idea comes from a TechCrunch article, you've already lost the game, but at least dressing as a PHP vulnerability guarantees nobody will talk to you all night.",
+    "date": "2026-10-31T09:10:38.768835+00:00"
+  },
+  {
+    "title": "Cracks are emerging in the AI spending boom",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "dwp_take": "Big Tech companies are spending massive amounts on AI infrastructure while racking up debt and negative cash flow, and investors are getting nervous about whether this can actually pay off. Digital workplace leaders need to pay attention because this directly affects whether the enterprise AI tools they're planning to deploy will actually exist in two years or evaporate like every other tech bubble. After three decades watching this cycle, I can tell you that the best time to buy a shovel is when everyone's selling them, not when they're desperately digging.",
+    "date": "2026-10-31T09:10:42.607952+00:00"
+  },
+  {
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
+    "dwp_take": "TechCrunch is running a founder summit in Boston this November with Braindate software handling the networking matchmaking instead of the usual awkward mingling and business card shuffling. This matters because if you're building internal collaboration tools or designing workplace connection strategies, watching how external events solve the \"find your people\" problem gives you real patterns to steal for your organization. Honestly though, if your company needs an algorithm to help employees network with each other, you might want to ask why your culture isn't doing that for free already.",
+    "date": "2026-10-31T09:10:46.730657+00:00"
+  },
+  {
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "dwp_take": "Netgear discovered a security flaw in certain routers that lets someone already on your network execute malicious commands on the device itself. This matters because your corporate network router is basically the front door to everything your organization cares about, and a compromised router turns that door into a revolving entrance for attackers. After three decades watching IT departments struggle with patch management, I can tell you that the routers sitting in server closets are probably the least-updated devices in your entire infrastructure, which means this one's going to hurt more than most.",
+    "date": "2026-10-31T09:10:50.924294+00:00"
+  },
+  {
+    "title": "Smplify wants a human checkpoint between AI agents and your device fleet",
+    "url": "https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "One of the great things about Apple device management solutions is that the market for them is growing. Another is that because no two enterprises are alike, there is scope to bring different offering",
+    "dwp_take": "Smplify launched as a new device management vendor focusing on Apple fleet management, raising $1 million and emphasizing human oversight of AI agents handling device operations. For digital workplace pros, this matters because autonomous AI managing your device fleet without human review is a recipe for cascading disasters that your CEO will somehow blame on IT. Here's the thing though: \"human checkpoint\" is just a fancy way of saying someone still has to babysit the robot, which means you've added a job, not solved one.",
+    "date": "2026-10-31T09:10:55.261659+00:00"
+  },
+  {
+    "title": "5 things ancients knew about finding happiness",
+    "url": "https://www.fastcompany.com/91627801/5-things-ancients-happiness?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Below, June Cohen shares five key insights from her new book, The Great Remembering: Powerful Ancient Practices\u2015And the New Science Bringing Them Back. Cohen is a pioneer in media and technology, best",
+    "dwp_take": "Fast Company ran a piece where June Cohen, TED's co-creator, shares ancient wisdom about happiness from her new book. This matters to digital workplace folks because our industry has spent two decades solving problems that philosophers already cracked millennia ago, and maybe we should actually listen. Here's the thing: we're building $50 million collaboration platforms when people mostly just need to feel connected and purposeful, which apparently the ancients already figured out without Slack.",
+    "date": "2026-10-31T09:10:59.280340+00:00"
+  },
+  {
+    "title": "What not to do as a CEO pushing AI? Call your workers \u2018losers\u2019",
+    "url": "https://www.fastcompany.com/91633108/what-not-to-do-as-a-ceo-pushing-ai-call-your-workers-losers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Plenty of CEOs are bullish on AI and have urged their employees to embrace it enthusiastically. A more unusual approach is to brand your workers as \u201closers\u201d for not using AI enough. A new investigatio",
+    "dwp_take": "A Proton CEO reportedly called employees \"losers\" for not adopting AI fast enough, according to reporting from 404 Media. This matters because it highlights how toxic leadership around emerging tech adoption poisons workplace culture and makes people dig in their heels instead of embracing change. Look, you can't bully people into digital transformation. The CEO just taught his workforce that leadership doesn't understand how to actually get buy-in, which is the whole game here.",
+    "date": "2026-10-31T09:11:02.840650+00:00"
+  },
+  {
+    "title": "Lose your job to AI? Here\u2019s what to do if a company wants you back",
+    "url": "https://www.fastcompany.com/91632973/lose-your-job-ai-heres-what-do-company-wants-you-back?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines.Microsoft, Barclays Bank a",
+    "dwp_take": "Companies like Microsoft, Barclays, and Kroger are laying off workers and specifically blaming AI for the cuts, adding fuel to legitimate fears about automation eliminating jobs at scale. Digital workplace leaders need to understand this trend because they're often caught in the middle, tasked with implementing the very tools that make roles redundant while managing employee morale and retention. The real irony here is that the same executives using AI to cut costs will probably panic when they realize nobody's left to actually use the systems they bought.",
+    "date": "2026-10-31T09:11:06.780579+00:00"
+  },
+  {
+    "title": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "This week on Uncanny Valley, we also discuss Anthropic\u2019s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+    "dwp_take": "A contractor accidentally deployed an AI agent built with Anthropic's Claude into Pentagon systems, raising serious questions about how classified environments handle third-party AI tools. This matters because many organizations are racing to integrate AI without proper security vetting, and if it can happen at the Pentagon, your company's data governance probably needs a hard look too. The real scandal here isn't that AI got somewhere it shouldn't have, it's that nobody apparently had a process to stop it.",
+    "date": "2026-10-31T09:11:11.304973+00:00"
+  },
+  {
+    "title": "Apple\u2019s 512GB Mac Studio Now Costs $22,299: Here\u2019s What You Get",
+    "url": "https://www.techrepublic.com/article/news-apple-mac-studio-512gb-ram-price-specs/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Apple's 512GB Mac Studio costs $22,299. Explore its M5 Ultra specs, memory upgrades, pricing, and whether this high-end workstation is worth buying. The post Apple\u2019s 512GB Mac Studio Now Costs $22,299",
+    "dwp_take": "Apple just priced a Mac Studio with 512GB of storage at over $22,000, putting serious computing power into a compact form factor aimed at creative professionals. For digital workplace leaders, this matters because it signals where the high end of creative tool costs is heading and forces budget conversations about whether your organization needs this tier or if mid-range machines handle the work just fine. Honestly, if your employee needs a $22K computer to do their job, they better be rendering 8K video or you've got a problem on your hands.",
+    "date": "2026-10-31T09:11:15.378587+00:00"
+  },
+  {
+    "title": "110 Humanoid Robots Dance in Sync as China Sets Guinness World Record",
+    "url": "https://www.techrepublic.com/article/news-apac-china-110-humanoid-robots-guinness-world-record/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "China's AGIBOT sets a Guinness World Record by deploying 110 humanoid robots to dance in sync, showcasing advances in robot coordination and fleet automation. The post 110 Humanoid Robots Dance in Syn",
+    "dwp_take": "China deployed 110 humanoid robots that danced in perfect synchronization, setting a new Guinness World Record for coordinated robot performance. This demonstrates real advances in fleet automation and distributed control systems that will eventually matter for workplace automation, from warehouses to manufacturing lines. Look, synchronized dancing robots are impressive party tricks, but the actual breakthrough is the underlying tech that could manage thousands of coordinated tasks without human intervention, which is either thrilling or terrifying depending on your job security and your philosophical mood.",
+    "date": "2026-10-31T09:11:19.189719+00:00"
+  },
+  {
+    "title": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
+    "url": "https://www.techrepublic.com/article/news-mistral-large-4-ai-cybersecurity-open-weights/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Mistral releases Large 4, a 1-trillion-parameter open-weight AI model targeting cybersecurity. Here's what IT teams should know about costs and deployment. The post Mistral Releases 1-Trillion-Paramet",
+    "dwp_take": "Mistral just dropped a massive open-weight AI model with a trillion parameters specifically designed for cybersecurity work. This matters because it gives enterprises a credible alternative to closed proprietary models, meaning your security team could actually own and control their AI tools instead of renting them from Big Tech. Of course, \"open-weight\" and \"a trillion parameters\" sounds impressive until someone has to figure out where to actually run this thing without melting the infrastructure budget.",
+    "date": "2026-10-31T09:11:22.889491+00:00"
+  },
+  {
+    "title": "XREAL AURA vs Samsung Galaxy XR: Which Android XR Device Is Worth Buying?",
+    "url": "https://www.techrepublic.com/article/news-xreal-aura-vs-samsung-galaxy-xr/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "XREAL AURA vs Samsung Galaxy XR: Compare price, specs, displays, AI features, battery life, and productivity to find the best Android XR device. The post XREAL AURA vs Samsung Galaxy XR: Which Android",
+    "dwp_take": "Two new Android XR headsets hit the market with XREAL AURA and Samsung Galaxy XR competing on specs, price, displays, and AI capabilities. For digital workplace folks, this matters because spatial computing is finally moving beyond the hype cycle into actual hardware choice, meaning we need to start thinking seriously about which devices will actually show up in our enterprises. My take: whoever wins this battle will be the one that doesn't require employees to mortgage their house, and I'm betting that's not Samsung.",
+    "date": "2026-10-31T09:11:26.668584+00:00"
   }
 ]
