@@ -1,101 +1,156 @@
 {
-  "generated": "2026-11-02T10:25:55.295767+00:00",
+  "generated": "2026-11-03T10:24:11.953657+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-        "dwp_take": "Tech CEOs are publicly championing AI as a productivity miracle while their own workforces deal with layoffs, retraining chaos, and genuine uncertainty about what their jobs will look like next year. This matters because digital workplace leaders are caught in the middle, tasked with managing both the AI rollout and the real anxiety it's creating on the ground. The truth is, if your biggest concern is how AI makes executive life easier while your employees are wondering if they'll be here in six months, you're not building a digital workplace strategy, you're building a morale disaster.",
-        "date": "2026-11-02T10:25:16.766360+00:00"
+        "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "dwp_take": "Apple's executives were asked about monetizing AI and basically said \"we're thinking about it, maybe through third-party stuff\" without actually committing to anything concrete. This matters because if Apple figures out how to create a viable revenue stream from AI partnerships, every tech giant will copy it, and workplace app developers need to understand those economics. The real story here is that even Apple, with all its control freakery, hasn't figured out how to make money from AI yet, which tells you something about how nascent this whole thing still is.",
+        "date": "2026-11-03T10:23:11.430622+00:00"
       },
       {
-        "title": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work",
-        "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
-        "source": "SiliconAngle",
+        "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Artificial intelligence agents have become two a penny in the enterprise today, but just because they\u2019re rapidly being commoditized does not mean organizations know how best to use them. That\u2019s the ch",
-        "dwp_take": "Marble Cognition just raised 3.75 million dollars to build AI agents that watch how people actually work and learn from their behavior patterns. This matters because most organizations are drowning in AI tools they don't know how to deploy effectively, so anything that bridges the gap between AI capabilities and real workflow adoption is worth paying attention to. The irony is thick though: we're funding AI to watch us work so we can deploy more AI to do our work, when maybe the real problem is we never asked people what they actually need in the first place.",
-        "date": "2026-11-02T10:25:21.771556+00:00"
+        "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sleeps sometimes because he\u2019s so excited to be working with his AI agents. On a new episode of Walter ",
+        "dwp_take": "Garry Tan from Y Combinator is dropping $200K annually on AI token usage because he's basically living inside his AI agents and barely sleeping. This matters because it shows how some leaders are genuinely reorganizing their work around AI tools rather than just testing them on the side. Here's the real talk though: if you're spending that much on tokens and calling it \"cyber psychosis,\" maybe the agents are doing the thinking and you're just paying for the electricity.",
+        "date": "2026-11-03T10:23:15.015885+00:00"
       },
       {
-        "title": "Project-by-project security reviews can\u2019t keep pace with enterprise AI agents",
-        "url": "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/",
-        "source": "SiliconAngle",
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard ",
-        "dwp_take": "Companies are shipping AI agents faster than their security teams can review them, and once sensitive data gets fed into these models it's basically permanent. This matters because digital workplace leaders are now caught between business pressure to deploy AI and the reality that their security processes were built for a different speed. Here's the thing: you can't unring a bell, and feeding your company's confidential stuff into an AI model without proper governance is like giving your keys to someone and hoping they won't lose them.",
-        "date": "2026-11-02T10:25:25.274045+00:00"
+        "excerpt": "The one-year-old startup is now valued at $300 million.",
+        "dwp_take": "Trajectory, a year-old startup, just closed a $45 million funding round and hit a $300 million valuation by promising to make AI model training accessible to people without technical backgrounds. This matters because digital workplace leaders are getting hammered with pressure to \"do AI\" but most don't have data scientists on staff, so tools that democratize this capability could actually let them ship something instead of just talking about it. That said, \"accessible to nontechnical experts\" is venture speak for \"we're betting nontechnical people will figure out our product,\" so I'll believe it when I see actual adoption outside the sandbox.",
+        "date": "2026-11-03T10:23:19.248171+00:00"
       },
       {
-        "title": "Agent demand can\u2019t be forecast, meaning the database has to be ready for anything",
-        "url": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
-        "source": "SiliconAngle",
+        "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Enterprises building an agentic AI architecture are learning that the database matters as much as the model. AI agents fire off thousands of unplanned queries at once \u2014 and expect answers in milliseco",
-        "dwp_take": "Enterprises are discovering that AI agents generate unpredictable, massive database query loads that demand millisecond response times, pushing database technology to its limits. For digital workplace pros, this means your infrastructure decisions around AI deployment can't be guesswork anymore because agents will absolutely expose weak database architecture under real-world conditions. The irony is rich: we spent decades optimizing for predictable user behavior, and now machines are going to make our databases work harder than humans ever did.",
-        "date": "2026-11-02T10:25:29.036227+00:00"
+        "excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+        "dwp_take": "Anthropic is saying their AI systems are approaching a point where they can essentially train themselves, potentially triggering a runaway cycle of capability growth that nobody fully understands yet. For digital workplace folks, this matters because we're about to find out whether AI assistants become genuinely useful partners or turn into unpredictable black boxes that make your collaboration tools unreliable at scale. Personally, I'm less worried about AI doomerism and more concerned that we'll deploy self-improving systems into enterprise environments before we've figured out basic stuff like prompt injection security or hallucination management.",
+        "date": "2026-11-03T10:23:23.098122+00:00"
       }
     ],
-    "tools-tech": [],
-    "digital-culture": [
+    "tools-tech": [
       {
-        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
-        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "category": "digital-culture",
-        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
-        "dwp_take": "Microsoft and Slack just conducted research showing that nearly half of all employees are burnt out from constant workplace transformation initiatives. This matters because digital workplace leaders keep launching shiny new tools and processes without accounting for the cognitive load they create, which directly causes your best people to quit. Here's the thing: nobody's ever been retained by change for change's sake, and transformation fatigue is just a fancy way of saying we've finally admitted that rolling out Slack, Teams, a new intranet, and agile workflows in the same quarter was a terrible idea.",
-        "date": "2026-11-02T10:25:35.521035+00:00"
+        "title": "OpenAI will merge ChatGPT\u2019s chat and work tabs \u2013 here\u2019s when, and what to expect",
+        "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "On the heels of Anthropic\u2019s similar move, the change will be tested among select users before being rolled out.",
+        "dwp_take": "OpenAI is consolidating ChatGPT's interface by merging separate chat and work tabs into one unified view, following Anthropic's lead with a phased rollout starting with select users. This matters because workplace AI adoption depends on friction being invisible, and right now people are bouncing between tabs like it's 1999, which defeats the whole purpose of having an AI assistant at work. The real question is whether this solves the actual problem (people still don't know which tool to use when) or just hides the confusion behind a cleaner interface.",
+        "date": "2026-11-03T10:23:27.266908+00:00"
       },
       {
-        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
-        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
+        "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "It turns out even bots can\u2019t escape bureaucracy.",
+        "dwp_take": "Researchers set 50 AI agents loose in Minecraft to see if they could build a functioning society, and the experiment fell apart when the agents got bogged down in administrative overhead and couldn't coordinate effectively. This matters to digital workplace pros because it's a live demonstration of what happens when you scale up autonomous systems without proper governance structures, which is exactly what will happen when enterprises start deploying AI agents across their workflows. Turns out the robots need org charts and meeting agendas just like we do, which should comfort anyone worried about being replaced.",
+        "date": "2026-11-03T10:23:31.136669+00:00"
+      },
+      {
+        "title": "Zoomtopia 2026: Zoom Got It Done! Maybe\u2026",
+        "url": "https://www.computerworld.com/article/4243331/zoomtopia-2026-zoom-got-it-done-maybe.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "\u201cZoom Got It Done\u201d is the tagline for the company\u2019s new Zoom Ahead campaign, with the focus being how Zoom\u2019s AI-first capabilities take conversations to completion. This one features Kate McKinnon and",
+        "dwp_take": "Zoom is leaning hard into celebrity-backed advertising to convince people their AI features actually finish conversations instead of just extending them indefinitely. This matters because it signals how vendors are now competing on AI integration rather than basic reliability, which means you need to evaluate whether these tools genuinely improve outcomes or just add another layer of complexity to your tech stack. Honestly, if an AI feature needs Kate McKinnon to sell it, I'm wondering if the feature sells itself, which is usually a bad sign.",
+        "date": "2026-11-03T10:23:36.267278+00:00"
+      },
+      {
+        "title": "Does AI actually save employees time? Data is contradictory",
+        "url": "https://www.computerworld.com/article/4243686/does-ai-actually-save-employees-time-data-is-contradictory-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "It\u2019s early days for AI-assisted work, and sentiments are mixed about its benefits: Does AI actually bring value and save employees time, or does it bog them down and add unnecessary activities? Data f",
+        "dwp_take": "Microsoft and other vendors have been selling AI as the ultimate time-saver, but early productivity data shows employees using AI most heavily are actually working longer hours, not shorter ones. This matters because we're building our entire digital workplace strategy around a promise that might be backwards. The honest truth is we're probably just giving people new ways to work harder while calling it efficiency, which is basically the digital workplace story since 1995.",
+        "date": "2026-11-03T10:23:39.956329+00:00"
+      }
+    ],
+    "digital-culture": [
+      {
+        "title": "Self-checkout was supposed to cut costs. Instead, it created a problem retailers didn\u2019t anticipate",
+        "url": "https://www.fastcompany.com/91632629/self-checkout-retailers-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
-        "dwp_take": "Companies are finally waking up to the fact that you can't build decent AI without clean workforce data, and people managers are making this a top priority for 2025. This matters because for years we've watched organizations slap AI onto broken processes and call it innovation, so getting the data foundation right actually prevents expensive disasters down the road. The funny part is that \"workforce data as a priority\" has been obvious since about 2015, so we're basically celebrating organizations for catching up to what they should have done a decade ago.",
-        "date": "2026-11-02T10:25:39.430375+00:00"
+        "excerpt": "Stores are cutting back on self-checkout lanes. According to an April survey from Toast, a point-of-sale and restaurant management platform, approximately 36% of 340 small and midsize retail operators",
+        "dwp_take": "Retailers are yanking self-checkout lanes because shrinkage (theft, mostly) is eating their lunch and customer satisfaction tanked. This matters to digital workplace folks because it's a perfect case study in how automation fails when you ignore the human side of the equation, including both employee morale and customer behavior. Turns out people hate self-checkout almost as much as they hate waiting in line, which means your shiny digital solution needs to actually solve a real problem or you're just creating expensive frustration.",
+        "date": "2026-11-03T10:23:44.211689+00:00"
+      },
+      {
+        "title": "AI and women at work: 5 positives, 8 negatives",
+        "url": "https://www.fastcompany.com/91631713/ai-women-work-5-positives-8-negatives?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "The debate about AI and work often focuses on the jobs that will disappear, which tasks will be automated, and which skills and qualities will be valued in the future. Seldom do I read articles that a",
+        "dwp_take": "Fast Company ran a piece highlighting how AI's workplace impact differs significantly between men and women, with researchers identifying five positive outcomes but eight negative ones, plus noting that most AI discussions ignore gender entirely and gloss over burnout and job satisfaction. This matters because if your digital workplace strategy treats AI adoption as gender-neutral, you're probably missing half the picture and setting up your female employees for a rougher ride than their male colleagues. The real kicker is that we've spent thirty years trying to make workplaces inclusive, and now we're about to automate our way backward unless someone actually pays attention to whose work gets eliminated and whose just gets more exhausting.",
+        "date": "2026-11-03T10:23:48.439138+00:00"
+      },
+      {
+        "title": "What this CEO learned about business from detasseling corn for $1.50 an hour",
+        "url": "https://www.fastcompany.com/91600933/what-this-ceo-learned-about-business-from-detasseling-corn-for-1-50-an-hour-leadership-advice?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "I don\u2019t consciously think about my first job when I meet with leaders in the electronics industry to talk about trade policy. But my young days in an Illinois cornfield will always shape how I view, a",
+        "dwp_take": "A CEO credits their formative experience detasseling corn for minimum wage with shaping their work ethic and leadership philosophy. This matters to digital workplace professionals because it's a reminder that institutional knowledge and grit built through actual labor still count in a world obsessed with credentials and pedigree. Honestly, it's refreshing to hear a leader admit that real work beats an MBA in teaching you what matters, though I'd guess this particular CEO probably has both.",
+        "date": "2026-11-03T10:23:52.331422+00:00"
+      },
+      {
+        "title": "Gen Z is challenging \u2018performative availability.\u2019 Why aren\u2019t Millennials and Gen X doing the same?",
+        "url": "https://www.fastcompany.com/91621650/gen-z-is-challenging-performative-availability-why-arent-millennials-and-gen-x-genz-genx-millennials-workplace?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "For decades now, American workers have adhered to an unspoken deal that, in order to be successful professionally, some sacrifices need to be made. Whether it be checking work emails after dinner, tak",
+        "dwp_take": "Gen Z workers are openly rejecting the expectation to be constantly available outside work hours, while older generations like Millennials and Gen X continue accepting this as the cost of career success. This matters because it's forcing organizations to reconsider whether always-on culture actually drives productivity or just burnout, which directly impacts how digital workplace tools and policies get designed. Honestly, Gen Z might be onto something here: if you need your team responding to Slack at midnight to prove their dedication, your business model is broken, not their work ethic.",
+        "date": "2026-11-03T10:23:56.303037+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Before You Buy a Second Monitor, See if Your Tablet Can Do the Job",
-        "url": "https://www.techrepublic.com/article/news-use-tablet-as-second-monitor/",
+        "title": "Apple\u2019s $1,000 Tabletop Robot Could Arrive in 2027",
+        "url": "https://www.techrepublic.com/article/news-apple-1000-tabletop-robot-siri-ai-2027/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Your tablet could double as a second monitor. Here's how Samsung Second Screen and Apple Sidecar work, and when a dedicated display is worth buying. The post Before You Buy a Second Monitor, See if Yo",
-        "dwp_take": "TechRepublic ran through how tablets like iPads and Samsung devices can function as secondary monitors through native OS features like Apple Sidecar and Samsung Second Screen. This matters because it challenges the assumption that everyone needs to drop money on a dedicated external display, and it's a real option for people working from home or in hybrid setups. That said, after thirty years watching workarounds get mistaken for solutions, I'll tell you that a proper monitor is still worth the investment if you're doing this work eight hours a day, because your eyes and neck will thank you later.",
-        "date": "2026-11-02T10:25:43.917724+00:00"
+        "excerpt": "Apple's rumored $1,000 tabletop robot could launch in 2027 with a swiveling display and Siri AI, but software delays may push its release into 2028. The post Apple\u2019s $1,000 Tabletop Robot Could Arrive",
+        "dwp_take": "Apple is working on a tabletop robot with a swiveling display and Siri integration that could launch in 2027, though software delays might push it to 2028. For digital workplace folks, this represents another potential device category competing for desk real estate and employee attention, which means more fragmentation in how teams collaborate and communicate. Honestly, the real question isn't whether Apple can build it, but whether any of us actually need a thousand dollar robot staring at us from the table while we're already drowning in Slack notifications.",
+        "date": "2026-11-03T10:24:00.477880+00:00"
       },
       {
-        "title": "Singapore\u2019s Swap Mobile Lets You Change Phones Every Six Months \u2014 Here\u2019s How It Works",
-        "url": "https://www.techrepublic.com/article/news-swap-mobile-phone-upgrades-apac-singapore/",
+        "title": "monday.com vs Microsoft Planner: Which Is Better for Your Team in 2026?",
+        "url": "https://www.techrepublic.com/article/monday-com-vs-microsoft-planner/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Singapore\u2019s Swap Mobile offers phone upgrades every six months, with flexible handset options and a new 24-month contract for each eligible switch. The post Singapore\u2019s Swap Mobile Lets You Change Pho",
-        "dwp_take": "Singapore just launched Swap Mobile, which lets people upgrade their phones every six months instead of waiting two years like the rest of us suckers. This matters to digital workplace leaders because device management just got messier, from tracking mobile fleet lifecycles to managing security patches across constantly rotating hardware. Honestly, I give it six months before IT departments start asking why employees need a new phone more often than they need a performance review.",
-        "date": "2026-11-02T10:25:47.195690+00:00"
+        "excerpt": "Compare monday.com vs Microsoft Planner and explore pricing, AI features, scheduling, and reporting to find the best tool for your team. The post monday.com vs Microsoft Planner: Which Is Better for Y",
+        "dwp_take": "TechRepublic compared monday.com and Microsoft Planner across pricing, AI features, scheduling, and reporting capabilities to help teams pick the right tool. It matters because work management platform selection directly impacts productivity, budget spend, and whether your team actually adopts the thing you bought. Here's the truth though: the \"best\" tool is always the one your team will actually use, and that usually depends on what you've already got installed, not what some comparison chart promises.",
+        "date": "2026-11-03T10:24:04.265290+00:00"
       },
       {
-        "title": "Replacing workers with AI? You may come to regret it",
-        "url": "https://www.itpro.com/business/careers-and-training/replacing-workers-with-ai-you-may-come-to-regret-it-gartner-warns-30-percent-of-employees-whove-been-laid-off-because-of-the-technology-will-be-rehired-by-2029-and-at-a-far-higher-cost-to-the-business",
-        "source": "ITPro",
+        "title": "Price Drop: Upgrade to Windows 11 Pro for Only $10",
+        "url": "https://www.techrepublic.com/article/microsoft-windows-11-pro-deal/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "New research from Gartner suggests that poor workforce planning means many companies will up rehiring staff",
-        "dwp_take": "Gartner's research shows companies that rushed to cut headcount and replace workers with AI are now scrambling to rehire because they didn't think through their actual operational needs. This matters because it proves what we've known for decades: technology is a tool that amplifies your strategy, not a substitute for having one. Here's the real kicker though - the companies that nail this aren't the ones picking between humans or AI, they're the ones figuring out what work actually needs doing first, then deciding who or what does it best.",
-        "date": "2026-11-02T10:25:51.538673+00:00"
+        "excerpt": "Unlock the latest user interface, enhanced security features, and new tools for hybrid and remote workers. The post Price Drop: Upgrade to Windows 11 Pro for Only $10 appeared first on TechRepublic.",
+        "dwp_take": "Microsoft is selling Windows 11 Pro licenses for ten bucks, which is frankly bizarre given that Pro normally costs way more. For digital workplace leaders, this matters because it's a rare chance to standardize your environment on current software without blowing the IT budget on licenses. That said, I'd want to know what's actually happening here before my procurement team goes crazy ordering ten thousand copies, because something smells off about a price that low.",
+        "date": "2026-11-03T10:24:08.078142+00:00"
       },
       {
-        "title": "Lakeside Software taps Mark Benson to lead EMEA channel strategy",
-        "url": "https://www.itpro.com/business/leadership/lakeside-software-taps-mark-benson-to-lead-emea-channel-strategy",
-        "source": "ITPro",
+        "title": "Waymo and Toyota to Test Self-Driving SUVs in Japan in 2027",
+        "url": "https://www.techrepublic.com/article/news-waymo-toyota-bz4x-robotaxi-apac-japan-2027/",
+        "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The appointment comes as the digital employee experience (DEX) vendor looks to expand its partner ecosystem around the SysTrack platform",
-        "dwp_take": "Lakeside Software hired Mark Benson to head up their European, Middle Eastern, and African channel operations as they push to grow their partner network around SysTrack. This matters because how vendors distribute and support their tools through partners directly affects which DEX platforms actually get implemented and used in real organizations, not just demoed to willing audiences. Benson's got big shoes to fill in a market where everyone's suddenly an expert in employee experience, which is a polite way of saying the channel game in DEX is getting crowded and competitive as hell.",
-        "date": "2026-11-02T10:25:55.295653+00:00"
+        "excerpt": "Waymo and Toyota plan to test self-driving bZ4X robotaxis in Japan in 2027, with factory-integrated technology supporting future international expansion. The post Waymo and Toyota to Test Self-Driving",
+        "dwp_take": "Waymo and Toyota are partnering to test autonomous robotaxis in Japan starting in 2027, with the self-driving tech baked into Toyota's bZ4X electric vehicles from the factory. This matters because autonomous vehicle rollouts will reshape how workplace transportation, commuting patterns, and employee mobility policies function across Asia and eventually everywhere else. Honestly, if we're still arguing about whether people should come back to the office in 2027, self-driving cars solving the commute problem might finally settle that debate for us.",
+        "date": "2026-11-03T10:24:11.953551+00:00"
       }
     ]
   }
