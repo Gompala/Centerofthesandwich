@@ -1,147 +1,156 @@
 {
-  "generated": "2026-11-04T13:35:34.008167+00:00",
+  "generated": "2026-11-05T10:12:37.944571+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-        "dwp_take": "Anthropic is building FlashProve, a verification system that lets you confirm an AI response actually came from the model claiming to produce it. This matters to digital workplace folks because AI is now embedded in your tools, and you need to know if you're getting answers from Claude or some sketchy knockoff pretending to be Claude. Honestly, it's about time someone tackled this, because right now you're basically taking AI outputs on faith, which is about as smart as accepting a resume without checking references.",
-        "date": "2026-11-04T13:34:36.974733+00:00"
+        "excerpt": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "dwp_take": "Apple is pulling back spending on AI tools for its own engineers, reportedly cutting budgets that were meant to boost internal productivity. This matters because if a company with Apple's resources and AI expertise decides AI doesn't yet deliver enough ROI for their own knowledge workers, it raises hard questions about whether enterprises should be chasing these same tools right now. After thirty years in this space, I'd say this is the clearest signal yet that the AI productivity revolution is still mostly theoretical, and your CFO might be smarter to wait for proof before betting the department budget on it.",
+        "date": "2026-11-05T10:11:40.404875+00:00"
       },
       {
-        "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
+        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-        "dwp_take": "Ted Schlein's Ballistic Ventures is raising $490 million across two new funds to invest in AI-driven cybersecurity startups. This matters to digital workplace folks because security infrastructure directly impacts employee productivity, compliance requirements, and frankly, whether your organization gets ransomed on a Tuesday afternoon. Here's the thing: half a billion dollars chasing AI security solutions tells you the market is either genuinely terrified or genuinely onto something, and my money is on both being true.",
-        "date": "2026-11-04T13:34:40.630355+00:00"
+        "excerpt": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "dwp_take": "Nothing is launching a mysterious AI device next month that the CEO claims will boost productivity, though nobody actually knows what it does yet. For digital workplace pros evaluating emerging tech, this matters because every vendor from here to Tuesday is slapping \"AI-first\" on whatever they're shipping, and we need to wait and see if this is genuinely useful or just another shiny thing that solves problems nobody has. After 30 years in this space, I've learned that vague productivity promises from startups usually mean either a brilliant innovation or an expensive paperweight, and the odds aren't great.",
+        "date": "2026-11-05T10:11:44.331252+00:00"
       },
       {
-        "title": "Sentra raises $150M to control what AI agents can reach in corporate data",
-        "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/",
-        "source": "SiliconAngle",
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Data security startup Sentra Inc. today revealed it has raised $150 million in new funding to expand its platform for controlling what artificial intelligence agents can reach inside corporate data st",
-        "dwp_take": "Sentra just pulled in $150 million to build guardrails around what AI agents can access in your corporate data vaults, riding massive 300% growth over the past year. This matters because every organization is about to have AI agents crawling through sensitive information, and nobody wants their AI chatbot accidentally leaking customer data or trade secrets to the wrong people. Here's the thing though: if companies actually needed to raise $150 million to figure out data access control, we've been doing security wrong for decades, and this is just expensive duct tape on a broken process.",
-        "date": "2026-11-04T13:34:46.108854+00:00"
+        "excerpt": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+        "dwp_take": "OpenAI's chief policy officer is explicitly pitching AI as central to the 2028 election while positioning his company to benefit from that influence. This matters because digital workplace leaders are watching how AI vendors use political access to shape policy, which directly affects what tools get mandated at work and how regulation will constrain (or enable) their use. Here's the thing: when someone tells you upfront they want their product to \"define\" an election while advancing business interests, at least they're being honest about the conflict.",
+        "date": "2026-11-05T10:11:48.253942+00:00"
       },
       {
-        "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
-        "url": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
-        "source": "SiliconAngle",
+        "title": "Meta acquires AI coding startup Conductor",
+        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Traversal Inc., a startup that\u2019s trying to automate site reliability engineering tasks with artificial intelligence agents, seems to be closing in on that goal after raising $120 million in fresh fund",
-        "dwp_take": "Traversal, an AI-focused SRE automation startup, just hit unicorn status with a $120M funding round that values the company at $1 billion. This matters because if autonomous agents can actually handle site reliability work at scale, it fundamentally changes how IT ops teams operate and what skills they need going forward. Look, I've seen plenty of \"AI will replace your job\" hype, but automating the repetitive pages at 3am? That part might actually stick.",
-        "date": "2026-11-04T13:34:49.843839+00:00"
+        "excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "dwp_take": "Meta just bought Conductor, an AI coding startup that lets engineers spin up teams of AI agents to work on different parts of a software project at the same time. This matters because it signals that major tech companies are betting serious money on AI agents handling actual development work, which will reshape how technical teams operate and what skills stay valuable. Honestly, if an AI agent can deploy other AI agents, we're either about to solve software bottlenecks or create a beautiful mess where nobody knows which agent broke what.",
+        "date": "2026-11-05T10:11:51.797486+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "SUSE lays off 1 in 10 workers \u2013 citing AI and automation",
-        "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
+        "title": "Can Netflix\u2019s new AI tool stop your TV-streaming doomscrolling? How to try it",
+        "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
-        "dwp_take": "SUSE announced layoffs affecting 10 percent of its workforce, explicitly blaming AI and automation for the reduction. For digital workplace pros, this signals that enterprise software vendors are serious about restructuring around AI capabilities, which means your tools and platforms will shift faster than you'd expect. Here's the thing though: every company laying people off suddenly claims it's because of AI, when really it's usually just the same old cost-cutting dressed up in shinier language.",
-        "date": "2026-11-04T13:34:53.628771+00:00"
+        "excerpt": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here\u2019s how it works.",
+        "dwp_take": "Netflix rolled out an AI-powered Discover feature that generates personalized streaming recommendations to help users cut through content overload. This matters to digital workplace folks because the same decision fatigue that paralyzes people choosing between five thousand shows is exactly what kills productivity when employees face infinite tool options and poorly organized knowledge systems. Here's the thing though: Netflix thinks AI recommendations will stop doomscrolling, but I've watched people spend 45 minutes reading *about* what to watch instead of actually watching anything. Same energy as implementing another collaboration tool to solve your collaboration problem.",
+        "date": "2026-11-05T10:11:56.139609+00:00"
       },
       {
-        "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says \u2013 here\u2019s why",
-        "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-        "dwp_take": "Microsoft finally admitted that 8GB of RAM is adequate for Windows 11 and released updates to prove it. This matters because plenty of organizations are still running older hardware, and knowing they can upgrade to Windows 11 without replacing entire fleets changes the calculus on modernization timelines and budgets. Honestly, it's refreshing to see Microsoft acknowledge reality instead of pushing everyone toward 16GB machines, though I'd still recommend 16GB for anyone doing real work rather than just existing on their PC.",
-        "date": "2026-11-04T13:34:57.518066+00:00"
-      },
-      {
-        "title": "Tech layoffs: A 2026 timeline",
-        "url": "https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html",
+        "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
+        "url": "https://www.computerworld.com/article/4244752/microsoft-files-patent-for-ai-that-can-alter-what-people-say-during-live-broadcasts.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Among a range of factors leading to a wave of tech sector layoffs in 2026 is the rapid rise of artificial intelligence and automation. Companies are reconfiguring their workforces to leverage AI for i",
-        "dwp_take": "Tech companies are laying off workers in 2026 despite strong profits, blaming AI automation and workforce reconfiguration for the cuts. Digital workplace pros need to understand this trend because they'll be managing the messaging, culture, and infrastructure fallout when headcount decisions hit their own organizations. Here's the thing: when companies cut people to boost margins rather than survive downturns, your job just became part crisis management and part damage control, which wasn't in your job description but definitely will be on your plate.",
-        "date": "2026-11-04T13:35:02.098895+00:00"
+        "excerpt": "Microsoft has filed a patent application for a new AI technology that can alter what people say during live broadcasts. The technology is designed to automatically identify what is being said and can ",
+        "dwp_take": "Microsoft filed a patent for AI that can edit what people say in real-time broadcasts by swapping words and syncing mouth movements to match the altered audio. This matters to digital workplace pros because deepfake technology like this will inevitably land in your organization's video conferencing, training content, and internal broadcasts, whether you want it or not. The stated use case is translation, which is fine, but we all know this tech will be weaponized for misinformation faster than you can say \"trust but verify.\"",
+        "date": "2026-11-05T10:12:00.297768+00:00"
       },
       {
-        "title": "Get a load of Excel\u2019s new multi-value cells",
-        "url": "https://www.computerworld.com/article/4244163/get-a-load-of-excels-new-multi-value-cells.html",
+        "title": "Apple\u2019s Q4 results show the enterprise tide turning to local AI",
+        "url": "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Until now, Microsoft Excel has followed a strict structural rule: each cell on a worksheet can hold only a single scalar value. While you can string together text using commas or write dynamic array f",
-        "dwp_take": "Microsoft is letting Excel cells hold multiple values at once instead of forcing users to wrangle data across separate cells or use workarounds like dynamic arrays. This matters to workplace pros because spreadsheets are still how most organizations actually get work done, and better data structure means less time spent reformatting and more time spent on actual analysis. After thirty years watching Excel users bend spreadsheets into pretzels to do basic tasks, I'm cautiously optimistic that Microsoft finally realized making the software less annoying might be worth their time.",
-        "date": "2026-11-04T13:35:06.135449+00:00"
+        "excerpt": "While delivering record Q4 revenue, Apple\u2019s financial results revealed a $33 billion cost associated with memory price inflation, representing the true cost of the growing bubble of AI data center inv",
+        "dwp_take": "Apple's Q4 earnings revealed that enterprises are shifting toward on-device AI processing instead of relying on centralized data centers, driven by concerns about inference costs, security, and data governance. This matters because it signals that the massive cloud AI infrastructure investments everyone's been hyping might not pay off the way vendors promised, which means your organization's AI strategy needs a reality check. The irony is delicious: the same cost pressures that made cloud AI attractive are now pushing companies back toward local processing, which means you'll be managing AI deployments across devices instead of in shiny data centers.",
+        "date": "2026-11-05T10:12:04.236828+00:00"
+      },
+      {
+        "title": "Google\u2019s first AI data center in space is up and running",
+        "url": "https://www.computerworld.com/article/4244229/googles-first-data-center-in-space-is-up-and-running.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Google\u2019s first experimental data center satellite as part of the Suncatcher project is now operational. The satellite was launched in October, and after several weeks of testing, it has begun communic",
+        "dwp_take": "Google launched an experimental AI data center satellite called Suncatcher that's now operational, equipped with four TPUs that can generate a kilowatt of power and communicate with Earth. For digital workplace folks, this matters because it signals where computational infrastructure is heading: distributed, off-planet, and built around AI processing at scale. Look, I've seen a lot of bold moves in 30 years, but putting your AI chips in orbit feels less like innovation and more like what happens when engineers have too much budget and not enough Earth-based problems to solve first.",
+        "date": "2026-11-05T10:12:07.796511+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Why taste, conviction, foresight, and courage are the traits we need in the age of AI",
-        "url": "https://www.fastcompany.com/91629157/why-taste-conviction-foresight-and-courage-are-the-traits-we-need-in-the-age-of-ai-ai-yechnology-workplace?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Four ways to manage an AI agent successfully",
+        "url": "https://www.fastcompany.com/91635561/four-ways-to-manage-an-ai-agent-successfully?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Many call the development of artificial intelligence the Fourth Industrial Revolution, but I disagree. I would say AI is the first, and the last, intelligence revolution. Every industrial revolution m",
-        "dwp_take": "Someone at Fast Company argues that AI represents a unique intelligence revolution because it's making cognition itself cheap, unlike previous revolutions that just made physical resources cheaper. This matters to digital workplace pros because we're about to manage teams where thinking work gets radically commodified, forcing us to figure out what humans actually do better. Here's the thing: if cognition becomes cheap, your organization's taste and conviction become your actual competitive advantage, which means you'd better know what you stand for beyond \"we use AI now.\"",
-        "date": "2026-11-04T13:35:10.412720+00:00"
+        "excerpt": "Last month, a friend told me that by the end of the year, his startup will have seven employees and over 20 AI agents. He has led several previous successful organizations and has a reputation as a wo",
+        "dwp_take": "Fast Company ran a piece about managing AI agents effectively, focusing on how leaders can maintain team cohesion when AI becomes a major organizational presence. This matters because the digital workplace is shifting from \"how do we adopt AI\" to \"how do we actually work alongside it day-to-day,\" and most managers have zero playbook for that. Here's the thing: if your biggest management challenge used to be Karen in accounting, you're about to learn that managing non-humans is a whole different headache, but honestly, at least they don't need PTO.",
+        "date": "2026-11-05T10:12:11.727082+00:00"
       },
       {
-        "title": "Am I going to be fired by AI? How corporate America is being seduced by AI and algorithms in the \u2018forever layoffs\u2019 era",
-        "url": "https://www.fastcompany.com/91626904/how-likely-are-you-to-be-fired-by-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How \u2018deep reading\u2019 can cure your brain rot",
+        "url": "https://www.fastcompany.com/91635666/how-deep-reading-can-cure-your-brain-rot?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "For five years, the former Meta employee had been feted as a high performer by her managers. She had even received a rare equity award in recognition of her performance, which had never fallen below a",
-        "dwp_take": "A high-performing Meta employee with consistent top ratings and equity awards got laid off anyway, part of the wave of AI-driven workforce reductions hitting corporate America. Digital workplace leaders need to understand that algorithmic layoffs bypass traditional performance metrics, meaning your internal communications strategy and career development programs might be talking to ghosts. Here's the uncomfortable truth: if your company is using AI to make headcount decisions, no amount of \"exceeds expectations\" ratings will save you, which is exactly why employees are losing faith in annual reviews faster than companies are adopting ChatGPT.",
-        "date": "2026-11-04T13:35:14.399600+00:00"
+        "excerpt": "Everyone has something to say about the state of reading in 2026: Reading comprehension scores in the U.S. have continued to decline. Many college students cannot make it through an entire book. The m",
+        "dwp_take": "Reading comprehension is tanking across America while Gen Z paradoxically claims a reading identity, suggesting a real gap between consuming content and actually understanding it. Digital workplace pros need to care because knowledge workers who can't focus long enough to digest complex information become liabilities in knowledge-intensive roles. Here's the uncomfortable truth: if your team can't read past a headline, they'll struggle with anything deeper than Slack messages, and that's exactly when your culture starts running on vibes instead of substance.",
+        "date": "2026-11-05T10:12:15.382854+00:00"
       },
       {
-        "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
-        "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "Canva\u2019s restructuring affects more than 1,200 people. But its severance package is earning praise",
+        "url": "https://www.fastcompany.com/91635782/canva-just-laid-off-1200-people-but-its-severance-package-is-earning-praise?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
-        "dwp_take": "Companies are betting that better workforce data and smarter AI integration will be their top workplace priorities in 2025. This matters because digital workplace leaders need to actually know what data they're collecting, where it lives, and whether their AI tools are solving real problems or just creating new ones. Here's the thing though: I've watched organizations chase data and AI priorities for years, and the ones that actually win are the ones who start by asking \"what question are we trying to answer\" instead of \"what shiny tool can we buy.\"",
-        "date": "2026-11-04T13:35:18.383819+00:00"
+        "excerpt": "Design tech company Canva is doing some major restructuring: The move will impact nearly 1,300 employees, or roughly 22% of its staff. But the company\u2019s also getting attention for how it\u2019s treating th",
+        "dwp_take": "Canva is cutting 1,300 jobs, about 22% of its workforce, but doing it with a severance package that's actually making people nod instead of rage-quit. This matters because most tech layoffs treat departing employees like they've already left the building, so when a company handles it decently, it signals something about workplace culture that the rest of us are watching. The real test isn't the initial announcement though, it's whether those laid-off folks actually receive what was promised and whether Canva's remaining team stays motivated or just starts updating their LinkedIn profiles out of habit.",
+        "date": "2026-11-05T10:12:19.356529+00:00"
+      },
+      {
+        "title": "How AI impacts solopreneurs\u2019 relationships with their clients (and what to do about it)",
+        "url": "https://www.fastcompany.com/91629139/how-ai-impacts-solopreneurs-relationships-their-clients-what-to-do-about-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Most people I know have asked themselves some version of \u201cIs AI replacing me?\u201d It\u2019s a fair question. But, running a solo business, I think the question extends beyond \u201cIs AI replacing the work I do?\u201d ",
+        "dwp_take": "Solopreneurs are discovering that AI isn't just replacing their work, it's changing how clients value them and expect pricing to drop accordingly. This matters because freelancers and independent operators now face a dual pressure: delivering better work faster while justifying fees that clients think AI should handle for pennies. The real problem isn't the technology, it's that clients conflating \"AI can do this\" with \"AI can do this well\" is a recipe for race-to-the-bottom pricing that nobody actually wins.",
+        "date": "2026-11-05T10:12:23.137204+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Android Auto Not Connecting After One UI 9? Google Has a Fix for Galaxy Phones",
-        "url": "https://www.techrepublic.com/article/news-android-auto-one-ui-9-fix/",
+        "title": "AI Data Center Boom Faces Backlash After US Election Results",
+        "url": "https://www.techrepublic.com/article/news-ai-data-center-boom-election-backlash/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Some Galaxy owners report failed connections even over USB. Google's fix is rolling out, but its delivery method and completion date remain unclear. The post Android Auto Not Connecting After One UI 9",
-        "dwp_take": "Google is rolling out a fix for Android Auto connection issues that popped up after Samsung's One UI 9 update on Galaxy phones. This matters because when your employees can't connect their phones to car systems, you're looking at frustrated mobile workers, support tickets, and people missing navigation or hands-free calling. It's a good reminder that even the simplest integrations need coordination between vendors, and vague rollout timelines are basically corporate code for \"we don't actually know when this ends.\"",
-        "date": "2026-11-04T13:35:22.394394+00:00"
+        "excerpt": "US voters are pushing back against AI data centers, raising concerns about construction delays, energy costs, and the future of AI infrastructure. The post AI Data Center Boom Faces Backlash After US ",
+        "dwp_take": "US voters are increasingly opposing AI data center construction in their communities due to concerns about delays, energy consumption, and infrastructure strain. This matters to digital workplace pros because the backbone of every cloud service, collaboration platform, and AI tool we rely on depends on these data centers, so community resistance directly impacts where and how fast new workplace tech gets deployed. Turns out people don't want a glowing server farm in their backyard, even if it powers their Slack messages\u2014who knew?",
+        "date": "2026-11-05T10:12:26.889543+00:00"
       },
       {
-        "title": "SpaceX Explores Boost Mobile Acquisition for US Wireless Push",
-        "url": "https://www.techrepublic.com/article/news-spacex-boost-mobile-acquisition-us-wireless/",
+        "title": "Android 17 Update Tracker: Samsung, Pixel, OnePlus, and More",
+        "url": "https://www.techrepublic.com/article/news-android-17-update-tracker-eligible-phones-rollout/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "SpaceX is reportedly exploring a Boost Mobile acquisition or network deal. Here\u2019s what business buyers should watch on coverage, costs, and compatibility. The post SpaceX Explores Boost Mobile Acquisi",
-        "dwp_take": "Elon Musk's SpaceX is sniffing around a potential acquisition or partnership with Boost Mobile to expand into the US wireless market. This matters because connectivity is now table stakes for any serious workplace infrastructure play, and SpaceX's satellite network could genuinely solve rural access problems that traditional carriers ignore. Look, if Musk can actually deliver reliable broadband to places where people actually work instead of just talking about it, that's worth paying attention to, but let's see the coverage maps before we start celebrating.",
-        "date": "2026-11-04T13:35:26.203969+00:00"
+        "excerpt": "Track Android 17 updates for Samsung, Pixel, OnePlus, Nothing, and Motorola phones. Check eligibility, rollout status, and what to do before upgrading. The post Android 17 Update Tracker: Samsung, Pix",
+        "dwp_take": "Android 17 is rolling out across major phone brands with varying timelines and eligibility requirements depending on your device. This matters because your workforce is almost certainly fragmented across these devices, and OS updates create security patches, compatibility issues, and support headaches that IT has to manage. After 30 years watching mobile updates wreak havoc on enterprise deployments, my advice is simple: don't let your team update until your IT team says it's safe, no matter how shiny Android 17 looks.",
+        "date": "2026-11-05T10:12:30.746902+00:00"
       },
       {
-        "title": "iPhone Duo vs. Pixel 11 Pro Fold: Is Apple\u2019s Extra $100 Worth It?",
-        "url": "https://www.techrepublic.com/article/news-iphone-duo-vs-pixel-11-pro-fold/",
+        "title": "AI Agent Governance: Who Owns Access and Accountability?",
+        "url": "https://www.techrepublic.com/article/news-ai-agent-governance-access-accountability/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Compare the iPhone Duo and Pixel 11 Pro Fold on design, multitasking, cameras, battery life, and pricing to see whether Apple's extra $100 is worth it. The post iPhone Duo vs. Pixel 11 Pro Fold: Is Ap",
-        "dwp_take": "TechRepublic compared Apple's iPhone Duo to Google's Pixel 11 Pro Fold across design, multitasking, cameras, battery life, and price points. For digital workplace pros, this matters because foldable phones are becoming legitimate productivity tools, not just novelties, and the choice between ecosystems affects everything from app compatibility to security policies your IT team enforces. Honestly, the real question isn't whether Apple's hundred bucks extra is worth it, it's whether your organization is ready to support foldables in your BYOD policy before someone just shows up with one anyway.",
-        "date": "2026-11-04T13:35:30.161729+00:00"
+        "excerpt": "AI agent governance requires clear ownership. Learn how IT leaders can manage sensitive data access, preserve audit trails, and test shutdown controls. The post AI Agent Governance: Who Owns Access an",
+        "dwp_take": "Organizations are scrambling to figure out who actually owns AI agent access and who gets blamed when things go sideways. This matters because digital workplace pros are now responsible for keeping AI systems from doing expensive or embarrassing things without anyone knowing who told it to do them. The real talk is that most companies are still playing governance theater while their AI agents are out there making decisions like they own the place, so get your audit trails and shutdown buttons ready before your CEO learns about it from the news.",
+        "date": "2026-11-05T10:12:34.303864+00:00"
       },
       {
-        "title": "Googlebook Tablets Are Coming: What We Know About Lenovo\u2019s First Detachable",
-        "url": "https://www.techrepublic.com/article/news-googlebook-detachable-tablets-lenovo-duet/",
+        "title": "RedMagic 12 Pro Launches Globally With $949 US Starting Price",
+        "url": "https://www.techrepublic.com/article/news-redmagic-12-pro-global-price-specs/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google confirms detachable Googlebook tablets are coming, with Lenovo rumored to launch the first model. Here's what to know about features and availability. The post Googlebook Tablets Are Coming: Wh",
-        "dwp_take": "Lenovo is building the first Googlebook tablet for Google, a detachable device that combines tablet and laptop functionality with Chrome OS. This matters because organizations are still figuring out what devices actually work for hybrid work, and another player in the detachable space means more options and hopefully better competition on pricing. After years of watching Apple and Microsoft dominate hybrid devices, Google finally decided to show up with actual hardware instead of just hoping everyone uses a Chromebook and calling it a day.",
-        "date": "2026-11-04T13:35:34.008056+00:00"
+        "excerpt": "RedMagic\u2019s 12 Pro starts at $949 in the US. Explore its gaming specs, charging features, software support and November sales dates before buying. The post RedMagic 12 Pro Launches Globally With $949 U",
+        "dwp_take": "RedMagic dropped a gaming phone at $949 that's apparently built for people who want to play Call of Duty at their desk instead of actually working. For digital workplace professionals, this matters only if your organization is still pretending mobile device management doesn't include gaming phones, which spoiler alert, it does. Look, I've been doing this for three decades and I can tell you that every new gaming phone launch is really just another device your IT team gets to spend Thursday afternoon supporting.",
+        "date": "2026-11-05T10:12:37.944461+00:00"
       }
     ]
   }
