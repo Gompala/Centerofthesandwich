@@ -1,156 +1,111 @@
 {
-  "generated": "2026-11-08T09:47:24.008722+00:00",
+  "generated": "2026-11-09T10:47:22.119387+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "dwp_take": "A Chinese intelligence officer allegedly recruited a tech executive to gather intelligence on Nvidia's CEO, according to a US intelligence memo making the rounds this year. This matters to digital workplace pros because it's a stark reminder that corporate espionage targeting tech leadership is real and often happens through social engineering and personal relationships rather than dramatic movie heists. If you're building internal security programs and thinking \"that could never happen here,\" you're probably the person it will happen to first.",
-        "date": "2026-11-08T09:46:20.640369+00:00"
-      },
-      {
-        "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
-        "url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+        "title": "AI cyber resilience and the trust gap",
+        "url": "https://siliconangle.com/2026/11/08/ai-cyber-resilience-and-the-trust-gap/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Thinking Machines Labs Inc. has released a new large language model that can automate artificial intelligence training tasks. The algorithm, Inkling 2 Small, made its debut late Thursday. Around the s",
-        "dwp_take": "Thinking Machines just dropped Inkling 2 Small, a new language model designed to automate AI training work, while simultaneously hunting for $5 billion in fresh funding. For workplace tech leaders, this matters because automation of AI training could eventually streamline how your organization builds and deploys custom AI tools without needing a small army of engineers. That said, the timing of a massive fundraise announcement alongside a product launch feels like the oldest playbook in Silicon Valley, so let's see if the model actually delivers before we get excited about what it means for your stack.",
-        "date": "2026-11-08T09:46:25.586890+00:00"
+        "excerpt": "Backup and recovery has evolved into data protection, security and cyber recovery. Today, the focus is on business resilience. The scope continues to expand, with growing attention to how attackers us",
+        "dwp_take": "A new study highlights how AI is reshaping both cyber attacks and defenses, with the conversation shifting from just backing up data to building overall business resilience against AI-powered threats. Digital workplace leaders need to understand this evolution because their networks, content, and employee access are now targets for increasingly sophisticated AI-driven attacks. Here's the honest take: most organizations are still patching yesterday's problems while hackers are already three steps ahead with machine learning, which means your cyber strategy needs to evolve faster than your last Slack update.",
+        "date": "2026-11-09T10:46:38.822903+00:00"
       },
       {
-        "title": "AWS\u2019 Colleen Aubrey: Stop inventing new AI metrics \u2014 it\u2019s your business metrics that matter",
-        "url": "https://siliconangle.com/2026/11/06/aws-colleen-aubrey-stop-inventing-new-ai-metrics-its-your-business-metrics-that-matter/",
+        "title": "The AI boom\u2019s missing balance-sheet question: What has actually been verified?",
+        "url": "https://siliconangle.com/2026/11/06/the-ai-booms-missing-balance-sheet-question-what-has-actually-been-verified/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "There isn\u2019t a business or information technology leader today who doesn\u2019t have artificial intelligence at the top of their priority list. The challenge for most organizations is deciding what to measu",
-        "dwp_take": "AWS exec Colleen Aubrey is telling organizations to stop obsessing over AI-specific metrics and focus on actual business outcomes instead. This matters because too many digital workplace leaders are getting lost in the weeds measuring model accuracy or token usage when they should be asking if AI is actually making work faster, cheaper, or better. After thirty years in this space, I can tell you this is refreshing common sense in a field drowning in meaningless dashboards.",
-        "date": "2026-11-08T09:46:29.184725+00:00"
+        "excerpt": "Artificial intelligence infrastructure commitments are growing faster than the evidence connecting contracted capacity to sustained economic value. I spent 13 years on the floor of the New York Stock ",
+        "dwp_take": "Companies are committing massive budgets to AI infrastructure without solid proof that it's actually delivering measurable business returns. This matters to us in digital workplace because we're often the ones asked to justify these expensive AI implementations to skeptical executives who've already blown money on failed tech initiatives. The honest truth is we're living in a \"trust me bro\" moment with AI spending, and eventually someone's CFO is going to demand receipts we don't have.",
+        "date": "2026-11-09T10:46:42.612775+00:00"
       },
       {
-        "title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
-        "url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
+        "title": "Atomicwork launches certified AI coworker marketplace for enterprise IT and security",
+        "url": "https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "It may be a little soon to determine the ultimate winners and losers among enterprise suppliers after the midterm elections, but the early line is: Big Tech wins and data center suppliers operators su",
-        "dwp_take": "Politicians are getting interested in regulating AI and data centers, but early signals suggest Big Tech companies are navigating the heat just fine while infrastructure players are sweating. This matters because the regulatory environment directly shapes what tools and platforms your organization can actually deploy and how much you'll pay for them. Honestly, after thirty years watching Washington tinker with tech, I'd bet on Big Tech's lobbying budget over any politician's election promises any day of the week.",
-        "date": "2026-11-08T09:46:32.963847+00:00"
+        "excerpt": "Information technology service management startup Atomicwork Inc. today announced the launch of an Artificial Intelligence Coworker Marketplace that will give enterprise IT and security teams access t",
+        "dwp_take": "Atomicwork launched a marketplace of prebuilt AI agents designed to handle specific IT and security tasks like cloud management and access control. This matters because IT teams are drowning in repetitive work, and certified, ready-to-deploy AI could actually free people up to do something that requires a human brain. The real test is whether these \"coworkers\" stay certified once they hit the messy reality of your actual enterprise environment.",
+        "date": "2026-11-09T10:46:46.461347+00:00"
+      },
+      {
+        "title": "Dropbox acquires Tigris Data for $350M, releases new AI productivity features",
+        "url": "https://siliconangle.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-releases-new-ai-productivity-features/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Dropbox Inc. is acquiring cloud storage startup Tigris Data Inc. for $350 million. The company announced the deal today in conjunction with a major update to its product portfolio. It introduced DBX A",
+        "dwp_take": "Dropbox just dropped 350 million dollars to buy Tigris Data and rolled out new AI features including something called DBX Agent Cloud, which basically lets AI agents store their own data. For digital workplace professionals, this matters because it signals that every major productivity platform is now racing to embed AI agents directly into their infrastructure rather than bolting them on afterward. Look, I've seen a lot of acquisitions over three decades, and when you're paying this much for a relatively unknown startup, you're not buying their product, you're buying their talent and their vision for where this is all headed.",
+        "date": "2026-11-09T10:46:50.410962+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "OpenAI buys tiny software developer to improve Codex",
-        "url": "https://www.computerworld.com/article/4245735/openai-buys-tiny-software-developer-to-improve-codex-3.html",
+        "title": "Google Pics: How to level up your visuals in Docs and Slides",
+        "url": "https://www.computerworld.com/article/4229164/google-pics-how-to-level-up-your-visuals-in-docs-and-slides.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "OpenAI is buying Pierre Computer Company in order to incorporate the San Francisco-based software developer\u2019s Code.Storage infrastructure layer for Git into its Codex AI-powered programming tool. Pier",
-        "dwp_take": "OpenAI just scooped up Pierre Computer Company, a tiny San Francisco shop with barely a dozen employees, to bolt their Code.Storage Git infrastructure into Codex, OpenAI's AI coding tool. This matters because it signals that enterprise AI tooling is getting serious about the plumbing layer, not just the flashy interface, which means your organization's version control and developer workflows are about to get a lot more interesting. The real takeaway is that even microscopic companies can catch the acquisition wave if they nail one thing really well, which should tell every workplace tech leader that sometimes the best solutions don't come from the usual suspects.",
-        "date": "2026-11-08T09:46:38.861085+00:00"
-      },
-      {
-        "title": "Box launches Architect, an AI-powered workflow builder",
-        "url": "https://www.computerworld.com/article/4245613/box-launches-architect-ai-powered-workflow-builder-for-business-processes.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Box has introduced a new natural-language AI tool that helps users build automated workflows around document-related processes. Box Architect, announced at BoxWorks 2026 on Thursday, \u201ceffectively acts",
-        "dwp_take": "Box rolled out Architect, an AI tool that lets users build document automation workflows using natural language instead of traditional coding or configuration. This matters because it democratizes workflow automation for non-technical users, potentially reducing the bottleneck of having to wait for IT or developers to build these systems. My take: if it actually works as advertised, this is solid. If users still end up fiddling with the output for hours because the AI misunderstood their business logic, we're just trading one frustration for another.",
-        "date": "2026-11-08T09:46:42.688097+00:00"
-      },
-      {
-        "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
-        "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Microsoft is extending undisclosed usage caps to additional Copilot Chat features for enterprise users who already pay for Microsoft 365 subscriptions but do not hold separate Microsoft 365 Copilot li",
-        "dwp_take": "Microsoft is quietly capping how much free Copilot Chat access enterprise users get unless they buy a separate license, even though these folks already pay for Microsoft 365. This matters because it signals Microsoft is moving AI features from \"included\" to \"upsell,\" which means your company's per-seat costs are about to creep up and your users will hit walls they didn't expect. After three decades watching this playbook, I'll say it plainly: this is classic vendor behavior, and your CFO should start budgeting for Copilot licenses now before someone upstream discovers the restrictions the hard way.",
-        "date": "2026-11-08T09:46:46.837310+00:00"
-      },
-      {
-        "title": "Don\u2019t mention the data center: OpenAI calls them \u2018compute campuses\u2019 instead",
-        "url": "https://www.computerworld.com/article/4245623/dont-mention-the-data-center-openai-calls-them-compute-campuses-instead-2.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "OpenAI has responded to the data center culture war pitting communities against tech companies with a proposal to reduce its power demand during periods of grid strain. The company is also mindful of ",
-        "dwp_take": "OpenAI is rebranding data centers as \"compute campuses\" while promising to dial back power consumption during grid strain. For digital workplace pros, this matters because infrastructure naming directly affects how organizations communicate about hybrid work, AI tools, and the physical backbone that keeps remote teams functioning. Calling a data center a \"compute campus\" won't fool anyone who remembers when \"cloud\" was supposed to mean we'd never worry about physical infrastructure again, but hey, at least they're actually reducing power demand instead of just the terminology.",
-        "date": "2026-11-08T09:46:50.515774+00:00"
+        "excerpt": "Simplicity and convenience are a tough combo to beat. That\u2019s why basic features integrated into the productivity apps we\u2019re already using almost always win out over more capable and complex third-part",
+        "dwp_take": "Google added a simpler image search and insertion tool directly into Docs and Slides so users don't have to leave the app or hunt through third-party plugins. This matters because digital workplace professionals are always fighting against tool sprawl and context switching, so anything that keeps people in their primary workflow reduces friction and improves actual productivity output. Honestly, this is the kind of boring, incremental improvement that actually changes behavior more than any flashy AI feature ever will, which probably explains why it's already being ignored by half your organization.",
+        "date": "2026-11-09T10:46:56.122942+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Minimum wage, the gender wage gap, and more: How Democrats could pressure Trump on workplace issues",
-        "url": "https://www.fastcompany.com/91636658/minimum-wage-the-gender-wage-gap-and-more-how-democrats-could-pressure-trump-on-workplace-issues?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "The memo was never the point. The point was to clarify your thinking",
+        "url": "https://www.fastcompany.com/91635111/the-memo-was-never-the-point-the-point-was-to-clarify-your-thinking?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "While Democrats\u2019 legislative agenda for the incoming Congress is still taking shape, early indications suggest workplace and labor issues will have a prominent role. And while the Senate filibuster an",
-        "dwp_take": "Democrats are planning to make workplace and labor issues central to their congressional agenda, even though legislative wins are unlikely given Republican control and Trump's veto power. This matters to digital workplace professionals because these debates shape compliance requirements, benefits policies, and how companies structure remote work arrangements and employee protections. Here's the thing: whether or not any of this becomes law, your HR and legal teams are already preparing for the conversation, which means more policy documents, more training modules, and more \"please read and acknowledge\" emails in your inbox.",
-        "date": "2026-11-08T09:46:54.749695+00:00"
+        "excerpt": "In 2004, Jeff Bezos banned PowerPoint from Amazon\u2019s senior leadership meetings in favor of narrative memos, read in silence at the start of each meeting. The idea was that a well-structured and tightl",
+        "dwp_take": "Jeff Bezos banned PowerPoint at Amazon in 2004, replacing it with narrative memos that leaders read silently before meetings to force clearer thinking. This matters because digital workplace tools often become the point instead of serving the actual work, and most organizations still assume flashy slides equal better communication when they usually just hide fuzzy thinking. Here's the thing: Amazon's memo culture worked because it demanded rigor, not because memos are inherently superior. Most teams would rather grab a template and call it done.",
+        "date": "2026-11-09T10:47:00.642753+00:00"
       },
       {
-        "title": "Avoid these 5 common open enrollment pitfalls",
-        "url": "https://www.fastcompany.com/91636924/avoid-these-5-common-open-enrollment-pitfalls?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Whether you\u2019re among the 53.5% of Americans who get their health insurance through work, the 20.1% enrolled in Medicare, or the 10.5% purchasing ACA coverage, mid-October or early November typically m",
-        "dwp_take": "Fast Company ran a piece on five common mistakes people make during open enrollment season for health insurance. This matters to digital workplace pros because enrollment communication is often buried in terrible portals and confusing emails that actually drive the mistakes the article warns about. Here's the truth: if your benefits communication requires a decoder ring to understand, you've already lost half your workforce, which means higher support costs and angry employees come January.",
-        "date": "2026-11-08T09:46:58.341350+00:00"
-      },
-      {
-        "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
-        "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "title": "As employer burnout costs soar, EY gets at the heart of worker well-being with Vitality Index",
+        "url": "https://www.worklife.news/talent/as-employer-burnout-costs-soar-ey-gets-at-the-heart-of-worker-well-being-with-vitality-index/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
         "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
-        "dwp_take": "More employees are skipping or expressing indifference toward traditional holiday parties, with surveys showing they'd rather have cash bonuses or extra PTO instead. This matters because holiday gatherings have long been a cornerstone of workplace culture and informal connection, so shifting employee sentiment forces companies to rethink how they build community and show appreciation. Honestly, if your holiday party needs a mandatory attendance policy to survive, it probably wasn't doing much for morale anyway, and that's fine because most of them taste like sadness and spreadsheets anyway.",
-        "date": "2026-11-08T09:47:03.002792+00:00"
-      },
-      {
-        "title": "Ads in Chatbots Have Arrived. Here\u2019s What\u2019s Working\u2014and What\u2019s Not",
-        "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-        "dwp_take": "Anthropic is holding firm against ads in Claude while competitors scramble to monetize their chatbots without driving users away. This matters because your enterprise AI tools will inevitably face the same pressure, and you need to know which platforms will stay clean versus which will turn into advertising cesspools. Here's my take: good luck, chatbot companies, because users will absolutely hate ads interrupting their work conversations, and I give most of these ad-supported models about eighteen months before they crater in user satisfaction.",
-        "date": "2026-11-08T09:47:08.748118+00:00"
+        "excerpt": "The tool is designed to help employers measure and boost workforce well-being.",
+        "dwp_take": "EY launched a Vitality Index tool to help employers measure and track workforce well-being metrics. This matters because digital workplace leaders are finally getting concrete data instead of guessing whether their remote work policies and collaboration tools are actually helping people or just creating more Slack notifications to ignore. The irony is that most companies will probably implement this tool perfectly while continuing to schedule meetings during lunch and expecting Slack responses within five minutes.",
+        "date": "2026-11-09T10:47:05.500409+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow",
-        "url": "https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/",
+        "title": "Cursor Can Now Build and Deploy Web Apps From Prompts: What\u2019s Included?",
+        "url": "https://www.techrepublic.com/article/news-cursor-build-live-apps-features-pricing-security/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nvidia reportedly requires GPU monitoring for Southeast Asian cloud partners as China AI chip smuggling concerns grow. Here's what businesses should know. The post Nvidia Tightens AI Chip Tracking in ",
-        "dwp_take": "Nvidia is putting stricter tracking systems on GPU sales to Southeast Asian cloud providers because chips meant for that region keep ending up in China anyway. This matters to workplace tech folks because it signals that AI infrastructure supply chains are about to get messier, which means longer wait times and higher costs for companies trying to build out their AI capabilities. If you're planning an AI rollout, buckle up: the geopolitical chokehold on chips just got tighter.",
-        "date": "2026-11-08T09:47:12.646578+00:00"
+        "excerpt": "Cursor's new Build Live Apps feature creates and deploys web applications with databases, authentication, and hosting. Here's what's included and what it costs. The post Cursor Can Now Build and Deplo",
+        "dwp_take": "Cursor just rolled out Build Live Apps, a feature that lets you prompt your way to a fully deployed web application complete with databases, authentication, and hosting baked in. This matters because your developers and citizen developers are about to get very uncomfortable conversations with their managers about why they need those six-month timelines when the tool just shipped an app in six minutes. Look, I've seen a lot of \"this changes everything\" tools come and go, but when your intern can deploy production apps faster than you can schedule a standup, something has genuinely shifted.",
+        "date": "2026-11-09T10:47:10.009557+00:00"
       },
       {
-        "title": "Nothing\u2019s First AI Device Is Coming in December: What We Know",
-        "url": "https://www.techrepublic.com/article/news-nothing-ai-device-december-2026-launch/",
+        "title": "Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work",
+        "url": "https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nothing CEO Carl Pei has confirmed a December launch for the company's first AI-native device. Here's what we know about its design, features, and availability. The post Nothing\u2019s First AI Device Is C",
-        "dwp_take": "Nothing, Carl Pei's hardware company, is launching its first AI-native device this December with a focus on design and new features. Digital workplace pros need to watch this because AI devices are becoming workplace staples, and understanding how newcomers approach the category matters for your tech stack decisions. That said, \"AI-native\" has become the corporate equivalent of \"blockchain\" circa 2017, so I'll believe the innovation when I see it actually solve a real problem instead of just adding AI for the sake of it.",
-        "date": "2026-11-08T09:47:16.503424+00:00"
+        "excerpt": "Perplexity's new Teammates AI agents can manage ongoing tasks and work through connected apps. Here's how they work, what they cost, and who gets access. The post Perplexity Teammates Launches: How It",
+        "dwp_take": "Perplexity just launched Teammates, AI agents that handle recurring tasks across connected applications for $200 a month. This matters to digital workplace pros because autonomous agents are becoming real tools now, not lab experiments, which means we need to figure out governance, security, and integration strategies before they're everywhere. Honestly, if your org is paying $200 a month to have AI do work, you better make sure it's not just creating more problems for your IT and compliance teams to untangle.",
+        "date": "2026-11-09T10:47:13.808987+00:00"
       },
       {
-        "title": "Anthropic\u2019s AI Progress Nearly Doubles: What IT Buyers Should Know",
-        "url": "https://www.techrepublic.com/article/news-anthropic-ai-progress-metr-it-buyers/",
-        "source": "TechRepublic",
+        "title": "EU looks to bolster domestic chip production with \u20ac525m EuroCDP investment",
+        "url": "https://www.itpro.com/hardware/components/eu-looks-to-bolster-domestic-chip-production-with-eur525m-eurocdp-investment",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "METR finds faster Anthropic AI benchmark progress, but key evidence remains redacted. Learn what IT buyers should check before adopting new model releases. The post Anthropic\u2019s AI Progress Nearly Doub",
-        "dwp_take": "Anthropic claims their AI is progressing twice as fast according to benchmarks, though the actual data backing this up is still hidden from public view. If you're evaluating AI tools for your workplace, this matters because adopting the latest model without seeing the full evidence is like buying a car based on fuel economy claims you can't verify. I'd say wait for the redacted details before you start ripping out your current systems, because \"trust me, it's better\" has never been a solid procurement strategy in my three decades doing this work.",
-        "date": "2026-11-08T09:47:20.329532+00:00"
+        "excerpt": "The European Chip Design Platform (EuroCDP) aims to bolster manufacturing capabilities in the face of competition from the US and China",
+        "dwp_take": "The EU is throwing 525 million euros at the European Chip Design Platform to shore up its own semiconductor manufacturing and reduce dependence on US and Chinese suppliers. This matters to digital workplace leaders because chip shortages have been real productivity killers for years, and having regional supply chains means fewer delays when you're trying to deploy new hardware or infrastructure. Look, I've watched enough supply chain disasters to know that betting on homegrown chip capacity is smart play, though I'd argue the EU probably should have done this about ten years ago when everyone else saw this coming.",
+        "date": "2026-11-09T10:47:18.045629+00:00"
       },
       {
-        "title": "This Week in Tech: AI Expands Everywhere as Security Threats and Infrastructure Pressures Mount",
-        "url": "https://www.techrepublic.com/article/this-week-in-tech-ai-expands-everywhere-as-security-threats-and-infrastructure-pressures-mount/",
-        "source": "TechRepublic",
+        "title": "Dropbox targets AI infrastructure gains with $350m Tigris Data acquisition",
+        "url": "https://www.itpro.com/business/acquisition/dropbox-targets-ai-infrastructure-gains-with-usd350m-tigris-data-acquisition",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from Nov. 2\u20136. The post This Week in Tech: AI Expands Everywhere as Security Threats and Infrastructure Pressures Mount appeared first on TechRepublic.",
-        "dwp_take": "Organizations are rolling out AI tools across every corner of their operations while simultaneously dealing with escalating security vulnerabilities and aging infrastructure struggling under the load. This matters because digital workplace leaders are caught between the pressure to adopt AI and the reality that their systems weren't built to handle it safely, creating a genuine operational tension that no amount of vendor promises will solve. My take: we're basically watching companies try to install a Tesla engine into a 1987 Honda Civic and hope nobody notices the smoke.",
-        "date": "2026-11-08T09:47:24.008605+00:00"
+        "excerpt": "The acquisition will underpin the launch of Dropbox\u2019s new DBX Agent Cloud service",
+        "dwp_take": "Dropbox just dropped $350 million to buy Tigris Data, a data infrastructure startup, so they can build out their new DBX Agent Cloud service. This matters because it signals that content platforms are getting serious about AI infrastructure, which means your digital workplace tool stack is about to get a lot more complicated with agents doing work across your systems. Here's the thing though: most organizations still can't manage their basic file governance, so watching them layer autonomous AI agents on top of messy data repositories should be entertaining in that tragic Greek drama kind of way.",
+        "date": "2026-11-09T10:47:22.119243+00:00"
       }
     ]
   }
