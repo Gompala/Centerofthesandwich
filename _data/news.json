@@ -1,129 +1,156 @@
 {
-  "generated": "2026-11-11T10:10:42.425904+00:00",
+  "generated": "2026-11-12T10:33:36.037336+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
-        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-        "dwp_take": "New York just flipped the switch on AI oversight, forcing big players like OpenAI and Anthropic to register, show their safety homework, and report when things go sideways or pay up. This matters to workplace folks because these same AI tools are already baked into your collaboration platforms, search functions, and employee productivity apps, so regulatory pressure actually affects what features hit your org. Honestly, watching AI companies squirm under real accountability is refreshing, though I'm betting most of this compliance theater will be checked boxes and carefully worded disclosures anyway.",
-        "date": "2026-11-11T10:09:53.789499+00:00"
-      },
-      {
-        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-        "dwp_take": "PSI took an unreleased Anthropic AI model and cracked a quantum computing problem that's stumped researchers for twenty years. This matters because it shows AI is finally moving beyond chatbots and actually solving hard problems, which means your organization needs to think seriously about where AI adds real value versus where it's just expensive theater. The real test will be whether PSI can repeat this or if they just got lucky with one good swing.",
-        "date": "2026-11-11T10:09:57.301735+00:00"
-      },
-      {
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such ",
-        "dwp_take": "Anthropic just released Claude Meetings, an AI tool that listens to your workplace conversations and automatically generates plans, timelines, and tasks while pulling data from your connected work apps. For digital workplace pros, this matters because it promises to solve the eternal meeting tax problem, though the real test is whether it actually captures what people meant versus what they said. Here's my take after three decades in this space: we've been chasing the \"meeting AI that actually works\" dragon since 2015, and I'll believe this one sticks when I stop seeing follow-up emails asking people to clarify what was actually decided.",
-        "date": "2026-11-11T10:10:01.297743+00:00"
-      },
-      {
-        "title": "Industrial automation startup Path Robotics raises $300M in funding",
-        "url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+        "title": "Nebuly wants to help enterprises understand exactly what their AI investments are worth after raising $21M",
+        "url": "https://siliconangle.com/2026/11/12/nebuly-wants-to-help-enterprises-understand-exactly-what-their-ai-investments-are-worth-after-raising-21m/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Path Robotics Inc., a startup working to automate industrial welding workflows, today announced that it has raised $300 million in funding. Georgian led the Series E round. It was joined by a consorti",
-        "dwp_take": "Path Robotics just landed $300 million in Series E funding to automate industrial welding, with backing from Georgian and corporate investors like Yamaha and Navier. Digital workplace folks should care because automation at this scale reshapes how manufacturing teams collaborate, train, and reorganize around new workflows. Here's the thing though: all that capital means nothing if the humans operating these systems aren't brought along for the ride, and that's where most automation projects actually fail.",
-        "date": "2026-11-11T10:10:05.912946+00:00"
+        "excerpt": "An Italian startup called Nebuly S.r.l. says it\u2019s going to help organizations better understand the impact their investments in artificial intelligence have on their bottom lines after raising $21 mil",
+        "dwp_take": "Nebuly, an Italian startup, just raised $21 million to help companies measure the actual business value of their AI investments instead of just hoping they're worth something. This matters because most organizations have thrown massive budgets at AI tools with almost no idea whether they're actually moving the needle on revenue, efficiency, or anything else. Finally, someone's building software to answer the question executives have been too embarrassed to ask: \"Did we just waste all that money?\"",
+        "date": "2026-11-12T10:32:36.818670+00:00"
+      },
+      {
+        "title": "A decade in, KubeVirt pushes virtual machines into the AI agent era",
+        "url": "https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Confidential computing is drawing fresh interest as enterprises weigh where their most sensitive AI workloads can safely run. That shift is giving virtual machines a new role alongside containers on K",
+        "dwp_take": "KubeVirt just hit its ten-year mark and is proving virtual machines still have serious juice left in the tank, especially for running sensitive AI workloads on Kubernetes infrastructure. For digital workplace pros, this means the infrastructure your organization relies on is getting smarter about mixing old and new tech instead of ripping and replacing everything. Here's the kicker: turns out the boring old virtual machine wasn't actually ready for the retirement home after all.",
+        "date": "2026-11-12T10:32:40.429547+00:00"
+      },
+      {
+        "title": "Google\u2019s GKE Labs turns reinforcement learning into a Kubernetes workload",
+        "url": "https://siliconangle.com/2026/11/11/model-fine-tuning-kubernetes-google-s-openrl-explained-kubeconna/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Model fine-tuning through reinforcement learning is fast becoming one of the most demanding jobs in AI infrastructure. It mixes training, inference and sandboxed agent work in a single loop, often wit",
+        "dwp_take": "Google's GKE Labs has developed a way to run reinforcement learning workloads more efficiently within Kubernetes clusters, addressing the complexity of mixing training, inference, and agent work in a single operation. For digital workplace teams managing AI infrastructure, this matters because it simplifies how organizations orchestrate demanding machine learning jobs without reinventing their container systems. Honestly, watching Google solve problems from inside their own engineering group and open-source the results is refreshing, though I'll believe the simplification claims when I see enterprises actually adopt it without calling in three different vendors for help.",
+        "date": "2026-11-12T10:32:44.296253+00:00"
+      },
+      {
+        "title": "Nvidia\u2019s board reportedly preparing to oust CEO Jensen Huang after reports of a second affair",
+        "url": "https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Nvidia Corp.\u2019s board of directors is reportedly preparing to oust its founder and Chief Executive Jensen Huang after reports emerged that he had a second extramarital relationship with an executive at",
+        "dwp_take": "Nvidia's board is apparently moving to remove CEO Jensen Huang after reports surfaced of multiple affairs, including one allegedly involving a Chinese spy. This matters to digital workplace folks because it highlights how governance failures and personal conduct issues at the top create real problems for organizational culture and security, especially at companies handling sensitive tech. Look, when your CEO is busy managing multiple scandals instead of running the company, somebody else is usually running the company, and that's never good for clarity or morale.",
+        "date": "2026-11-12T10:32:47.942039+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "I found a hidden Android tool that solves all my tiny text troubles",
-        "url": "https://www.zdnet.com/tech/android-display-help-magnification/",
+        "title": "This tiny box gives your older tech smart home superpowers \u2013 and it\u2019s only $69",
+        "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "When the print on your Android display is too small to read, and the pinch-to-zoom feature isn\u2019t working as expected, try this.",
-        "dwp_take": "Someone discovered Android's built-in text magnification tool that apparently most users never find because it's buried deeper than a password in a spreadsheet. For digital workplace folks supporting non-tech-savvy employees or anyone managing BYOD programs, this is gold because accessibility issues are legitimate productivity killers that usually get ignored. The real kicker is that this feature has existed for years but nobody talks about it, which tells you everything you need to know about how badly Android documents its own accessibility settings.",
-        "date": "2026-11-11T10:10:10.145239+00:00"
+        "excerpt": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+        "dwp_take": "Home Assistant released a new $69 device that lets people keep using older smart home equipment instead of throwing it away when manufacturers stop supporting it. For digital workplace folks managing hybrid work setups and home office tech, this matters because it shows there's a practical alternative to the upgrade treadmill and vendor lock-in that plagues consumer devices. Look, if Home Assistant can make a five-year-old thermostat work again for sixty-nine bucks, maybe there's hope that someone will figure out how to do the same thing for enterprise software before companies spend another trillion dollars on unnecessary migrations.",
+        "date": "2026-11-12T10:32:52.368891+00:00"
       },
       {
-        "title": "Google\u2019s new AI tool just proved Signal encryption really works \u2013 here\u2019s how",
-        "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
+        "title": "Claude can collaborate in your team meetings soon \u2013 like an intern",
+        "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
         "source": "ZDNet",
         "category": "tools-tech",
-        "excerpt": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
-        "dwp_take": "Google DeepMind's AlphaProof AI tool attempted to break Signal's encryption and failed, which actually validated that Signal's security works as advertised. For digital workplace pros, this matters because it means the encrypted messaging platforms you're recommending to teams for sensitive communications are legitimately secure against current AI threats. Honestly, it's refreshing when a tech company tries to crack something, fails publicly, and the thing being cracked comes out looking better than before.",
-        "date": "2026-11-11T10:10:13.835607+00:00"
+        "excerpt": "Claude is responding \u2018Yes\u2019 to that calendar invite \u2013 with some limitations. Plus: Anthropic launches two more new features that are available now.",
+        "dwp_take": "Anthropic is adding meeting participation capabilities to Claude, allowing the AI to join team calls and contribute to discussions, though with some guardrails still in place. For digital workplace folks, this is the moment you stop theorizing about AI in meetings and start figuring out governance, transcription rights, and whether Claude will actually be useful or just another voice adding word count. Honestly, I've seen plenty of \"smart\" collaboration tools tank because nobody asked if we actually needed them in the first place, so don't assume an AI intern is better than just reading the notes afterward.",
+        "date": "2026-11-12T10:32:56.427722+00:00"
       },
       {
-        "title": "Reddit launches AI-powered Reviews feature \u2013 with 10,000 products to start",
-        "url": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
-        "source": "ZDNet",
+        "title": "Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill",
+        "url": "https://www.computerworld.com/article/4247584/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill-2.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here\u2019s how they work.",
-        "dwp_take": "Reddit is launching an AI feature that automatically generates product reviews by analyzing actual user discussions scattered across its communities. This matters to digital workplace folks because it shows how organizations are mining employee and user feedback at scale, which has real implications for how internal communities get analyzed and actioned. Honestly, it's either brilliant efficiency or a recipe for amplifying whatever weird consensus your most vocal subredditors happen to share, and I'm betting it's a bit of both.",
-        "date": "2026-11-11T10:10:17.597469+00:00"
+        "excerpt": "As AI model training and distillation increase, AI tokens are becoming a piping hot currency for threat actors. Cloud hosting provider Railway found out the hard way; it has confirmed a near 26-hour b",
+        "dwp_take": "Someone broke into Railway's systems, stole AI credentials, and racked up $740,000 in fraudulent compute charges before getting caught. This matters because as AI workloads explode, your API keys and service tokens have become actual currency to criminals who can flip them for cash on the dark web. The real kicker: Railway ate the bill, but most companies won't be so forgiving when their CFO sees the invoice for unauthorized model training they didn't authorize.",
+        "date": "2026-11-12T10:33:01.176754+00:00"
       },
       {
-        "title": "5 apps I need Siri AI to work with now that it\u2019s open to third-party developers",
-        "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
-        "source": "ZDNet",
+        "title": "Anthropic targets workplace collaboration with Claude Meetings",
+        "url": "https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html",
+        "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board.",
-        "dwp_take": "Apple opened up Siri AI to third-party developers across iOS and other platforms, letting apps integrate Apple's voice assistant directly. This matters because your enterprise apps, knowledge bases, and workflow tools could finally talk to users in natural language instead of forcing them through clunky interfaces and menu systems. The real question is whether corporate IT will actually let employees use this stuff, or if security concerns will keep Siri locked in the Apple dungeon for another five years.",
-        "date": "2026-11-11T10:10:21.255926+00:00"
+        "excerpt": "Anthropic has expanded the range of productivity and collaboration features in Claude with the launch of spreadsheet, whiteboard, and meeting assistant tools aimed at knowledge workers. The features a",
+        "dwp_take": "Anthropic just rolled out Claude Meetings, spreadsheet tools, and whiteboard features to compete directly in the workplace collaboration space alongside Microsoft, Google, and everyone else trying to own your workday. For digital workplace pros, this matters because yet another AI player is now positioning itself as an alternative to embedded Office 365 workflows, which means leadership will inevitably ask you to evaluate it. Honestly, I've seen this movie before: hot new productivity tool shows up, gets hyped, and then organizations realize they need to pick a lane instead of fragmenting their stack across six different platforms.",
+        "date": "2026-11-12T10:33:05.019581+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Do this crucial thing to thrive during unemployment",
-        "url": "https://www.fastcompany.com/91638682/do-this-crucial-thing-to-thrive-during-unemployment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "What I let AI touch in my solo business\u2014and what stays off-limits",
+        "url": "https://www.fastcompany.com/91637481/what-i-let-ai-touch-in-my-solo-business-what-stays-off-limits?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "A job search, whatever the length, is demoralizing. After losing a job, you\u2019ll start asking yourself challenging questions about finances, childcare and more. You may also feel the pang of an identity",
-        "dwp_take": "Fast Company is telling job seekers that unemployment is psychologically brutal and that you need to actively manage your mental health and identity during the search process. This matters to digital workplace pros because we're increasingly expected to manage employee wellbeing, career transitions, and the messy human stuff that happens when people lose jobs, not just deploy the next collaboration tool. Here's the thing though: most organizations still treat job loss like a IT ticket to close rather than a genuine crisis their people are experiencing, which is why the best digital workplaces are building better offboarding and alumni networks instead of just ghosting departing employees.",
-        "date": "2026-11-11T10:10:25.719356+00:00"
+        "excerpt": "A lot of AI advice suggests that you hand over work to a personal agent, like letting it triage your inbox or shop for you. That\u2019s certainly appealing, since we\u2019re all relentlessly busy and constantly",
+        "dwp_take": "A solo business owner is drawing clear boundaries around which tasks they'll let AI handle versus keeping off-limits, citing security and control concerns. This matters because digital workplace leaders are facing the same dilemma with their teams: deciding what autonomy to grant AI tools without creating security nightmares or losing visibility into critical work. The real insight here is that \"AI can do this\" and \"AI should do this\" are two completely different questions, and most organizations haven't figured that out yet.",
+        "date": "2026-11-12T10:33:09.119513+00:00"
+      },
+      {
+        "title": "What it\u2019s like to change careers when you\u2019re at the top of your game",
+        "url": "https://www.fastcompany.com/91638393/what-its-like-to-change-careers-when-youre-at-the-top-of-your-game?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "When Kim Foster was 17, she decided she was going to become a doctor. It was a feat that no one in her family had accomplished. \u201cI just strapped in and did what I needed to do to execute on that big g",
+        "dwp_take": "Kim Foster spent 20 years as a doctor after a lifetime of pursuit, then walked away from medicine entirely to pursue something different. This matters to digital workplace folks because remote work and flexible careers have made mid-life pivots more feasible, and smart organizations need to understand how to retain talented people before they hit the burnout wall. The real lesson here is that nobody wants to spend two decades proving something to their family only to discover they proved it to the wrong person: themselves.",
+        "date": "2026-11-12T10:33:12.804228+00:00"
+      },
+      {
+        "title": "Why PTO in the U.S. is so unbelievably bad",
+        "url": "https://www.fastcompany.com/91639795/why-pto-in-the-u-s-is-so-unbelievably-bad?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "Most countries around the world offer workers some form of paid time off (PTO). So, how did the U.S. become one of the few outliers that has no federally guaranteed paid vacation, maternity, family, o",
+        "dwp_take": "The U.S. lacks federal PTO mandates while most developed nations guarantee paid time off to workers. Digital workplace leaders need to understand this because it directly impacts employee retention, mental health, and your ability to compete for talent against companies and countries with better benefits. Here's the funny part: we've spent three decades building collaboration tools to make remote work seamless, yet we still can't guarantee people actual time to be away from those tools.",
+        "date": "2026-11-12T10:33:16.307256+00:00"
+      },
+      {
+        "title": "This company is giving workers time off to play the new \u2018Grand Theft Auto\u2019",
+        "url": "https://www.fastcompany.com/91640596/this-company-is-giving-workers-time-off-to-play-the-new-grand-theft-auto?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
+        "category": "digital-culture",
+        "excerpt": "With the highly anticipated release of Rockstar Games\u2019s Grand Theft Auto VI just around the corner, one company is unveiling a new perk for its employees: paid time off for gaming. In an initiative it",
+        "dwp_take": "A Swiss electronics company called Logitech is giving all 7,000 employees one paid day off annually to play video games, timed with the Grand Theft Auto VI launch. It matters because it signals how forward-thinking companies are using unconventional perks to improve employee engagement and acknowledge that gaming isn't just for kids anymore. That said, I'd love to see this energy applied to mental health days or actual rest instead of mandated fun, but hey, at least someone's being creative about retention.",
+        "date": "2026-11-12T10:33:20.039207+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Firefox Tests Journeys Feature That Organizes Your Browsing History",
-        "url": "https://www.techrepublic.com/article/news-firefox-journeys-browsing-history-feature/",
+        "title": "Best Apple Black Friday Deals 2026: MacBooks, iPhones, iPads, and More",
+        "url": "https://www.techrepublic.com/article/news-best-apple-black-friday-deals-2026/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Firefox Nightly is testing Journeys, a new Smart Window feature that groups related browsing history into topic-based cards with shortcuts to resume previous tasks. The post Firefox Tests Journeys Fea",
-        "dwp_take": "Firefox is testing a feature called Journeys that automatically groups your browsing history into topic-based cards so you can pick up where you left off on projects. For digital workplace folks managing multiple projects and research streams simultaneously, this could actually save real time instead of hunting through bookmarks like some kind of digital archaeologist. Honestly, if this works as advertised, it's the kind of unsexy productivity win we've needed for years, assuming Firefox doesn't bloat it into oblivion before shipping.",
-        "date": "2026-11-11T10:10:30.820391+00:00"
+        "excerpt": "Discover the best Apple Black Friday deals of 2026, including discounts on MacBooks, iPhones, iPads, and Apple Watches, plus tips to avoid hidden costs. The post Best Apple Black Friday Deals 2026: Ma",
+        "dwp_take": "TechRepublic rounded up Black Friday deals on Apple hardware for 2026, covering MacBooks, iPhones, iPads, and wearables with advice on spotting hidden costs. This matters because most organizations refresh their device fleets around holiday sales cycles, and knowing where the real discounts actually are saves IT procurement teams real money instead of chasing phantom savings. The irony is that after 30 years watching tech buying trends, the \"hidden costs\" they warn about usually aren't the discount that gets you, it's the AppleCare+ that nobody budgeted for.",
+        "date": "2026-11-12T10:33:24.305928+00:00"
       },
       {
-        "title": "HyperOS 4 vs One UI 9: 5 Differences That Matter When Switching Phones",
-        "url": "https://www.techrepublic.com/article/news-hyperos-4-vs-one-ui-9/",
+        "title": "Meta AI Cheat Sheet: Features, Pricing, and How to Use It",
+        "url": "https://www.techrepublic.com/article/news-meta-ai-cheat-sheet/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Switching between Xiaomi and Samsung? HyperOS 4 and One UI 9 differ in AI features, customization, security, and what transfers to your new phone. The post HyperOS 4 vs One UI 9: 5 Differences That Ma",
-        "dwp_take": "Xiaomi's HyperOS 4 and Samsung's One UI 9 have meaningful differences in AI capabilities, customization options, security features, and data migration. For digital workplace professionals managing personal and work devices across ecosystems, understanding these differences matters because you'll spend eight hours a day on whatever OS you choose, and friction between systems kills productivity. Honestly, most people switch phones based on what their friends use anyway, so this article is basically catnip for the 12 of us who actually care about OS architecture.",
-        "date": "2026-11-11T10:10:34.694243+00:00"
+        "excerpt": "Explore Meta AI's current models, research and creative tools, supported apps, subscription pricing, and privacy settings in this comprehensive cheat sheet. The post Meta AI Cheat Sheet: Features, Pri",
+        "dwp_take": "Meta is packaging up its AI capabilities into a cheat sheet covering models, tools, pricing, and privacy settings across its app ecosystem. This matters because your employees are already using WhatsApp and Instagram, and now those apps are quietly shipping AI features that need governance and security vetting before they start showing up in your workplace workflows. Honestly, watching organizations scramble to understand what AI their staff is accidentally using through consumer apps is peak 2024, and this cheat sheet is basically a required read for any IT leader who doesn't want to find out about adoption through a security audit.",
+        "date": "2026-11-12T10:33:28.250235+00:00"
       },
       {
-        "title": "Samsung Gallery Now Syncs With Google Photos \u2014 but Deleting One Photo Can Affect Both",
-        "url": "https://www.techrepublic.com/article/news-samsung-gallery-google-photos-sync/",
+        "title": "Immich Offers a Google Photos Alternative on Hardware You Already Own",
+        "url": "https://www.techrepublic.com/article/news-immich-self-hosted-photo-cloud/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Samsung Gallery now syncs with Google Photos, so deleting a synced photo may remove it from both apps. Here is how to keep your cloud copies. The post Samsung Gallery Now Syncs With Google Photos \u2014 bu",
-        "dwp_take": "Samsung Gallery's new Google Photos sync feature sounds convenient until you realize deleting a photo in one place nukes it everywhere, which is a classic case of good idea, poor execution. For digital workplace pros managing company devices and employee data governance, this is a headache waiting to happen when someone accidentally deletes a photo they needed backed up. This is why we can't have nice things: every integration needs an \"are you absolutely sure?\" dialog box, but apparently Samsung skipped that memo.",
-        "date": "2026-11-11T10:10:38.555363+00:00"
+        "excerpt": "Immich lets you store and organize photos on your own server with Google Photos-style tools. Learn about its features, hardware needs, costs, and backups. The post Immich Offers a Google Photos Altern",
+        "dwp_take": "Immich is an open-source photo management platform that runs on your own servers and mimics Google Photos functionality without relying on cloud vendors. This matters because digital workplace leaders are increasingly concerned about data sovereignty, vendor lock-in, and the hidden costs of cloud services, making self-hosted alternatives more appealing for organizations handling sensitive visual content. The irony is that most companies have perfectly good servers sitting around while paying subscription fees to Google, so Immich represents the kind of \"why didn't we think of this sooner\" solution that makes IT directors simultaneously vindicated and annoyed.",
+        "date": "2026-11-12T10:33:32.077059+00:00"
       },
       {
-        "title": "Xiaomi 18 Pro Max Cheat Sheet: Price, Specs, Features, and Availability",
-        "url": "https://www.techrepublic.com/article/news-apac-xiaomi-18-pro-max-cheat-sheet/",
+        "title": "WhatsApp Cheat Sheet: Features, Privacy, Security, and How to Use It",
+        "url": "https://www.techrepublic.com/article/news-whatsapp-cheat-sheet/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Xiaomi 18 Pro Max cheat sheet: Explore its price, specs, 8,500mAh battery, dual 200MP cameras, features, release date, and international availability. The post Xiaomi 18 Pro Max Cheat Sheet: Price, Sp",
-        "dwp_take": "Look, TechRepublic just published a specs rundown of the Xiaomi 18 Pro Max, covering its price, battery capacity, camera setup, and where you can actually buy the thing. This matters because your workforce is going to ask IT about whether this phone meets your mobile device management policies and security standards, whether they like it or not. Honestly, if your employees are already researching phones on TechRepublic instead of working, you've got bigger workplace culture problems than any hardware specs can solve.",
-        "date": "2026-11-11T10:10:42.425799+00:00"
+        "excerpt": "Learn how to use WhatsApp, explore its latest features, understand privacy and security settings, and compare WhatsApp Business pricing in 2026. The post WhatsApp Cheat Sheet: Features, Privacy, Secur",
+        "dwp_take": "TechRepublic published a how-to guide covering WhatsApp's current features, privacy controls, security options, and the pricing structure for WhatsApp Business. This matters because millions of organizations now rely on WhatsApp for internal communication and customer engagement, so understanding what it actually does versus what people think it does prevents security gaps and compliance headaches. Here's the thing though: if your people still aren't reading security documentation for the tools they already use daily, a cheat sheet won't change that behavior, but at least you tried.",
+        "date": "2026-11-12T10:33:36.037203+00:00"
       }
     ]
   }
