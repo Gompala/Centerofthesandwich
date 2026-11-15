@@ -1,156 +1,129 @@
 {
-  "generated": "2026-11-14T09:44:46.285319+00:00",
+  "generated": "2026-11-15T10:17:03.096144+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "AI agent startup LangChain hits $3B valuation",
-        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-        "dwp_take": "LangChain, a startup building tools for managing AI agents across different platforms, just hit a $3 billion valuation with 7,000 paying customers on its LangSmith product. This matters because digital workplace teams are scrambling to integrate AI into their workflows, and standardized agent management platforms could become as essential as identity systems or collaboration hubs. The real test is whether LangChain becomes the plumbing layer everyone needs or another VC darling that fails to survive contact with enterprise reality.",
-        "date": "2026-11-14T09:43:45.600988+00:00"
-      },
-      {
-        "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
-        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-        "dwp_take": "ElevenLabs launched ElevenAI, a new app that combines meeting transcription and note-taking for team collaboration. This matters because most organizations are still drowning in meeting recordings nobody watches, so anything that actually captures and organizes what was said has real practical value. The honest take: we've been promised the perfect meeting app for a decade now, so I'll believe this one changes behavior when I see adoption numbers that don't look like a fitness tracker graveyard.",
-        "date": "2026-11-14T09:43:49.412615+00:00"
-      },
-      {
-        "title": "FAA grounds all domestic flights after reported network outage",
-        "url": "https://siliconangle.com/2026/11/13/faa-grounds-domestic-flights-after-reported-network-outage/",
+        "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
+        "url": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "The Federal Aviation Administration today grounded all domestic flights in the U.S. The rare order was issued by the Air Traffic Control System Command Center, or ATCSCC. It\u2019s an FAA facility in North",
-        "dwp_take": "The FAA grounded all domestic U.S. flights after a network outage at their Air Traffic Control System Command Center in Virginia. This matters to digital workplace pros because it's a brutal reminder that when critical infrastructure depends on systems without proper redundancy, everyone pays the price. If the FAA with unlimited budgets can't keep their network up, maybe we should all stop pretending our Slack integration is mission critical.",
-        "date": "2026-11-14T09:43:53.677920+00:00"
+        "excerpt": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates. Nearly 500 agentic workflows ",
+        "dwp_take": "AT&T has deployed nearly 500 autonomous AI agents into production workflows and plans to triple that number, processing 45 billion AI tokens daily across the company. This matters because it signals that agentic AI is moving from pilot purgatory into real operational redesign, which means digital workplace teams need to start thinking about how AI agents will actually change work, not just speed it up. The real test isn't hitting 1,500 agents by next year, it's whether employees actually trust them enough to let go of the manual work.",
+        "date": "2026-11-15T10:16:18.105340+00:00"
       },
       {
-        "title": "NiCE\u2019s next-generation Cognigy bets the hard part of AI agents is running them, not building them",
-        "url": "https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/",
+        "title": "Massive Microsoft outage disrupts businesses, government agencies worldwide",
+        "url": "https://siliconangle.com/2026/11/13/massive-microsoft-outage-disrupts-businesses-government-agencies-worldwide/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "The contact center has been the low-hanging fruit for the artificial intelligence industry. Ask any information technology or business leader what they want to use agentic AI for, and they will say it",
-        "dwp_take": "Cognigy is betting that the real challenge with AI agents isn't building them anymore, it's keeping them running reliably in production. For digital workplace folks handling employee experience and support operations, this matters because we've all watched flashy AI demos crash and burn in real deployments. If they're right that operations is the bottleneck, then knowing how to manage and monitor these systems becomes more valuable than having the latest LLM under the hood, which is refreshingly honest about AI's actual challenge.",
-        "date": "2026-11-14T09:43:57.584209+00:00"
+        "excerpt": "A glitch in Microsoft Corp.\u2019s network has disrupted the work of businesses and government agencies in more than 70 countries. The bug, which reared its head on Thursday about 12:35 p.m. EST, knocked t",
+        "dwp_take": "Microsoft's Exchange Online went down for hours across 70+ countries on Thursday, taking email and calendars offline for countless organizations. For digital workplace pros, this is a stark reminder that cloud dependency creates single points of failure that can paralyze entire workforces in minutes. After 30 years in this space, I've learned that redundancy isn't paranoia, it's the price of doing business when you put all your eggs in one vendor's basket.",
+        "date": "2026-11-15T10:16:21.518815+00:00"
+      },
+      {
+        "title": "Exclusive: Onyx Security brings AI agent governance to Glean\u2019s enterprise AI platform",
+        "url": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "AI agent security startup Onyx Security Inc. today announced an integration with enterprise artificial intelligence platform company Glean Technologies Inc. to help enterprises govern the AI agents th",
+        "dwp_take": "Onyx Security is integrating its AI governance tools into Glean's enterprise AI platform to help companies manage the autonomous agents they're deploying across departments. This matters because most organizations are spinning up AI agents faster than they can control them, and governance gaps create real compliance and security risks that will bite you later. Finally someone's addressing the fact that we've been building the plane while flying it, though I'd bet most companies still won't actually use these controls until something breaks spectacularly.",
+        "date": "2026-11-15T10:16:25.213163+00:00"
+      },
+      {
+        "title": "Mirendil raises $1B in funding to speed up AI model development",
+        "url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Mirendil Inc., a provider of software that speeds up artificial intelligence development, has raised $1 billion in early-stage funding. The startup stated on Thursday that Kleiner Perkins and Clearlak",
+        "dwp_take": "Mirendil, an AI development software company, just closed a $1 billion Series A round led by Kleiner Perkins and Clearlake Capital. This matters because faster AI model development directly impacts how quickly workplace tools get smarter and more useful at enterprise scale. A billion dollars is real money, but let's see if Mirendil actually delivers productivity gains or just becomes another well-funded company selling speed that nobody can measure.",
+        "date": "2026-11-15T10:16:28.612599+00:00"
       }
     ],
     "tools-tech": [
-      {
-        "title": "Microsoft 365 services slowly come back online after global outage",
-        "url": "https://www.computerworld.com/article/4248590/m365-services-slowly-come-back-online-after-global-outage.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "After a lengthy Microsoft 365 outage disrupted business around the globe, Microsoft is now restoring services to its customers. As of 6:00 p.m. UTC (1 p.m. ET) on Friday, Nov. 13, Microsoft said that ",
-        "dwp_take": "Microsoft 365 went down globally and took hours to come back up, with Exchange Online still limping along afterward. For digital workplace pros, this is a stark reminder that cloud dependency means you're one bad update away from your entire organization grinding to a halt, no matter how much you've invested in modern infrastructure. After thirty years in this space, I can tell you this never gets old: companies still don't have proper offline protocols, and that's exactly when you find out who actually runs your business.",
-        "date": "2026-11-14T09:44:03.308337+00:00"
-      },
       {
         "title": "Microsoft 365 caught a bug and the whole world sneezed",
         "url": "https://www.computerworld.com/article/4248396/microsoft-365-caught-a-bug-and-the-whole-world-sneezed.html",
         "source": "Computerworld",
         "category": "tools-tech",
         "excerpt": "While Microsoft seems at last to be on the edge of fixing the global outage that hammered its services overnight, causing chaos across Asia-Pacific and Europe, we should still ask: How many times must",
-        "dwp_take": "Microsoft 365 went down hard overnight, affecting services across Asia-Pacific and Europe and causing real disruption for organizations relying entirely on their stack. For digital workplace leaders, this is the millionth reminder that single-vendor dependency is a business continuity disaster waiting to happen, yet somehow we keep doing it anyway. Look, I've seen this movie before, and the ending never changes: companies will spend two weeks panicking, a month planning, and then go right back to betting the farm on one cloud provider because it's cheaper and easier than maintaining a hybrid setup.",
-        "date": "2026-11-14T09:44:07.400387+00:00"
+        "dwp_take": "Microsoft experienced a significant global outage affecting its 365 services across Asia-Pacific and Europe, disrupting millions of users and organizations. For digital workplace professionals, this is a stark reminder that relying on a single cloud provider creates catastrophic risk to business continuity and employee productivity. Here's the reality: we've been preaching hybrid and multi-cloud strategies for years, yet most companies still put all their eggs in one Redmond basket, then act shocked when the basket tips over.",
+        "date": "2026-11-15T10:16:32.489909+00:00"
       },
       {
-        "title": "For November, Patch Tuesday means a to-do list that starts with Outlook",
-        "url": "https://www.computerworld.com/article/4248384/for-november-patch-tuesday-means-a-to-do-list-that-starts-with-outlook.html",
+        "title": "Claris Harbor could turn Mac fleets into on-prem AI servers",
+        "url": "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "November is a (relatively) big month. Microsoft\u2019s November 2026 Patch Tuesday fixes 1,240 CVEs, 64 of them rated critical. Start with Outlook: attackers are already using CVE-2026-124194, a spoofing f",
-        "dwp_take": "Microsoft just dropped patches for 1,240 vulnerabilities this November, with 64 critical ones including an actively exploited Outlook spoofing flaw that attackers are already weaponizing. For IT teams managing digital workplaces, this means prioritization is everything because you can't patch everything at once and some of these gaps are actively being exploited right now. After three decades watching patch cycles, I'll say it plainly: the fact that Outlook is the first target tells you everything about why email security deserves to be your number one priority, not your number five.",
-        "date": "2026-11-14T09:44:11.414454+00:00"
-      },
-      {
-        "title": "US tech jobs grow in a \u2018low-hire, low-fire\u2019 market",
-        "url": "https://www.computerworld.com/article/4247910/us-tech-jobs-grow-in-a-low-hire-low-fire-market.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "Tech jobs grew in October, and the holiday season will provide a boost in an otherwise \u201clow-hire, low-fire\u201d market, data released by research firms showed. The tech industry added 7,200 jobs, and tech",
-        "dwp_take": "Tech hiring stayed modest in October with just 7,200 new jobs added to the tech sector, though broader tech roles across industries hit 26,000. For digital workplace pros, this slow-growth environment means your current gig is probably safer but advancement opportunities are fewer, so you'd better be good at what you do. The \"low-hire, low-fire\" label is corporate speak for \"they're keeping who they've got and being stingy with new headcount,\" which honestly beats the layoff rollercoaster we've seen lately.",
-        "date": "2026-11-14T09:44:15.313712+00:00"
+        "excerpt": "It feels quite appropriate that one of Apple\u2019s more interesting AI deployments may not come from the company itself, but from its more business-focused subsidiary, Claris, still better known to many a",
+        "dwp_take": "Claris is planning to release an app that turns Mac computers into private on-premises AI servers using Apple Silicon. This matters because it gives organizations a way to run AI workloads locally without sending data to the cloud, which addresses real security and compliance concerns that digital workplace leaders have been losing sleep over. The irony is thick: FileMaker, the database tool your IT department forgot about ten years ago, might actually become relevant again as your organization's secret weapon for keeping AI inference private and off the internet.",
+        "date": "2026-11-15T10:16:36.115469+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "A remote employee refused 160 webcam photos a day. Her employer fired her",
-        "url": "https://www.fastcompany.com/91635146/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "5 ways to turn your cold outreach into a job offer",
+        "url": "https://www.fastcompany.com/91631346/5-ways-to-turn-your-cold-outreach-into-a-job-offer-job-hunting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Across the workforce, employer surveillance is growing increasingly common, even though it is widely disliked by employees. According to the American Psychological Association, employee monitoring inc",
-        "dwp_take": "A company fired a remote worker for refusing to submit to 160 webcam photos per day, which the employer justified as productivity monitoring. This matters because digital workplace leaders are caught between wanting accountability and driving talent away with invasive surveillance that actually tanks morale and performance. Look, if you need 160 photos a day to know someone's working, the real problem isn't the employee's camera.",
-        "date": "2026-11-14T09:44:19.052946+00:00"
+        "excerpt": "Taylor Stanton, a former student of mine, spent nearly 15 years as a communications professional for tech CEOs in Silicon Valley. On the side, he photographed the underexplored backcountry of national",
+        "dwp_take": "This article is about building personal brand visibility through side projects and using that credibility to land job opportunities without traditional applications. It matters because the best talent increasingly gets hired through demonstrated expertise and networks, not LinkedIn applications that disappear into black holes. The real insight here isn't revolutionary though: being genuinely good at something and showing your work has always worked, which probably means most of us should stop optimizing our cover letters and start actually building something worth talking about.",
+        "date": "2026-11-15T10:16:40.303671+00:00"
       },
       {
-        "title": "Microsoft\u2019s massive outage puts its AI-driven layoffs under scrutiny",
-        "url": "https://www.fastcompany.com/91642223/microsofts-massive-outage-puts-its-ai-driven-layoffs-under-scrutiny?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+        "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Microsoft\u2019s massive service outage on Thursday left businesses and government agencies scrambling to access critical services. It also came at an awkward moment for the tech giant, which has undertake",
-        "dwp_take": "Microsoft's global outage knocked out critical services for businesses and government agencies just as the company was aggressively laying off workers while simultaneously investing billions in AI. This matters because digital workplace leaders are watching to see whether AI-driven cost cutting actually leaves organizations more resilient or just more fragile when systems fail. Here's the uncomfortable truth: you can't automate your way out of needing competent people to keep the lights on, and this outage is a pretty expensive reminder of that lesson.",
-        "date": "2026-11-14T09:44:22.705359+00:00"
+        "excerpt": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
+        "dwp_take": "The FAA is experimenting with AI systems to manage air traffic control functions, a domain that has historically resisted automation. This matters to digital workplace pros because it's the ultimate stress test for AI deployment in safety-critical environments where human judgment still needs to override the algorithm. Look, if we can't get our internal chatbots to understand a simple expense report request, maybe let's not rush AI into the field that literally keeps planes from hitting each other.",
+        "date": "2026-11-15T10:16:44.523969+00:00"
       },
       {
-        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
-        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "Jensen Huang and the End of the Founder Fairy Tale",
+        "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+        "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
-        "dwp_take": "So half your workforce is burned out from constant change initiatives. That's not a feature of transformation, that's a bug you paid consultants six figures to install. Digital workplace leaders need to understand that every new tool, process redesign, and \"strategic pivot\" has a real human cost in productivity and morale. Here's the truth nobody wants to hear: you don't need another transformation program, you need to let the last one actually work for six months.",
-        "date": "2026-11-14T09:44:27.512771+00:00"
-      },
-      {
-        "title": "\u2018Bah, humbug!\u2019 Could employee apathy mean curtains for the traditional holiday party?",
-        "url": "https://www.worklife.news/culture/bah-humbug-could-employee-apathy-mean-curtains-for-the-traditional-holiday-party/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
-        "category": "digital-culture",
-        "excerpt": "People say they prefer cash or time off, though some argue office gatherings are still beneficial",
-        "dwp_take": "Companies are discovering that traditional holiday parties don't move the needle anymore because employees would rather have cash bonuses or extra PTO than attend another forced-fun event. This matters because it signals a fundamental shift in how we think about workplace culture, connection, and what actually motivates people in the post-pandemic world. Here's my take: if your holiday party needs a motivational speech to get butts in seats, you're doing culture wrong, and honestly, you probably should just give people the money.",
-        "date": "2026-11-14T09:44:31.164204+00:00"
+        "excerpt": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+        "dwp_take": "Jensen Huang's carefully crafted founder narrative is crumbling under the weight of sexual misconduct allegations that no amount of storytelling can spin away. For digital workplace leaders, this is a stark reminder that company culture and values statements mean nothing if leadership isn't actually held accountable for misconduct. Turns out you can't engineer your way out of basic human decency, and no amount of compelling founder mythology survives contact with documented bad behavior.",
+        "date": "2026-11-15T10:16:47.927187+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "FAA Grounds US Flights Nationwide, Citing \u2018Extraordinary\u2019 Safety Concerns",
-        "url": "https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/",
+        "title": "Samsung\u2019s Next Phone Could Stretch Instead of Fold, Leak Suggests.",
+        "url": "https://www.techrepublic.com/article/news-samsung-rollable-phone-vertical-sliding-display-leak/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "FAA grounds flights nationwide, citing extraordinary safety concerns amid air traffic control communications problems. Here's what travelers need to know. The post FAA Grounds US Flights Nationwide, C",
-        "dwp_take": "The FAA grounded all US flights due to critical failures in air traffic control communications systems. This is a stark reminder that the digital infrastructure keeping mission-critical operations running needs redundancy, testing, and honest assessment of aging systems. If your organization's digital workplace infrastructure is held together with the same level of prayer and duct tape as apparently some of our nation's air traffic control systems, now would be a very good time to have that conversation with your IT leadership.",
-        "date": "2026-11-14T09:44:35.019637+00:00"
+        "excerpt": "Samsung may be exploring a rollable phone that expands vertically from 16:9 to 21:9. Here's what the leak suggests about its design and potential challenges. The post Samsung\u2019s Next Phone Could Stretc",
+        "dwp_take": "Samsung is reportedly working on a rollable phone that stretches vertically rather than folds, expanding from a 16:9 to 21:9 aspect ratio. For digital workplace folks, this matters because mobile form factors directly affect how we design interfaces, productivity apps, and remote work experiences for increasingly diverse device types. Honestly, after years of folding phones that crease and cost a fortune, Samsung betting on rollable screens feels like watching someone invent a better wheel while we're all still arguing about whether the last wheel actually worked.",
+        "date": "2026-11-15T10:16:51.798939+00:00"
       },
       {
-        "title": "Toshiba Wins UK Contract to Scale Quantum Networks With BT, Colt",
-        "url": "https://www.techrepublic.com/article/news-toshiba-uk-quantum-network-contract-bt-colt-emea/",
+        "title": "This Week in Tech: Nvidia\u2019s Shakeup and AI\u2019s Reality Check",
+        "url": "https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Toshiba Europe won an Innovate UK contract to build long-distance, multi-user quantum network subsystems, with BT and Colt testing them on real fiber. The post Toshiba Wins UK Contract to Scale Quantu",
-        "dwp_take": "Toshiba Europe just landed UK government funding to develop quantum network technology that BT and Colt will test on actual fiber infrastructure. For digital workplace folks, this matters because quantum networks could eventually deliver the kind of security and speed that makes today's concerns about data breaches look quaint. That said, we're probably a decade away from this affecting your Slack performance, so don't panic about needing quantum-ready office tech just yet.",
-        "date": "2026-11-14T09:44:38.537450+00:00"
+        "excerpt": "See what you missed in Daily Tech Insider from Nov. 9\u201313. The post This Week in Tech: Nvidia\u2019s Shakeup and AI\u2019s Reality Check appeared first on TechRepublic.",
+        "dwp_take": "Nvidia's leadership faced some turbulence this week while the AI industry continued grappling with the gap between hype and actual deliverables. For digital workplace leaders, this matters because it signals that the AI tools you're being pressured to deploy right now might not be as stable or mature as vendors claim. After thirty years watching tech cycles, I can tell you that when the infrastructure companies start having management drama, it's usually a sign that the promises being made to your CFO are moving faster than the actual engineering.",
+        "date": "2026-11-15T10:16:55.571807+00:00"
       },
       {
-        "title": "Samsung and Google Open AI Glasses Preorders: What $395 Gets You",
-        "url": "https://www.techrepublic.com/article/news-samsung-google-ai-glasses-preorders/",
+        "title": "Google, Meta, TikTok Oppose Indonesia\u2019s AI Copyright Bill",
+        "url": "https://www.techrepublic.com/article/news-google-meta-tiktok-indonesia-ai-copyright-apac/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Samsung and Google open AI glasses preorders from $395. Explore Gemini features, Warby Parker and Gentle Monster styles, release dates, and phone compatibility. The post Samsung and Google Open AI Gla",
-        "dwp_take": "Samsung and Google are taking preorders for AI-powered glasses starting at $395, featuring Google's Gemini assistant and available through Warby Parker and Gentle Monster frames. For digital workplace folks, this matters because wearable AI is creeping closer to becoming an actual work tool rather than a sci-fi concept, which means we need to start thinking about policies and use cases now. Honestly, I'll believe it's a real productivity game-changer when I see people actually wearing these in meetings instead of just talking about them at conferences.",
-        "date": "2026-11-14T09:44:42.335032+00:00"
+        "excerpt": "Google, Meta, and TikTok oppose Indonesia's proposed copyright changes. Here's what APAC businesses should know about AI content, news links, and liability. The post Google, Meta, TikTok Oppose Indone",
+        "dwp_take": "Google, Meta, and TikTok are pushing back against Indonesia's proposed copyright bill that would tighten rules around AI-generated content and how platforms handle news links and liability. This matters because digital workplace teams increasingly rely on AI tools for content creation, and unclear copyright rules in major markets create real operational risk for global organizations. The irony is that these tech giants spent years arguing for light-touch regulation, and now they're learning that sometimes you don't get to write your own rules.",
+        "date": "2026-11-15T10:16:59.225056+00:00"
       },
       {
-        "title": "Apple Wants $50 for More AI Usage: How Much Do You Actually Get?",
-        "url": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-usage-packs/",
+        "title": "Your Smartphone Camera Wastes Light. HoloCoder Wants to Fix That",
+        "url": "https://www.techrepublic.com/article/news-metalenz-holocoder-smartphone-camera-technology/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Apple now sells $49.99 AI usage packs for Creator Studio subscribers. Here's how they work, who qualifies, and why the extra capacity is hard to predict. The post Apple Wants $50 for More AI Usage: Ho",
-        "dwp_take": "Apple is charging $50 for expanded AI usage packs within Creator Studio, though the actual capacity you'll get remains murky. This matters because it signals how vendors are starting to meter and monetize AI features separately, which will affect how IT teams budget for creative tools and manage user expectations. Honestly, charging extra for undefined AI capacity feels like selling someone a bigger bucket without telling them how many gallons it holds, which tracks for Apple's pricing philosophy but seems destined to frustrate the professionals footing the bill.",
-        "date": "2026-11-14T09:44:46.285196+00:00"
+        "excerpt": "Metalenz says HoloCoder could deliver up to 2.5 times more light to smartphone camera sensors. Here's how the technology works and what remains unproven. The post Your Smartphone Camera Wastes Light. ",
+        "dwp_take": "Metalenz developed HoloCoder, a lens technology that could capture 2.5 times more light on smartphone cameras by using holographic optics instead of traditional glass lenses. This matters to digital workplace pros because better mobile imaging directly improves video conferencing quality, document scanning, and visual collaboration tools that most of us rely on daily. Look, we've all suffered through grainy video calls in dim conference rooms, so if this actually ships and works as promised, it's genuinely useful rather than another incremental camera megapixel bump.",
+        "date": "2026-11-15T10:17:03.096029+00:00"
       }
     ]
   }
