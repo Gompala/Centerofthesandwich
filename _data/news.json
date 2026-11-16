@@ -1,129 +1,101 @@
 {
-  "generated": "2026-11-15T10:17:03.096144+00:00",
+  "generated": "2026-11-16T10:30:42.951286+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "AT&T uses agentic AI to reinvent business processes from the ground up",
-        "url": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
-        "source": "SiliconAngle",
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates. Nearly 500 agentic workflows ",
-        "dwp_take": "AT&T has deployed nearly 500 autonomous AI agents into production workflows and plans to triple that number, processing 45 billion AI tokens daily across the company. This matters because it signals that agentic AI is moving from pilot purgatory into real operational redesign, which means digital workplace teams need to start thinking about how AI agents will actually change work, not just speed it up. The real test isn't hitting 1,500 agents by next year, it's whether employees actually trust them enough to let go of the manual work.",
-        "date": "2026-11-15T10:16:18.105340+00:00"
+        "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "dwp_take": "An Indian semiconductor startup called Bharat Semi just raised 24 million dollars in seed funding to develop AI sensors for global markets, and they've already lined up customers like General Atomics. This matters to digital workplace folks because the infrastructure underlying your collaboration tools, smart office spaces, and workplace IoT devices depends on chip innovation, and non-US players are finally getting serious capital. Here's the thing though: everyone's funding the next big AI thing, but most organizations still can't get basic workplace tech fundamentals right, so let's see if these sensors actually make offices smarter or just collect more useless data.",
+        "date": "2026-11-16T10:30:05.209620+00:00"
       },
       {
-        "title": "Massive Microsoft outage disrupts businesses, government agencies worldwide",
-        "url": "https://siliconangle.com/2026/11/13/massive-microsoft-outage-disrupts-businesses-government-agencies-worldwide/",
+        "title": "Detectify\u2019s Agentic Tooling lets AI agents test suspected flaws in running applications",
+        "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "A glitch in Microsoft Corp.\u2019s network has disrupted the work of businesses and government agencies in more than 70 countries. The bug, which reared its head on Thursday about 12:35 p.m. EST, knocked t",
-        "dwp_take": "Microsoft's Exchange Online went down for hours across 70+ countries on Thursday, taking email and calendars offline for countless organizations. For digital workplace pros, this is a stark reminder that cloud dependency creates single points of failure that can paralyze entire workforces in minutes. After 30 years in this space, I've learned that redundancy isn't paranoia, it's the price of doing business when you put all your eggs in one vendor's basket.",
-        "date": "2026-11-15T10:16:21.518815+00:00"
+        "excerpt": "Swedish application security company Detectify AB today launched Agentic Tooling, a set of tools aimed at letting an organization\u2019s own artificial intelligence agents test whether suspected vulnerabil",
+        "dwp_take": "Detectify just released Agentic Tooling, which lets AI agents autonomously test whether suspected security vulnerabilities in live applications can actually be exploited, along with a Security Ledger to document the findings. Digital workplace teams need to care because autonomous security testing means fewer manual vulnerability checks and faster identification of real threats versus false alarms. Here's the thing though: letting AI agents loose on your production systems to find flaws is bold, and I'm genuinely curious how many organizations will actually trust it before something goes sideways.",
+        "date": "2026-11-16T10:30:10.358669+00:00"
       },
       {
-        "title": "Exclusive: Onyx Security brings AI agent governance to Glean\u2019s enterprise AI platform",
-        "url": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+        "title": "Agent fleets drag the messaging layer from afterthought to AI\u2019s coordination core",
+        "url": "https://siliconangle.com/2026/11/13/data-center-telemetry-runs-nats-graduates-from-cncf-kubeconna/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "AI agent security startup Onyx Security Inc. today announced an integration with enterprise artificial intelligence platform company Glean Technologies Inc. to help enterprises govern the AI agents th",
-        "dwp_take": "Onyx Security is integrating its AI governance tools into Glean's enterprise AI platform to help companies manage the autonomous agents they're deploying across departments. This matters because most organizations are spinning up AI agents faster than they can control them, and governance gaps create real compliance and security risks that will bite you later. Finally someone's addressing the fact that we've been building the plane while flying it, though I'd bet most companies still won't actually use these controls until something breaks spectacularly.",
-        "date": "2026-11-15T10:16:25.213163+00:00"
+        "excerpt": "Data center telemetry, sandboxed AI workloads and fleets of agents are pushing more machine-to-machine traffic through infrastructure than ever before, exposing the limits of messaging systems built f",
+        "dwp_take": "AI agent fleets are generating so much machine-to-machine traffic that traditional messaging systems are buckling under the load, forcing organizations to rethink their entire infrastructure stack. For digital workplace pros, this matters because the tools your employees depend on (and the backends running them) need messaging layers that can actually handle autonomous AI workloads without melting down. Here's the thing though: we've been building messaging systems for humans talking to systems for thirty years, and now we're scrambling because machines won't stop talking to each other.",
+        "date": "2026-11-16T10:30:14.019739+00:00"
       },
       {
-        "title": "Mirendil raises $1B in funding to speed up AI model development",
-        "url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+        "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+        "url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Mirendil Inc., a provider of software that speeds up artificial intelligence development, has raised $1 billion in early-stage funding. The startup stated on Thursday that Kleiner Perkins and Clearlak",
-        "dwp_take": "Mirendil, an AI development software company, just closed a $1 billion Series A round led by Kleiner Perkins and Clearlake Capital. This matters because faster AI model development directly impacts how quickly workplace tools get smarter and more useful at enterprise scale. A billion dollars is real money, but let's see if Mirendil actually delivers productivity gains or just becomes another well-funded company selling speed that nobody can measure.",
-        "date": "2026-11-15T10:16:28.612599+00:00"
+        "excerpt": "German startup NeuralSat GmbH announced Thursday that it has raised \u20ac2.9 million, about $3.2 million, in pre-seed funding to develop a 72-satellite data-relay processing network aimed at speeding up t",
+        "dwp_take": "A German startup called NeuralSat just raised $3.2 million to build a satellite network that processes data in orbit instead of sending it all back to Earth. This matters because digital workplace infrastructure runs on connectivity, and space-based compute could eventually solve latency problems for remote teams in genuinely remote locations, not just people sitting in coffee shops. Here's the thing though: we still can't get reliable broadband to rural areas on the ground, so maybe let's fix that before we start processing cat videos in the stratosphere.",
+        "date": "2026-11-16T10:30:17.794879+00:00"
       }
     ],
-    "tools-tech": [
-      {
-        "title": "Microsoft 365 caught a bug and the whole world sneezed",
-        "url": "https://www.computerworld.com/article/4248396/microsoft-365-caught-a-bug-and-the-whole-world-sneezed.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "While Microsoft seems at last to be on the edge of fixing the global outage that hammered its services overnight, causing chaos across Asia-Pacific and Europe, we should still ask: How many times must",
-        "dwp_take": "Microsoft experienced a significant global outage affecting its 365 services across Asia-Pacific and Europe, disrupting millions of users and organizations. For digital workplace professionals, this is a stark reminder that relying on a single cloud provider creates catastrophic risk to business continuity and employee productivity. Here's the reality: we've been preaching hybrid and multi-cloud strategies for years, yet most companies still put all their eggs in one Redmond basket, then act shocked when the basket tips over.",
-        "date": "2026-11-15T10:16:32.489909+00:00"
-      },
-      {
-        "title": "Claris Harbor could turn Mac fleets into on-prem AI servers",
-        "url": "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "It feels quite appropriate that one of Apple\u2019s more interesting AI deployments may not come from the company itself, but from its more business-focused subsidiary, Claris, still better known to many a",
-        "dwp_take": "Claris is planning to release an app that turns Mac computers into private on-premises AI servers using Apple Silicon. This matters because it gives organizations a way to run AI workloads locally without sending data to the cloud, which addresses real security and compliance concerns that digital workplace leaders have been losing sleep over. The irony is thick: FileMaker, the database tool your IT department forgot about ten years ago, might actually become relevant again as your organization's secret weapon for keeping AI inference private and off the internet.",
-        "date": "2026-11-15T10:16:36.115469+00:00"
-      }
-    ],
+    "tools-tech": [],
     "digital-culture": [
       {
-        "title": "5 ways to turn your cold outreach into a job offer",
-        "url": "https://www.fastcompany.com/91631346/5-ways-to-turn-your-cold-outreach-into-a-job-offer-job-hunting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Does the workplace have a 4 p.m. problem?",
+        "url": "https://www.fastcompany.com/91639592/does-the-workplace-have-a-4pm-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Taylor Stanton, a former student of mine, spent nearly 15 years as a communications professional for tech CEOs in Silicon Valley. On the side, he photographed the underexplored backcountry of national",
-        "dwp_take": "This article is about building personal brand visibility through side projects and using that credibility to land job opportunities without traditional applications. It matters because the best talent increasingly gets hired through demonstrated expertise and networks, not LinkedIn applications that disappear into black holes. The real insight here isn't revolutionary though: being genuinely good at something and showing your work has always worked, which probably means most of us should stop optimizing our cover letters and start actually building something worth talking about.",
-        "date": "2026-11-15T10:16:40.303671+00:00"
+        "excerpt": "At 10 a.m., a meeting is just a meeting. You grab a coffee and get ready to listen to something that could probably have been summarized in an email. At 4 p.m., that same meeting can feel like a hosta",
+        "dwp_take": "Fast Company looked at why late afternoon meetings tank productivity and morale compared to morning ones. Digital workplace managers need to pay attention here because scheduling meetings at 4 p.m. is basically asking people to mentally check out while physically present. After thirty years watching this play out, I can tell you that the real 4 p.m. problem isn't the meetings themselves, it's that we still haven't figured out that forcing knowledge workers to sit through anything after 3:30 is just theater.",
+        "date": "2026-11-16T10:30:22.548014+00:00"
       },
       {
-        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-        "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-        "source": "Wired",
+        "title": "Thinking of quitting your job? Don\u2019t until you consider this factor",
+        "url": "https://www.fastcompany.com/91633889/thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
-        "dwp_take": "The FAA is experimenting with AI systems to manage air traffic control functions, a domain that has historically resisted automation. This matters to digital workplace pros because it's the ultimate stress test for AI deployment in safety-critical environments where human judgment still needs to override the algorithm. Look, if we can't get our internal chatbots to understand a simple expense report request, maybe let's not rush AI into the field that literally keeps planes from hitting each other.",
-        "date": "2026-11-15T10:16:44.523969+00:00"
-      },
-      {
-        "title": "Jensen Huang and the End of the Founder Fairy Tale",
-        "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-        "dwp_take": "Jensen Huang's carefully crafted founder narrative is crumbling under the weight of sexual misconduct allegations that no amount of storytelling can spin away. For digital workplace leaders, this is a stark reminder that company culture and values statements mean nothing if leadership isn't actually held accountable for misconduct. Turns out you can't engineer your way out of basic human decency, and no amount of compelling founder mythology survives contact with documented bad behavior.",
-        "date": "2026-11-15T10:16:47.927187+00:00"
+        "excerpt": "You know that stinging sensation you get when your coworker gets the promotion that you thought was yours? Or that sinking feeling of doom when you realize that a new hire could take over your role? M",
+        "dwp_take": "Fast Company ran a piece about how envy at work often triggers the urge to quit, suggesting people should examine this emotion before making career moves. This matters because digital workplace pros spend half their waking hours in these environments, and impulsive exits driven by social comparison cost companies real productivity and knowledge. The irony is that the person getting the promotion probably felt equally envious of someone else last week, yet here we all are, treating LinkedIn like a highlight reel and wondering why we feel behind.",
+        "date": "2026-11-16T10:30:26.598362+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Samsung\u2019s Next Phone Could Stretch Instead of Fold, Leak Suggests.",
-        "url": "https://www.techrepublic.com/article/news-samsung-rollable-phone-vertical-sliding-display-leak/",
-        "source": "TechRepublic",
+        "title": "Ubiquiti Networks UniFi U7 Pro Max review",
+        "url": "https://www.itpro.com/hardware/routers/ubiquiti-networks-unifi-u7-pro-max-review-a-classy-business-wi-fi-7-ap-with-a-smooth-blend-of-features-performance-and-value",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Samsung may be exploring a rollable phone that expands vertically from 16:9 to 21:9. Here's what the leak suggests about its design and potential challenges. The post Samsung\u2019s Next Phone Could Stretc",
-        "dwp_take": "Samsung is reportedly working on a rollable phone that stretches vertically rather than folds, expanding from a 16:9 to 21:9 aspect ratio. For digital workplace folks, this matters because mobile form factors directly affect how we design interfaces, productivity apps, and remote work experiences for increasingly diverse device types. Honestly, after years of folding phones that crease and cost a fortune, Samsung betting on rollable screens feels like watching someone invent a better wheel while we're all still arguing about whether the last wheel actually worked.",
-        "date": "2026-11-15T10:16:51.798939+00:00"
+        "excerpt": "An affordable tri-band Wi-Fi 7 AP offering good performance and probably the best wireless management services in town",
+        "dwp_take": "Ubiquiti released the UniFi U7 Pro Max, a tri-band Wi-Fi 7 access point that delivers solid performance at a reasonable price point with excellent management capabilities. For digital workplace teams, this matters because reliable wireless infrastructure is the unsexy backbone that keeps remote and hybrid workers from losing their minds at 2pm on a Tuesday. At this price point with that management story, Ubiquiti just made the Wi-Fi 6 crowd look unnecessarily expensive, which is going to force some uncomfortable conversations in IT budget meetings.",
+        "date": "2026-11-16T10:30:31.129369+00:00"
       },
       {
-        "title": "This Week in Tech: Nvidia\u2019s Shakeup and AI\u2019s Reality Check",
-        "url": "https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/",
-        "source": "TechRepublic",
+        "title": "Can tech ever be truly circular? A rising market for refurbished hardware says it can",
+        "url": "https://www.itpro.com/business/can-tech-ever-be-truly-circular-a-rising-market-for-refurbished-hardware-says-it-can",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "See what you missed in Daily Tech Insider from Nov. 9\u201313. The post This Week in Tech: Nvidia\u2019s Shakeup and AI\u2019s Reality Check appeared first on TechRepublic.",
-        "dwp_take": "Nvidia's leadership faced some turbulence this week while the AI industry continued grappling with the gap between hype and actual deliverables. For digital workplace leaders, this matters because it signals that the AI tools you're being pressured to deploy right now might not be as stable or mature as vendors claim. After thirty years watching tech cycles, I can tell you that when the infrastructure companies start having management drama, it's usually a sign that the promises being made to your CFO are moving faster than the actual engineering.",
-        "date": "2026-11-15T10:16:55.571807+00:00"
+        "excerpt": "As AI drives compute demand, the confidence in pre-owned tech is proving that circular IT is a business strategy, not just an ESG target",
+        "dwp_take": "The refurbished hardware market is booming as organizations look to stretch IT budgets while chasing sustainability goals, proving there's real economic sense behind the circular economy pitch. For digital workplace teams, this means your hardware refresh cycles just got more complicated because you're now balancing performance specs against environmental impact and total cost of ownership. Here's the thing though: most organizations will embrace refurbished gear when it saves money, then pat themselves on the back for saving the planet. That's fine. Do both.",
+        "date": "2026-11-16T10:30:35.079172+00:00"
       },
       {
-        "title": "Google, Meta, TikTok Oppose Indonesia\u2019s AI Copyright Bill",
-        "url": "https://www.techrepublic.com/article/news-google-meta-tiktok-indonesia-ai-copyright-apac/",
-        "source": "TechRepublic",
+        "title": "Five ways CISOs can use \u2018dark AI\u2019 to their own advantage",
+        "url": "https://www.itpro.com/security/its-the-ai-cybersecurity-apocalypse-for-threat-actors-five-ways-cisos-can-use-dark-ai-to-their-own-advantage",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Google, Meta, and TikTok oppose Indonesia's proposed copyright changes. Here's what APAC businesses should know about AI content, news links, and liability. The post Google, Meta, TikTok Oppose Indone",
-        "dwp_take": "Google, Meta, and TikTok are pushing back against Indonesia's proposed copyright bill that would tighten rules around AI-generated content and how platforms handle news links and liability. This matters because digital workplace teams increasingly rely on AI tools for content creation, and unclear copyright rules in major markets create real operational risk for global organizations. The irony is that these tech giants spent years arguing for light-touch regulation, and now they're learning that sometimes you don't get to write your own rules.",
-        "date": "2026-11-15T10:16:59.225056+00:00"
+        "excerpt": "Vulnerability discovery will explode over the next few years, but CIOs can use AI to beat hackers at their own game",
+        "dwp_take": "Apparently some security folks are getting excited about using AI to find vulnerabilities before the bad guys do, which is a sensible enough idea if you ignore the ominous \"dark AI\" branding. This matters to digital workplace pros because security theater doesn't keep anyone safe, but actual vulnerability management does, and AI tools could genuinely help identify risks faster than manual processes. That said, I've seen enough \"AI will solve everything\" pitches to know that the real work is still in the governance, testing, and human decision-making that no algorithm replaces, so maybe let's pump the brakes on the marketing speak first.",
+        "date": "2026-11-16T10:30:39.415803+00:00"
       },
       {
-        "title": "Your Smartphone Camera Wastes Light. HoloCoder Wants to Fix That",
-        "url": "https://www.techrepublic.com/article/news-metalenz-holocoder-smartphone-camera-technology/",
-        "source": "TechRepublic",
+        "title": "ClickHouse expands enterprise platform with Xata acquisition",
+        "url": "https://www.itpro.com/business/acquisition/clickhouse-expands-enterprise-platform-with-xata-acquisition",
+        "source": "ITPro",
         "category": "industry-news",
-        "excerpt": "Metalenz says HoloCoder could deliver up to 2.5 times more light to smartphone camera sensors. Here's how the technology works and what remains unproven. The post Your Smartphone Camera Wastes Light. ",
-        "dwp_take": "Metalenz developed HoloCoder, a lens technology that could capture 2.5 times more light on smartphone cameras by using holographic optics instead of traditional glass lenses. This matters to digital workplace pros because better mobile imaging directly improves video conferencing quality, document scanning, and visual collaboration tools that most of us rely on daily. Look, we've all suffered through grainy video calls in dim conference rooms, so if this actually ships and works as promised, it's genuinely useful rather than another incremental camera megapixel bump.",
-        "date": "2026-11-15T10:17:03.096029+00:00"
+        "excerpt": "The expanded platform introduces new capabilities across transactional databases, observability, security, and AI engineering",
+        "dwp_take": "ClickHouse bought Xata to beef up its data platform with better transactional database support, observability tools, security features, and AI capabilities. For digital workplace folks, this matters because your employees increasingly depend on data platforms that actually work together instead of forcing IT to stitch together five different tools that hate each other. The real question is whether ClickHouse can integrate this without turning into another bloated kitchen sink that nobody asked for, but time will tell.",
+        "date": "2026-11-16T10:30:42.951180+00:00"
       }
     ]
   }
