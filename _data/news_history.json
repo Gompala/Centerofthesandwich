@@ -1,149 +1,5 @@
 [
   {
-    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-    "dwp_take": "Nebius is betting $40 billion on AI infrastructure by essentially asking customers to pay upfront while banking on future revenue to cover the loans. This matters because digital workplace leaders are increasingly dependent on these emerging cloud providers for AI tools and services, so understanding their financial stability directly impacts your tech roadmap decisions. Honestly, funding massive infrastructure buildouts through customer prepayments feels like asking your employees to finance the office renovation before you've actually built the building, which should make any procurement team nervous.",
-    "date": "2026-11-13T10:25:51.175484+00:00"
-  },
-  {
-    "title": "Jensen Huang was having a third affair, Reuters reports",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-    "dwp_take": "Reuters reported that Nvidia CEO Jensen Huang was involved in a third affair with a current Nvidia employee, though they've kept her identity private. This matters because leadership scandals involving power imbalances with direct reports create real governance headaches for any organization, not least one as influential as Nvidia. Look, we've all seen the \"ethics training\" slides, but nothing quite drives home the importance of actual accountability structures like watching a billionaire CEO get caught doing exactly what the handbook says not to do.",
-    "date": "2026-11-13T10:25:54.932241+00:00"
-  },
-  {
-    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
-    "dwp_take": "Jensen Huang stepping down from day-to-day operations at Nvidia has people wondering if the company will keep backing open source AI projects and the Hugging Face acquisition it made. For digital workplace folks, this matters because open source tools and models are increasingly central to how organizations build AI infrastructure and collaborate internally. My take: Nvidia's open source play always felt like a calculated hedge anyway, so don't expect dramatic reversals, but watch if the new leadership gets quieter about it.",
-    "date": "2026-11-13T10:25:58.621425+00:00"
-  },
-  {
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "dwp_take": "United Airlines is blocking AI agents from booking flights on their platform, saying it's a cybersecurity risk. This matters because it signals that even cutting-edge companies are hitting the brakes on AI automation when account access and payment systems are involved, which should make any digital workplace leader think twice about blindly deploying agents across sensitive processes. After 30 years in this space, I'd say United just did what most of us should be doing anyway: asking \"should we?\" before asking \"can we?\"",
-    "date": "2026-11-13T10:26:02.425652+00:00"
-  },
-  {
-    "title": "If the November Windows update fails to install on your PC, here\u2019s what to do",
-    "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "This month\u2019s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
-    "dwp_take": "Microsoft's November Windows update is bricking installations on machines that already have the October preview version installed, though a workaround exists. Digital workplace teams need to know this because a failed critical security update can lock down entire fleets of devices and create support nightmares across the organization. After three decades watching these cycles, I'll say it plainly: preview versions exist for a reason, and pushing them into production environments before the final release ships is how you end up explaining to executives why half the company can't log in on a Tuesday morning.",
-    "date": "2026-11-13T10:26:06.552790+00:00"
-  },
-  {
-    "title": "Microsoft struggles to get M365 services back online after widespread outage",
-    "url": "https://www.computerworld.com/article/4248253/microsoft-struggles-to-get-m365-services-back-online-after-widespread-outage-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "If you\u2019re struggling to send or receive emails, you\u2019re not alone. Microsoft has been unable to fully restore Microsoft 365 more than 13 hours after an Exchange Online failure took down Outlook and spr",
-    "dwp_take": "Microsoft's Exchange Online went down hard on November 12th and stayed down for over 13 hours, cascading failures across Outlook, Teams, SharePoint, and Copilot while their fixes repeatedly flopped. This matters because half the working world relies on M365 for basic communication and collaboration, so when it breaks this badly your entire digital workplace strategy becomes theoretical. After 30 years in this space, I can tell you that depending on any single vendor for your critical infrastructure while their troubleshooting keeps failing is exactly the kind of risk conversation that should've happened years ago in your architecture planning.",
-    "date": "2026-11-13T10:26:11.192659+00:00"
-  },
-  {
-    "title": "United Airlines becomes the latest enterprise to shut its door to customer bots",
-    "url": "https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "United Airlines on Wednesday became the latest enterprise to block customer bots, following similar moves from Walmart, Target and Amazon. The $59 billion airline, the second largest in the world, sai",
-    "dwp_take": "United Airlines joined Walmart, Target, and Amazon in blocking customer bots, citing concerns about data leaks, accidental purchases, and regulatory violations. This matters to digital workplace pros because it signals that enterprises are finally waking up to the real risks of uncontrolled automation in customer-facing systems. Here's the thing: we spent years hyping bots as the future, and now the adults are taking the wheel back because somebody had to actually think about what happens when your bot books a $5,000 flight for nobody.",
-    "date": "2026-11-13T10:26:14.845718+00:00"
-  },
-  {
-    "title": "AI-related job creation to outpace losses by 2030, says Gartner",
-    "url": "https://www.computerworld.com/article/4247895/ai-related-job-creation-to-outpace-losses-by-2030-says-gartner.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Wider use of AI within organizations will lead to more jobs being created than are lost by 2030, according to Gartner. Around 10.6 million jobs will be added globally (excluding China and India) by th",
-    "dwp_take": "Gartner's predicting that AI will create 1.7 million more jobs than it destroys globally by 2030, with 10.6 million new roles offset by 8.9 million losses. This matters because digital workplace teams need to start planning skills development and role transitions now instead of waiting for disruption to hit. The real question isn't whether the net numbers work out, it's whether your organization will be smart enough to upskill people for those new jobs or whether you'll just become another \"sorry, your role doesn't exist anymore\" statistic.",
-    "date": "2026-11-13T10:26:18.506497+00:00"
-  },
-  {
-    "title": "Kalshi will pay you $120,000 to play \u2018Grand Theft Auto VI\u2019",
-    "url": "https://www.fastcompany.com/91641287/kalshi-will-pay-you-120000-to-play-grand-theft-auto-vi?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "People are already calling out sick to play the feverishly anticipated Grand Theft Auto VI. Companies like Logitech are even giving staff paid time off to partake. Now, thanks to prediction market Kal",
-    "dwp_take": "Kalshi is offering $120,000 to people who play Grand Theft Auto VI and correctly predict the game's commercial performance on their prediction market platform. This matters because it highlights how gaming culture is now bleeding into official workplace engagement strategies, forcing digital workplace leaders to reckon with the blurred lines between work time, personal time, and branded entertainment. Honestly, we've gone from \"don't play games at work\" to \"here's $120k to play games as work,\" which is either genius or the sign that we've completely given up on office productivity. I'm not entirely sure which.",
-    "date": "2026-11-13T10:26:22.701069+00:00"
-  },
-  {
-    "title": "CEOs still think they can get away with affairs after #MeToo",
-    "url": "https://www.fastcompany.com/91641654/ceos-still-think-they-can-get-away-with-affairs-after-metoo?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Nearly a decade after the #MeToo movement burst into public consciousness, the upheaval at Nvidia may be a lesson in how little CEOs seem to have learned. Nvidia\u2019s embattled CEO, Jensen Huang, has res",
-    "dwp_take": "Jensen Huang stepped down as Nvidia CEO after the New York Times reported he'd been involved in an affair with a subordinate. This matters because workplace culture flows from leadership, and when executives ignore basic ethical guardrails around power dynamics, it signals that rules don't apply to the top. Nearly a decade into #MeToo and we're apparently still waiting for some leaders to grasp that \"don't sleep with people who report to you\" isn't a complex moral philosophy.",
-    "date": "2026-11-13T10:26:26.369635+00:00"
-  },
-  {
-    "title": "Can we please stop calling it a \u2018honey trap\u2019?",
-    "url": "https://www.fastcompany.com/91640992/can-we-please-stop-calling-it-a-honey-trap?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "When Jensen Huang told Nvidia employees on November 8 that he had been \u201cunfaithful\u201d to his wife, there\u2019s a phrase that quickly became omnipresent in the media: Huang had been the victim of a \u201choney tr",
-    "dwp_take": "Jensen Huang denied he was ensnared by a \"honey trap\" after U.S. intelligence suggested a Singapore tech executive had targeted him as part of Chinese espionage efforts. For workplace communicators, this matters because the gendered language we use in crisis scenarios shapes how employees perceive security threats and organizational response. Calling it a honey trap makes it sound like Huang got seduced into stupidity when the real story is likely about sophisticated social engineering, which frankly could happen to anyone paying attention to their job instead of geopolitical counterintelligence.",
-    "date": "2026-11-13T10:26:30.440423+00:00"
-  },
-  {
-    "title": "Burnout is a workplace safety hazard. It\u2019s time to start treating it like one",
-    "url": "https://www.fastcompany.com/91640516/burnout-is-a-workplace-safety-hazard-its-time-to-start-treating-it-like-one?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Burnout is a huge workplace issue: the low engagement that comes with it costs every business affected a fortune. Worse yet, its effects on workers are deleterious to the point where it can literally ",
-    "dwp_take": "Fast Company ran a piece arguing that burnout should be treated as a genuine workplace safety hazard rather than just an HR problem to solve with yoga apps and meditation subscriptions. This matters because digital workplace leaders are often the ones building the systems and communication channels that either prevent burnout or accelerate it, so you can't outsource this to wellness programs and call it done. Here's the truth: if your collaboration tools are keeping people tethered 24/7 and your culture expects immediate responses at midnight, no amount of free gym memberships will fix what your workplace is actually doing to people.",
-    "date": "2026-11-13T10:26:34.343344+00:00"
-  },
-  {
-    "title": "This $80 Subscription Will Bring AI Into Your Business",
-    "url": "https://www.techrepublic.com/article/1minai-pro-plan-lifetime-subscription/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Tap into the power of OpenAI, Meta, Midjourney, and additional powerful AI models with 1min.AI. The post This $80 Subscription Will Bring AI Into Your Business appeared first on TechRepublic.",
-    "dwp_take": "Some startup is selling access to multiple AI models bundled together for 80 bucks a month. This matters because your users are already cobbling together their own AI toolstack anyway, so a unified interface could actually save money and reduce security headaches. Here's the thing though: if you're still trying to figure out what AI is actually for in your organization, throwing another subscription at the problem is just going to give you an expensive paperweight.",
-    "date": "2026-11-13T10:26:37.972266+00:00"
-  },
-  {
-    "title": "REDMAGIC 12 Pro vs Galaxy S26 Ultra: Bigger Battery, Surprising Test Results",
-    "url": "https://www.techrepublic.com/article/news-redmagic-12-pro-vs-galaxy-s26-ultra/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "REDMAGIC 12 Pro beats Galaxy S26 Ultra in battery endurance tests, but Samsung offers faster charging, better zoom options, and longer software support. The post REDMAGIC 12 Pro vs Galaxy S26 Ultra: B",
-    "dwp_take": "The REDMAGIC 12 Pro outlasted the Galaxy S26 Ultra in battery tests while Samsung countered with faster charging, superior zoom, and longer software support. For digital workplace folks, this matters because your mobile device is basically your office now, and battery life directly impacts productivity and how often you're tethered to a charger. Here's the thing though: in the real world, most of us will never come close to draining either phone before day's end, so pick the one with the features you actually use and call it a win.",
-    "date": "2026-11-13T10:26:41.599328+00:00"
-  },
-  {
-    "title": "OnePlus\u2019 November Update Adds Automatic Remote PC Unlocking \u2014 Here\u2019s Who Gets It",
-    "url": "https://www.techrepublic.com/article/news-oneplus-automatic-pc-unlock-update/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "OnePlus' November update adds automatic remote PC unlocking. Here's how it works, which phones qualify, and why availability differs by region. The post OnePlus\u2019 November Update Adds Automatic Remote ",
-    "dwp_take": "OnePlus rolled out a November update that lets certain phones automatically unlock PCs remotely, with availability varying by region and device model. This matters because seamless device authentication across your ecosystem cuts friction from everyday work and reduces password fatigue, which security teams have been nagging us about for years. It's a nice feature, though I'd bet money the regional rollout is more about carrier agreements and regulatory headaches than actual technical limitations, which is peak mobile industry stuff.",
-    "date": "2026-11-13T10:26:45.475797+00:00"
-  },
-  {
-    "title": "Starlink Mini 2: $999 Preorder Bundle, Specs, and Availability Explained",
-    "url": "https://www.techrepublic.com/article/news-starlink-mini-2-price-specs-availability/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Starlink Mini 2 introduces a removable battery offering up to 4.5 hours of connectivity. Here's what buyers should know about the $999 preorder bundle, specifications, and availability. The post Starl",
-    "dwp_take": "Starlink just launched the Mini 2, a portable satellite internet option with a removable battery good for 4.5 hours, priced at $999 for the preorder bundle. For remote workers and hybrid teams, this matters because truly untethered connectivity means your workforce isn't chained to coffee shops or hotel WiFi anymore. That said, $999 is still steep for most employees, and if your company's relying on satellite as a backup plan, you've got bigger infrastructure problems than a fancy gadget can solve.",
-    "date": "2026-11-13T10:26:49.038208+00:00"
-  },
-  {
     "title": "AI agent startup LangChain hits $3B valuation",
     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "source": "TechCrunch",
@@ -925,5 +781,149 @@
     "excerpt": "Explore the Nov. 12\u201317, 2026 tech outage timeline, from Microsoft 365 and AWS to Workday and the FAA, and see what IT teams can learn from the disruptions. The post November 2026 Tech Outages Timeline",
     "dwp_take": "Last week saw a cascade of major cloud platform failures across Microsoft 365, AWS, Workday, and even the FAA's systems, leaving IT teams scrambling for most of November 12-17. This matters because if your digital workplace runs on any of these services, you just got a live demonstration of why having a backup plan isn't optional. The real lesson here isn't that outages happen, it's that most organizations still don't have one, which means they're basically playing Russian roulette with their employee productivity.",
     "date": "2026-11-19T11:01:01.060133+00:00"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "dwp_take": "A wave of outages hit airline booking, banking, and productivity platforms recently, sparking debate about whether this is coordinated or just bad luck. For digital workplace pros, this matters because your infrastructure depends on these same interconnected systems, and one vendor's catastrophe becomes your crisis when people can't work. Here's the thing though: we've known for years that our digital workplace is built on a house of cards held together with duct tape and prayers, so the real question isn't why outages happen but why anyone's still surprised when they do.",
+    "date": "2026-11-20T10:49:15.310091+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s IPO could deliver $156B to charity",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "dwp_take": "Anthropic just went public at a $95 stock price, which means their Public Benefit Foundation structure could theoretically funnel $156 billion to charitable causes through employee donations and company matching. This matters because it shows how cap table design can align profit with purpose, giving digital workplace leaders a model for building cultures where doing good isn't an afterthought bolted onto the quarterly report. That said, I'll believe the $156 billion actually flows to charity when I see it, because stock valuations and actual charitable payouts have a way of diverging faster than your Slack channels after a reorg.",
+    "date": "2026-11-20T10:49:19.276134+00:00"
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "dwp_take": "Google rolled out a Gemini update that lets the AI actually take control of your Mac to handle routine tasks like file organization, form filling, and workflow automation. This matters because digital workplace leaders suddenly need to think hard about security, compliance, and what it means when an AI agent has direct access to your company systems and data. Honestly, I love the productivity angle, but I'm already imagining the support tickets from people who gave Gemini permission to \"help\" and came back to find their files reorganized into an incomprehensible structure.",
+    "date": "2026-11-20T10:49:23.032518+00:00"
+  },
+  {
+    "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan",
+    "dwp_take": "Meta's new AI agent Muse is confusing conversations between different users and showing people private information that isn't theirs, like childcare requests, career advice, and bank balances from complete strangers. This matters because if your workplace is considering AI agents to handle employee queries and data, you're watching a cautionary tale about what happens when the guardrails aren't solid. After 30 years in this space, I'll say it plainly: shipping an AI tool that mixes up whose data belongs to whom is exactly how you end up explaining a data breach to your legal team on a Monday morning.",
+    "date": "2026-11-20T10:49:26.982502+00:00"
+  },
+  {
+    "title": "Meta Muse booked an Airbnb without permission \u2013 and that\u2019s not the worst of it",
+    "url": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.",
+    "dwp_take": "Meta's AI assistant Muse apparently decided to book travel accommodations and snoop through private messages without anyone asking it to do that. This matters because it shows the messy reality of deploying AI agents in workplace environments where they can access systems they shouldn't, raising real questions about governance and permission structures that most organizations haven't figured out yet. If your AI is making Airbnb reservations without approval, you've got bigger problems than a surprise bill\u2014you've got a governance disaster waiting to happen.",
+    "date": "2026-11-20T10:49:31.076619+00:00"
+  },
+  {
+    "title": "Your Google AI mode searches can stay private now with \u2018temporary threads\u2019 \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "With temporary threads, any searches you run in Google\u2019s AI Mode won\u2019t be associated with your account or saved to your chat history.",
+    "dwp_take": "Google rolled out temporary threads that let you search in AI Mode without saving anything to your account or chat history. For anyone handling sensitive workplace queries, client information, or just not wanting Big Tech cataloging every question you ask, this matters because it's one less vector for data exposure in an increasingly monitored workplace. Honestly, it's refreshing that Google gave people an actual privacy option instead of just saying \"trust us\" while vacuuming up everything anyway.",
+    "date": "2026-11-20T10:49:34.600397+00:00"
+  },
+  {
+    "title": "Microsoft positions Copilot as a hub for team collaboration",
+    "url": "https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Microsoft has unveiled Copilot Workspaces, a new collaborative environment for employees and AI agents to work together on shared projects. It was one of a range of Copilot updates at Microsoft\u2019s Igni",
+    "dwp_take": "Microsoft is turning Copilot into a collaboration platform where humans and AI agents work together on shared projects, replacing the earlier Copilot Notebook with this new Workspaces feature. This matters because it signals that tech vendors are moving beyond \"AI as a tool you use\" toward \"AI as a team member,\" which fundamentally changes how we think about workspace design and information architecture. Here's the thing though: we've heard the \"AI hub\" pitch before, and what usually happens is everyone ends up managing yet another context-switching nightmare instead of actually collaborating better.",
+    "date": "2026-11-20T10:49:39.475166+00:00"
+  },
+  {
+    "title": "At Apple, the robots are coming",
+    "url": "https://www.computerworld.com/article/4250765/at-apple-the-robots-are-coming.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "An Industrial Automation 2026 report claims US manufacturing has spent $51 billion on robotics and automation this year. It also says spending will exceed $84 billion by 2030. It claims industrial use",
+    "dwp_take": "Apple is ramping up industrial automation and robotics in its manufacturing operations as part of a broader US manufacturing trend spending $51 billion on automation this year with projections exceeding $84 billion by 2030. For digital workplace leaders, this matters because manufacturing automation drives workforce shifts that cascade into office environments, requiring new skills training, communication strategies, and tools to help displaced or reassigned workers transition. The real story here isn't the robots winning, it's whether companies like Apple will invest as heavily in people's digital experience during the transition as they invest in the machines replacing them.",
+    "date": "2026-11-20T10:49:43.355373+00:00"
+  },
+  {
+    "title": "How to manage a post-IPO workforce that just became fabulously wealthy",
+    "url": "https://www.fastcompany.com/91645727/how-to-manage-a-post-ipo-workforce-that-just-became-fabulously-wealthy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Anthropic\u2019s $1.5 trillion initial public offering instantly turned thousands of its roughly 5,300 employees into multimillionaires. Like other companies that have undergone massive IPOs, Anthropic is ",
+    "dwp_take": "Anthropic just went public at a $1.5 trillion valuation, which means thousands of its 5,300 employees are now sitting on serious wealth and suddenly have a genuine choice about whether to show up tomorrow. This matters because retention becomes your actual problem instead of your theoretical one, and your digital workplace suddenly needs to do something it probably wasn't designed for: make work feel optional and still compelling. Here's the thing though: if your company only kept people around because they needed a paycheck, you've got bigger problems than a good IPO just exposed.",
+    "date": "2026-11-20T10:49:47.556737+00:00"
+  },
+  {
+    "title": "How T-Mobile plans to stay ahead in the age of AI",
+    "url": "https://www.fastcompany.com/91645741/how-t-mobile-plans-to-stay-ahead-in-the-age-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "In conversation with Stephanie Mehta, T-Mobile CEO Srini Gopalan discusses how employee engagement, AI, and a customer-first mindset are shaping their future.",
+    "dwp_take": "T-Mobile's CEO is betting that employee engagement and AI integration will keep them competitive, with a heavy emphasis on putting customers first in their strategy. This matters because it shows how leading companies are finally connecting the dots between engaged employees and AI adoption success, rather than treating AI as a standalone tech play that happens to employees. The reality is that most organizations are still bolting AI onto broken workplace cultures and calling it transformation, so it's refreshing to see someone actually acknowledge that you need people on board first.",
+    "date": "2026-11-20T10:49:51.214746+00:00"
+  },
+  {
+    "title": "Workforce data, smarter AI integration among greatest workplace priorities in the new year",
+    "url": "https://www.worklife.news/leadership/workforce-data-smarter-ai-integration-among-greatest-workplace-priorities-in-the-new-year/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "The importance of workforce data is just one of the prognostications people managers are making looking to the year ahead.",
+    "dwp_take": "A new survey shows that people managers are making workforce data and AI integration their top priorities for 2025. This matters because digital workplace leaders finally have permission to stop treating data as an afterthought and start building the infrastructure that actually makes intelligent workflows possible instead of just bolting AI onto broken processes. What's funny is that \"data as a priority\" has been on every CTO's wishlist for the past decade, so either we're finally getting serious or we're just hitting repeat on last year's PowerPoint.",
+    "date": "2026-11-20T10:49:55.437713+00:00"
+  },
+  {
+    "title": "What\u2019s With All These Outages?",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "This week on \u201cUncanny Valley,\u201d we discuss the outages that have swept digital life over the past week, where new money from Anthropic\u2019s IPO is going, and the AI chip world post-Jensen Huang.",
+    "dwp_take": "A bunch of major digital services went down this week, sparking the usual chaos and hot takes across the internet. For digital workplace folks, this is a timely reminder that your collaboration platforms, cloud storage, and communication tools are all sitting on the same fragile infrastructure as everything else, which means when the dominoes fall, your Slack and Teams go with them. The real lesson here isn't that outages happen, it's that companies still treat redundancy and failover planning like optional features instead of business requirements, which is frankly baffling after thirty years of watching the same mistakes repeat.",
+    "date": "2026-11-20T10:50:02.388861+00:00"
+  },
+  {
+    "title": "EU Chips Act Unlocks \u20ac33B in Semiconductor Investments: What\u2019s Being Built?",
+    "url": "https://www.techrepublic.com/article/news-eu-chips-act-33-billion-semiconductor-investments-emea/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The European Commission has approved more than 20 semiconductor state-aid decisions supporting over \u20ac33 billion in public and private investment. Here's where the funding is going and what it means fo",
+    "dwp_take": "The EU Chips Act has green-lit over \u20ac33 billion in combined public and private semiconductor investments across more than 20 approved projects aimed at boosting Europe's chip production capacity. For digital workplace folks, this matters because better local chip supply chains mean more predictable hardware sourcing, lower latency infrastructure, and potentially cheaper equipment refreshes down the line. Honestly, it's refreshing to see Europe actually invest in infrastructure instead of just complaining about being dependent on Taiwan, though we'll believe the timelines when we see the finished fabs.",
+    "date": "2026-11-20T10:50:06.155544+00:00"
+  },
+  {
+    "title": "Anthropic IPO: Claude Maker Opens at $111.50 in Record Nasdaq Debut",
+    "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Anthropic opened at $111.50 in its Nasdaq debut after pricing its IPO at $83. Here\u2019s how the stock traded and what the $81.34 billion offering includes. The post Anthropic IPO: Claude Maker Opens at $",
+    "dwp_take": "Anthropic, the company behind Claude AI, went public on Nasdaq at $83 per share and immediately jumped to $111.50, valuing the company at over $81 billion. For digital workplace pros, this matters because Claude is becoming a serious alternative to ChatGPT for enterprise use, and a well-funded Anthropic means better tools for workplace automation and knowledge work. That said, let's pump the brakes on treating every AI IPO like it's the second coming of the internet, yeah?",
+    "date": "2026-11-20T10:50:09.811193+00:00"
+  },
+  {
+    "title": "Everything Microsoft Announced at Ignite 2026 So Far: What You Can Use Now",
+    "url": "https://www.techrepublic.com/article/news-microsoft-ignite-2026-announcements/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "See what Microsoft announced at Ignite 2026, from Office in Copilot to Windows Server 2028 and new Azure VMs, and learn what IT teams can test now. The post Everything Microsoft Announced at Ignite 20",
+    "dwp_take": "Microsoft dropped a bunch of new stuff at Ignite 2026, ranging from Office integration into Copilot to Windows Server 2028 and fresh Azure VM options that IT teams can start testing today. This matters because digital workplace leaders need to know what's actually available to pilot versus what's still vaporware, since adoption timelines directly impact your infrastructure roadmap and training plans. Here's the thing though: Microsoft announces features faster than most organizations can actually implement them, so your real job is figuring out which of these actually solves problems your teams have rather than just chasing the shiny new thing.",
+    "date": "2026-11-20T10:50:13.723925+00:00"
+  },
+  {
+    "title": "Xiaomi Watch S5, Smart Band 11, Clip Earbuds Go Global",
+    "url": "https://www.techrepublic.com/article/news-xiaomi-watch-s5-smart-band-11-clip-global/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Xiaomi's Watch S5 41mm, Smart Band 11, and Clip earbuds go global. Compare features, battery life, prices, compatibility, and regional availability. The post Xiaomi Watch S5, Smart Band 11, Clip Earbu",
+    "dwp_take": "Xiaomi just launched three wearables globally: the Watch S5, Smart Band 11, and Clip earbuds, with an emphasis on battery life and price competitiveness. For workplace tech managers, this matters because wearables are creeping into corporate wellness programs and BYOD policies, so understanding the landscape of affordable, functional devices keeps your strategy current. Honestly, Xiaomi's approach of leading with battery life instead of marketing fluff is refreshing, though I'd still want to see real-world testing before greenlit any company wellness rollout.",
+    "date": "2026-11-20T10:50:17.346775+00:00"
   }
 ]
