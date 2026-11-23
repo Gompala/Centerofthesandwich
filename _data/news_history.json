@@ -1,95 +1,5 @@
 [
   {
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "dwp_take": "An Indian semiconductor startup called Bharat Semi just raised 24 million dollars in seed funding to develop AI sensors for global markets, and they've already lined up customers like General Atomics. This matters to digital workplace folks because the infrastructure underlying your collaboration tools, smart office spaces, and workplace IoT devices depends on chip innovation, and non-US players are finally getting serious capital. Here's the thing though: everyone's funding the next big AI thing, but most organizations still can't get basic workplace tech fundamentals right, so let's see if these sensors actually make offices smarter or just collect more useless data.",
-    "date": "2026-11-16T10:30:05.209620+00:00"
-  },
-  {
-    "title": "Detectify\u2019s Agentic Tooling lets AI agents test suspected flaws in running applications",
-    "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Swedish application security company Detectify AB today launched Agentic Tooling, a set of tools aimed at letting an organization\u2019s own artificial intelligence agents test whether suspected vulnerabil",
-    "dwp_take": "Detectify just released Agentic Tooling, which lets AI agents autonomously test whether suspected security vulnerabilities in live applications can actually be exploited, along with a Security Ledger to document the findings. Digital workplace teams need to care because autonomous security testing means fewer manual vulnerability checks and faster identification of real threats versus false alarms. Here's the thing though: letting AI agents loose on your production systems to find flaws is bold, and I'm genuinely curious how many organizations will actually trust it before something goes sideways.",
-    "date": "2026-11-16T10:30:10.358669+00:00"
-  },
-  {
-    "title": "Agent fleets drag the messaging layer from afterthought to AI\u2019s coordination core",
-    "url": "https://siliconangle.com/2026/11/13/data-center-telemetry-runs-nats-graduates-from-cncf-kubeconna/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Data center telemetry, sandboxed AI workloads and fleets of agents are pushing more machine-to-machine traffic through infrastructure than ever before, exposing the limits of messaging systems built f",
-    "dwp_take": "AI agent fleets are generating so much machine-to-machine traffic that traditional messaging systems are buckling under the load, forcing organizations to rethink their entire infrastructure stack. For digital workplace pros, this matters because the tools your employees depend on (and the backends running them) need messaging layers that can actually handle autonomous AI workloads without melting down. Here's the thing though: we've been building messaging systems for humans talking to systems for thirty years, and now we're scrambling because machines won't stop talking to each other.",
-    "date": "2026-11-16T10:30:14.019739+00:00"
-  },
-  {
-    "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
-    "url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "German startup NeuralSat GmbH announced Thursday that it has raised \u20ac2.9 million, about $3.2 million, in pre-seed funding to develop a 72-satellite data-relay processing network aimed at speeding up t",
-    "dwp_take": "A German startup called NeuralSat just raised $3.2 million to build a satellite network that processes data in orbit instead of sending it all back to Earth. This matters because digital workplace infrastructure runs on connectivity, and space-based compute could eventually solve latency problems for remote teams in genuinely remote locations, not just people sitting in coffee shops. Here's the thing though: we still can't get reliable broadband to rural areas on the ground, so maybe let's fix that before we start processing cat videos in the stratosphere.",
-    "date": "2026-11-16T10:30:17.794879+00:00"
-  },
-  {
-    "title": "Does the workplace have a 4 p.m. problem?",
-    "url": "https://www.fastcompany.com/91639592/does-the-workplace-have-a-4pm-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "At 10 a.m., a meeting is just a meeting. You grab a coffee and get ready to listen to something that could probably have been summarized in an email. At 4 p.m., that same meeting can feel like a hosta",
-    "dwp_take": "Fast Company looked at why late afternoon meetings tank productivity and morale compared to morning ones. Digital workplace managers need to pay attention here because scheduling meetings at 4 p.m. is basically asking people to mentally check out while physically present. After thirty years watching this play out, I can tell you that the real 4 p.m. problem isn't the meetings themselves, it's that we still haven't figured out that forcing knowledge workers to sit through anything after 3:30 is just theater.",
-    "date": "2026-11-16T10:30:22.548014+00:00"
-  },
-  {
-    "title": "Thinking of quitting your job? Don\u2019t until you consider this factor",
-    "url": "https://www.fastcompany.com/91633889/thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "You know that stinging sensation you get when your coworker gets the promotion that you thought was yours? Or that sinking feeling of doom when you realize that a new hire could take over your role? M",
-    "dwp_take": "Fast Company ran a piece about how envy at work often triggers the urge to quit, suggesting people should examine this emotion before making career moves. This matters because digital workplace pros spend half their waking hours in these environments, and impulsive exits driven by social comparison cost companies real productivity and knowledge. The irony is that the person getting the promotion probably felt equally envious of someone else last week, yet here we all are, treating LinkedIn like a highlight reel and wondering why we feel behind.",
-    "date": "2026-11-16T10:30:26.598362+00:00"
-  },
-  {
-    "title": "Ubiquiti Networks UniFi U7 Pro Max review",
-    "url": "https://www.itpro.com/hardware/routers/ubiquiti-networks-unifi-u7-pro-max-review-a-classy-business-wi-fi-7-ap-with-a-smooth-blend-of-features-performance-and-value",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "An affordable tri-band Wi-Fi 7 AP offering good performance and probably the best wireless management services in town",
-    "dwp_take": "Ubiquiti released the UniFi U7 Pro Max, a tri-band Wi-Fi 7 access point that delivers solid performance at a reasonable price point with excellent management capabilities. For digital workplace teams, this matters because reliable wireless infrastructure is the unsexy backbone that keeps remote and hybrid workers from losing their minds at 2pm on a Tuesday. At this price point with that management story, Ubiquiti just made the Wi-Fi 6 crowd look unnecessarily expensive, which is going to force some uncomfortable conversations in IT budget meetings.",
-    "date": "2026-11-16T10:30:31.129369+00:00"
-  },
-  {
-    "title": "Can tech ever be truly circular? A rising market for refurbished hardware says it can",
-    "url": "https://www.itpro.com/business/can-tech-ever-be-truly-circular-a-rising-market-for-refurbished-hardware-says-it-can",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "As AI drives compute demand, the confidence in pre-owned tech is proving that circular IT is a business strategy, not just an ESG target",
-    "dwp_take": "The refurbished hardware market is booming as organizations look to stretch IT budgets while chasing sustainability goals, proving there's real economic sense behind the circular economy pitch. For digital workplace teams, this means your hardware refresh cycles just got more complicated because you're now balancing performance specs against environmental impact and total cost of ownership. Here's the thing though: most organizations will embrace refurbished gear when it saves money, then pat themselves on the back for saving the planet. That's fine. Do both.",
-    "date": "2026-11-16T10:30:35.079172+00:00"
-  },
-  {
-    "title": "Five ways CISOs can use \u2018dark AI\u2019 to their own advantage",
-    "url": "https://www.itpro.com/security/its-the-ai-cybersecurity-apocalypse-for-threat-actors-five-ways-cisos-can-use-dark-ai-to-their-own-advantage",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "Vulnerability discovery will explode over the next few years, but CIOs can use AI to beat hackers at their own game",
-    "dwp_take": "Apparently some security folks are getting excited about using AI to find vulnerabilities before the bad guys do, which is a sensible enough idea if you ignore the ominous \"dark AI\" branding. This matters to digital workplace pros because security theater doesn't keep anyone safe, but actual vulnerability management does, and AI tools could genuinely help identify risks faster than manual processes. That said, I've seen enough \"AI will solve everything\" pitches to know that the real work is still in the governance, testing, and human decision-making that no algorithm replaces, so maybe let's pump the brakes on the marketing speak first.",
-    "date": "2026-11-16T10:30:39.415803+00:00"
-  },
-  {
-    "title": "ClickHouse expands enterprise platform with Xata acquisition",
-    "url": "https://www.itpro.com/business/acquisition/clickhouse-expands-enterprise-platform-with-xata-acquisition",
-    "source": "ITPro",
-    "category": "industry-news",
-    "excerpt": "The expanded platform introduces new capabilities across transactional databases, observability, security, and AI engineering",
-    "dwp_take": "ClickHouse bought Xata to beef up its data platform with better transactional database support, observability tools, security features, and AI capabilities. For digital workplace folks, this matters because your employees increasingly depend on data platforms that actually work together instead of forcing IT to stitch together five different tools that hate each other. The real question is whether ClickHouse can integrate this without turning into another bloated kitchen sink that nobody asked for, but time will tell.",
-    "date": "2026-11-16T10:30:42.951180+00:00"
-  },
-  {
     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
     "source": "TechCrunch",
@@ -898,5 +808,113 @@
     "excerpt": "Notepik captures decisions and action items from Zoom, Meet, Teams, and Webex calls for one lifetime payment. The post This $50 AI Notetaker Turns Every Meeting Into Assigned Work appeared first on Te",
     "dwp_take": "A startup called Notepik is selling a $50 lifetime license for AI software that automatically captures decisions and action items from video calls across all major platforms. This matters because digital workplace pros are drowning in meeting notes and task management chaos, so anything that extracts actual decisions instead of transcript word salad has real value. Here's the thing though: I've seen 20 years of \"this tool will fix meetings\" products, and the real problem was never note-taking\u2014it was that people scheduled too many meetings in the first place.",
     "date": "2026-11-22T10:37:35.020149+00:00"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "dwp_take": "Three major investment firms just plowed billions into Anthropic before its anticipated IPO, betting heavily that the AI company will deliver real value. For digital workplace folks, this matters because Anthropic's Claude models are increasingly showing up in enterprise tools and knowledge work platforms that your organizations will be choosing between in the next few years. Here's the thing though: big money pouring into AI doesn't automatically mean better workplace solutions, just means someone's very confident there's money to be made when this stuff finally gets integrated into the actual tools you're stuck using all day.",
+    "date": "2026-11-23T11:38:52.705976+00:00"
+  },
+  {
+    "title": "Robotics component maker coprod raises $6M to take on robotics \u2018integration hell\u2019",
+    "url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Robotics component maker coprod Inc. announced today that it has raised $6 million in new funding to reduce the time and costs associated with building new robotic platforms. The funding is intended t",
+    "dwp_take": "A robotics startup called coprod just raised six million dollars to solve the problem of integrating different robot components, which currently takes too long and costs too much. This matters to digital workplace folks because robots are increasingly showing up in offices and warehouses where your employees actually work, and integration nightmares directly impact deployment timelines and budgets. The real question is whether coprod can actually deliver on this promise, or whether they'll just become another funding story that learns integration hell exists for a reason.",
+    "date": "2026-11-23T11:38:57.287630+00:00"
+  },
+  {
+    "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+    "url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "AI spending is shifting from giant training clusters toward smaller, quickly built sites, and modular data centers are becoming a natural home for inference workloads. Power, cooling and memory supply",
+    "dwp_take": "The AI chip industry is pivoting from massive training farms to distributed inference deployments, with power and cooling becoming just as critical as processing power itself. This matters to digital workplace folks because it means your enterprise AI tools will increasingly run on modular, edge-deployed infrastructure rather than centralized mega-data centers, fundamentally changing how we architect workplace AI solutions. After thirty years, I've seen enough infrastructure swings to know that every \"shift\" spawns new bottlenecks, and I'm betting the real headache won't be the chips themselves but figuring out how to manage AI workloads scattered across a dozen different deployment models.",
+    "date": "2026-11-23T11:39:01.267465+00:00"
+  },
+  {
+    "title": "Sovereign AI: Where control becomes an architectural requirement",
+    "url": "https://siliconangle.com/2026/11/21/sovereign-ai-where-control-becomes-an-architectural-requirement/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "We believe sovereignty is becoming an architectural requirement for firms operating globally, especially in highly regulated industries. The business question for buyers is how much control an organiz",
+    "dwp_take": "Companies are now treating data sovereignty and AI control as non-negotiable architectural requirements rather than nice-to-have compliance checkboxes, especially across regulated industries. For digital workplace leaders, this means the days of \"just use the cloud vendor's AI\" are ending, forcing real conversations about where your intelligence actually lives and who owns it. Here's the thing: sovereignty sounds like politics, but it's really about not waking up in five years asking why a foreign entity controls your company's brain.",
+    "date": "2026-11-23T11:39:04.936359+00:00"
+  },
+  {
+    "title": "Hyring Insight Reports 10x Revenue Growth in 3 months",
+    "url": "https://www.computerworld.com/article/4251888/hyring-insight-reports-10x-revenue-growth-in-3-months-2.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Hyring\u2019s newest workforce intelligence platform has grown 10x in revenue in just 90 days. Hyring, the emerging AI hiring platform, which to date has run 900,000 plus AI interviews, announced that its ",
+    "dwp_take": "Hyring Insight, an AI hiring platform, hit 10x revenue growth in 90 days by focusing on transparency and an AI assistant that explains hiring decisions. For digital workplace professionals, this matters because hiring automation is now moving fast enough to actually shape how your talent acquisition workflows operate, not just sit in a pilot forever. Here's the thing though: transparency in AI hiring sounds great until you realize you still need humans who actually understand what that transparency means, or you've just built a faster way to make the same mistakes at scale.",
+    "date": "2026-11-23T11:39:10.663911+00:00"
+  },
+  {
+    "title": "Need to solve a problem? Neuroscience says try the Jack Reacher Method",
+    "url": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "There\u2019s a point in Lee Child\u2019s book Make Me (the 20th in his Jack Reacher series, for those keeping score) where Reacher is trying to solve a problem and decides to back-burner it: Instead of actively",
+    "dwp_take": "A neuroscience piece claims that stepping away from a problem lets your subconscious work through it better than grinding away at it directly, using Jack Reacher as the example. This matters because knowledge workers spend half their time in meetings or Slack threads pretending to solve problems when they should probably just walk away and let their brains actually work. I've watched enough smart people burn out chasing solutions in real time to know that sometimes the best productivity hack is doing absolutely nothing, though good luck selling that to your manager.",
+    "date": "2026-11-23T11:39:14.833536+00:00"
+  },
+  {
+    "title": "5 tips for an annual review to kick off 2027",
+    "url": "https://www.fastcompany.com/91645248/5-tips-annual-review-2027-goals?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Below, Tiago Forte shares five key insights from his new book, Life in Perspective: The Art and Power of the Annual Life Review. Forte is a productivity expert and founder of Forte Labs, where he teac",
+    "dwp_take": "Tiago Forte is pushing the annual life review concept as a productivity framework for entering 2027, drawing from his new book and his Building a Second Brain methodology. Digital workplace pros should care because how people organize their personal reflection directly influences how they'll organize their work systems, tools, and priorities for the year ahead. That said, the irony of needing a productivity expert to tell us to review our lives annually isn't lost on me, but if it gets people to actually sit down and think instead of just reacting, I'm here for it.",
+    "date": "2026-11-23T11:39:18.767743+00:00"
+  },
+  {
+    "title": "Inside Google\u2019s Failure to Make Google Maps Work for Palestinians",
+    "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+    "source": "Wired",
+    "category": "digital-culture",
+    "excerpt": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world\u2019s most popular navigation app. Then the company undid his work.",
+    "dwp_take": "Google quietly removed detailed mapping of West Bank checkpoints after initially allowing a product manager to add them to Maps, effectively erasing infrastructure that affects Palestinian daily life from the world's most popular navigation tool. This matters to digital workplace folks because it's a stark reminder that the platforms we build on, integrate with, and depend on daily make editorial choices that shape reality for millions of people, whether we acknowledge it or not. The real kicker: Google's algorithm doesn't do ethics, but its employees still have to live with the decisions made in their name.",
+    "date": "2026-11-23T11:39:24.063057+00:00"
+  },
+  {
+    "title": "Get 3K+ Excel Templates for Budgets, Payroll, and CRM for $39.99",
+    "url": "https://www.techrepublic.com/article/openworksheet-lifetime-subscription/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Put ready-made Excel dashboards, charts & formulas to work with templates you can edit for your business. The post Get 3K+ Excel Templates for Budgets, Payroll, and CRM for $39.99 appeared first on Te",
+    "dwp_take": "Someone is selling a bundle of 3000-plus Excel templates covering budgets, payroll, and CRM functions for forty bucks. For digital workplace folks, this matters because Excel templates can accelerate onboarding and reduce the time teams spend reinventing spreadsheet wheels. That said, I've seen organizations choke on template sprawl before, so my honest take is this: buy them if your team lacks basic structures, but remember that one well-designed template your people actually use beats three thousand orphaned ones collecting digital dust.",
+    "date": "2026-11-23T11:39:28.278913+00:00"
+  },
+  {
+    "title": "Get Contracts Signed for a One-Time $49.99 With Signibility",
+    "url": "https://www.techrepublic.com/article/signibility-solo-professionals-lifetime-subscription/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Clients sign from a link with no account, and every finished PDF comes back sealed with a full audit trail. The post Get Contracts Signed for a One-Time $49.99 With Signibility appeared first on TechR",
+    "dwp_take": "Signibility is offering a one-time $49.99 deal for contract signing with no account creation required and built-in audit trails on completed PDFs. This matters because digital workplace teams are constantly wrestling with document workflows that either frustrate users or create compliance nightmares, and frictionless signing with audit trails hits both pain points. That said, at this price point you have to wonder what happens after the first contract, so read the fine print before you get too excited.",
+    "date": "2026-11-23T11:39:31.769792+00:00"
+  },
+  {
+    "title": "UK-EU \u2018digital partnership\u2019 proposals welcomed by industry stakeholders",
+    "url": "https://www.itpro.com/business/policy-legislation/uk-eu-digital-partnership-proposals-welcomed-by-industry-stakeholders",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "A new initiative aims to enhance cooperation across cybersecurity, AI, and other areas",
+    "dwp_take": "The UK and EU are proposing a digital partnership to collaborate on cybersecurity, AI, and related tech areas. For digital workplace folks, this matters because cross-border regulatory alignment directly impacts how we build systems, manage data, and deploy tools across both regions without constant compliance whiplash. Honestly, if they actually pull this off without turning it into a 500-page document that changes every six months, I'll eat my password manager.",
+    "date": "2026-11-23T11:39:35.825401+00:00"
+  },
+  {
+    "title": "AI discovers another decade-old security flaw",
+    "url": "https://www.itpro.com/cybersecurity/ai-discovers-another-decade-old-security-flaw",
+    "source": "ITPro",
+    "category": "industry-news",
+    "excerpt": "NGINX web server software is the latest in growing trend plaguing security sector",
+    "dwp_take": "NGINX web server software had a security vulnerability sitting undetected for ten years until an AI system found it. For digital workplace professionals managing internal infrastructure and employee access, this matters because it shows that traditional security audits miss real threats, and AI tooling is now the table stakes for catching what humans overlook. Here's the kicker though: we've been throwing money at security for decades, and it took a machine to find what our expensive consultants and security teams somehow walked past for a full decade. That should keep some CISOs up at night.",
+    "date": "2026-11-23T11:39:39.940921+00:00"
   }
 ]
