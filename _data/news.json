@@ -1,156 +1,129 @@
 {
-  "generated": "2026-11-25T12:00:01.172838+00:00",
+  "generated": "2026-11-25T14:07:03.022854+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
-        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
-        "dwp_take": "Yale business professor Jeffrey Sonnenfeld is saying Nvidia's leadership structure and chip export practices could expose the company and its directors to serious legal and reputational risk. For digital workplace professionals, this matters because it signals how governance missteps at major tech companies create organizational instability that ripples through vendor relationships and workplace culture. Here's the thing though: if Sonnenfeld is right that Nvidia has become a liability rather than an asset, every company dependent on their infrastructure just got a reminder that your best tech partner today can become your biggest headache tomorrow.",
-        "date": "2026-11-25T11:59:00.403689+00:00"
-      },
-      {
-        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-        "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
-        "dwp_take": "Walmart is letting customers browse and buy Black Friday deals through Muse, Meta's new AI shopping agent. This matters because it's the first real test of whether AI agents can actually drive commerce at scale, which means digital workplace teams need to understand how conversational interfaces are reshaping customer engagement and internal workflows. Honestly, if Walmart's Black Friday experiment actually works, every company will suddenly need an AI agent strategy by Monday morning, and your internal comms team better be ready for the chaos.",
-        "date": "2026-11-25T11:59:04.283431+00:00"
-      },
-      {
-        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
-        "dwp_take": "Anthropic's stock dropped below its IPO price, signaling market skepticism about AI startup valuations. This matters because if investors are losing faith in well-funded AI companies, it'll make it harder for workplace AI vendors to raise capital and hit their growth promises, which means slower innovation and fewer real solutions hitting the market. After years of AI hype, turns out investors actually want to see profits eventually, not just PowerPoint decks and hockey stick charts.",
-        "date": "2026-11-25T11:59:07.908508+00:00"
-      },
-      {
-        "title": "Formal verification startup Sequent raises $2.2M to prove code obeys its safety rules",
-        "url": "https://siliconangle.com/2026/11/25/formal-verification-startup-sequent-raises-2-2m-to-prove-code-obeys-its-safety-rules/",
+        "title": "Zoom\u2019s conversations-to-completion strategy is starting to pay off",
+        "url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Formal verification startup Sequent Inc. today announced that it has raised $2.2 million in new funding to take its Alan proof platform out of early access. Founded in London in January, Sequent offer",
-        "dwp_take": "Sequent, a London-based startup, just raised $2.2 million to scale up its AI platform that mathematically verifies whether code actually follows the safety rules engineers write. This matters because most companies still rely on testing and hope to catch bugs, while formal verification is the only way to genuinely prove your code won't blow up in production. After thirty years watching teams get burned by \"it passed QA,\" I'd say this is overdue, though getting developers to actually use rigorous proof systems remains the real puzzle.",
-        "date": "2026-11-25T11:59:12.672952+00:00"
+        "excerpt": "Zoom Communications Inc. has spent the better part of the past few years building products to become more than just the video company everyone used during the pandemic. Its fiscal third-quarter result",
+        "dwp_take": "Zoom's pushing beyond video calls into a broader workplace platform, and their latest earnings show enterprise customers are actually buying into it with 8.6% revenue growth in that segment. This matters because if Zoom successfully becomes your one-stop shop for all workplace conversations, it reshapes how we think about tool sprawl and integration strategies. Here's the thing though: \"conversations-to-completion\" is just fancy talk for \"we want to own everything,\" and we all know how that tends to go when one vendor gets too comfortable.",
+        "date": "2026-11-25T14:06:11.344086+00:00"
+      },
+      {
+        "title": "Rajiv Ramaswami to step down as Nutanix begins hunt for its next CEO",
+        "url": "https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Rajiv Ramaswami is stepping down from his role as chief executive of Nutanix Inc., six years after he joined the hyperconverged cloud infrastructure company from its rival VMware Inc. In a letter to c",
+        "dwp_take": "Rajiv Ramaswami is leaving his CEO post at Nutanix after six years, with the board now hunting for a replacement while he stays on temporarily. This matters because Nutanix is a core player in hybrid cloud infrastructure that many enterprises depend on for their digital operations, so leadership instability can ripple through customer roadmaps and product priorities. Here's the thing though: CEO transitions happen constantly in tech, and what actually matters is whether the board finds someone who understands that infrastructure is boring on purpose, and that's exactly how customers want it.",
+        "date": "2026-11-25T14:06:15.296698+00:00"
+      },
+      {
+        "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+        "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Employees working at frontier artificial intelligence model companies Anthropic PBC and OpenAI Group PBC have been butting heads with executives over advanced models whose reasoning is such that the m",
+        "dwp_take": "Employees at Anthropic and OpenAI are pushing back against leadership over releasing AI models they believe are too dangerous, with dozens of staff expressing serious safety concerns. This matters because these same companies are shaping what tools knowledge workers will actually use in their digital workplaces, so if the people building them don't trust them, that's worth paying attention to. Here's the thing: when your own engineers are sounding alarms, it's not corporate FUD or risk management theater, it's worth listening before you bet your entire workflow on the latest model.",
+        "date": "2026-11-25T14:06:19.300894+00:00"
+      },
+      {
+        "title": "Epochal launches with $100M to help developers train predictive AI models",
+        "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+        "source": "SiliconAngle",
+        "category": "ai-at-work",
+        "excerpt": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher wh",
+        "dwp_take": "A new AI startup called Epochal just launched with $100 million in funding to help developers build better predictive AI models. This matters because digital workplace tools are increasingly built on predictive AI, so better model training could actually make workplace software less terrible at understanding what employees actually need. That said, $100 million is a lot of money to solve a problem that probably didn't need solving if everyone just wrote clearer requirements in the first place.",
+        "date": "2026-11-25T14:06:22.849112+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "This hidden iOS 27 feature ensures you\u2019ll never sleep through an alarm again",
-        "url": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Say goodbye to accidentally silencing your alarms.",
-        "dwp_take": "Apple added a new iOS 27 feature that prevents you from accidentally silencing alarms through sleep focus modes and do-not-disturb settings. This matters to digital workplace professionals because half your team is probably already missing meetings because they can't hear their calendar alerts on their phones, and this gives IT one less excuse to blame for no-shows. Honestly though, if someone still needs iOS to force them awake for a 9am standup, that's less a technology problem and more a \"why are we scheduling meetings this early\" problem.",
-        "date": "2026-11-25T11:59:17.018354+00:00"
-      },
-      {
-        "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
-        "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
-        "dwp_take": "Signal is restricting screenshot functionality on its platform due to concerns that AI agents could scrape message content for training data or misuse. This matters because it highlights a real tension digital workplace pros face: balancing security controls with usability in tools employees actually rely on. Here's the thing though, if your company is serious about protecting sensitive conversations, you probably shouldn't be using consumer messaging apps in the first place, so this feels like treating a symptom while ignoring the actual disease.",
-        "date": "2026-11-25T11:59:20.816185+00:00"
-      },
-      {
-        "title": "Why the Blue Tsunami may help Microsoft",
-        "url": "https://www.computerworld.com/article/4251640/why-the-blue-tsunami-may-help-microsoft.html",
+        "title": "Should Apple really move fast and break things?",
+        "url": "https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "The 2026 midterm election results that will usher in Democratic control of the House and Senate will likely prove be a reckoning for Big Tech, especially Big AI. People voted en masse to tell politici",
-        "dwp_take": "Democrats gained control of the House and Senate in the 2026 midterms, which is expected to trigger regulatory crackdowns on Big Tech companies including Microsoft. This matters because digital workplace professionals will likely face new compliance requirements, data governance rules, and potential restrictions on AI tools they depend on daily. That said, Microsoft has weathered regulatory pressure before, and sometimes a little government scrutiny is exactly what an overheated tech market needs to separate the actual innovations from the hype.",
-        "date": "2026-11-25T11:59:25.550794+00:00"
-      },
-      {
-        "title": "OpenClaw launches an AI performance benchmark that it argues is more realistic than others",
-        "url": "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
-        "source": "Computerworld",
-        "category": "tools-tech",
-        "excerpt": "OpenClaw, working with a host of other industry players including Hugging Face, Nvidia, Red Hat, Google and Amazon, Tuesday rolled out an AI performance benchmark called ShellBench. OpenClaw\u2019s positio",
-        "dwp_take": "OpenClaw and partners just launched ShellBench, an AI performance benchmark designed to test models on the kind of complex, real-world queries that actually matter. For digital workplace pros, this matters because we're drowning in marketing benchmarks that make every AI model sound like a genius when most of them still struggle with the messy tasks we actually need them to do. Finally, someone built a benchmark that isn't designed by the vendor whose product it's benchmarking, which is refreshing enough that I almost don't want to jinx it by being optimistic.",
-        "date": "2026-11-25T11:59:29.528030+00:00"
+        "excerpt": "The Apple ecosystem has more than a billion people in it. Each time the company changes even the tiniest component of that ecosystem, thousands of people complain. Now imagine the reputational damage ",
+        "dwp_take": "Apple's facing the classic startup mentality problem at massive scale, where \"move fast and break things\" doesn't work when you're managing a billion-user ecosystem. For digital workplace pros, this matters because we're often caught between executives demanding rapid AI rollouts and end users demanding stability, so watching Apple navigate this tension is basically watching our professional lives play out in real time. The reality is that move-fast culture works great when you've got a few thousand power users willing to tolerate chaos, but Apple's learned the hard way that breaking things for a billion people is just reputational self-sabotage dressed up as innovation.",
+        "date": "2026-11-25T14:06:27.548165+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "AI can help moms. It can\u2019t replace the village",
-        "url": "https://www.fastcompany.com/91647827/ai-can-help-moms-it-cant-replace-the-village?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "Susan (pseudonym) regularly goes to AI for parenting help. When her child is sick, she checks whether she needs to call the doctor. When her toddler is acting out, she looks to AI to find out if it\u2019s ",
-        "dwp_take": "AI is becoming a parenting assistant for busy parents who use it to quickly troubleshoot health concerns and behavioral issues, then validate those answers with actual humans in community groups. This matters to digital workplace pros because it shows the real-world limits of AI tools in high-stakes situations where people still crave human judgment and lived experience. After 30 years, I'll tell you what's not surprising here: when it comes to our kids, we want both the speed of AI and the reassurance that another human being had the same chaos happen to them last Tuesday.",
-        "date": "2026-11-25T11:59:33.962963+00:00"
-      },
-      {
-        "title": "How Nvidia employees feel about Jensen Huang\u2019s return",
-        "url": "https://www.fastcompany.com/91648447/how-nvidia-employees-feel-about-jensen-huangs-return?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "The public reaction to Jensen Huang\u2019s return has been mixed at best, raising the hackles of lawmakers and corporate governance experts. Even the stock price took a bit of a dip after surging by over 3",
-        "dwp_take": "Jensen Huang came back to Nvidia as CEO after stepping back from the role, and while lawmakers and governance experts questioned the move, employees gave him a hero's welcome at headquarters. This matters to digital workplace pros because it highlights the gap between external stakeholders and internal culture, and shows how frontline employee sentiment can tell a completely different story than the headlines. Turns out the people actually doing the work sometimes have better judgment than the people writing governance think pieces.",
-        "date": "2026-11-25T11:59:37.578735+00:00"
-      },
-      {
-        "title": "AI upended entry-level jobs. Here\u2019s what employers are actually looking for",
-        "url": "https://www.fastcompany.com/91647653/ai-upended-entry-level-jobs-heres-what-employers-are-actually-looking-for?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
-        "category": "digital-culture",
-        "excerpt": "AI is changing nearly every aspect of the workplace\u2014but especially entry-level jobs, to the point where Gen Z is calling for millennials (who are only in their 30s and 40s) to retire to make room. Man",
-        "dwp_take": "AI is automating the grunt work that used to be the training ground for entry-level employees, forcing companies to rethink what they actually need junior staff to do. This matters because if we're eliminating the jobs that teach people how to work, we're creating a skills gap that'll haunt organizations for years, and digital workplace leaders need to figure out what's being lost in that transition. The irony is that Gen Z is blaming millennials for not retiring while simultaneously being the first generation where \"entry-level job\" might actually mean \"we need you to know what you're doing on day one.\"",
-        "date": "2026-11-25T11:59:41.477023+00:00"
-      },
-      {
-        "title": "Managers are unprepared to lead a human-agent hybrid workforce",
-        "url": "https://www.worklife.news/sponsored/managers-are-unprepared-to-lead-a-human-agent-hybrid-workforce/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
+        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
         "source": "WorkLife",
         "category": "digital-culture",
-        "excerpt": "Andrew Reece, Chief AI Scientist, BetterUp The introduction of AI agents into the corporate workforce is not like other technology disruptions. Unlike previous automation, agents are empowered to act ",
-        "dwp_take": "A new study shows that most managers lack the skills to lead teams where AI agents work alongside humans and make independent decisions. This matters because the entire management playbook changes when you're not directing humans doing predictable work but rather overseeing what AI actually decides to do. After three decades watching tech adoption, I'd say this is the first time managers actually need to become smarter about their jobs instead of just getting better email signatures.",
-        "date": "2026-11-25T11:59:45.825411+00:00"
+        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
+        "dwp_take": "So half your workforce is burnt out from constant change initiatives. That's what we're calling it now instead of just admitting that leadership keeps launching the next shiny transformation before the last one actually landed. This matters because those exhausted top performers you're trying to impress with your digital workplace investments are the first ones walking out the door, which means you're spending millions to accelerate your own talent drain. Here's the real insight: transformation fatigue is just corporate code for \"we're bad at planning and even worse at follow-through.\"",
+        "date": "2026-11-25T14:06:32.168047+00:00"
+      },
+      {
+        "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+        "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a \u201ctech bro,\u201d his disdain for succession planning, and his relationship with President Trump.",
+        "dwp_take": "Jensen Huang walked back into Nvidia's all-hands meeting and apparently decided therapy sessions and Trump talk were fair game for the crowd. This matters because it shows how founder-led companies operate in a totally different orbit from professional management structures, which has real implications for how information flows and decisions get made in those organizations. Here's the thing though: a CEO who's willing to discuss his therapist and his political views at an all-hands is either refreshingly authentic or a walking liability depending on which side of the room you're sitting on, and I'd wager most HR professionals just swallowed their coffee the wrong way reading this.",
+        "date": "2026-11-25T14:06:39.544166+00:00"
+      },
+      {
+        "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+        "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+        "dwp_take": "Jensen Huang came back to Nvidia after stepping down, and in his first all-hands he basically said \"sorry my management style was brutal.\" This matters because CEOs actually shaping company culture ripples straight down into how teams collaborate, communicate, and whether people stick around or bail. Here's the thing though: acknowledging you were tough is easier than actually changing, and Nvidia employees will be watching whether this apology translates into real policy shifts or just becomes a one-time speech they reference when things get intense again.",
+        "date": "2026-11-25T14:06:43.383069+00:00"
+      },
+      {
+        "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+        "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+        "source": "Wired",
+        "category": "digital-culture",
+        "excerpt": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+        "dwp_take": "Data brokers are quietly hoovering up internal corporate documents, emails, and files to feed AI training models, often without explicit permission from the companies that created them. Digital workplace leaders need to wake up to this because your organization's proprietary information, strategy docs, and yes, those embarrassing all-hands meeting transcripts could already be floating around in some AI vendor's training dataset. After 30 years watching workplace tech evolve, I can tell you this is basically the digital equivalent of someone going through your filing cabinets at night, and the legal and security implications haven't caught up yet.",
+        "date": "2026-11-25T14:06:47.406581+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Google Warns Autonomous AI Cyberattacks Are Here: Can Enterprise Defenses Keep Up?",
-        "url": "https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/",
+        "title": "Nothing\u2019s Call-Recording Earbuds Set for Dec. 8 Debut",
+        "url": "https://www.techrepublic.com/article/news-nothing-ear-note-recording-earbuds/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google details how attackers are using AI agents to automate parts of cyberattacks and what IT teams can do to patch faster and improve incident response. The post Google Warns Autonomous AI Cyberatta",
-        "dwp_take": "Google is warning that attackers are now using AI agents to automate and scale cyberattacks, essentially putting malicious work on autopilot. This matters to digital workplace pros because your enterprise network is now a target for adversaries who can probe, exploit, and move laterally without human intervention, meaning your incident response playbook needs to get a lot faster and smarter. The honest truth is we're in that awkward phase where our defenses are still hiring new staff and your attackers just hired a robot that works 24/7 for free.",
-        "date": "2026-11-25T11:59:49.824573+00:00"
+        "excerpt": "Nothing\u2019s Ear (note) earbuds record calls, while the case captures in-person meetings. Here\u2019s what IT teams should check before allowing them at work. The post Nothing\u2019s Call-Recording Earbuds Set for",
+        "dwp_take": "Nothing's new Ear (note) earbuds can record both calls and in-person meetings, launching December 8th with built-in recording capabilities straight out of the box. This matters because IT teams now have to decide whether these devices create compliance nightmares, legal liability, and trust issues before they hit your office. The real question isn't whether employees will want them, but whether your company's legal department will have a full meltdown trying to figure out what you're actually allowed to record.",
+        "date": "2026-11-25T14:06:51.217990+00:00"
       },
       {
-        "title": "Samsung May Skip Its 2027 Galaxy Watch Launch, Report Says",
-        "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-2027-launch/",
+        "title": "Google\u2019s 2027 Nest and Gemini Deadlines: What Owners Need to Do",
+        "url": "https://www.techrepublic.com/article/news-google-nest-app-shutdown/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Samsung may skip its 2027 Galaxy Watch launch and move to a two-year release cycle. See what to check before buying a Watch9 or waiting for the next model. The post Samsung May Skip Its 2027 Galaxy Wa",
-        "dwp_take": "Samsung is apparently considering skipping their 2027 Galaxy Watch launch and stretching to a two-year release cycle instead. This matters to workplace tech folks because wearables are increasingly part of enterprise mobility strategies, and longer product cycles mean you need better planning confidence and longer support windows. Honestly, this is Samsung admitting what we all know: the annual smartwatch refresh cycle was always a marketing gimmick anyway, and nobody actually needs a new watch every year.",
-        "date": "2026-11-25T11:59:53.583446+00:00"
+        "excerpt": "Google retires the Nest app Jan. 25, 2027. Learn when to migrate your account, how to save camera clips, and when Gemini takes over on speakers and displays. The post Google\u2019s 2027 Nest and Gemini Dea",
+        "dwp_take": "Google is sunsetting the Nest app by January 2027 and forcing users to migrate to Gemini for their smart speakers and displays. For workplace folks managing IoT devices across their organization, this matters because you'll need to plan migrations before deadlines hit and figure out how Gemini integration changes your device management workflows. Here's the thing: Google retiring products on their timeline isn't new, but it always catches someone off guard, so if your office still uses Nest devices, start your migration planning now instead of panicking in late 2026.",
+        "date": "2026-11-25T14:06:55.024012+00:00"
       },
       {
-        "title": "AtlasOS 0.6 Simplifies In-Place Updates on Windows 11",
-        "url": "https://www.techrepublic.com/article/news-atlasos-0-6-windows-11-in-place-updates/",
+        "title": "Google Play Settlement Claims Are Open: How UK Developers Can Apply",
+        "url": "https://www.techrepublic.com/article/news-google-play-uk-developer-settlement-emea/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "AtlasOS 0.6 simplifies in-place updates for supported installs. See which Windows 11 versions qualify and what IT teams should test before deploying AtlasOS. The post AtlasOS 0.6 Simplifies In-Place U",
-        "dwp_take": "AtlasOS released version 0.6 with easier in-place update capabilities for Windows 11, letting IT teams upgrade without full system rebuilds on qualifying installations. For digital workplace pros managing device fleets, this matters because smoother updates mean less downtime, fewer support tickets, and actual time to do real work instead of babysitting deployment processes. That said, I'd still tell any IT leader to test this thoroughly in a pilot group first, because \"simplified\" and \"works in production\" are two very different things.",
-        "date": "2026-11-25T11:59:57.450744+00:00"
+        "excerpt": "UK app developers can now claim Google Play settlement payments. See who qualifies, how to apply without an invitation, and the March 24 deadline. The post Google Play Settlement Claims Are Open: How ",
+        "dwp_take": "Google is finally opening UK developer claims for a settlement related to alleged Play Store anti-competitive practices, with a March 24 deadline looming. This matters because many workplace app developers have been building solutions on the Play Store while dealing with Google's commission structures and distribution rules, so understanding claim eligibility could mean actual money back for their organizations. Honestly, it's funny how long these settlements take to materialize, but I'd encourage anyone who deployed apps through Google to check the criteria because free money sitting on the table is exactly the kind of quick win finance teams appreciate.",
+        "date": "2026-11-25T14:06:59.062950+00:00"
       },
       {
-        "title": "Microsoft 365 \u2018Code Red\u2019: What the Company Wants to Fix After the Outage",
-        "url": "https://www.techrepublic.com/article/news-microsoft-365-code-red-outage-response/",
+        "title": "Working with PDFs Is a Breeze with AcePDF Converter & Editor",
+        "url": "https://www.techrepublic.com/article/working-with-pdfs-is-a-breeze-with-pdf-converter-pro/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Microsoft\u2019s reported Code Red targets faster recovery after the November Microsoft 365 outage. Here\u2019s what IT teams can test before the next disruption. The post Microsoft 365 \u2018Code Red\u2019: What the Com",
-        "dwp_take": "Microsoft is working on faster recovery procedures after their November outage left organizations scrambling. For digital workplace pros, this matters because we're the ones fielding calls from panicked users when cloud services go dark, so better recovery speed directly reduces our pain and our executives' blood pressure. Here's the thing though: \"Code Red\" sounds serious, but we've heard similar promises before, and the real test is whether Microsoft actually executes or just shuffles the deck chairs.",
-        "date": "2026-11-25T12:00:01.172736+00:00"
+        "excerpt": "AcePDF Converter & Editor allows you create or convert PDF documents into a variety of formats or from a variety of formats with ease. The post Working with PDFs Is a Breeze with AcePDF Converter & Ed",
+        "dwp_take": "TechRepublic published a sponsored post about AcePDF Converter & Editor, a tool that converts PDFs to and from various formats. For digital workplace pros managing document workflows, PDF conversion tools matter because they can reduce friction in getting information into usable formats across teams and systems. Here's my hot take: if your organization needs a whole separate tool to make PDF work \"a breeze,\" you probably have bigger workflow problems than software can fix, but sure, grab the converter if it saves time.",
+        "date": "2026-11-25T14:07:03.022746+00:00"
       }
     ]
   }
