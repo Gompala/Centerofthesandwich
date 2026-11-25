@@ -1,149 +1,5 @@
 [
   {
-    "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
-    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-    "dwp_take": "Google basically sent out a press release to tell everyone their email service wasn't broken, which is exactly as weird as it sounds. For digital workplace pros who've spent the last few years dealing with Teams crashes and Slack meltdowns, this announcement is oddly reassuring and deeply depressing at the same time. Only in 2024 do we celebrate major tech companies for the bare minimum of not falling apart, and honestly, Google probably got more PR value from this than they would have from an actual outage.",
-    "date": "2026-11-18T10:58:05.881628+00:00"
-  },
-  {
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
-    "dwp_take": "Model ML just closed a $250 million funding round to build AI agents that handle the tedious model updating and presentation work that keeps investment bankers chained to their desks. This matters to digital workplace leaders because it's the clearest signal yet that knowledge work automation is moving upstream from routine tasks to actually complex analytical work, which means your tools and training strategies need rethinking. Here's the thing though: bankers have been saying they want automation for thirty years, but they also want to control every decimal point, so I'll believe this changes actual workflows when I see it.",
-    "date": "2026-11-18T10:58:09.922829+00:00"
-  },
-  {
-    "title": "Scripts can\u2019t run AI factories: Dell moves cluster management from the server to the rack",
-    "url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "As artificial intelligence clusters grow to supercomputing scale, the hard part of the AI factory is no longer buying hardware. It is keeping racks, switches, GPUs and cooling running once they are sw",
-    "dwp_take": "Dell is shifting cluster management away from traditional server-based scripting toward integrated rack-level operations as AI infrastructure scales up to supercomputer sizes. This matters because digital workplace teams are increasingly responsible for supporting AI workloads and need to understand that managing these systems requires fundamentally different operational approaches than legacy infrastructure. After 30 years watching IT teams improvise solutions, I'll say this: watching infrastructure vendors finally admit that shell scripts and duct tape don't cut it at scale is oddly satisfying, even if it does mean your ops team needs retraining.",
-    "date": "2026-11-18T10:58:15.212993+00:00"
-  },
-  {
-    "title": "CloudBackend grabs \u20ac6.6M to turn AI-generated prototypes into productive business applications",
-    "url": "https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/",
-    "source": "SiliconAngle",
-    "category": "ai-at-work",
-    "excerpt": "Just about anyone can knock up a working prototype application these days using artificial intelligence coding tools, but what happens when they want to turn that app into a viable business? That\u2019s th",
-    "dwp_take": "CloudBackend just raised 6.6 million euros to help companies turn those AI-generated prototype apps into actual working business software that people can rely on. This matters because right now, everyone's throwing together quick AI prototypes, but nobody's really solved the messy part of making them production-ready and maintainable. Here's the thing though: solving the \"prototype to production\" gap is way harder than generating the prototype in the first place, so either CloudBackend has figured out something genuinely clever or they're about to learn why this problem has stayed unsolved for so long.",
-    "date": "2026-11-18T10:58:19.218094+00:00"
-  },
-  {
-    "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-    "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-    "dwp_take": "Microsoft rolled out Copilot Workspaces at Ignite 2026 and added fresh ROI tracking tools so companies can actually measure what they're spending on AI and whether it's worth the money. This matters because most organizations throwing cash at AI adoption have been flying blind on actual returns, and finance teams need real numbers to justify the spend to leadership. Here's the thing though: tracking ROI only helps if you're honest about the results, and I've seen plenty of companies massage the metrics to justify decisions they've already made.",
-    "date": "2026-11-18T10:58:23.479117+00:00"
-  },
-  {
-    "title": "Microsoft wants to put a dollar value on AI\u2019s work \u2013 but can you trust the math?",
-    "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there\u2019s a critical difference between estimated value and money saved.",
-    "dwp_take": "Microsoft is launching Agent 365 Business Analytics to quantify AI's financial impact on enterprise work, claiming it can show you exactly how much money your AI investments are saving you. This matters because digital workplace leaders are drowning in ROI questions from CFOs and executives who want hard numbers before they green light more AI spending. Here's the thing though: Microsoft showing you a dollar figure for AI productivity gains is like your car's fuel efficiency calculator telling you that you're actually getting 47 miles per gallon when you're really getting 28. The math will look good on the PowerPoint, but I'd want an independent audit before I start planning my next budget around it.",
-    "date": "2026-11-18T10:58:27.831461+00:00"
-  },
-  {
-    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-    "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
-    "dwp_take": "Microsoft just dropped two new AI models claiming Claude Opus 5.5 performance at a fifth of the price, which could seriously upend the AI partnership ecosystem they've been bankrolling. For digital workplace folks, this means your organization's AI tooling costs could drop dramatically, and the vendor lock-in dynamics that have felt pretty solid are suddenly very much in play. After 30 years watching Microsoft play this game, I'll believe it when I see enterprise customers actually running these models in production without the usual caveats and gotchas buried in the fine print.",
-    "date": "2026-11-18T10:58:31.927289+00:00"
-  },
-  {
-    "title": "Apple reveals daily limits on your Siri AI use \u2013 here\u2019s how much you\u2019ll have to pay",
-    "url": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "The more you pay for an iCloud+ plan, the more you\u2019ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.",
-    "dwp_take": "Apple is tiering access to its AI features based on iCloud+ subscription levels, meaning heavier users will need to pay more. This matters because it signals how enterprise platforms will likely monetize AI features going forward, and your workplace tech budget just got another line item to negotiate. After three decades watching tech companies discover new ways to nickel and dime us, I can tell you this pricing model is less \"innovative\" and more \"we found money left on the table.\"",
-    "date": "2026-11-18T10:58:35.740277+00:00"
-  },
-  {
-    "title": "How to clock out psychologically\u2014and leave the bad vibes at work",
-    "url": "https://www.fastcompany.com/91644148/how-to-clock-out-psychologically-and-leave-the-bad-vibes-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "It\u2019s hard to leave work stress where it belongs: at work. Stressful days spent navigating tense conversations with coworkers or clients, or staring down an endless to-do list or email queue, can cause",
-    "dwp_take": "Fast Company ran a piece about people struggling to mentally disconnect from work stress, recommending wind-down routines as the antidote. This matters to digital workplace pros because we've built the always-on infrastructure that makes this problem worse, so understanding the human cost of our tools is literally our job. Here's the thing though: no amount of breathing exercises fixes a broken culture, and if your company expects you to \"psychologically clock out\" while Slack notifications ping all evening, you're treating the symptom, not the disease.",
-    "date": "2026-11-18T10:58:39.877525+00:00"
-  },
-  {
-    "title": "A new report says free childcare in NYC will pay for itself",
-    "url": "https://www.fastcompany.com/91644150/a-new-report-says-free-childcare-in-nyc-will-pay-for-itself?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Since taking office, New York City Mayor Zohran Mamdani has made it his mission to expand access to affordable childcare in the city, and for good reason. On average, NYC families spend $21,000 on chi",
-    "dwp_take": "New York City's mayor is pushing free childcare based on a report claiming it'll pay for itself economically. This matters to workplace pros because childcare access directly impacts employee retention, productivity, and whether people can actually show up to work without choosing between rent and daycare. Here's the thing: if cities figured out that solving childcare was good business decades ago, we wouldn't still be having this conversation in 2024.",
-    "date": "2026-11-18T10:58:43.274289+00:00"
-  },
-  {
-    "title": "All these outages show how corporate America needs to modernize out-of-date tech",
-    "url": "https://www.fastcompany.com/91644249/all-these-outages-show-how-corporate-america-needs-to-modernize-out-of-date-tech?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Over the past five days, a string of high-profile tech outages has left Americans struggling to send emails, catch flights, and access their bank accounts. While the disruptions raised concerns about ",
-    "dwp_take": "Corporate America got hit with a cascade of major tech outages across banking, airlines, and email because their infrastructure is running on systems that should've been retired years ago. This matters to digital workplace pros because you're probably managing similar legacy tech debt in your own organizations, and these outages prove that neglecting modernization isn't just a \"someday\" problem anymore. The irony is priceless: everyone's worried about AI villains when the real enemy is the Windows server humming in the basement that nobody dares to touch.",
-    "date": "2026-11-18T10:58:47.107281+00:00"
-  },
-  {
-    "title": "Amazon CEO Andy Jassy feared being \u2018a lousy dad\u2019\u2014so he did this",
-    "url": "https://www.fastcompany.com/91644078/amazon-ceo-andy-jassy-feared-being-a-lousy-dad-so-he-did-this?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "When Amazon CEO Andy Jassy became a parent for the first time 26 years ago, he didn\u2019t want to choose between being a good worker and being a good father. That left him with only one option. \u201cI realize",
-    "dwp_take": "Andy Jassy restructured his work approach after becoming a father 26 years ago to avoid being absent from his kids' lives. This matters because it's a rare admission from a Fortune 500 CEO that you can't actually do it all, and that intentional boundary setting requires real changes to how you work, not just saying you support work-life balance. The irony of course is that most of us don't get to reshape our jobs the way a CEO can, so this is heartwarming but also kind of proves the point that flexibility is still a privilege.",
-    "date": "2026-11-18T10:58:50.961412+00:00"
-  },
-  {
-    "title": "Google AI Glasses vs. Ray-Ban Meta Gen 3: Which Should You Buy?",
-    "url": "https://www.techrepublic.com/article/news-google-ai-glasses-vs-ray-ban-meta-gen-3/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Google AI Glasses start at $395, while Ray-Ban Meta Gen 3 costs $449. Compare features, compatibility, and availability to decide whether to buy now or wait. The post Google AI Glasses vs. Ray-Ban Met",
-    "dwp_take": "Google dropped AI glasses at $395 to compete with Ray-Ban Meta Gen 3 at $449, and suddenly everyone's shopping for specs like they're the next office essential. For digital workplace pros, this matters because wearable interfaces are creeping into the mainstream and you'll eventually need to figure out what this means for your collaboration strategy and security posture. Personally, I'd wait six months to see which one doesn't become an expensive paperweight gathering dust in someone's desk drawer.",
-    "date": "2026-11-18T10:58:54.659436+00:00"
-  },
-  {
-    "title": "Samsung Galaxy Z Fold8 Ultra Cheat Sheet: Price, Features, and Trade-Offs",
-    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-z-fold8-ultra-cheat-sheet/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Find out about the Galaxy Z Fold8 Ultra's specifications, pricing, Galaxy AI, multitasking features, repair costs, and key advantages and limitations. The post Samsung Galaxy Z Fold8 Ultra Cheat Sheet",
-    "dwp_take": "Samsung dropped the Galaxy Z Fold8 Ultra with a fresh set of specs, Galaxy AI features, and repair costs that actually matter to your bottom line. For digital workplace leaders, foldable devices are becoming real productivity options rather than toys, so understanding the trade-offs between price, durability, and actual multitasking gains is worth your time. Here's the thing though: until IT can reliably support these things without watching repair bills eat next year's budget, most enterprises will keep issuing regular phones and pretending foldables don't exist.",
-    "date": "2026-11-18T10:58:58.815681+00:00"
-  },
-  {
-    "title": "GitHub Octoverse 2026: TypeScript Leads as Rust Growth Hits 162%",
-    "url": "https://www.techrepublic.com/article/news-github-octoverse-2026-typescript-rust/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "GitHub Octoverse 2026 ranks TypeScript ahead of Python and JavaScript as Rust grows 162%. Explore AI coding agent trends and what could change in 2027. The post GitHub Octoverse 2026: TypeScript Leads",
-    "dwp_take": "TypeScript has officially dethroned Python and JavaScript as the top programming language on GitHub, while Rust is seeing explosive 162% growth. For digital workplace pros, this matters because it signals where your developer talent pool is heading and what skills you'll need to recruit for in the coming year. Here's the thing though: language popularity rankings are like restaurant reviews on the internet, everyone has an opinion and yours might be doing just fine with what you've got.",
-    "date": "2026-11-18T10:59:02.506757+00:00"
-  },
-  {
-    "title": "Apple Gives iPhone Duo Face Unlock, but It\u2019s Not the Face ID You Know",
-    "url": "https://www.techrepublic.com/article/news-iphone-duo-face-unlock-ios-27-3-beta/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Apple's iPhone Duo gains camera-based face unlock in the iOS 27.3 beta, but Touch ID remains necessary for sensitive tasks. Here's what owners should know. The post Apple Gives iPhone Duo Face Unlock,",
-    "dwp_take": "Apple added a camera-based face unlock feature to iPhone Duo in iOS 27.3 beta, though it still requires Touch ID for sensitive operations. This matters because enterprises deploying iPhones need to understand what authentication actually protects what, especially when security policies depend on knowing whether biometric methods are truly equivalent. It's the classic tech move: give users something that looks like a feature while keeping the security blanket nearby, which is probably the right call even if it feels like explaining why your fancy new car still needs a regular key.",
-    "date": "2026-11-18T10:59:06.518071+00:00"
-  },
-  {
     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
     "source": "TechCrunch",
@@ -916,5 +772,149 @@
     "excerpt": "GM plans to bring Apple Wallet car keys to more Cadillac, Chevrolet, and GMC vehicles in December. Check eligible model years, devices, and setup requirements. The post GM Plans Apple Wallet Car Keys ",
     "dwp_take": "General Motors is rolling out Apple Wallet car keys to Tahoe and Yukon models this December, expanding digital key access beyond their existing Cadillac lineup. This matters because it signals how consumer tech is creeping into enterprise workflows, which means your workplace mobility strategy needs to account for employees who expect seamless digital authentication everywhere, not just at the office. The irony is that some companies still can't get their badge systems working reliably, yet GM is betting people will trust their phone to unlock a forty-thousand-dollar vehicle.",
     "date": "2026-11-24T13:11:38.058203+00:00"
+  },
+  {
+    "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
+    "dwp_take": "Yale business professor Jeffrey Sonnenfeld is saying Nvidia's leadership structure and chip export practices could expose the company and its directors to serious legal and reputational risk. For digital workplace professionals, this matters because it signals how governance missteps at major tech companies create organizational instability that ripples through vendor relationships and workplace culture. Here's the thing though: if Sonnenfeld is right that Nvidia has become a liability rather than an asset, every company dependent on their infrastructure just got a reminder that your best tech partner today can become your biggest headache tomorrow.",
+    "date": "2026-11-25T11:59:00.403689+00:00"
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+    "dwp_take": "Walmart is letting customers browse and buy Black Friday deals through Muse, Meta's new AI shopping agent. This matters because it's the first real test of whether AI agents can actually drive commerce at scale, which means digital workplace teams need to understand how conversational interfaces are reshaping customer engagement and internal workflows. Honestly, if Walmart's Black Friday experiment actually works, every company will suddenly need an AI agent strategy by Monday morning, and your internal comms team better be ready for the chaos.",
+    "date": "2026-11-25T11:59:04.283431+00:00"
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+    "dwp_take": "Anthropic's stock dropped below its IPO price, signaling market skepticism about AI startup valuations. This matters because if investors are losing faith in well-funded AI companies, it'll make it harder for workplace AI vendors to raise capital and hit their growth promises, which means slower innovation and fewer real solutions hitting the market. After years of AI hype, turns out investors actually want to see profits eventually, not just PowerPoint decks and hockey stick charts.",
+    "date": "2026-11-25T11:59:07.908508+00:00"
+  },
+  {
+    "title": "Formal verification startup Sequent raises $2.2M to prove code obeys its safety rules",
+    "url": "https://siliconangle.com/2026/11/25/formal-verification-startup-sequent-raises-2-2m-to-prove-code-obeys-its-safety-rules/",
+    "source": "SiliconAngle",
+    "category": "ai-at-work",
+    "excerpt": "Formal verification startup Sequent Inc. today announced that it has raised $2.2 million in new funding to take its Alan proof platform out of early access. Founded in London in January, Sequent offer",
+    "dwp_take": "Sequent, a London-based startup, just raised $2.2 million to scale up its AI platform that mathematically verifies whether code actually follows the safety rules engineers write. This matters because most companies still rely on testing and hope to catch bugs, while formal verification is the only way to genuinely prove your code won't blow up in production. After thirty years watching teams get burned by \"it passed QA,\" I'd say this is overdue, though getting developers to actually use rigorous proof systems remains the real puzzle.",
+    "date": "2026-11-25T11:59:12.672952+00:00"
+  },
+  {
+    "title": "This hidden iOS 27 feature ensures you\u2019ll never sleep through an alarm again",
+    "url": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Say goodbye to accidentally silencing your alarms.",
+    "dwp_take": "Apple added a new iOS 27 feature that prevents you from accidentally silencing alarms through sleep focus modes and do-not-disturb settings. This matters to digital workplace professionals because half your team is probably already missing meetings because they can't hear their calendar alerts on their phones, and this gives IT one less excuse to blame for no-shows. Honestly though, if someone still needs iOS to force them awake for a 9am standup, that's less a technology problem and more a \"why are we scheduling meetings this early\" problem.",
+    "date": "2026-11-25T11:59:17.018354+00:00"
+  },
+  {
+    "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
+    "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
+    "dwp_take": "Signal is restricting screenshot functionality on its platform due to concerns that AI agents could scrape message content for training data or misuse. This matters because it highlights a real tension digital workplace pros face: balancing security controls with usability in tools employees actually rely on. Here's the thing though, if your company is serious about protecting sensitive conversations, you probably shouldn't be using consumer messaging apps in the first place, so this feels like treating a symptom while ignoring the actual disease.",
+    "date": "2026-11-25T11:59:20.816185+00:00"
+  },
+  {
+    "title": "Why the Blue Tsunami may help Microsoft",
+    "url": "https://www.computerworld.com/article/4251640/why-the-blue-tsunami-may-help-microsoft.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "The 2026 midterm election results that will usher in Democratic control of the House and Senate will likely prove be a reckoning for Big Tech, especially Big AI. People voted en masse to tell politici",
+    "dwp_take": "Democrats gained control of the House and Senate in the 2026 midterms, which is expected to trigger regulatory crackdowns on Big Tech companies including Microsoft. This matters because digital workplace professionals will likely face new compliance requirements, data governance rules, and potential restrictions on AI tools they depend on daily. That said, Microsoft has weathered regulatory pressure before, and sometimes a little government scrutiny is exactly what an overheated tech market needs to separate the actual innovations from the hype.",
+    "date": "2026-11-25T11:59:25.550794+00:00"
+  },
+  {
+    "title": "OpenClaw launches an AI performance benchmark that it argues is more realistic than others",
+    "url": "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "OpenClaw, working with a host of other industry players including Hugging Face, Nvidia, Red Hat, Google and Amazon, Tuesday rolled out an AI performance benchmark called ShellBench. OpenClaw\u2019s positio",
+    "dwp_take": "OpenClaw and partners just launched ShellBench, an AI performance benchmark designed to test models on the kind of complex, real-world queries that actually matter. For digital workplace pros, this matters because we're drowning in marketing benchmarks that make every AI model sound like a genius when most of them still struggle with the messy tasks we actually need them to do. Finally, someone built a benchmark that isn't designed by the vendor whose product it's benchmarking, which is refreshing enough that I almost don't want to jinx it by being optimistic.",
+    "date": "2026-11-25T11:59:29.528030+00:00"
+  },
+  {
+    "title": "AI can help moms. It can\u2019t replace the village",
+    "url": "https://www.fastcompany.com/91647827/ai-can-help-moms-it-cant-replace-the-village?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "Susan (pseudonym) regularly goes to AI for parenting help. When her child is sick, she checks whether she needs to call the doctor. When her toddler is acting out, she looks to AI to find out if it\u2019s ",
+    "dwp_take": "AI is becoming a parenting assistant for busy parents who use it to quickly troubleshoot health concerns and behavioral issues, then validate those answers with actual humans in community groups. This matters to digital workplace pros because it shows the real-world limits of AI tools in high-stakes situations where people still crave human judgment and lived experience. After 30 years, I'll tell you what's not surprising here: when it comes to our kids, we want both the speed of AI and the reassurance that another human being had the same chaos happen to them last Tuesday.",
+    "date": "2026-11-25T11:59:33.962963+00:00"
+  },
+  {
+    "title": "How Nvidia employees feel about Jensen Huang\u2019s return",
+    "url": "https://www.fastcompany.com/91648447/how-nvidia-employees-feel-about-jensen-huangs-return?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "The public reaction to Jensen Huang\u2019s return has been mixed at best, raising the hackles of lawmakers and corporate governance experts. Even the stock price took a bit of a dip after surging by over 3",
+    "dwp_take": "Jensen Huang came back to Nvidia as CEO after stepping back from the role, and while lawmakers and governance experts questioned the move, employees gave him a hero's welcome at headquarters. This matters to digital workplace pros because it highlights the gap between external stakeholders and internal culture, and shows how frontline employee sentiment can tell a completely different story than the headlines. Turns out the people actually doing the work sometimes have better judgment than the people writing governance think pieces.",
+    "date": "2026-11-25T11:59:37.578735+00:00"
+  },
+  {
+    "title": "AI upended entry-level jobs. Here\u2019s what employers are actually looking for",
+    "url": "https://www.fastcompany.com/91647653/ai-upended-entry-level-jobs-heres-what-employers-are-actually-looking-for?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "AI is changing nearly every aspect of the workplace\u2014but especially entry-level jobs, to the point where Gen Z is calling for millennials (who are only in their 30s and 40s) to retire to make room. Man",
+    "dwp_take": "AI is automating the grunt work that used to be the training ground for entry-level employees, forcing companies to rethink what they actually need junior staff to do. This matters because if we're eliminating the jobs that teach people how to work, we're creating a skills gap that'll haunt organizations for years, and digital workplace leaders need to figure out what's being lost in that transition. The irony is that Gen Z is blaming millennials for not retiring while simultaneously being the first generation where \"entry-level job\" might actually mean \"we need you to know what you're doing on day one.\"",
+    "date": "2026-11-25T11:59:41.477023+00:00"
+  },
+  {
+    "title": "Managers are unprepared to lead a human-agent hybrid workforce",
+    "url": "https://www.worklife.news/sponsored/managers-are-unprepared-to-lead-a-human-agent-hybrid-workforce/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
+    "source": "WorkLife",
+    "category": "digital-culture",
+    "excerpt": "Andrew Reece, Chief AI Scientist, BetterUp The introduction of AI agents into the corporate workforce is not like other technology disruptions. Unlike previous automation, agents are empowered to act ",
+    "dwp_take": "A new study shows that most managers lack the skills to lead teams where AI agents work alongside humans and make independent decisions. This matters because the entire management playbook changes when you're not directing humans doing predictable work but rather overseeing what AI actually decides to do. After three decades watching tech adoption, I'd say this is the first time managers actually need to become smarter about their jobs instead of just getting better email signatures.",
+    "date": "2026-11-25T11:59:45.825411+00:00"
+  },
+  {
+    "title": "Google Warns Autonomous AI Cyberattacks Are Here: Can Enterprise Defenses Keep Up?",
+    "url": "https://www.techrepublic.com/article/news-google-autonomous-ai-cyberattacks/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google details how attackers are using AI agents to automate parts of cyberattacks and what IT teams can do to patch faster and improve incident response. The post Google Warns Autonomous AI Cyberatta",
+    "dwp_take": "Google is warning that attackers are now using AI agents to automate and scale cyberattacks, essentially putting malicious work on autopilot. This matters to digital workplace pros because your enterprise network is now a target for adversaries who can probe, exploit, and move laterally without human intervention, meaning your incident response playbook needs to get a lot faster and smarter. The honest truth is we're in that awkward phase where our defenses are still hiring new staff and your attackers just hired a robot that works 24/7 for free.",
+    "date": "2026-11-25T11:59:49.824573+00:00"
+  },
+  {
+    "title": "Samsung May Skip Its 2027 Galaxy Watch Launch, Report Says",
+    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-watch-2027-launch/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Samsung may skip its 2027 Galaxy Watch launch and move to a two-year release cycle. See what to check before buying a Watch9 or waiting for the next model. The post Samsung May Skip Its 2027 Galaxy Wa",
+    "dwp_take": "Samsung is apparently considering skipping their 2027 Galaxy Watch launch and stretching to a two-year release cycle instead. This matters to workplace tech folks because wearables are increasingly part of enterprise mobility strategies, and longer product cycles mean you need better planning confidence and longer support windows. Honestly, this is Samsung admitting what we all know: the annual smartwatch refresh cycle was always a marketing gimmick anyway, and nobody actually needs a new watch every year.",
+    "date": "2026-11-25T11:59:53.583446+00:00"
+  },
+  {
+    "title": "AtlasOS 0.6 Simplifies In-Place Updates on Windows 11",
+    "url": "https://www.techrepublic.com/article/news-atlasos-0-6-windows-11-in-place-updates/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "AtlasOS 0.6 simplifies in-place updates for supported installs. See which Windows 11 versions qualify and what IT teams should test before deploying AtlasOS. The post AtlasOS 0.6 Simplifies In-Place U",
+    "dwp_take": "AtlasOS released version 0.6 with easier in-place update capabilities for Windows 11, letting IT teams upgrade without full system rebuilds on qualifying installations. For digital workplace pros managing device fleets, this matters because smoother updates mean less downtime, fewer support tickets, and actual time to do real work instead of babysitting deployment processes. That said, I'd still tell any IT leader to test this thoroughly in a pilot group first, because \"simplified\" and \"works in production\" are two very different things.",
+    "date": "2026-11-25T11:59:57.450744+00:00"
+  },
+  {
+    "title": "Microsoft 365 \u2018Code Red\u2019: What the Company Wants to Fix After the Outage",
+    "url": "https://www.techrepublic.com/article/news-microsoft-365-code-red-outage-response/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Microsoft\u2019s reported Code Red targets faster recovery after the November Microsoft 365 outage. Here\u2019s what IT teams can test before the next disruption. The post Microsoft 365 \u2018Code Red\u2019: What the Com",
+    "dwp_take": "Microsoft is working on faster recovery procedures after their November outage left organizations scrambling. For digital workplace pros, this matters because we're the ones fielding calls from panicked users when cloud services go dark, so better recovery speed directly reduces our pain and our executives' blood pressure. Here's the thing though: \"Code Red\" sounds serious, but we've heard similar promises before, and the real test is whether Microsoft actually executes or just shuffles the deck chairs.",
+    "date": "2026-11-25T12:00:01.172736+00:00"
   }
 ]
