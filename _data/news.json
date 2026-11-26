@@ -1,129 +1,138 @@
 {
-  "generated": "2026-11-25T14:07:03.022854+00:00",
+  "generated": "2026-11-26T11:47:52.901237+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Zoom\u2019s conversations-to-completion strategy is starting to pay off",
-        "url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
-        "source": "SiliconAngle",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Zoom Communications Inc. has spent the better part of the past few years building products to become more than just the video company everyone used during the pandemic. Its fiscal third-quarter result",
-        "dwp_take": "Zoom's pushing beyond video calls into a broader workplace platform, and their latest earnings show enterprise customers are actually buying into it with 8.6% revenue growth in that segment. This matters because if Zoom successfully becomes your one-stop shop for all workplace conversations, it reshapes how we think about tool sprawl and integration strategies. Here's the thing though: \"conversations-to-completion\" is just fancy talk for \"we want to own everything,\" and we all know how that tends to go when one vendor gets too comfortable.",
-        "date": "2026-11-25T14:06:11.344086+00:00"
+        "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "dwp_take": "OpenAI is merging its ChatGPT Chat and Work products into one unified experience, which means power users will share a single usage quota instead of having separate limits for each. This matters because plenty of organizations have built workflows around ChatGPT's work tier, and now they'll need to rethink how they allocate tokens across their teams. Honestly, this feels like a classic move of combining products to simplify the backend while quietly making heavy users pay more or complain louder, which is basically the tech industry playbook at this point.",
+        "date": "2026-11-26T11:47:02.932250+00:00"
       },
       {
-        "title": "Rajiv Ramaswami to step down as Nutanix begins hunt for its next CEO",
-        "url": "https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/",
-        "source": "SiliconAngle",
+        "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Rajiv Ramaswami is stepping down from his role as chief executive of Nutanix Inc., six years after he joined the hyperconverged cloud infrastructure company from its rival VMware Inc. In a letter to c",
-        "dwp_take": "Rajiv Ramaswami is leaving his CEO post at Nutanix after six years, with the board now hunting for a replacement while he stays on temporarily. This matters because Nutanix is a core player in hybrid cloud infrastructure that many enterprises depend on for their digital operations, so leadership instability can ripple through customer roadmaps and product priorities. Here's the thing though: CEO transitions happen constantly in tech, and what actually matters is whether the board finds someone who understands that infrastructure is boring on purpose, and that's exactly how customers want it.",
-        "date": "2026-11-25T14:06:15.296698+00:00"
+        "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel",
+        "dwp_take": "Anthropic's CEO is pushing back against claims that his company wants to hand over human control to AI systems, even though Anthropic is literally automating its own research and development work right now. This matters because if the people building AI can't be straight about what they're actually doing with automation, how are enterprises supposed to make informed decisions about deploying these tools in their own organizations? Look, I've seen a lot of defensive posturing in tech, but calling concerns about automated AI development \"absurd\" while actively automating AI development is a new standard for having your cake and eating it too.",
+        "date": "2026-11-26T11:47:06.913064+00:00"
       },
       {
-        "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
-        "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
-        "source": "SiliconAngle",
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Employees working at frontier artificial intelligence model companies Anthropic PBC and OpenAI Group PBC have been butting heads with executives over advanced models whose reasoning is such that the m",
-        "dwp_take": "Employees at Anthropic and OpenAI are pushing back against leadership over releasing AI models they believe are too dangerous, with dozens of staff expressing serious safety concerns. This matters because these same companies are shaping what tools knowledge workers will actually use in their digital workplaces, so if the people building them don't trust them, that's worth paying attention to. Here's the thing: when your own engineers are sounding alarms, it's not corporate FUD or risk management theater, it's worth listening before you bet your entire workflow on the latest model.",
-        "date": "2026-11-25T14:06:19.300894+00:00"
+        "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
+        "dwp_take": "New York just slapped a five-year ban on AI chatbot toys after research showed these things expose kids to inappropriate content and potentially mess with their emotional development. For digital workplace folks, this matters because it signals regulators are finally getting serious about AI safety and liability, which means your enterprise AI initiatives are about to face actual scrutiny instead of just hand-waving. Honestly, if a toy AI can't stay on the rails, maybe we should all pump the brakes on deploying conversational AI everywhere and actually testing it first.",
+        "date": "2026-11-26T11:47:10.852127+00:00"
       },
       {
-        "title": "Epochal launches with $100M to help developers train predictive AI models",
-        "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
-        "source": "SiliconAngle",
+        "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+        "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+        "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher wh",
-        "dwp_take": "A new AI startup called Epochal just launched with $100 million in funding to help developers build better predictive AI models. This matters because digital workplace tools are increasingly built on predictive AI, so better model training could actually make workplace software less terrible at understanding what employees actually need. That said, $100 million is a lot of money to solve a problem that probably didn't need solving if everyone just wrote clearer requirements in the first place.",
-        "date": "2026-11-25T14:06:22.849112+00:00"
+        "excerpt": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to deve",
+        "dwp_take": "Nvidia is tightening its support for AI data center projects, refusing to commit funding until facilities are nearly operational, which is hitting neocloud companies with construction delays and higher borrowing costs. This matters because it signals a fundamental shift in how infrastructure gets built: execution and hard assets now trump startup promises and venture hype. For digital workplace folks, this is a reality check that the AI tools flooding your platforms require unglamorous physical infrastructure that takes time, money, and genuine competence to build.",
+        "date": "2026-11-26T11:47:14.531072+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Should Apple really move fast and break things?",
-        "url": "https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html",
+        "title": "Gen Z is the least interested in AI at work \u2013 and it\u2019s not even close",
+        "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+        "source": "ZDNet",
+        "category": "tools-tech",
+        "excerpt": "Younger workers don\u2019t find AI useful, according to a recent survey.",
+        "dwp_take": "Gen Z workers are significantly less enthusiastic about AI tools at work compared to older generations, with the survey showing they find limited practical value in current AI applications. This matters because it challenges the assumption that digital natives automatically embrace every new tech trend, and it signals that vendors need to actually solve real problems instead of just slapping AI onto everything. Here's the thing: Gen Z didn't grow up watching PowerPoint presentations about the future, they lived through it, and they're not impressed by solutions looking for problems.",
+        "date": "2026-11-26T11:47:18.309901+00:00"
+      },
+      {
+        "title": "Anthropic lets you install Claude \u2018artifacts\u2019 as Mac apps",
+        "url": "https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "The Apple ecosystem has more than a billion people in it. Each time the company changes even the tiniest component of that ecosystem, thousands of people complain. Now imagine the reputational damage ",
-        "dwp_take": "Apple's facing the classic startup mentality problem at massive scale, where \"move fast and break things\" doesn't work when you're managing a billion-user ecosystem. For digital workplace pros, this matters because we're often caught between executives demanding rapid AI rollouts and end users demanding stability, so watching Apple navigate this tension is basically watching our professional lives play out in real time. The reality is that move-fast culture works great when you've got a few thousand power users willing to tolerate chaos, but Apple's learned the hard way that breaking things for a billion people is just reputational self-sabotage dressed up as innovation.",
-        "date": "2026-11-25T14:06:27.548165+00:00"
+        "excerpt": "Anthropic is now rolling out beta access to a new Claude feature that lets you save some of what it does as live apps on Macs, using \u201cartifacts.\u201d What\u2019s new is that you can take an artifact and instal",
+        "dwp_take": "Anthropic now lets Claude users save AI-generated outputs as standalone Mac and Windows apps instead of keeping them trapped in the chat interface. This matters because knowledge workers are quietly building real tools through AI, and having them live as actual applications means they're more likely to get used repeatedly and integrated into actual workflows. I've seen 30 years of promising tech languish because it stayed buried in the wrong interface, so giving these artifacts proper app status might actually be the difference between a parlor trick and something people rely on.",
+        "date": "2026-11-26T11:47:22.638947+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "The hidden cost of workplace transformation: How change initiatives crush top employees",
-        "url": "https://www.worklife.news/leadership/the-hidden-cost-of-workplace-transformation-how-change-initiatives-crush-top-employees/?utm_campaign=worklifedis&utm_medium=rss&utm_source=general-rss",
-        "source": "WorkLife",
+        "title": "How job hunting became an expensive cash suck",
+        "url": "https://www.fastcompany.com/91648589/how-job-hunting-became-an-expensive-cash-suck?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Nearly half of employees report experiencing \"transformation fatigue,\" according to a recent study",
-        "dwp_take": "So half your workforce is burnt out from constant change initiatives. That's what we're calling it now instead of just admitting that leadership keeps launching the next shiny transformation before the last one actually landed. This matters because those exhausted top performers you're trying to impress with your digital workplace investments are the first ones walking out the door, which means you're spending millions to accelerate your own talent drain. Here's the real insight: transformation fatigue is just corporate code for \"we're bad at planning and even worse at follow-through.\"",
-        "date": "2026-11-25T14:06:32.168047+00:00"
+        "excerpt": "There\u2019s an expense that\u2019s easy to overlook when talking about the cost of living: getting and keeping a job. We tend to think of work as the thing that pays the bills, but commuting and the other cost",
+        "dwp_take": "Job hunting and employment are now carrying hidden costs that eat into worker paychecks before they even start, from commuting to interview prep to relocation fees. This matters because it's creating a silent barrier to employment, particularly for lower-income workers who can't absorb these upfront expenses, and it's something most organizations completely ignore when talking about \"accessible\" hiring. The irony is that companies complaining about talent shortages haven't considered that some people literally can't afford to work for them anymore.",
+        "date": "2026-11-26T11:47:26.526081+00:00"
       },
       {
-        "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-        "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-        "source": "Wired",
+        "title": "Why employees are \u2018habit hugging\u2019 at work",
+        "url": "https://www.fastcompany.com/91648586/why-employees-are-habit-hugging-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a \u201ctech bro,\u201d his disdain for succession planning, and his relationship with President Trump.",
-        "dwp_take": "Jensen Huang walked back into Nvidia's all-hands meeting and apparently decided therapy sessions and Trump talk were fair game for the crowd. This matters because it shows how founder-led companies operate in a totally different orbit from professional management structures, which has real implications for how information flows and decisions get made in those organizations. Here's the thing though: a CEO who's willing to discuss his therapist and his political views at an all-hands is either refreshingly authentic or a walking liability depending on which side of the room you're sitting on, and I'd wager most HR professionals just swallowed their coffee the wrong way reading this.",
-        "date": "2026-11-25T14:06:39.544166+00:00"
+        "excerpt": "If you\u2019re prone to hanging on to the way things always used to be done at work, you might be \u201chabit hugging.\u201d It\u2019s where employees hold on to familiar routines even after new tools and processes have ",
+        "dwp_take": "Employees are sticking with old work habits even after new tools and processes roll out, a phenomenon researchers are calling \"habit hugging.\" This matters because it explains why your expensive new collaboration platform sits unused while people email spreadsheets around like it's 2003. The real insight here isn't that change is hard, it's that most organizations introduce new tools without actually addressing the underlying anxiety and loss of control employees feel, so of course they hug their old habits like a security blanket.",
+        "date": "2026-11-26T11:47:30.147938+00:00"
       },
       {
-        "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-        "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-        "source": "Wired",
+        "title": "Can potential clients find you using AI?",
+        "url": "https://www.fastcompany.com/91646444/can-potential-clients-find-you-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-        "dwp_take": "Jensen Huang came back to Nvidia after stepping down, and in his first all-hands he basically said \"sorry my management style was brutal.\" This matters because CEOs actually shaping company culture ripples straight down into how teams collaborate, communicate, and whether people stick around or bail. Here's the thing though: acknowledging you were tough is easier than actually changing, and Nvidia employees will be watching whether this apology translates into real policy shifts or just becomes a one-time speech they reference when things get intense again.",
-        "date": "2026-11-25T14:06:43.383069+00:00"
+        "excerpt": "A few months ago, I got a DM on LinkedIn from someone wanting to interview me for a feature she was writing. At the end of the interview, I asked her how she found me. She replied, \u201cChatGPT.\u201d If you\u2019r",
+        "dwp_take": "A journalist found a source for her Fast Company article by asking ChatGPT to recommend experts, which led to a LinkedIn DM. This matters because it shows how AI is fundamentally changing client discovery and lead generation, meaning your digital footprint now needs to be \"findable\" by algorithms, not just people. The real kicker is that most solopreneurs are still optimizing for Google when they should be worried about whether ChatGPT even knows they exist.",
+        "date": "2026-11-26T11:47:33.857377+00:00"
       },
       {
-        "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-        "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-        "source": "Wired",
+        "title": "Some people don\u2019t use AI at work\u2014and feel judged for it",
+        "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-        "dwp_take": "Data brokers are quietly hoovering up internal corporate documents, emails, and files to feed AI training models, often without explicit permission from the companies that created them. Digital workplace leaders need to wake up to this because your organization's proprietary information, strategy docs, and yes, those embarrassing all-hands meeting transcripts could already be floating around in some AI vendor's training dataset. After 30 years watching workplace tech evolve, I can tell you this is basically the digital equivalent of someone going through your filing cabinets at night, and the legal and security implications haven't caught up yet.",
-        "date": "2026-11-25T14:06:47.406581+00:00"
+        "excerpt": "New workplace fear unlocked\u2014and it\u2019s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party. As companies continue to invest billions in their AI st",
+        "dwp_take": "Companies are creating a new workplace anxiety where employees worry about being judged for not using AI enough, with nearly half of workers expressing this concern according to a recent LSE report. This matters because it signals that digital workplace leaders are failing at change management, pushing technology adoption without building the culture and psychological safety needed for people to actually embrace it. The irony is delicious: we're supposed to be making work more human with AI, but instead we're just adding another reason for people to feel like they're not measuring up.",
+        "date": "2026-11-26T11:47:37.633178+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Nothing\u2019s Call-Recording Earbuds Set for Dec. 8 Debut",
-        "url": "https://www.techrepublic.com/article/news-nothing-ear-note-recording-earbuds/",
+        "title": "Nvidia 621.40 Targets SSD-Writing Bug: Which GPUs Are Affected?",
+        "url": "https://www.techrepublic.com/article/news-nvidia-621-40-ssd-write-bug-fix-affected-gpus/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nothing\u2019s Ear (note) earbuds record calls, while the case captures in-person meetings. Here\u2019s what IT teams should check before allowing them at work. The post Nothing\u2019s Call-Recording Earbuds Set for",
-        "dwp_take": "Nothing's new Ear (note) earbuds can record both calls and in-person meetings, launching December 8th with built-in recording capabilities straight out of the box. This matters because IT teams now have to decide whether these devices create compliance nightmares, legal liability, and trust issues before they hit your office. The real question isn't whether employees will want them, but whether your company's legal department will have a full meltdown trying to figure out what you're actually allowed to record.",
-        "date": "2026-11-25T14:06:51.217990+00:00"
+        "excerpt": "Nvidia's 621.40 driver includes another fix for excessive SSD writes after its earlier hotfix left some users reporting problems. Here's which GPUs have reports and how to check your system. The post ",
+        "dwp_take": "Nvidia released driver 621.40 to fix an SSD-writing bug that was hammering storage drives, following an earlier hotfix that apparently made things worse for some users. If your organization runs GPU-heavy workloads for AI, rendering, or data processing, driver stability directly impacts your infrastructure costs and uptime, so this matters. Nothing says \"we fixed it\" quite like needing two attempts to solve the same problem, but at least they're persistent.",
+        "date": "2026-11-26T11:47:41.376632+00:00"
       },
       {
-        "title": "Google\u2019s 2027 Nest and Gemini Deadlines: What Owners Need to Do",
-        "url": "https://www.techrepublic.com/article/news-google-nest-app-shutdown/",
+        "title": "Google Search Can Now Access Your Wallet Data: How Personal Intelligence Works",
+        "url": "https://www.techrepublic.com/article/news-google-search-wallet-data-personal-intelligence/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google retires the Nest app Jan. 25, 2027. Learn when to migrate your account, how to save camera clips, and when Gemini takes over on speakers and displays. The post Google\u2019s 2027 Nest and Gemini Dea",
-        "dwp_take": "Google is sunsetting the Nest app by January 2027 and forcing users to migrate to Gemini for their smart speakers and displays. For workplace folks managing IoT devices across their organization, this matters because you'll need to plan migrations before deadlines hit and figure out how Gemini integration changes your device management workflows. Here's the thing: Google retiring products on their timeline isn't new, but it always catches someone off guard, so if your office still uses Nest devices, start your migration planning now instead of panicking in late 2026.",
-        "date": "2026-11-25T14:06:55.024012+00:00"
+        "excerpt": "Google Search can now use connected Wallet data to personalize financial advice. Here's how to enable the feature, what Google does with your information, and which privacy settings to review. The pos",
+        "dwp_take": "Google Search is now tapping into your Wallet data to serve up personalized financial advice, which means the search giant wants deeper access to your personal transaction history. For digital workplace pros, this matters because employees using Google Workspace need to understand what data they're exposing and how it flows through their organization's tech stack, especially if compliance and data governance are part of their job. Personally, I'm waiting for the day Google offers to just manage my finances directly because apparently asking permission feels so 2015.",
+        "date": "2026-11-26T11:47:45.276524+00:00"
       },
       {
-        "title": "Google Play Settlement Claims Are Open: How UK Developers Can Apply",
-        "url": "https://www.techrepublic.com/article/news-google-play-uk-developer-settlement-emea/",
+        "title": "Claude Turns Artifacts Into Desktop Apps: What Changes on Mac and Windows",
+        "url": "https://www.techrepublic.com/article/news-claude-artifacts-desktop-apps/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "UK app developers can now claim Google Play settlement payments. See who qualifies, how to apply without an invitation, and the March 24 deadline. The post Google Play Settlement Claims Are Open: How ",
-        "dwp_take": "Google is finally opening UK developer claims for a settlement related to alleged Play Store anti-competitive practices, with a March 24 deadline looming. This matters because many workplace app developers have been building solutions on the Play Store while dealing with Google's commission structures and distribution rules, so understanding claim eligibility could mean actual money back for their organizations. Honestly, it's funny how long these settlements take to materialize, but I'd encourage anyone who deployed apps through Google to check the criteria because free money sitting on the table is exactly the kind of quick win finance teams appreciate.",
-        "date": "2026-11-25T14:06:59.062950+00:00"
+        "excerpt": "Claude can turn artifacts into Mac and Windows apps. Learn what permissions they can request, what IT can control, and how to run a pilot with limited access. The post Claude Turns Artifacts Into Desk",
+        "dwp_take": "Anthropic's Claude can now package AI-generated code artifacts directly into standalone desktop applications for Mac and Windows, with granular permission controls that let IT teams manage what these apps can access. This matters because it collapses the gap between AI experimentation and actual tool deployment, meaning your users might start building and distributing custom applications without traditional software governance workflows. The real question isn't whether this is cool (it is), but whether your IT team is ready for employees to become accidental software publishers.",
+        "date": "2026-11-26T11:47:49.046999+00:00"
       },
       {
-        "title": "Working with PDFs Is a Breeze with AcePDF Converter & Editor",
-        "url": "https://www.techrepublic.com/article/working-with-pdfs-is-a-breeze-with-pdf-converter-pro/",
+        "title": "Huawei Mate X8: Price, Release Dates and Specs",
+        "url": "https://www.techrepublic.com/article/news-huawei-mate-x8-price-specs-apac-china/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "AcePDF Converter & Editor allows you create or convert PDF documents into a variety of formats or from a variety of formats with ease. The post Working with PDFs Is a Breeze with AcePDF Converter & Ed",
-        "dwp_take": "TechRepublic published a sponsored post about AcePDF Converter & Editor, a tool that converts PDFs to and from various formats. For digital workplace pros managing document workflows, PDF conversion tools matter because they can reduce friction in getting information into usable formats across teams and systems. Here's my hot take: if your organization needs a whole separate tool to make PDF work \"a breeze,\" you probably have bigger workflow problems than software can fix, but sure, grab the converter if it saves time.",
-        "date": "2026-11-25T14:07:03.022746+00:00"
+        "excerpt": "The Huawei Mate X8 starts at CNY 12,999 in China. Compare release dates, specs and the Collector\u2019s Edition, plus what to check before importing. The post Huawei Mate X8: Price, Release Dates and Specs",
+        "dwp_take": "Huawei announced the Mate X8 foldable phone starting at around 1,800 USD in China with various spec options and a special Collector's Edition. For digital workplace folks, this matters because foldables are finally becoming practical devices for real work instead of novelty items, which changes how we think about mobile productivity on the road. Honestly, if your company's still worried about foldables being \"gimmicks,\" you're about five years behind where the hardware conversation actually is.",
+        "date": "2026-11-26T11:47:52.901126+00:00"
       }
     ]
   }

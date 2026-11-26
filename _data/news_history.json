@@ -1,149 +1,5 @@
 [
   {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
-    "dwp_take": "Microsoft's Nadella offered buyouts to 60,000 employees to trim headcount without another brutal layoff, framed around AI transformation rather than pure cost-cutting. This matters because it signals how enterprise leaders are reshaping entire workforces around generative AI, which will cascade into how your organization thinks about skills, roles, and digital workplace strategy. Here's the thing though: offering golden parachutes to 60K people is a luxury most companies don't have, so don't mistake this for a sustainable playbook unless you're also printing money like Microsoft.",
-    "date": "2026-11-19T10:59:59.585686+00:00"
-  },
-  {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "dwp_take": "Satya Nadella admitted that swaths of critical infrastructure can't be patched, even as Microsoft dealt with its own Outlook outage. This matters because your digital workplace runs on systems that may be fundamentally vulnerable, which means you can't just wait for vendors to fix everything. The irony is thick here: the guy running the company that dominates workplace software is basically saying \"some of our stuff can't actually be fixed,\" which is either refreshingly honest or deeply unsettling depending on your caffeine intake that morning.",
-    "date": "2026-11-19T11:00:03.250945+00:00"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "dwp_take": "Satya Nadella publicly backed Nvidia's new interim CEO Colette Kress after Jensen Huang stepped down, signaling Microsoft's continued confidence in the partnership. This matters because Microsoft's AI infrastructure strategy depends heavily on Nvidia's chips and leadership stability, so any wobble in that relationship ripples through enterprise AI deployments everywhere. Nadella's vote of confidence is basically corporate speak for \"we're locked in whether Huang stays or goes,\" which is exactly what you want to hear when billions of dollars in GPU commitments are on the line.",
-    "date": "2026-11-19T11:00:07.088511+00:00"
-  },
-  {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "source": "TechCrunch",
-    "category": "ai-at-work",
-    "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "dwp_take": "Satya Nadella is saying that AI agents will fundamentally change how the web makes money by disrupting the ad-based model that's funded it for decades. This matters because if advertising economics collapse, the tools and platforms that digital workplace teams rely on could either disappear or shift to subscription models overnight. Look, I've seen plenty of tech predictions come and go, but Nadella's right about one thing: any business model that depends on showing people ads they actively avoid deserves to get disrupted.",
-    "date": "2026-11-19T11:00:10.865366+00:00"
-  },
-  {
-    "title": "You can use Google\u2019s Spark AI agent, renamed Tasks, for free now \u2013 with limits",
-    "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "At least if Tasks disappoints, it won\u2019t cost you \u2013 unlike OpenAI and Anthropic\u2019s subscription-based agents.",
-    "dwp_take": "Google rebranded its Spark AI agent to Tasks and opened it up for free use, though with feature restrictions compared to paid alternatives from OpenAI and Anthropic. This matters because digital workplace teams are constantly evaluating which AI tools to standardize on, and free tiers lower the barrier to testing whether these agents actually solve real work problems or just create more noise. Honestly, I've seen enough \"free trials\" of productivity tools that promise everything and deliver spreadsheets full of broken automations, so I'll believe Tasks is useful when I see actual adoption metrics instead of download numbers.",
-    "date": "2026-11-19T11:00:15.405697+00:00"
-  },
-  {
-    "title": "Microsoft\u2019s new Licensed Weights lets businesses customize AI models with their own data",
-    "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
-    "source": "ZDNet",
-    "category": "tools-tech",
-    "excerpt": "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.",
-    "dwp_take": "Microsoft rolled out Licensed Weights, a tool that lets companies fine-tune AI models using their own proprietary data without exposing that data to Microsoft's systems. For digital workplace leaders, this is genuinely important because it addresses the real concern keeping security teams awake at night: feeding sensitive company information into third-party AI services. Finally, a vendor is offering us the middle ground instead of forcing us to choose between AI innovation and basic data hygiene, which is refreshing in a space usually drowning in false choices.",
-    "date": "2026-11-19T11:00:20.719472+00:00"
-  },
-  {
-    "title": "Microsoft brings AI inference closer to enterprise data with Windows Server 2028",
-    "url": "https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "Microsoft is betting on a hybrid future where AI inferencing takes place where it makes the most sense. Which, logically, is where data already lives: On enterprise-controlled infrastructure. To that ",
-    "dwp_take": "Microsoft is embedding AI inference capabilities directly into Windows Server 2028, letting enterprises run AI models on their own infrastructure rather than constantly shipping data to the cloud. This matters because it addresses a real pain point: data security concerns, latency issues, and the jaw-dropping costs of cloud processing that make CFOs nervous. Here's the thing though - Microsoft has been promising \"hybrid solutions\" for years, and enterprises will believe it when they see stable performance and pricing that doesn't require a second mortgage.",
-    "date": "2026-11-19T11:00:25.612273+00:00"
-  },
-  {
-    "title": "Security, security, security: What a week of outages means to IT (and you)",
-    "url": "https://www.computerworld.com/article/4250250/security-security-security-what-a-week-of-outages-means-to-it-and-you.html",
-    "source": "Computerworld",
-    "category": "tools-tech",
-    "excerpt": "The last week of major security and resilience problems is proof that business and consumer users must think just as deeply about tech resilience as any big enterprise. The pace at which major outages",
-    "dwp_take": "Last week's cascade of major outages hit everyone from enterprises to consumers, proving that resilience isn't just a big company problem anymore. Digital workplace pros need to wake up to the fact that one bad day in the cloud affects your entire workforce's ability to actually work, not just IT's reputation. After thirty years watching this cycle repeat, I'll say it plainly: if your disaster recovery plan still lives in a PowerPoint deck from 2019, you're not ready for next Tuesday.",
-    "date": "2026-11-19T11:00:29.384338+00:00"
-  },
-  {
-    "title": "America is in a turkey slump",
-    "url": "https://www.fastcompany.com/91643297/turkey-slump-america?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "One of the most quintessential American things is having roasted turkey on the table at a Thanksgiving feast. While that remains the norm, Americans are eating much less of this kind of poultry today ",
-    "dwp_take": "Turkey consumption in America has dropped more than 25% over the last thirty years while chicken demand has skyrocketed. This matters to digital workplace folks because it's a perfect case study in how communication failures kill even the most established traditions, and your internal comms strategy could be the next casualty if you're not paying attention. Honestly, Big Turkey's marketing department makes most corporate intranets look like genius by comparison.",
-    "date": "2026-11-19T11:00:33.213526+00:00"
-  },
-  {
-    "title": "4 places where cutting AI costs is a mistake",
-    "url": "https://www.fastcompany.com/91642888/4-places-where-cutting-ai-costs-is-a-mistake?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "Every leader says the same thing when they roll out a new AI tool. \u201cGive it to our employees, let them run!\u201d What actually happens three months later is that access gets capped, usage gets metered, an",
-    "dwp_take": "Fast Company says companies are slapping artificial restrictions on AI tools after initial rollouts because they got scared of the bills and started gatekeeping access to senior staff only. This matters to digital workplace folks because it kills the whole point of deploying AI in the first place, turning a productivity tool into another status symbol that breeds resentment. After three decades watching companies sabotage their own initiatives, I can tell you this never ends well: employees stop trusting leadership, adoption tanks, and you end up with an expensive tool that nobody wants to use anyway.",
-    "date": "2026-11-19T11:00:37.130717+00:00"
-  },
-  {
-    "title": "\u2018No one asked for this\u2019: AI is being pushed on people\u2014and they\u2019re sick of it",
-    "url": "https://www.fastcompany.com/91644146/no-one-asked-for-this-ai-is-being-pushed-on-people-and-theyre-sick-of-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "The AI era is fully here\u2014and while companies bill it as a solution to problems, consequences like mass layoffs, environmental effects, privacy concerns, and the slopification of culture have many peop",
-    "dwp_take": "Workers across industries are rejecting AI tools being forced into their workflows without consent or clear benefit, creating a credibility crisis for the technology that companies promised would make life easier. This matters because digital workplace leaders who ignore this backlash risk eroding employee trust and adoption rates, turning expensive AI implementations into expensive paperweights gathering dust on virtual shelves. Here's the truth: you can't mandate enthusiasm, and employees who feel steamrolled by technology adoption become your loudest critics and your biggest implementation obstacles, so maybe ask people what they actually need before betting the farm on the shiny new thing.",
-    "date": "2026-11-19T11:00:41.387283+00:00"
-  },
-  {
-    "title": "How much do freelance designers really make?",
-    "url": "https://www.fastcompany.com/91644958/how-much-do-freelance-designers-really-make?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "source": "Fast Company",
-    "category": "digital-culture",
-    "excerpt": "How much is freelance design really worth? Fast Company\u2019s original survey of 1,273 designers exposes the numbers behind their incomes, project rates, the business of creative work and of course, AI.",
-    "dwp_take": "Fast Company surveyed over 1,200 freelance designers and found that their incomes, project rates, and business models vary wildly, with AI starting to muddy the waters. This matters because many organizations are now outsourcing design work to freelancers instead of hiring in-house talent, so understanding the real economics helps you budget properly and avoid underpaying for quality work. Here's the thing though: if your budget for design is based on what ChatGPT can generate in five minutes, you're not hiring a designer, you're hiring disappointment.",
-    "date": "2026-11-19T11:00:45.170205+00:00"
-  },
-  {
-    "title": "Storm Disrupts Microsoft Ignite Hub Floor at San Francisco\u2019s Moscone Center",
-    "url": "https://www.techrepublic.com/article/news-microsoft-ignite-storm-disruption-san-francisco/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Severe weather disrupted Microsoft Ignite at San Francisco\u2019s Moscone Center. Find out what attendees reported and where to check session updates and replays. The post Storm Disrupts Microsoft Ignite H",
-    "dwp_take": "A storm knocked out power and disrupted the main hub floor during Microsoft Ignite at Moscone Center in San Francisco, forcing organizers to shift attendees to session replays and updates elsewhere. For digital workplace pros, this is a sharp reminder that your collaboration platforms, cloud backups, and hybrid event capabilities aren't just nice to have, they're your insurance policy when the real world throws a wrench at your plans. Ironic that the company showing off its latest cloud and AI innovations got a dose of old-fashioned Mother Nature as a reality check.",
-    "date": "2026-11-19T11:00:49.375976+00:00"
-  },
-  {
-    "title": "Xiaomi 18 Pro Series Adds an AI App Builder for Its Rear Screen",
-    "url": "https://www.techrepublic.com/article/news-xiaomi-18-pro-genai-apps-rear-display/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Xiaomi\u2019s 18 Pro series turns prompts into rear-screen widgets. See what GenAI Apps can access, how monthly limits work, and what to check before using it. The post Xiaomi 18 Pro Series Adds an AI App ",
-    "dwp_take": "Xiaomi added an AI app builder to its 18 Pro series phones that lets users create rear-screen widgets from text prompts instead of coding them manually. This matters because it shows how generative AI is creeping into device-level customization, which means your workplace mobility team needs to understand what employees can actually build on company phones and what data those AI-generated apps can access. Here's the thing though: most organizations are still figuring out basic mobile security policies, and now we've got to worry about widgets that users can literally prompt into existence. Good luck with that governance conversation.",
-    "date": "2026-11-19T11:00:53.453688+00:00"
-  },
-  {
-    "title": "Galaxy S28 Camera Rumor: Samsung Could Bring Back Variable Aperture",
-    "url": "https://www.techrepublic.com/article/news-samsung-galaxy-s28-variable-aperture-rumor/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "The Galaxy S28 Pro and Ultra could revive Samsung\u2019s variable-aperture camera. See how it works and what to test in bright light, indoors, and in group photos. The post Galaxy S28 Camera Rumor: Samsung",
-    "dwp_take": "Samsung might bring back variable aperture technology on the Galaxy S28 Pro and Ultra models, which would let users adjust the camera's f-stop for different lighting conditions. For digital workplace professionals, this matters because better camera performance means higher quality video calls, hybrid meeting recordings, and content creation without needing separate equipment. Honestly, if this actually ships, it'll be the first time in years a phone camera improvement solves a real workplace problem instead of just giving us another reason to take blurry photos of our lunch.",
-    "date": "2026-11-19T11:00:57.297568+00:00"
-  },
-  {
-    "title": "November 2026 Tech Outages Timeline: What Went Wrong at Microsoft, AWS, and More",
-    "url": "https://www.techrepublic.com/article/news-november-2026-tech-outages-timeline/",
-    "source": "TechRepublic",
-    "category": "industry-news",
-    "excerpt": "Explore the Nov. 12\u201317, 2026 tech outage timeline, from Microsoft 365 and AWS to Workday and the FAA, and see what IT teams can learn from the disruptions. The post November 2026 Tech Outages Timeline",
-    "dwp_take": "Last week saw a cascade of major cloud platform failures across Microsoft 365, AWS, Workday, and even the FAA's systems, leaving IT teams scrambling for most of November 12-17. This matters because if your digital workplace runs on any of these services, you just got a live demonstration of why having a backup plan isn't optional. The real lesson here isn't that outages happen, it's that most organizations still don't have one, which means they're basically playing Russian roulette with their employee productivity.",
-    "date": "2026-11-19T11:01:01.060133+00:00"
-  },
-  {
     "title": "These tech outages are giving Y2K, AI agent style",
     "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
     "source": "TechCrunch",
@@ -1033,5 +889,131 @@
     "excerpt": "AcePDF Converter & Editor allows you create or convert PDF documents into a variety of formats or from a variety of formats with ease. The post Working with PDFs Is a Breeze with AcePDF Converter & Ed",
     "dwp_take": "TechRepublic published a sponsored post about AcePDF Converter & Editor, a tool that converts PDFs to and from various formats. For digital workplace pros managing document workflows, PDF conversion tools matter because they can reduce friction in getting information into usable formats across teams and systems. Here's my hot take: if your organization needs a whole separate tool to make PDF work \"a breeze,\" you probably have bigger workflow problems than software can fix, but sure, grab the converter if it saves time.",
     "date": "2026-11-25T14:07:03.022746+00:00"
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "dwp_take": "OpenAI is merging its ChatGPT Chat and Work products into one unified experience, which means power users will share a single usage quota instead of having separate limits for each. This matters because plenty of organizations have built workflows around ChatGPT's work tier, and now they'll need to rethink how they allocate tokens across their teams. Honestly, this feels like a classic move of combining products to simplify the backend while quietly making heavy users pay more or complain louder, which is basically the tech industry playbook at this point.",
+    "date": "2026-11-26T11:47:02.932250+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel",
+    "dwp_take": "Anthropic's CEO is pushing back against claims that his company wants to hand over human control to AI systems, even though Anthropic is literally automating its own research and development work right now. This matters because if the people building AI can't be straight about what they're actually doing with automation, how are enterprises supposed to make informed decisions about deploying these tools in their own organizations? Look, I've seen a lot of defensive posturing in tech, but calling concerns about automated AI development \"absurd\" while actively automating AI development is a new standard for having your cake and eating it too.",
+    "date": "2026-11-26T11:47:06.913064+00:00"
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
+    "dwp_take": "New York just slapped a five-year ban on AI chatbot toys after research showed these things expose kids to inappropriate content and potentially mess with their emotional development. For digital workplace folks, this matters because it signals regulators are finally getting serious about AI safety and liability, which means your enterprise AI initiatives are about to face actual scrutiny instead of just hand-waving. Honestly, if a toy AI can't stay on the rails, maybe we should all pump the brakes on deploying conversational AI everywhere and actually testing it first.",
+    "date": "2026-11-26T11:47:10.852127+00:00"
+  },
+  {
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "source": "TechCrunch",
+    "category": "ai-at-work",
+    "excerpt": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to deve",
+    "dwp_take": "Nvidia is tightening its support for AI data center projects, refusing to commit funding until facilities are nearly operational, which is hitting neocloud companies with construction delays and higher borrowing costs. This matters because it signals a fundamental shift in how infrastructure gets built: execution and hard assets now trump startup promises and venture hype. For digital workplace folks, this is a reality check that the AI tools flooding your platforms require unglamorous physical infrastructure that takes time, money, and genuine competence to build.",
+    "date": "2026-11-26T11:47:14.531072+00:00"
+  },
+  {
+    "title": "Gen Z is the least interested in AI at work \u2013 and it\u2019s not even close",
+    "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+    "source": "ZDNet",
+    "category": "tools-tech",
+    "excerpt": "Younger workers don\u2019t find AI useful, according to a recent survey.",
+    "dwp_take": "Gen Z workers are significantly less enthusiastic about AI tools at work compared to older generations, with the survey showing they find limited practical value in current AI applications. This matters because it challenges the assumption that digital natives automatically embrace every new tech trend, and it signals that vendors need to actually solve real problems instead of just slapping AI onto everything. Here's the thing: Gen Z didn't grow up watching PowerPoint presentations about the future, they lived through it, and they're not impressed by solutions looking for problems.",
+    "date": "2026-11-26T11:47:18.309901+00:00"
+  },
+  {
+    "title": "Anthropic lets you install Claude \u2018artifacts\u2019 as Mac apps",
+    "url": "https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html",
+    "source": "Computerworld",
+    "category": "tools-tech",
+    "excerpt": "Anthropic is now rolling out beta access to a new Claude feature that lets you save some of what it does as live apps on Macs, using \u201cartifacts.\u201d What\u2019s new is that you can take an artifact and instal",
+    "dwp_take": "Anthropic now lets Claude users save AI-generated outputs as standalone Mac and Windows apps instead of keeping them trapped in the chat interface. This matters because knowledge workers are quietly building real tools through AI, and having them live as actual applications means they're more likely to get used repeatedly and integrated into actual workflows. I've seen 30 years of promising tech languish because it stayed buried in the wrong interface, so giving these artifacts proper app status might actually be the difference between a parlor trick and something people rely on.",
+    "date": "2026-11-26T11:47:22.638947+00:00"
+  },
+  {
+    "title": "How job hunting became an expensive cash suck",
+    "url": "https://www.fastcompany.com/91648589/how-job-hunting-became-an-expensive-cash-suck?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "There\u2019s an expense that\u2019s easy to overlook when talking about the cost of living: getting and keeping a job. We tend to think of work as the thing that pays the bills, but commuting and the other cost",
+    "dwp_take": "Job hunting and employment are now carrying hidden costs that eat into worker paychecks before they even start, from commuting to interview prep to relocation fees. This matters because it's creating a silent barrier to employment, particularly for lower-income workers who can't absorb these upfront expenses, and it's something most organizations completely ignore when talking about \"accessible\" hiring. The irony is that companies complaining about talent shortages haven't considered that some people literally can't afford to work for them anymore.",
+    "date": "2026-11-26T11:47:26.526081+00:00"
+  },
+  {
+    "title": "Why employees are \u2018habit hugging\u2019 at work",
+    "url": "https://www.fastcompany.com/91648586/why-employees-are-habit-hugging-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "If you\u2019re prone to hanging on to the way things always used to be done at work, you might be \u201chabit hugging.\u201d It\u2019s where employees hold on to familiar routines even after new tools and processes have ",
+    "dwp_take": "Employees are sticking with old work habits even after new tools and processes roll out, a phenomenon researchers are calling \"habit hugging.\" This matters because it explains why your expensive new collaboration platform sits unused while people email spreadsheets around like it's 2003. The real insight here isn't that change is hard, it's that most organizations introduce new tools without actually addressing the underlying anxiety and loss of control employees feel, so of course they hug their old habits like a security blanket.",
+    "date": "2026-11-26T11:47:30.147938+00:00"
+  },
+  {
+    "title": "Can potential clients find you using AI?",
+    "url": "https://www.fastcompany.com/91646444/can-potential-clients-find-you-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "A few months ago, I got a DM on LinkedIn from someone wanting to interview me for a feature she was writing. At the end of the interview, I asked her how she found me. She replied, \u201cChatGPT.\u201d If you\u2019r",
+    "dwp_take": "A journalist found a source for her Fast Company article by asking ChatGPT to recommend experts, which led to a LinkedIn DM. This matters because it shows how AI is fundamentally changing client discovery and lead generation, meaning your digital footprint now needs to be \"findable\" by algorithms, not just people. The real kicker is that most solopreneurs are still optimizing for Google when they should be worried about whether ChatGPT even knows they exist.",
+    "date": "2026-11-26T11:47:33.857377+00:00"
+  },
+  {
+    "title": "Some people don\u2019t use AI at work\u2014and feel judged for it",
+    "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "source": "Fast Company",
+    "category": "digital-culture",
+    "excerpt": "New workplace fear unlocked\u2014and it\u2019s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party. As companies continue to invest billions in their AI st",
+    "dwp_take": "Companies are creating a new workplace anxiety where employees worry about being judged for not using AI enough, with nearly half of workers expressing this concern according to a recent LSE report. This matters because it signals that digital workplace leaders are failing at change management, pushing technology adoption without building the culture and psychological safety needed for people to actually embrace it. The irony is delicious: we're supposed to be making work more human with AI, but instead we're just adding another reason for people to feel like they're not measuring up.",
+    "date": "2026-11-26T11:47:37.633178+00:00"
+  },
+  {
+    "title": "Nvidia 621.40 Targets SSD-Writing Bug: Which GPUs Are Affected?",
+    "url": "https://www.techrepublic.com/article/news-nvidia-621-40-ssd-write-bug-fix-affected-gpus/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Nvidia's 621.40 driver includes another fix for excessive SSD writes after its earlier hotfix left some users reporting problems. Here's which GPUs have reports and how to check your system. The post ",
+    "dwp_take": "Nvidia released driver 621.40 to fix an SSD-writing bug that was hammering storage drives, following an earlier hotfix that apparently made things worse for some users. If your organization runs GPU-heavy workloads for AI, rendering, or data processing, driver stability directly impacts your infrastructure costs and uptime, so this matters. Nothing says \"we fixed it\" quite like needing two attempts to solve the same problem, but at least they're persistent.",
+    "date": "2026-11-26T11:47:41.376632+00:00"
+  },
+  {
+    "title": "Google Search Can Now Access Your Wallet Data: How Personal Intelligence Works",
+    "url": "https://www.techrepublic.com/article/news-google-search-wallet-data-personal-intelligence/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Google Search can now use connected Wallet data to personalize financial advice. Here's how to enable the feature, what Google does with your information, and which privacy settings to review. The pos",
+    "dwp_take": "Google Search is now tapping into your Wallet data to serve up personalized financial advice, which means the search giant wants deeper access to your personal transaction history. For digital workplace pros, this matters because employees using Google Workspace need to understand what data they're exposing and how it flows through their organization's tech stack, especially if compliance and data governance are part of their job. Personally, I'm waiting for the day Google offers to just manage my finances directly because apparently asking permission feels so 2015.",
+    "date": "2026-11-26T11:47:45.276524+00:00"
+  },
+  {
+    "title": "Claude Turns Artifacts Into Desktop Apps: What Changes on Mac and Windows",
+    "url": "https://www.techrepublic.com/article/news-claude-artifacts-desktop-apps/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "Claude can turn artifacts into Mac and Windows apps. Learn what permissions they can request, what IT can control, and how to run a pilot with limited access. The post Claude Turns Artifacts Into Desk",
+    "dwp_take": "Anthropic's Claude can now package AI-generated code artifacts directly into standalone desktop applications for Mac and Windows, with granular permission controls that let IT teams manage what these apps can access. This matters because it collapses the gap between AI experimentation and actual tool deployment, meaning your users might start building and distributing custom applications without traditional software governance workflows. The real question isn't whether this is cool (it is), but whether your IT team is ready for employees to become accidental software publishers.",
+    "date": "2026-11-26T11:47:49.046999+00:00"
+  },
+  {
+    "title": "Huawei Mate X8: Price, Release Dates and Specs",
+    "url": "https://www.techrepublic.com/article/news-huawei-mate-x8-price-specs-apac-china/",
+    "source": "TechRepublic",
+    "category": "industry-news",
+    "excerpt": "The Huawei Mate X8 starts at CNY 12,999 in China. Compare release dates, specs and the Collector\u2019s Edition, plus what to check before importing. The post Huawei Mate X8: Price, Release Dates and Specs",
+    "dwp_take": "Huawei announced the Mate X8 foldable phone starting at around 1,800 USD in China with various spec options and a special Collector's Edition. For digital workplace folks, this matters because foldables are finally becoming practical devices for real work instead of novelty items, which changes how we think about mobile productivity on the road. Honestly, if your company's still worried about foldables being \"gimmicks,\" you're about five years behind where the hardware conversation actually is.",
+    "date": "2026-11-26T11:47:52.901126+00:00"
   }
 ]
