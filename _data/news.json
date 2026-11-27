@@ -1,138 +1,129 @@
 {
-  "generated": "2026-11-26T11:47:52.901237+00:00",
+  "generated": "2026-11-27T11:41:01.168555+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
         "source": "TechCrunch",
         "category": "ai-at-work",
-        "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-        "dwp_take": "OpenAI is merging its ChatGPT Chat and Work products into one unified experience, which means power users will share a single usage quota instead of having separate limits for each. This matters because plenty of organizations have built workflows around ChatGPT's work tier, and now they'll need to rethink how they allocate tokens across their teams. Honestly, this feels like a classic move of combining products to simplify the backend while quietly making heavy users pay more or complain louder, which is basically the tech industry playbook at this point.",
-        "date": "2026-11-26T11:47:02.932250+00:00"
+        "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "dwp_take": "Rockstar Games' GTA VI launched as a cultural juggernaut while Anthropic went public, with the game succeeding precisely because humans took years crafting intricate details rather than rushing to market with AI efficiency. This matters to digital workplace folks because it's a reminder that some things genuinely require the messy, time-consuming work of actual human creativity and judgment, not just faster automation. We've spent so long optimizing for speed that we forgot the best experiences often come from people who refused to cut corners, which is maybe the most punk rock thing about a game involving grand theft and chaos.",
+        "date": "2026-11-27T11:40:12.806601+00:00"
       },
       {
-        "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
-        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-        "source": "TechCrunch",
+        "title": "SAP reportedly plans to lay off 10,000+ employees amid AI push",
+        "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel",
-        "dwp_take": "Anthropic's CEO is pushing back against claims that his company wants to hand over human control to AI systems, even though Anthropic is literally automating its own research and development work right now. This matters because if the people building AI can't be straight about what they're actually doing with automation, how are enterprises supposed to make informed decisions about deploying these tools in their own organizations? Look, I've seen a lot of defensive posturing in tech, but calling concerns about automated AI development \"absurd\" while actively automating AI development is a new standard for having your cake and eating it too.",
-        "date": "2026-11-26T11:47:06.913064+00:00"
+        "excerpt": "Enterprise software giant SAP SE is reportedly planning to lay off at least 10,000 employees, or more than 9% of its workforce. Bloomberg today cited sources as saying that the scope of the restructur",
+        "dwp_take": "SAP is cutting over 10,000 jobs (9% of staff) while simultaneously pivoting hard into AI development. This matters because SAP is a cornerstone platform for enterprise workflows everywhere, so leadership upheaval and shifting R&D priorities will ripple through countless organizations relying on their tools. Here's the irony: they're laying off people to fund AI that'll supposedly make workers more productive, which is like burning down your house to test a new thermostat.",
+        "date": "2026-11-27T11:40:17.625739+00:00"
       },
       {
-        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "source": "TechCrunch",
+        "title": "Wireless networking chip startup Altair nabs $100M investment",
+        "url": "https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
-        "dwp_take": "New York just slapped a five-year ban on AI chatbot toys after research showed these things expose kids to inappropriate content and potentially mess with their emotional development. For digital workplace folks, this matters because it signals regulators are finally getting serious about AI safety and liability, which means your enterprise AI initiatives are about to face actual scrutiny instead of just hand-waving. Honestly, if a toy AI can't stay on the rails, maybe we should all pump the brakes on deploying conversational AI everywhere and actually testing it first.",
-        "date": "2026-11-26T11:47:10.852127+00:00"
+        "excerpt": "Altair Semiconductor Ltd., a supplier of wireless networking chips for connected devices, today announced that it has raised $100 million in funding. Maverick Silicon led the Series A round. It was re",
+        "dwp_take": "Altair Semiconductor just raised $100 million to build wireless chips for connected devices, with Maverick Silicon leading the round and Pitango doubling down on its earlier investment after the company spun out of Sony. This matters because workplace devices need reliable connectivity, and new chip tech directly impacts whether your video calls drop and your collaboration tools actually respond when you need them. Here's the thing though: another wireless chip company getting funded is great, but what really counts is whether these chips actually make our networks less temperamental than they currently are, and I'll believe that when I see it working consistently across a Monday morning.",
+        "date": "2026-11-27T11:40:21.740626+00:00"
       },
       {
-        "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-        "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-        "source": "TechCrunch",
+        "title": "Your AI agents can be fully authorized and still do damage",
+        "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+        "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to deve",
-        "dwp_take": "Nvidia is tightening its support for AI data center projects, refusing to commit funding until facilities are nearly operational, which is hitting neocloud companies with construction delays and higher borrowing costs. This matters because it signals a fundamental shift in how infrastructure gets built: execution and hard assets now trump startup promises and venture hype. For digital workplace folks, this is a reality check that the AI tools flooding your platforms require unglamorous physical infrastructure that takes time, money, and genuine competence to build.",
-        "date": "2026-11-26T11:47:14.531072+00:00"
+        "excerpt": "For as long as we\u2019ve had enterprise security, it\u2019s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question. The intern",
+        "dwp_take": "Here's my take:\n\nThe article explains that traditional security models built on \"who can do what\" fall apart with AI agents because authorization alone doesn't prevent damage when those agents operate at scale and speed humans can't monitor. This matters because most organizations are deploying AI tools into their workflows right now while still using 20-year-old permission frameworks that treat a human clicking a button the same as an AI making a thousand decisions per second. The irony is we've spent decades perfecting access controls only to discover they're security theater once you plug in something that doesn't get tired, doesn't ask questions, and operates faster than your audit log can record.",
+        "date": "2026-11-27T11:40:26.024010+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "Gen Z is the least interested in AI at work \u2013 and it\u2019s not even close",
-        "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
-        "source": "ZDNet",
-        "category": "tools-tech",
-        "excerpt": "Younger workers don\u2019t find AI useful, according to a recent survey.",
-        "dwp_take": "Gen Z workers are significantly less enthusiastic about AI tools at work compared to older generations, with the survey showing they find limited practical value in current AI applications. This matters because it challenges the assumption that digital natives automatically embrace every new tech trend, and it signals that vendors need to actually solve real problems instead of just slapping AI onto everything. Here's the thing: Gen Z didn't grow up watching PowerPoint presentations about the future, they lived through it, and they're not impressed by solutions looking for problems.",
-        "date": "2026-11-26T11:47:18.309901+00:00"
-      },
-      {
-        "title": "Anthropic lets you install Claude \u2018artifacts\u2019 as Mac apps",
-        "url": "https://www.computerworld.com/article/4253109/anthropic-lets-you-install-claude-artifacts-as-mac-apps.html",
+        "title": "OpenAI\u2019s GPT\u20116.2 correction means you get less AI for the same fee",
+        "url": "https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "Anthropic is now rolling out beta access to a new Claude feature that lets you save some of what it does as live apps on Macs, using \u201cartifacts.\u201d What\u2019s new is that you can take an artifact and instal",
-        "dwp_take": "Anthropic now lets Claude users save AI-generated outputs as standalone Mac and Windows apps instead of keeping them trapped in the chat interface. This matters because knowledge workers are quietly building real tools through AI, and having them live as actual applications means they're more likely to get used repeatedly and integrated into actual workflows. I've seen 30 years of promising tech languish because it stayed buried in the wrong interface, so giving these artifacts proper app status might actually be the difference between a parlor trick and something people rely on.",
-        "date": "2026-11-26T11:47:22.638947+00:00"
+        "excerpt": "OpenAI has corrected a billing error that undercounted usage of its GPT-6.2 Astra and Sol models, warning customers that the same workloads will now consume more of their subscription allowances and c",
+        "dwp_take": "OpenAI quietly corrected a billing glitch on GPT-6.2 that means your tokens now cost more, with some workloads burning through your monthly allowance 40% faster than you thought they were. This matters because workplace AI spend is suddenly becoming a lot less predictable, and those budget forecasts your CFO signed off on just got messier. Nothing says \"trust us with your enterprise data\" like finding out you're getting less bang for your buck without asking permission first.",
+        "date": "2026-11-27T11:40:30.286768+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "How job hunting became an expensive cash suck",
-        "url": "https://www.fastcompany.com/91648589/how-job-hunting-became-an-expensive-cash-suck?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Screen time got your brain fried? Try a \u2018brain stack\u2019",
+        "url": "https://www.fastcompany.com/91648582/screen-time-got-your-brain-fried-try-a-brain-stack?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "There\u2019s an expense that\u2019s easy to overlook when talking about the cost of living: getting and keeping a job. We tend to think of work as the thing that pays the bills, but commuting and the other cost",
-        "dwp_take": "Job hunting and employment are now carrying hidden costs that eat into worker paychecks before they even start, from commuting to interview prep to relocation fees. This matters because it's creating a silent barrier to employment, particularly for lower-income workers who can't absorb these upfront expenses, and it's something most organizations completely ignore when talking about \"accessible\" hiring. The irony is that companies complaining about talent shortages haven't considered that some people literally can't afford to work for them anymore.",
-        "date": "2026-11-26T11:47:26.526081+00:00"
+        "excerpt": "Every few months, like clockwork, a new analog trend emerges in an effort to get us all off our phones. . .and of course, document the process for social media. The latest is \u201cbrain stacking\u201d: keeping",
+        "dwp_take": "Some folks are literally stacking analog activities next to their desks as a physical barrier against phone addiction. This matters because if your workforce is constantly context-switching between Slack, email, and TikTok, productivity tanks and nobody's actually thinking deeply anymore. Look, I'm all for reducing screen time, but let's be honest: the real problem isn't the stack of books collecting dust, it's that your company culture rewards hyperresponsiveness over actual work.",
+        "date": "2026-11-27T11:40:34.299312+00:00"
       },
       {
-        "title": "Why employees are \u2018habit hugging\u2019 at work",
-        "url": "https://www.fastcompany.com/91648586/why-employees-are-habit-hugging-at-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Workers hoard AI knowledge to stay competitive, Anthropic report says",
+        "url": "https://www.fastcompany.com/91649055/workers-hoard-ai-knowledge-to-stay-competitive-anthropic-report-says?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "If you\u2019re prone to hanging on to the way things always used to be done at work, you might be \u201chabit hugging.\u201d It\u2019s where employees hold on to familiar routines even after new tools and processes have ",
-        "dwp_take": "Employees are sticking with old work habits even after new tools and processes roll out, a phenomenon researchers are calling \"habit hugging.\" This matters because it explains why your expensive new collaboration platform sits unused while people email spreadsheets around like it's 2003. The real insight here isn't that change is hard, it's that most organizations introduce new tools without actually addressing the underlying anxiety and loss of control employees feel, so of course they hug their old habits like a security blanket.",
-        "date": "2026-11-26T11:47:30.147938+00:00"
+        "excerpt": "AI tools are becoming increasingly ubiquitous, but the best techniques for using them are likely still a secret. This is because workers who develop highly effective AI tricks have no incentive to sha",
+        "dwp_take": "Workers are keeping their best AI techniques to themselves instead of sharing them with colleagues because they see it as job security. This matters because it creates knowledge silos that tank productivity and make organizations waste money buying AI tools they can't actually use well. Here's the thing: if your workplace culture is so cutthroat that people hide what they know, you've already lost the game, because AI's real value comes from teams that share and iterate together.",
+        "date": "2026-11-27T11:40:38.015471+00:00"
       },
       {
-        "title": "Can potential clients find you using AI?",
-        "url": "https://www.fastcompany.com/91646444/can-potential-clients-find-you-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "6 tips to use this Thanksgiving when family asks about your career",
+        "url": "https://www.fastcompany.com/91648932/6-tips-use-thanksgiving-when-family-asks-about-your-career?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "A few months ago, I got a DM on LinkedIn from someone wanting to interview me for a feature she was writing. At the end of the interview, I asked her how she found me. She replied, \u201cChatGPT.\u201d If you\u2019r",
-        "dwp_take": "A journalist found a source for her Fast Company article by asking ChatGPT to recommend experts, which led to a LinkedIn DM. This matters because it shows how AI is fundamentally changing client discovery and lead generation, meaning your digital footprint now needs to be \"findable\" by algorithms, not just people. The real kicker is that most solopreneurs are still optimizing for Google when they should be worried about whether ChatGPT even knows they exist.",
-        "date": "2026-11-26T11:47:33.857377+00:00"
+        "excerpt": "Evan Reece has a few strategies for handling unwelcome questions about his career when he gathers with family. He founded and ran a ski lift ticket platform for 15 years, but it went out of business d",
+        "dwp_take": "Fast Company published career advice for handling awkward family questions about work, using an entrepreneur who lost his ski ticket business in the pandemic and now runs a solo career platform that pays less than his old gig. This matters because digital workplace professionals deal with constant career pivots, layoffs, and income shifts these days, and having a framework for talking about it without defensiveness helps. Here's the thing though: if you need tips to explain your job to your relatives, maybe the real issue is that the work itself isn't giving you the confidence to do it naturally.",
+        "date": "2026-11-27T11:40:41.975964+00:00"
       },
       {
-        "title": "Some people don\u2019t use AI at work\u2014and feel judged for it",
-        "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-        "source": "Fast Company",
+        "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+        "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+        "source": "Wired",
         "category": "digital-culture",
-        "excerpt": "New workplace fear unlocked\u2014and it\u2019s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party. As companies continue to invest billions in their AI st",
-        "dwp_take": "Companies are creating a new workplace anxiety where employees worry about being judged for not using AI enough, with nearly half of workers expressing this concern according to a recent LSE report. This matters because it signals that digital workplace leaders are failing at change management, pushing technology adoption without building the culture and psychological safety needed for people to actually embrace it. The irony is delicious: we're supposed to be making work more human with AI, but instead we're just adding another reason for people to feel like they're not measuring up.",
-        "date": "2026-11-26T11:47:37.633178+00:00"
+        "excerpt": "The FCA warned against \u201canother force of attack\u201d from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+        "dwp_take": "Meta declined to let the UK's Financial Conduct Authority test its new Muse AI agent before launch, which prompted the regulator to complain about being shut out of the process. This matters because digital workplace tools handling financial information need independent security vetting, and when vendors skip that step, it creates real compliance headaches for enterprises in regulated industries. After thirty years watching tech companies move fast and break things, I'd say Meta's move is either arrogant or desperate, and neither one builds the trust you need when you're asking people to let AI handle their money.",
+        "date": "2026-11-27T11:40:46.412052+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "Nvidia 621.40 Targets SSD-Writing Bug: Which GPUs Are Affected?",
-        "url": "https://www.techrepublic.com/article/news-nvidia-621-40-ssd-write-bug-fix-affected-gpus/",
+        "title": "XPENG\u2019s WorldGPT: One AI Model for Cars, Robots, and Drones",
+        "url": "https://www.techrepublic.com/article/news-xpeng-worldgpt-physical-ai-apac-china/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Nvidia's 621.40 driver includes another fix for excessive SSD writes after its earlier hotfix left some users reporting problems. Here's which GPUs have reports and how to check your system. The post ",
-        "dwp_take": "Nvidia released driver 621.40 to fix an SSD-writing bug that was hammering storage drives, following an earlier hotfix that apparently made things worse for some users. If your organization runs GPU-heavy workloads for AI, rendering, or data processing, driver stability directly impacts your infrastructure costs and uptime, so this matters. Nothing says \"we fixed it\" quite like needing two attempts to solve the same problem, but at least they're persistent.",
-        "date": "2026-11-26T11:47:41.376632+00:00"
+        "excerpt": "XPENG\u2019s WorldGPT learns from six types of machines, including cars and drones. See what its benchmarks show and what businesses should test before deployment. The post XPENG\u2019s WorldGPT: One AI Model f",
+        "dwp_take": "XPENG developed WorldGPT, a single AI model that learns from six different machine types including cars, robots, and drones to handle multiple applications. This matters to digital workplace folks because unified AI models reduce infrastructure complexity and maintenance headaches across your organization's growing fleet of autonomous systems. The real question is whether one model that does everything actually does anything well, or if we're just swapping specialized problems for one giant generalized headache.",
+        "date": "2026-11-27T11:40:50.106585+00:00"
       },
       {
-        "title": "Google Search Can Now Access Your Wallet Data: How Personal Intelligence Works",
-        "url": "https://www.techrepublic.com/article/news-google-search-wallet-data-personal-intelligence/",
+        "title": "New York\u2019s AI Chatbot Toy Ban: Which Toys Are Covered",
+        "url": "https://www.techrepublic.com/article/news-new-york-ai-chatbot-toy-ban/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Google Search can now use connected Wallet data to personalize financial advice. Here's how to enable the feature, what Google does with your information, and which privacy settings to review. The pos",
-        "dwp_take": "Google Search is now tapping into your Wallet data to serve up personalized financial advice, which means the search giant wants deeper access to your personal transaction history. For digital workplace pros, this matters because employees using Google Workspace need to understand what data they're exposing and how it flows through their organization's tech stack, especially if compliance and data governance are part of their job. Personally, I'm waiting for the day Google offers to just manage my finances directly because apparently asking permission feels so 2015.",
-        "date": "2026-11-26T11:47:45.276524+00:00"
+        "excerpt": "New York\u2019s five-year ban on toys with AI companions starts Feb. 22, 2027. See which toys are covered and what the law means for retailers and toy makers. The post New York\u2019s AI Chatbot Toy Ban: Which ",
+        "dwp_take": "New York is banning AI companion toys starting February 2027, which will restrict certain products from being sold in the state for five years. For digital workplace professionals, this signals that regulatory scrutiny around AI is intensifying and companies need to start auditing their AI implementations now rather than waiting for federal guidance. Here's the kicker: if toy makers are getting slapped with restrictions, your enterprise AI tools are definitely in regulators' sights too, so maybe don't wait until 2027 to have that governance conversation.",
+        "date": "2026-11-27T11:40:54.037178+00:00"
       },
       {
-        "title": "Claude Turns Artifacts Into Desktop Apps: What Changes on Mac and Windows",
-        "url": "https://www.techrepublic.com/article/news-claude-artifacts-desktop-apps/",
+        "title": "Fake Roblox Cheats Can Steal Passwords and Browser Sessions",
+        "url": "https://www.techrepublic.com/article/news-fake-roblox-cheats-malware/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Claude can turn artifacts into Mac and Windows apps. Learn what permissions they can request, what IT can control, and how to run a pilot with limited access. The post Claude Turns Artifacts Into Desk",
-        "dwp_take": "Anthropic's Claude can now package AI-generated code artifacts directly into standalone desktop applications for Mac and Windows, with granular permission controls that let IT teams manage what these apps can access. This matters because it collapses the gap between AI experimentation and actual tool deployment, meaning your users might start building and distributing custom applications without traditional software governance workflows. The real question isn't whether this is cool (it is), but whether your IT team is ready for employees to become accidental software publishers.",
-        "date": "2026-11-26T11:47:49.046999+00:00"
+        "excerpt": "Fake Roblox cheat downloads can steal passwords and browser sessions. Here\u2019s what Windows users and IT teams should do if someone runs a fake installer. The post Fake Roblox Cheats Can Steal Passwords",
+        "dwp_take": "Fake Roblox cheat downloads are tricking users into installing malware that harvests passwords and hijacks browser sessions. This matters because your employees aren't just gaming on company time, they're potentially giving attackers backdoor access to work systems and credentials if they're reusing passwords across personal and professional accounts. Here's the real kicker: IT teams spend all year locking down the front door while users are gleefully opening the back door themselves because they want unlimited Robux.",
+        "date": "2026-11-27T11:40:57.805054+00:00"
       },
       {
-        "title": "Huawei Mate X8: Price, Release Dates and Specs",
-        "url": "https://www.techrepublic.com/article/news-huawei-mate-x8-price-specs-apac-china/",
+        "title": "Anthropic Launches Claude Ship to Review, Fix and Approve GitHub Pull Requests",
+        "url": "https://www.techrepublic.com/article/news-anthropic-claude-ship-github-pull-requests/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "The Huawei Mate X8 starts at CNY 12,999 in China. Compare release dates, specs and the Collector\u2019s Edition, plus what to check before importing. The post Huawei Mate X8: Price, Release Dates and Specs",
-        "dwp_take": "Huawei announced the Mate X8 foldable phone starting at around 1,800 USD in China with various spec options and a special Collector's Edition. For digital workplace folks, this matters because foldables are finally becoming practical devices for real work instead of novelty items, which changes how we think about mobile productivity on the road. Honestly, if your company's still worried about foldables being \"gimmicks,\" you're about five years behind where the hardware conversation actually is.",
-        "date": "2026-11-26T11:47:52.901126+00:00"
+        "excerpt": "Anthropic's Claude Ship brings AI-powered reviews, fixes, and approvals to GitHub pull requests. Here's how its three agents work, what they cost, and where human reviewers remain essential. The post ",
+        "dwp_take": "Anthropic released Claude Ship, an AI tool that automates GitHub pull request reviews, fixes code issues, and approves changes using three different agents. This matters to digital workplace teams because it could speed up development cycles and reduce bottlenecks caused by human code review delays. That said, anyone who thinks this replaces actual engineers hasn't spent much time in the real world where context, business logic, and architectural decisions matter way more than syntax checking.",
+        "date": "2026-11-27T11:41:01.168461+00:00"
       }
     ]
   }
