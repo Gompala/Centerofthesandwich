@@ -1,129 +1,129 @@
 {
-  "generated": "2026-11-27T11:41:01.168555+00:00",
+  "generated": "2026-11-28T11:16:03.812322+00:00",
   "categories": {
     "ai-at-work": [
       {
-        "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
-        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-        "source": "TechCrunch",
-        "category": "ai-at-work",
-        "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-        "dwp_take": "Rockstar Games' GTA VI launched as a cultural juggernaut while Anthropic went public, with the game succeeding precisely because humans took years crafting intricate details rather than rushing to market with AI efficiency. This matters to digital workplace folks because it's a reminder that some things genuinely require the messy, time-consuming work of actual human creativity and judgment, not just faster automation. We've spent so long optimizing for speed that we forgot the best experiences often come from people who refused to cut corners, which is maybe the most punk rock thing about a game involving grand theft and chaos.",
-        "date": "2026-11-27T11:40:12.806601+00:00"
-      },
-      {
-        "title": "SAP reportedly plans to lay off 10,000+ employees amid AI push",
-        "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+        "title": "Hackers reportedly breach key US Air Force cloud platform",
+        "url": "https://siliconangle.com/2026/11/27/hackers-reportedly-breach-key-us-air-force-cloud-platform/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Enterprise software giant SAP SE is reportedly planning to lay off at least 10,000 employees, or more than 9% of its workforce. Bloomberg today cited sources as saying that the scope of the restructur",
-        "dwp_take": "SAP is cutting over 10,000 jobs (9% of staff) while simultaneously pivoting hard into AI development. This matters because SAP is a cornerstone platform for enterprise workflows everywhere, so leadership upheaval and shifting R&D priorities will ripple through countless organizations relying on their tools. Here's the irony: they're laying off people to fund AI that'll supposedly make workers more productive, which is like burning down your house to test a new thermostat.",
-        "date": "2026-11-27T11:40:17.625739+00:00"
+        "excerpt": "Hackers have reportedly breached Cloud One, a platform that the U.S. Air Force uses to power dozens of internal applications. Reuters broke the news today, citing three people familiar with the matter",
+        "dwp_take": "Hackers broke into Cloud One, the Air Force's internal cloud platform that runs dozens of mission-critical applications, potentially exposing sensitive data across multiple systems. For digital workplace leaders, this is a wake-up call that even government-grade security doesn't guarantee safety when you're managing complex cloud infrastructure at scale. After thirty years in this space, I'll say it plainly: if the Air Force can get breached, your company's cloud setup is worth auditing today, not next quarter.",
+        "date": "2026-11-28T11:15:14.101311+00:00"
       },
       {
-        "title": "Wireless networking chip startup Altair nabs $100M investment",
-        "url": "https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/",
+        "title": "New York bans AI toys amid concern after stuffed animals going rogue",
+        "url": "https://siliconangle.com/2026/11/25/new-york-bans-ai-toys-amid-concern-after-stuffed-animals-going-rogue/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "Altair Semiconductor Ltd., a supplier of wireless networking chips for connected devices, today announced that it has raised $100 million in funding. Maverick Silicon led the Series A round. It was re",
-        "dwp_take": "Altair Semiconductor just raised $100 million to build wireless chips for connected devices, with Maverick Silicon leading the round and Pitango doubling down on its earlier investment after the company spun out of Sony. This matters because workplace devices need reliable connectivity, and new chip tech directly impacts whether your video calls drop and your collaboration tools actually respond when you need them. Here's the thing though: another wireless chip company getting funded is great, but what really counts is whether these chips actually make our networks less temperamental than they currently are, and I'll believe that when I see it working consistently across a Monday morning.",
-        "date": "2026-11-27T11:40:21.740626+00:00"
+        "excerpt": "New York Governor Kathy Hochul today signed legislation that will impose a five-year ban on children\u2019s toys powered by artificial intelligence chatbots, amid fears that dolls, robots and stuffed anima",
+        "dwp_take": "New York just banned AI-powered children's toys for five years because chatbot-enabled dolls and stuffed animals were having inappropriate conversations with kids. This matters to digital workplace folks because it signals regulators are finally getting serious about guardrails on AI before deployment, which is a conversation enterprises should be having before rolling out their own AI tools. Turns out \"my AI learned it from the internet\" is not actually a defense when your daughter's teddy bear starts explaining OnlyFans.",
+        "date": "2026-11-28T11:15:17.698640+00:00"
       },
       {
-        "title": "Your AI agents can be fully authorized and still do damage",
-        "url": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+        "title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+        "url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
         "source": "SiliconAngle",
         "category": "ai-at-work",
-        "excerpt": "For as long as we\u2019ve had enterprise security, it\u2019s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question. The intern",
-        "dwp_take": "Here's my take:\n\nThe article explains that traditional security models built on \"who can do what\" fall apart with AI agents because authorization alone doesn't prevent damage when those agents operate at scale and speed humans can't monitor. This matters because most organizations are deploying AI tools into their workflows right now while still using 20-year-old permission frameworks that treat a human clicking a button the same as an AI making a thousand decisions per second. The irony is we've spent decades perfecting access controls only to discover they're security theater once you plug in something that doesn't get tired, doesn't ask questions, and operates faster than your audit log can record.",
-        "date": "2026-11-27T11:40:26.024010+00:00"
+        "excerpt": "Artificial intelligence developer ElevenLabs Inc. is reportedly in early talks to raise capital at a $33 billion valuation. Bloomberg today cited sources as saying that the company plans to close the ",
+        "dwp_take": "ElevenLabs, a voice AI startup, is raising funding at a $33 billion valuation with plans to close in early 2027, though some investors want it sooner. This matters to digital workplace folks because voice AI is quietly becoming table stakes for accessibility, meeting transcription, and employee communication tools that companies are now expected to integrate. At $33 billion for a text-to-speech company, we've officially entered the phase where investors will fund literally anything with \"AI\" attached, which is both exciting for innovation and deeply concerning for anyone who remembers the last bubble.",
+        "date": "2026-11-28T11:15:21.673421+00:00"
       }
     ],
     "tools-tech": [
       {
-        "title": "OpenAI\u2019s GPT\u20116.2 correction means you get less AI for the same fee",
-        "url": "https://www.computerworld.com/article/4253890/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee-2.html",
+        "title": "1Password data breach included some customer info, internal source code",
+        "url": "https://www.computerworld.com/article/4254145/1password-data-breach-included-some-customer-info-internal-source-code-2.html",
         "source": "Computerworld",
         "category": "tools-tech",
-        "excerpt": "OpenAI has corrected a billing error that undercounted usage of its GPT-6.2 Astra and Sol models, warning customers that the same workloads will now consume more of their subscription allowances and c",
-        "dwp_take": "OpenAI quietly corrected a billing glitch on GPT-6.2 that means your tokens now cost more, with some workloads burning through your monthly allowance 40% faster than you thought they were. This matters because workplace AI spend is suddenly becoming a lot less predictable, and those budget forecasts your CFO signed off on just got messier. Nothing says \"trust us with your enterprise data\" like finding out you're getting less bang for your buck without asking permission first.",
-        "date": "2026-11-27T11:40:30.286768+00:00"
+        "excerpt": "1Password is reassuring customers that their password vaults are safe after the theft of both account records for a subset of its users and source code from its private repositories. The company said ",
+        "dwp_take": "A 1Password employee's GitHub account got compromised, leading attackers to grab some customer account records and internal source code, though the company says actual password vaults stayed locked down. This matters because password managers are the foundation of your security posture, and when they get breached it creates immediate panic and a trust crisis that takes years to recover from. Here's the thing though: even with solid encryption protecting the vaults, the fact that attackers got their hands on the source code means security researchers worldwide are now looking for exploitable patterns, which is exactly the kind of gift you don't want hackers unwrapping.",
+        "date": "2026-11-28T11:15:27.341012+00:00"
+      },
+      {
+        "title": "Why SAP\u2019s second 10,000-job overhaul in two years matters to CIOs",
+        "url": "https://www.computerworld.com/article/4253982/why-saps-second-10000-job-overhaul-in-two-years-matters-to-cios-2.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "When SAP restructured roughly 10,000 roles in 2024, executives framed the move as a workforce transformation designed to prepare the company for cloud computing and AI. Two years later, SAP is reporte",
+        "dwp_take": "SAP is reportedly cutting another 10,000 jobs after doing essentially the same thing two years ago, which suggests their first \"transformation\" either didn't stick or didn't work as planned. For CIOs watching their own vendors, this matters because it signals potential instability in product roadmaps, support quality, and long-term viability of your SAP investments. Here's the thing: when a software giant reshuffles 20,000 people in 24 months, they're not transforming workforce skills, they're admitting their strategy failed the first time around.",
+        "date": "2026-11-28T11:15:31.156370+00:00"
+      },
+      {
+        "title": "Microsoft 365 Backup retention period extended to ten years",
+        "url": "https://www.computerworld.com/article/4254127/microsoft-365-backup-extends-retention-period-from-two-to-ten-years.html",
+        "source": "Computerworld",
+        "category": "tools-tech",
+        "excerpt": "Microsoft has extended the recovery window for its Microsoft 365 Backup service from two to ten years, according to The Register. The change applies to OneDrive and SharePoint. The recovery window for",
+        "dwp_take": "Microsoft extended the backup retention window for Microsoft 365 from two years to ten years for OneDrive and SharePoint, though Exchange stays stuck at two years. This matters because compliance officers and IT teams finally have a real answer when executives ask \"what if someone deleted something important three years ago?\" and it removes the pressure to build expensive third-party backup solutions just for basic retention. Honestly, it's about time, though I'm guessing the Exchange limitation exists because someone in Redmond is still figuring out how to make it work without melting a server farm.",
+        "date": "2026-11-28T11:15:35.097427+00:00"
       }
     ],
     "digital-culture": [
       {
-        "title": "Screen time got your brain fried? Try a \u2018brain stack\u2019",
-        "url": "https://www.fastcompany.com/91648582/screen-time-got-your-brain-fried-try-a-brain-stack?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Would you return to a job that tried to replace you with AI?",
+        "url": "https://www.fastcompany.com/91648597/would-you-return-to-a-job-that-tried-to-replace-you-with-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Every few months, like clockwork, a new analog trend emerges in an effort to get us all off our phones. . .and of course, document the process for social media. The latest is \u201cbrain stacking\u201d: keeping",
-        "dwp_take": "Some folks are literally stacking analog activities next to their desks as a physical barrier against phone addiction. This matters because if your workforce is constantly context-switching between Slack, email, and TikTok, productivity tanks and nobody's actually thinking deeply anymore. Look, I'm all for reducing screen time, but let's be honest: the real problem isn't the stack of books collecting dust, it's that your company culture rewards hyperresponsiveness over actual work.",
-        "date": "2026-11-27T11:40:34.299312+00:00"
+        "excerpt": "What would you do if the company that tried to replace you with AI wanted to hire you back? For many, the question isn\u2019t hypothetical. Research finds that 55% of employers regretted their decision to ",
+        "dwp_take": "A new study reveals that 55% of companies that laid off workers to deploy AI are now regretting it and apparently want those people back. This matters because it proves what experienced digital workplace leaders already knew: AI isn't a plug-and-play replacement for human judgment, relationships, and actual work quality. If your company fired you to save money on AI and is now calling with hat in hand, feel free to ask what that severance package is going to look like this time around.",
+        "date": "2026-11-28T11:15:39.006781+00:00"
       },
       {
-        "title": "Workers hoard AI knowledge to stay competitive, Anthropic report says",
-        "url": "https://www.fastcompany.com/91649055/workers-hoard-ai-knowledge-to-stay-competitive-anthropic-report-says?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "Screwed up at work? Here\u2019s how to learn from your mistake without overcorrecting",
+        "url": "https://www.fastcompany.com/91648424/screwed-up-at-work-heres-how-to-learn-from-your-mistake-without-overcorrecting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "AI tools are becoming increasingly ubiquitous, but the best techniques for using them are likely still a secret. This is because workers who develop highly effective AI tricks have no incentive to sha",
-        "dwp_take": "Workers are keeping their best AI techniques to themselves instead of sharing them with colleagues because they see it as job security. This matters because it creates knowledge silos that tank productivity and make organizations waste money buying AI tools they can't actually use well. Here's the thing: if your workplace culture is so cutthroat that people hide what they know, you've already lost the game, because AI's real value comes from teams that share and iterate together.",
-        "date": "2026-11-27T11:40:38.015471+00:00"
+        "excerpt": "Part of what separates great leaders and employees from merely good ones is the ability to learn effectively from mistakes. Often, we talk about learning from mistakes as if most people don\u2019t. But whi",
+        "dwp_take": "Fast Company ran a piece about how overcorrecting after mistakes can be just as damaging as ignoring them entirely. This matters to digital workplace pros because we're constantly implementing new tools, processes, and policies, and it's easy to swing from one extreme to another based on one bad experience. The real skill isn't perfection\u2014it's knowing when you've learned the actual lesson versus when you're just trauma-responding to something that probably won't happen the same way twice.",
+        "date": "2026-11-28T11:15:42.530013+00:00"
       },
       {
-        "title": "6 tips to use this Thanksgiving when family asks about your career",
-        "url": "https://www.fastcompany.com/91648932/6-tips-use-thanksgiving-when-family-asks-about-your-career?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "title": "How to protect your retirement savings if the AI bubble bursts",
+        "url": "https://www.fastcompany.com/91647646/retirement-savings-ai-bubble-bursts?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
         "source": "Fast Company",
         "category": "digital-culture",
-        "excerpt": "Evan Reece has a few strategies for handling unwelcome questions about his career when he gathers with family. He founded and ran a ski lift ticket platform for 15 years, but it went out of business d",
-        "dwp_take": "Fast Company published career advice for handling awkward family questions about work, using an entrepreneur who lost his ski ticket business in the pandemic and now runs a solo career platform that pays less than his old gig. This matters because digital workplace professionals deal with constant career pivots, layoffs, and income shifts these days, and having a framework for talking about it without defensiveness helps. Here's the thing though: if you need tips to explain your job to your relatives, maybe the real issue is that the work itself isn't giving you the confidence to do it naturally.",
-        "date": "2026-11-27T11:40:41.975964+00:00"
-      },
-      {
-        "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-        "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-        "source": "Wired",
-        "category": "digital-culture",
-        "excerpt": "The FCA warned against \u201canother force of attack\u201d from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
-        "dwp_take": "Meta declined to let the UK's Financial Conduct Authority test its new Muse AI agent before launch, which prompted the regulator to complain about being shut out of the process. This matters because digital workplace tools handling financial information need independent security vetting, and when vendors skip that step, it creates real compliance headaches for enterprises in regulated industries. After thirty years watching tech companies move fast and break things, I'd say Meta's move is either arrogant or desperate, and neither one builds the trust you need when you're asking people to let AI handle their money.",
-        "date": "2026-11-27T11:40:46.412052+00:00"
+        "excerpt": "After stock markets, including the tech-heavy NASDAQ, got pummeled on Nov. 20, 2026, many Americans are asking themselves whether the huge bet on artificial intelligence is heading south. While market",
+        "dwp_take": "Fast Company ran a piece about market volatility in late 2026 when tech stocks took a hit, leaving investors worried about whether the AI boom was actually sustainable. This matters to digital workplace folks because a lot of us have retirement accounts stuffed with tech and AI company stocks, and workplace benefits teams are suddenly fielding panicked questions about portfolio risk. Here's the real talk: if your retirement plan depends entirely on betting that every AI startup becomes the next Microsoft, you might want to have a conversation with an actual financial advisor instead of refreshing your stock ticker at your desk.",
+        "date": "2026-11-28T11:15:46.470153+00:00"
       }
     ],
     "industry-news": [
       {
-        "title": "XPENG\u2019s WorldGPT: One AI Model for Cars, Robots, and Drones",
-        "url": "https://www.techrepublic.com/article/news-xpeng-worldgpt-physical-ai-apac-china/",
+        "title": "OpenAI Combines ChatGPT and Codex Usage Limits: What Changes for Paid Users",
+        "url": "https://www.techrepublic.com/article/chatgpt-codex-shared-usage-limits/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "XPENG\u2019s WorldGPT learns from six types of machines, including cars and drones. See what its benchmarks show and what businesses should test before deployment. The post XPENG\u2019s WorldGPT: One AI Model f",
-        "dwp_take": "XPENG developed WorldGPT, a single AI model that learns from six different machine types including cars, robots, and drones to handle multiple applications. This matters to digital workplace folks because unified AI models reduce infrastructure complexity and maintenance headaches across your organization's growing fleet of autonomous systems. The real question is whether one model that does everything actually does anything well, or if we're just swapping specialized problems for one giant generalized headache.",
-        "date": "2026-11-27T11:40:50.106585+00:00"
+        "excerpt": "ChatGPT and Codex will share a usage allowance on Plus, Pro, and Business starting in December. See what counts, where to check usage, and what happens at the limit. The post OpenAI Combines ChatGPT a",
+        "dwp_take": "OpenAI is combining ChatGPT and Codex into a shared usage pool for paid subscribers starting in December, so you won't have separate limits anymore. This matters because plenty of knowledge workers are already baking these tools into their daily workflows, and suddenly hitting a combined ceiling could disrupt productivity just when people are getting comfortable with AI assistance. Here's the thing though: this move screams that OpenAI is still figuring out how to monetize without annoying power users, which is basically the entire plot of every SaaS company in 2024.",
+        "date": "2026-11-28T11:15:52.135597+00:00"
       },
       {
-        "title": "New York\u2019s AI Chatbot Toy Ban: Which Toys Are Covered",
-        "url": "https://www.techrepublic.com/article/news-new-york-ai-chatbot-toy-ban/",
+        "title": "X Rolls Out Parental Controls for Teens: How Account Linking Works",
+        "url": "https://www.techrepublic.com/article/news-x-parental-controls-teens/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "New York\u2019s five-year ban on toys with AI companions starts Feb. 22, 2027. See which toys are covered and what the law means for retailers and toy makers. The post New York\u2019s AI Chatbot Toy Ban: Which ",
-        "dwp_take": "New York is banning AI companion toys starting February 2027, which will restrict certain products from being sold in the state for five years. For digital workplace professionals, this signals that regulatory scrutiny around AI is intensifying and companies need to start auditing their AI implementations now rather than waiting for federal guidance. Here's the kicker: if toy makers are getting slapped with restrictions, your enterprise AI tools are definitely in regulators' sights too, so maybe don't wait until 2027 to have that governance conversation.",
-        "date": "2026-11-27T11:40:54.037178+00:00"
+        "excerpt": "X is rolling out parental controls for teens ages 13 to 17. See how families can link accounts, set daily time limits, and manage followers and messages. The post X Rolls Out Parental Controls for Tee",
+        "dwp_take": "X is letting parents link their accounts to their teens' accounts and control daily usage limits, followers, and messaging. This matters because workplace communicators increasingly need to understand how social platforms shape employee behavior and communication norms, especially as Gen Z enters the workforce with different digital habits shaped by these controls. Honestly, it's refreshing to see a platform finally admit that unlimited scroll access for 13-year-olds might not be ideal, though it only took them about fifteen years too long.",
+        "date": "2026-11-28T11:15:55.845518+00:00"
       },
       {
-        "title": "Fake Roblox Cheats Can Steal Passwords and Browser Sessions",
-        "url": "https://www.techrepublic.com/article/news-fake-roblox-cheats-malware/",
+        "title": "Google Humanity\u2019s First Exam AI Benchmark Explained",
+        "url": "https://www.techrepublic.com/article/news-google-humanitys-first-exam-ai-benchmark/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Fake Roblox cheat downloads can steal passwords and browser sessions. Here\u2019s what Windows users and IT teams should do if someone runs a fake installer. The post Fake Roblox Cheats Can Steal Passwords",
-        "dwp_take": "Fake Roblox cheat downloads are tricking users into installing malware that harvests passwords and hijacks browser sessions. This matters because your employees aren't just gaming on company time, they're potentially giving attackers backdoor access to work systems and credentials if they're reusing passwords across personal and professional accounts. Here's the real kicker: IT teams spend all year locking down the front door while users are gleefully opening the back door themselves because they want unlimited Robux.",
-        "date": "2026-11-27T11:40:57.805054+00:00"
+        "excerpt": "Google DeepMind's Humanity's First Exam measures whether AI models consistently answer simple questions. Its first results reveal reliability gaps that single-answer accuracy can conceal. The post Goo",
+        "dwp_take": "Google DeepMind created a benchmark called Humanity's First Exam that tests whether AI models can reliably answer straightforward questions, and early results show consistency problems that standard accuracy metrics miss. This matters to digital workplace pros because we're already deploying AI tools for knowledge work, training, and decision support, so understanding where these systems fail silently is critical before they mess up something important. Here's the thing: we've been getting drunk on AI accuracy numbers, but if your chatbot gives you the right answer 95 percent of the time and confidently lies the other five percent, you've got a 95 percent confidence problem, not a success story.",
+        "date": "2026-11-28T11:16:00.037551+00:00"
       },
       {
-        "title": "Anthropic Launches Claude Ship to Review, Fix and Approve GitHub Pull Requests",
-        "url": "https://www.techrepublic.com/article/news-anthropic-claude-ship-github-pull-requests/",
+        "title": "This Week in Tech: Gemini Makes the Call, Nvidia Brings Back Huang, and Tidal Bans AI Tracks",
+        "url": "https://www.techrepublic.com/article/this-week-in-tech-gemini-makes-the-call-nvidia-brings-back-huang-and-tidal-bans-ai-tracks/",
         "source": "TechRepublic",
         "category": "industry-news",
-        "excerpt": "Anthropic's Claude Ship brings AI-powered reviews, fixes, and approvals to GitHub pull requests. Here's how its three agents work, what they cost, and where human reviewers remain essential. The post ",
-        "dwp_take": "Anthropic released Claude Ship, an AI tool that automates GitHub pull request reviews, fixes code issues, and approves changes using three different agents. This matters to digital workplace teams because it could speed up development cycles and reduce bottlenecks caused by human code review delays. That said, anyone who thinks this replaces actual engineers hasn't spent much time in the real world where context, business logic, and architectural decisions matter way more than syntax checking.",
-        "date": "2026-11-27T11:41:01.168461+00:00"
+        "excerpt": "See what you missed in Daily Tech Insider from Nov. 23\u201327. The post This Week in Tech: Gemini Makes the Call, Nvidia Brings Back Huang, and Tidal Bans AI Tracks appeared first on TechRepublic.",
+        "dwp_take": "Google's Gemini AI is now making phone calls, Nvidia's Jensen Huang is back in the spotlight, and Tidal is blocking AI-generated music from its platform. This matters because AI capabilities are moving into real-time communication while the music industry is pushing back against AI content, creating a messy landscape for companies trying to build enterprise tools. Here's the thing: your workplace is about to get a lot more automated conversations, which is great for efficiency until someone realizes the AI scheduled a meeting during everyone's lunch break.",
+        "date": "2026-11-28T11:16:03.812206+00:00"
       }
     ]
   }
